@@ -2485,348 +2485,350 @@ msgctxt "formsettingsunit.rshotkeys"
 msgid "Hotkeys"
 msgstr "热键"
 
-#: formsettingsunit.rsidle
-msgctxt "formsettingsunit.rsidle"
-msgid "Idle"
-msgstr ""
+#: formsettingsunit.rsidle  
+msgctxt "formsettingsunit.rsidle"  
+msgid "Idle"  
+msgstr "空闲"  
 
-#: formsettingsunit.rsincreasedvalue
-msgid "Increased Value"
-msgstr ""
+#: formsettingsunit.rsincreasedvalue  
+msgid "Increased Value"  
+msgstr "增加值"  
 
-#: formsettingsunit.rsinvalidsymbolsynctimer
-msgid "The provided value for the symbol sync timer is invalid"
-msgstr ""
+#: formsettingsunit.rsinvalidsymbolsynctimer  
+msgid "The provided value for the symbol sync timer is invalid"  
+msgstr "提供的符号同步计时器值无效"  
 
-#: formsettingsunit.rsisnotavalidinterval
-#, object-pascal-format
-msgid "%s is not a valid interval"
-msgstr ""
+#: formsettingsunit.rsisnotavalidinterval  
+#, object-pascal-format  
+msgid "%s is not a valid interval"  
+msgstr "%s 不是有效的时间间隔"  
 
-#: formsettingsunit.rslanguages
-msgctxt "formsettingsunit.rslanguages"
-msgid "Languages"
-msgstr ""
+#: formsettingsunit.rslanguages  
+msgctxt "formsettingsunit.rslanguages"  
+msgid "Languages"  
+msgstr "语言"  
 
-#: formsettingsunit.rslower
-msgctxt "formsettingsunit.rslower"
-msgid "Lower"
-msgstr ""
+#: formsettingsunit.rslower  
+msgctxt "formsettingsunit.rslower"  
+msgid "Lower"  
+msgstr "更低"  
 
-#: formsettingsunit.rslowest
-msgctxt "formsettingsunit.rslowest"
-msgid "Lowest"
-msgstr ""
+#: formsettingsunit.rslowest  
+msgctxt "formsettingsunit.rslowest"  
+msgid "Lowest"  
+msgstr "最低"  
 
-#: formsettingsunit.rsluaoptions
-msgctxt "formsettingsunit.rsluaoptions"
-msgid "Lua"
-msgstr ""
+#: formsettingsunit.rsluaoptions  
+msgctxt "formsettingsunit.rsluaoptions"  
+msgid "Lua"  
+msgstr "Lua设置"  
 
-#: formsettingsunit.rsnewlanguageset
-msgid "New language set"
-msgstr ""
+#: formsettingsunit.rsnewlanguageset  
+msgid "New language set"  
+msgstr "已设置新语言"  
 
-#: formsettingsunit.rsnextscan
-msgctxt "formsettingsunit.rsnextscan"
-msgid "Next Scan"
-msgstr ""
+#: formsettingsunit.rsnextscan  
+msgctxt "formsettingsunit.rsnextscan"  
+msgid "Next Scan"  
+msgstr "再次扫描"  
 
-#: formsettingsunit.rsnoname
-msgid "No Name"
-msgstr ""
+#: formsettingsunit.rsnoname  
+msgid "No Name"  
+msgstr "无名称"  
 
-#: formsettingsunit.rsnormal
-msgctxt "formsettingsunit.rsnormal"
-msgid "Normal"
-msgstr ""
+#: formsettingsunit.rsnormal  
+msgctxt "formsettingsunit.rsnormal"  
+msgid "Normal"  
+msgstr "普通"  
 
-#: formsettingsunit.rspausetheselectedprocess
-msgid "Pause the selected process"
-msgstr ""
+#: formsettingsunit.rspausetheselectedprocess  
+msgid "Pause the selected process"  
+msgstr "暂停选中的进程"  
 
-#: formsettingsunit.rspleasebootwithunsigneddriversallowedf8duringbootor
-msgid "Please boot with unsigned drivers allowed(F8 during boot), or sign the driver yourself"
-msgstr ""
+#: formsettingsunit.rspleasebootwithunsigneddriversallowedf8duringbootor  
+msgid "Please boot with unsigned drivers allowed(F8 during boot), or sign the driver yourself"  
+msgstr "请启用未签名驱动启动(启动时按F8)，或自行签署驱动"  
 
-#: formsettingsunit.rsplugins
-msgctxt "formsettingsunit.rsplugins"
-msgid "Plugins"
-msgstr ""
+#: formsettingsunit.rsplugins  
+msgctxt "formsettingsunit.rsplugins"  
+msgid "Plugins"  
+msgstr "插件"  
 
-#: formsettingsunit.rspopuphidecheatengine
-msgid "Popup/Hide Cheat Engine"
-msgstr ""
+#: formsettingsunit.rspopuphidecheatengine  
+msgid "Popup/Hide Cheat Engine"  
+msgstr "弹出/隐藏Cheat Engine"  
 
-#: formsettingsunit.rsrequiresdbvm
-msgid "(Requires DBVM)"
-msgstr ""
+#: formsettingsunit.rsrequiresdbvm  
+msgid "(Requires DBVM)"  
+msgstr "(需要DBVM)"  
 
-#: formsettingsunit.rsrestartce
-msgid "It is recommended to restart Cheat Engine for this change to take effect"
-msgstr ""
+#: formsettingsunit.rsrestartce  
+msgid "It is recommended to restart Cheat Engine for this change to take effect"  
+msgstr "建议重启Cheat Engine使此更改生效"  
 
-#: formsettingsunit.rsscansettings
-msgctxt "formsettingsunit.rsscansettings"
-msgid "Scan Settings"
-msgstr ""
+#: formsettingsunit.rsscansettings  
+msgctxt "formsettingsunit.rsscansettings"  
+msgid "Scan Settings"  
+msgstr "扫描设置"  
 
-#: formsettingsunit.rssigning
-msgid "Signing"
-msgstr ""
+#: formsettingsunit.rssigning  
+msgid "Signing"  
+msgstr "签名"  
 
-#: formsettingsunit.rsspectreregistrychanged
-msgid "The registry keys has been changed accordingly.  Reboot your system to make it take effect"
-msgstr ""
+#: formsettingsunit.rsspectreregistrychanged  
+msgid "The registry keys has been changed accordingly.  Reboot your system to make it take effect"  
+msgstr "已相应更改注册表项。请重启系统使更改生效"  
 
-#: formsettingsunit.rsspectrerestore
-msgid "Your protection has been restored. Please restart your system to make it take effect"
-msgstr ""
+#: formsettingsunit.rsspectrerestore  
+msgid "Your protection has been restored. Please restart your system to make it take effect"  
+msgstr "您的保护已恢复。请重启系统使更改生效"  
 
-#: formsettingsunit.rsspectrewarning
-msgid ""
-"WARNING! Making kernelmode possible will slightly increase the speed of your system, BUT it will make you vulnerable to Spectre attacks\n"
-"Are you ok with this? (You can later re-enable this protection)"
-msgstr ""
+#: formsettingsunit.rsspectrewarning  
+msgid ""  
+"WARNING! Making kernelmode possible will slightly increase the speed of your system, BUT it will make you vulnerable to Spectre attacks\n"  
+"Are you ok with this? (You can later re-enable this protection)"  
+msgstr ""  
+"警告！启用内核模式会略微提升系统速度，但会使您易受Spectre攻击\n"  
+"您确定要继续吗？(您可以稍后重新启用此保护)"  
 
-#: formsettingsunit.rsspeedhackspeed
-msgid "Speedhack speed"
-msgstr ""
+#: formsettingsunit.rsspeedhackspeed  
+msgid "Speedhack speed"  
+msgstr "变速器速度"  
 
-#: formsettingsunit.rssymbols
-msgctxt "formsettingsunit.rssymbols"
-msgid "Symbols"
-msgstr ""
+#: formsettingsunit.rssymbols  
+msgctxt "formsettingsunit.rssymbols"  
+msgid "Symbols"  
+msgstr "符号"  
 
-#: formsettingsunit.rstext
-msgctxt "formsettingsunit.rstext"
-msgid "Text"
-msgstr ""
+#: formsettingsunit.rstext  
+msgctxt "formsettingsunit.rstext"  
+msgid "Text"  
+msgstr "文本"  
 
-#: formsettingsunit.rsthescanbuffersizehastobegreaterthan0
-msgid "The scanbuffer size has to be greater than 0"
-msgstr ""
+#: formsettingsunit.rsthescanbuffersizehastobegreaterthan0  
+msgid "The scanbuffer size has to be greater than 0"  
+msgstr "扫描缓冲区大小必须大于0"  
 
-#: formsettingsunit.rsthevalueforthekeypollintervalisinvalid
-#, object-pascal-format
-msgid "the value for the keypoll interval (%s is invalid"
-msgstr ""
+#: formsettingsunit.rsthevalueforthekeypollintervalisinvalid  
+#, object-pascal-format  
+msgid "the value for the keypoll interval (%s is invalid"  
+msgstr "键盘轮询间隔值(%s)无效"  
 
-#: formsettingsunit.rsthevalueforthewaitbetweenhotkeypressesisinvalid
-#, object-pascal-format
-msgid "the value for the wait between hotkey presses (%s is invalid"
-msgstr ""
+#: formsettingsunit.rsthevalueforthewaitbetweenhotkeypressesisinvalid  
+#, object-pascal-format  
+msgid "the value for the wait between hotkey presses (%s is invalid"  
+msgstr "热键之间的等待时间值(%s)无效"  
 
-#: formsettingsunit.rsthispluginisalreadyloaded
-msgid "This plugin is already loaded"
-msgstr ""
+#: formsettingsunit.rsthispluginisalreadyloaded  
+msgid "This plugin is already loaded"  
+msgstr "此插件已加载"  
 
-#: formsettingsunit.rstimecritical
-msgctxt "formsettingsunit.rstimecritical"
-msgid "TimeCritical"
-msgstr ""
+#: formsettingsunit.rstimecritical  
+msgctxt "formsettingsunit.rstimecritical"  
+msgid "TimeCritical"  
+msgstr "时间关键"  
 
-#: formsettingsunit.rstogglebetweenfirstlastscancompare
-msgid "Toggle between first/last scan compare"
-msgstr ""
+#: formsettingsunit.rstogglebetweenfirstlastscancompare  
+msgid "Toggle between first/last scan compare"  
+msgstr "切换首次/末次扫描比较"  
 
-#: formsettingsunit.rstogglethespeedhack
-msgid "Toggle the speedhack"
-msgstr ""
+#: formsettingsunit.rstogglethespeedhack  
+msgid "Toggle the speedhack"  
+msgstr "切换变速器状态"  
 
-#: formsettingsunit.rstools
-msgctxt "formsettingsunit.rstools"
-msgid "Tools"
-msgstr ""
+#: formsettingsunit.rstools  
+msgctxt "formsettingsunit.rstools"  
+msgid "Tools"  
+msgstr "工具"  
 
-#: formsettingsunit.rsunchangedvalue
-msgid "Unchanged Value"
-msgstr ""
+#: formsettingsunit.rsunchangedvalue  
+msgid "Unchanged Value"  
+msgstr "未改变值"  
 
-#: formsettingsunit.rsundolastscan
-msgid "Undo last scan"
-msgstr ""
+#: formsettingsunit.rsundolastscan  
+msgid "Undo last scan"  
+msgstr "撤销上次扫描"  
 
-#: formsettingsunit.rsunknowninitialvalue
-msgid "Unknown Initial Value"
-msgstr ""
+#: formsettingsunit.rsunknowninitialvalue  
+msgid "Unknown Initial Value"  
+msgstr "未知初始值"  
 
-#: formsettingsunit.rsunrandomizer
-msgctxt "formsettingsunit.rsunrandomizer"
-msgid "Unrandomizer"
-msgstr ""
+#: formsettingsunit.rsunrandomizer  
+msgctxt "formsettingsunit.rsunrandomizer"  
+msgid "Unrandomizer"  
+msgstr "随机化解除器"  
 
-#: formsettingsunit.rsyouhaventselectedanymemorytypethiswillresultinchea
-msgid "You haven't selected any memory type. This will result in Cheat Engine finding NO memory! Are you stupid?"
-msgstr ""
+#: formsettingsunit.rsyouhaventselectedanymemorytypethiswillresultinchea  
+msgid "You haven't selected any memory type. This will result in Cheat Engine finding NO memory! Are you stupid?"  
+msgstr "您没有选择任何内存类型。这将导致Cheat Engine找不到任何内存！您是不是疯了？"  
 
-#: formsettingsunit.strprocesswatcherwillpreventunloader
-msgid "Enabling the process watcher will prevent the unloader from working"
-msgstr ""
+#: formsettingsunit.strprocesswatcherwillpreventunloader  
+msgid "Enabling the process watcher will prevent the unloader from working"  
+msgstr "启用进程监视器将导致卸载程序无法工作"
 
 #: foundcodeunit.rsfctheswillsetasiftwarebreakpointint3oneverysingleopcodeetc
 msgid "This will set a Software Breakpoint (int3) on every single opcode that will be reported here. Are you sure ?"
-msgstr ""
+msgstr "这将在每个操作码上设置软件断点(int3)，您确定要继续吗？"
 
 #: foundcodeunit.strclose
 msgctxt "foundcodeunit.strclose"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: foundlisthelper.rserror
 msgctxt "foundlisthelper.rserror"
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: foundlisthelper.rsundefinederror
 msgctxt "foundlisthelper.rsundefinederror"
 msgid "Undefined error"
-msgstr ""
+msgstr "未定义错误"
 
 #: frmadconfigunit.rspercentageshown
 msgid "Percentage shown"
-msgstr ""
+msgstr "显示百分比"
 
 #: frmautoinjectunit.rs14bytejmp
 msgctxt "frmautoinjectunit.rs14bytejmp"
 msgid "14 Byte JMP (>2GB Distance)"
-msgstr ""
+msgstr "14字节跳转(>2GB距离)"
 
 #: frmautoinjectunit.rs5bytejmp
 msgctxt "frmautoinjectunit.rs5bytejmp"
 msgid "5 Byte JMP (<2GB Distance)"
-msgstr ""
+msgstr "5字节跳转(<2GB距离)"
 
 #: frmautoinjectunit.rsaaaobtemplate_author
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #: frmautoinjectunit.rsaaaobtemplate_blabla
 msgid "This script does blah blah blah"
-msgstr ""
+msgstr "本脚本实现某某功能..."
 
 #: frmautoinjectunit.rsaaaobtemplate_date
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: frmautoinjectunit.rsaaaobtemplate_game
 msgid "Game"
-msgstr ""
+msgstr "游戏"
 
 #: frmautoinjectunit.rsaaaobtemplate_version
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #: frmautoinjectunit.rsaadescribeallocatedmemory
 msgid "this is allocated memory, you have read,write,execute access"
-msgstr ""
+msgstr "这是已分配内存，您拥有读取、写入和执行权限"
 
 #: frmautoinjectunit.rsareyousureyouwanttoclose
 #, object-pascal-format
 msgid "Are you sure you want to close %s ?"
-msgstr ""
+msgstr "确定要关闭%s吗？"
 
 #: frmautoinjectunit.rsautoassembler
 msgid "Auto assembler"
-msgstr ""
+msgstr "自动汇编器"
 
 #: frmautoinjectunit.rsceafilter
 msgid "Cheat Engine Assembly (*.CEA)|*.CEA|All Files ( *.* )|*.*"
-msgstr ""
+msgstr "CheatEngine汇编文件(*.CEA)|*.CEA|所有文件(*.*)|*.*"
 
 #: frmautoinjectunit.rscegafilter
 msgid "Cheat Engine GNU Assembly (*.CEGA)|*.CEGA|All Files ( *.* )|*.*"
-msgstr ""
+msgstr "CheatEngine GNU汇编文件(*.CEGA)|*.CEGA|所有文件(*.*)|*.*"
 
 #: frmautoinjectunit.rscodeinjecttemplate
 msgid "Code inject template"
-msgstr ""
+msgstr "代码注入模板"
 
 #: frmautoinjectunit.rscodeneedsenableanddisable
 msgid "The code needs an [ENABLE] and a [DISABLE] section if you want to use this script as a table entry"
-msgstr ""
+msgstr "如果要将此脚本用作表格条目，代码需要包含[ENABLE]和[DISABLE]部分"
 
 #: frmautoinjectunit.rscoderelocationtemplate
 msgid "Code relocation template"
-msgstr ""
+msgstr "代码重定位模板"
 
 #: frmautoinjectunit.rsdescribethatthiscodewilldisablethescript
 msgid "code from here till the end of the code will be used to disable the cheat"
-msgstr ""
+msgstr "从这里到代码末尾的部分将用于禁用作弊功能"
 
 #: frmautoinjectunit.rsdescribethatthiscodewillenablethescript
 msgid "code from here to '[DISABLE]' will be used to enable the cheat"
-msgstr ""
+msgstr "从这里到'[DISABLE]'的部分将用于启用作弊功能"
 
 #: frmautoinjectunit.rsendaddresslastbytesareincludedifnecesary
 msgid "End address (last bytes are included if necessary)"
-msgstr ""
+msgstr "结束地址(必要时包含最后几个字节)"
 
 #: frmautoinjectunit.rserrorcouldnotfinduniqueaobtriedcode
 msgid "ERROR: Could not find unique AOB, tried code \""
-msgstr ""
+msgstr "错误：无法找到唯一的字节数组(AOB)，尝试过的代码\""
 
 #: frmautoinjectunit.rserrorinscript
 #, object-pascal-format
 msgid "Error in script %s : %s"
-msgstr ""
+msgstr "脚本%s中的错误：%s"
 
 #: frmautoinjectunit.rserrorinscriptnotab
 #, object-pascal-format
 msgid "Error in script : %s"
-msgstr ""
+msgstr "脚本中的错误：%s"
 
 #: frmautoinjectunit.rseverythingok
 msgid "Everything ok"
-msgstr ""
+msgstr "一切正常"
 
 #: frmautoinjectunit.rsexecutescript
 msgid "Execute script"
-msgstr ""
+msgstr "执行脚本"
 
 #: frmautoinjectunit.rsfailedallocatingmemoryforthescript
 msgid "Failed allocating memory for the script"
-msgstr ""
+msgstr "为脚本分配内存失败"
 
 #: frmautoinjectunit.rsfailedcreatingcallingstubforscriptlocatedataddress
 msgid "Failed creating calling stub for script located at address "
-msgstr ""
+msgstr "为位于地址的脚本创建调用存根失败"
 
 #: frmautoinjectunit.rsfailedtoaddtotablenotallcodeisinjectable
 msgid "Failed to add to table. Not all code is injectable"
-msgstr ""
+msgstr "添加到表格失败。并非所有代码都可注入"
 
 #: frmautoinjectunit.rsfailedwritingthescripttotheprocess
 msgid "failed writing the script to the process"
-msgstr ""
+msgstr "将脚本写入进程失败"
 
 #: frmautoinjectunit.rsfailureloadingundercdll
 msgid "Failure loading undercdll"
-msgstr ""
+msgstr "加载undercdll失败"
 
 #: frmautoinjectunit.rsgnuascript
 msgid "GNU Assembler Script"
-msgstr ""
+msgstr "GNU汇编脚本"
 
 #: frmautoinjectunit.rslessthan2gbdistance
 msgid "<2GB Distance"
-msgstr ""
+msgstr "<2GB距离"
 
 #: frmautoinjectunit.rsluafilter
 msgid "LUA Script (*.LUA)|*.LUA|All Files ( *.* )|*.*"
-msgstr ""
+msgstr "LUA脚本(*.LUA)|*.LUA|所有文件(*.*)|*.*"
 
 #: frmautoinjectunit.rsluascript
 msgid "LUA Script"
-msgstr ""
+msgstr "LUA脚本"
 
 #: frmautoinjectunit.rsmorethan2gbdistance
 msgid ">2GB Distance"
-msgstr ""
+msgstr ">2GB距离"
 
 #: frmautoinjectunit.rsnewnamequestion
 msgid "What should the new name be?"
-msgstr ""
+msgstr "新名称应该是什么？"
 
 #: frmautoinjectunit.rsnotallcodeisinjectable
 #, object-pascal-format
@@ -2835,1718 +2837,1735 @@ msgid ""
 "%s\n"
 "Are you sure you want to edit it to this?"
 msgstr ""
+"并非所有代码都可注入。\n"
+"%s\n"
+"确定要编辑为此内容吗？"
 
 #: frmautoinjectunit.rsonwhataddressdoyouwantthejump
 msgid "On what address do you want the jump?"
-msgstr ""
+msgstr "您希望跳转到哪个地址？"
 
 #: frmautoinjectunit.rsoriginalcode
 msgid "Original code"
-msgstr ""
+msgstr "原始代码"
 
 #: frmautoinjectunit.rsplaceyourcodehere
 msgid "place your code here"
-msgstr ""
+msgstr "将您的代码放在这里"
 
 #: frmautoinjectunit.rsrenametab
 msgid "Rename tab"
-msgstr ""
+msgstr "重命名标签页"
 
 #: frmautoinjectunit.rsscript
 msgid "Script "
-msgstr ""
+msgstr "脚本"
 
 #: frmautoinjectunit.rsscript1
 msgid "Script 1"
-msgstr ""
+msgstr "脚本1"
 
 #: frmautoinjectunit.rsstartaddress
 msgid "Start address"
-msgstr ""
+msgstr "起始地址"
+
+Here are the translations for the provided strings:
 
 #: frmautoinjectunit.rsthumbinstructionsarenotyetimplemented
 msgid "Thumb instructions are not yet implemented"
-msgstr ""
+msgstr "Thumb 指令集尚未实现"
 
 #: frmautoinjectunit.rswhatidentifierdoyouwanttouse
 msgid "What do you want to name the symbol for the injection point?"
-msgstr ""
+msgstr "您想为注入点命名的符号是什么？"
 
 #: frmautoinjectunit.rswritecode
 msgid "Write code"
-msgstr ""
+msgstr "写入代码"
 
 #: frmbranchmapperunit.rsfoundnr
 #, object-pascal-format
 msgid "Found %d"
-msgstr ""
+msgstr "已找到 %d 个"
 
 #: frmbranchmapperunit.rssaveresultstofile
 msgctxt "frmbranchmapperunit.rssaveresultstofile"
 msgid "Save results to file"
-msgstr ""
+msgstr "保存结果到文件"
 
 #: frmbranchmapperunit.rsstartmapping
 msgid "Start Mapping"
-msgstr ""
+msgstr "开始映射"
 
 #: frmbranchmapperunit.rsstop
 msgctxt "frmbranchmapperunit.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: frmbreakpointlistunit.rsbpareyousureyouwishtochangethistoapegewidebp
 msgid "Are you sure you wish to change this to a pagewide breakpoint?"
-msgstr ""
+msgstr "确定要将其更改为页宽断点吗？"
 
 #: frmchangedaddressescommonalityscannerunit.rsbaseaddress
 msgctxt "frmchangedaddressescommonalityscannerunit.rsbaseaddress"
 msgid "Base Address"
-msgstr ""
+msgstr "基地址"
 
 #: frmchangedaddressescommonalityscannerunit.rsdblclicklaunchcomp
 msgid "Doubleclick to launch structure compare"
-msgstr ""
+msgstr "双击启动结构比较"
 
 #: frmchangedaddressescommonalityscannerunit.rsshowresults
 msgid "Doubleclick to show scanner/results"
-msgstr ""
+msgstr "双击显示扫描器/结果"
 
 #: frmcodecavescannerunit.rsclosingthiswindowwillalsostopthescannerareyousure
 msgid "Closing this window will also stop the scanner. Are you sure?"
-msgstr ""
+msgstr "关闭此窗口将同时停止扫描器。确定要继续吗？"
 
 #: frmcodecavescannerunit.rspleaseprovideavalidsizeforthewantedcodecave
 msgid "Please provide a valid size for the wanted code cave"
-msgstr ""
+msgstr "请为需要的代码洞提供有效大小"
 
 #: frmcodecavescannerunit.rspleaseprovideavalidstartaddress
 msgid "Please provide a valid start address"
-msgstr ""
+msgstr "请提供有效的起始地址"
 
 #: frmcodecavescannerunit.rspleaseprovideavalidstopaddress
 msgid "Please provide a valid stop address"
-msgstr ""
+msgstr "请提供有效的结束地址"
 
 #: frmcodecavescannerunit.rspleasetellmeyoudontneedacodecavethissmall
 msgid "Please tell me you don't need a code cave this small!!!"
-msgstr ""
+msgstr "请告诉我你不需要这么小的代码洞！！"
 
 #: frmcodefilterunit.rsaddresslist
 #, object-pascal-format
 msgid "Address List (%d)"
-msgstr ""
+msgstr "地址列表 (%d)"
 
 #: frmcodefilterunit.rsassemblyscanpleasewait
 msgid "Assembly Scan. Please wait"
-msgstr ""
+msgstr "汇编扫描中，请稍候"
 
 #: frmcodefilterunit.rscancel
 msgid "Cancel List Refresh"
-msgstr ""
+msgstr "取消列表刷新"
 
 #: frmcodefilterunit.rscodefilter
 msgctxt "frmcodefilterunit.rscodefilter"
 msgid "Code Filter"
-msgstr ""
+msgstr "代码过滤器"
 
 #: frmcodefilterunit.rsfilteringaddresses
 msgid "Filtering addresses"
-msgstr ""
+msgstr "正在过滤地址"
 
 #: frmcodefilterunit.rsno
 msgctxt "frmcodefilterunit.rsno"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: frmcodefilterunit.rsopenanaddressfile
 msgid "Open an address file"
-msgstr ""
+msgstr "打开地址文件"
 
 #: frmcodefilterunit.rssaveanaddressfile
 msgid "Save an address file"
-msgstr ""
+msgstr "保存地址文件"
 
 #: frmcodefilterunit.rssettingbreakpoints
 msgid "Setting breakpoints"
-msgstr ""
+msgstr "正在设置断点"
 
 #: frmcodefilterunit.rsshowrefreshlist
 msgctxt "frmcodefilterunit.rsshowrefreshlist"
 msgid "Refresh list"
-msgstr ""
+msgstr "刷新列表"
 
 #: frmcodefilterunit.rsxisaninvalidrange
 #, object-pascal-format
 msgid "%s is an invalid range (xxxx-xxxx)"
-msgstr ""
+msgstr "%s 是无效的范围 (xxxx-xxxx)"
 
 #: frmcodefilterunit.rsyes
 msgctxt "frmcodefilterunit.rsyes"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: frmcr3switcherunit.rsdbvmcr3log
 msgid "DBVM CR3 Log"
-msgstr ""
+msgstr "DBVM CR3 日志"
 
 #: frmcr3switcherunit.rsdescribedbvmroutine
 msgid "DBVM will record all CR3 values it encounters up to 512 unique ones). How long should it wait? (In seconds)"
-msgstr ""
+msgstr "DBVM 将记录遇到的所有CR3值(最多512个不同的值)。应该等待多长时间？(以秒为单位)"
 
 #: frmcr3switcherunit.rslongwaitwarning
 #, object-pascal-format
 msgid "Are you sure you wish to wait %d seconds?"
-msgstr ""
+msgstr "确定要等待 %d 秒吗？"
 
 #: frmdebugsymbolstructurelistunit.rstherearestructuresinthislist
 #, object-pascal-format
 msgid "There are %d structures in this list"
-msgstr ""
+msgstr "此列表中有 %d 个结构体"
 
 #: frmdisassemblyscanunit.rsdone
 msgctxt "frmdisassemblyscanunit.rsdone"
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #: frmdisassemblyscanunit.rsdsclose
 msgctxt "frmdisassemblyscanunit.rsdsclose"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: frmdisassemblyscanunit.rsdsscanerror
 msgid "scan error"
-msgstr ""
+msgstr "扫描错误"
 
 #: frmdissectwindowunit.rsdissectwindows
 msgctxt "frmdissectwindowunit.rsdissectwindows"
 msgid "Dissect Windows"
-msgstr ""
+msgstr "窗口分析"
 
 #: frmdissectwindowunit.rsgivethenewtextforthiswindow
 msgid "Give the new text for this window"
-msgstr ""
+msgstr "为此窗口提供新文本"
 
 #: frmdissectwindowunit.rsinvis
 msgid "Invis"
-msgstr ""
+msgstr "不可见"
 
 #: frmdissectwindowunit.rsremoved
 msgid "Removed"
-msgstr ""
+msgstr "已移除"
 
 #: frmenumeratedllsunit.rsnothingfound
 msgctxt "frmenumeratedllsunit.rsnothingfound"
 msgid "nothing found"
-msgstr ""
+msgstr "未找到任何内容"
 
 #: frmexceptionregionlistunit.rsconfirmdeleteregion
 #, object-pascal-format
 msgid "Are you sure you wish to remove the range %s?"
-msgstr ""
+msgstr "确定要删除范围 %s 吗？"
 
 #: frmexceptionregionlistunit.rseraselistquestion
 msgid "Are you sure the erase the list?"
-msgstr ""
+msgstr "确定要清空列表吗？"  
 
 #: frmexetrainergeneratorunit.rsarchive
 msgid " ARCHIVE:"
-msgstr ""
+msgstr "压缩方式:"
 
 #: frmexetrainergeneratorunit.rscetrainermaker
 msgid "CE trainer maker"
-msgstr ""
+msgstr "CE 训练器生成器"
 
 #: frmexetrainergeneratorunit.rsdecompressor
 msgid " DECOMPRESSOR:"
-msgstr ""
+msgstr "解压缩方式:"
 
-#: frmexetrainergeneratorunit.rsdefault
-msgctxt "frmexetrainergeneratorunit.rsdefault"
-msgid "Default"
-msgstr ""
+#: frmexetrainergeneratorunit.rsdefault  
+msgctxt "frmexetrainergeneratorunit.rsdefault"  
+msgid "Default"  
+msgstr "默认"  
 
 #: frmexetrainergeneratorunit.rsfailureonwriting
 msgid "failure on writing"
-msgstr ""
+msgstr "写入失败"
 
 #: frmexetrainergeneratorunit.rsfailureopeningthetrainerforresourceupdates
 msgid "Failure opening the trainer for resource updates. Make sure you do not watch the creation"
-msgstr ""
+msgstr "打开训练器更新资源失败。请确保未监视创建过程"
 
 #: frmexetrainergeneratorunit.rsfastest
 msgid "Fastest"
-msgstr ""
+msgstr "最快速度"
 
-#: frmexetrainergeneratorunit.rsgenerate
-msgctxt "frmexetrainergeneratorunit.rsgenerate"
-msgid "Generate"
-msgstr ""
+#: frmexetrainergeneratorunit.rsgenerate  
+msgctxt "frmexetrainergeneratorunit.rsgenerate"  
+msgid "Generate"  
+msgstr "生成"  
 
 #: frmexetrainergeneratorunit.rsiconupdateerror
 msgid "icon update error"
-msgstr ""
+msgstr "图标更新错误"
 
 #: frmexetrainergeneratorunit.rsinvalidicon
 msgid "(Invalid icon)"
-msgstr ""
+msgstr "(无效图标)"
 
 #: frmexetrainergeneratorunit.rsinvalidicontype
 msgid "(Invalid icon type)"
-msgstr ""
+msgstr "(无效图标类型)"
 
-#: frmexetrainergeneratorunit.rsmax
-msgctxt "frmexetrainergeneratorunit.rsmax"
-msgid "Max"
-msgstr ""
+#: frmexetrainergeneratorunit.rsmax  
+msgctxt "frmexetrainergeneratorunit.rsmax"  
+msgid "Max"  
+msgstr "最大"  
 
 #: frmexetrainergeneratorunit.rsnewfoldername
 msgid "New foldername"
-msgstr ""
+msgstr "新文件夹名"
 
-#: frmexetrainergeneratorunit.rsnone
-msgctxt "frmexetrainergeneratorunit.rsnone"
-msgid "None"
-msgstr ""
+#: frmexetrainergeneratorunit.rsnone  
+msgctxt "frmexetrainergeneratorunit.rsnone"  
+msgid "None"  
+msgstr "无"  
 
-#: frmexetrainergeneratorunit.rssaving
-msgctxt "frmexetrainergeneratorunit.rssaving"
-msgid "Saving..."
-msgstr ""
+#: frmexetrainergeneratorunit.rssaving  
+msgctxt "frmexetrainergeneratorunit.rssaving"  
+msgid "Saving..."  
+msgstr "保存中..."  
 
 #: frmexetrainergeneratorunit.rsthetrainerhasbeensuccessfullygenerated
 msgid "The trainer has been successfully generated"
-msgstr ""
+msgstr "训练器已成功生成"
 
-#: frmexetrainergeneratorunit.rstrainerfilemissing
-#, object-pascal-format
-msgid "Copying %s.dat to %s failed. Please make sure the file still exists"
-msgstr ""
+#: frmexetrainergeneratorunit.rstrainerfilemissing  
+#, object-pascal-format  
+msgid "Copying %s.dat to %s failed. Please make sure the file still exists"  
+msgstr "复制 %s.dat 到 %s 失败，请确保文件仍然存在"  
 
-#: frmexetrainergeneratorunit.rsupdatefailed
-#, object-pascal-format
-msgid "Failure updating the trainer resource information: %d"
-msgstr ""
+#: frmexetrainergeneratorunit.rsupdatefailed  
+#, object-pascal-format  
+msgid "Failure updating the trainer resource information: %d"  
+msgstr "更新训练器资源信息失败: %d"  
 
 #: frmfilepatcherunit.rsfilepatcher
 msgid "File Patcher: "
-msgstr ""
+msgstr "文件补丁: "
 
 #: frmfillmemoryunit.rsfmregiontoolarge
 msgid "Region too large"
-msgstr ""
+msgstr "区域过大"
 
 #: frmfillmemoryunit.rspleasefillinavalidfillvalue
 msgid "Please fill in a valid 'Fill' value"
-msgstr ""
+msgstr "请输入有效的'填充'值"  
 
-#: frmfillmemoryunit.rspleasefillinavalidfromaddress
-msgctxt "frmfillmemoryunit.rspleasefillinavalidfromaddress"
-msgid "Please fill in a valid 'From' address"
-msgstr ""
+#: frmfillmemoryunit.rspleasefillinavalidfromaddress  
+msgctxt "frmfillmemoryunit.rspleasefillinavalidfromaddress"  
+msgid "Please fill in a valid 'From' address"  
+msgstr "请输入有效的'起始'地址"  
 
-#: frmfillmemoryunit.rspleasefillinavalidtoaddress
-msgctxt "frmfillmemoryunit.rspleasefillinavalidtoaddress"
-msgid "Please fill in a valid 'To' address"
-msgstr ""
+#: frmfillmemoryunit.rspleasefillinavalidtoaddress  
+msgctxt "frmfillmemoryunit.rspleasefillinavalidtoaddress"  
+msgid "Please fill in a valid 'To' address"  
+msgstr "请输入有效的'结束'地址"  
 
 #: frmfindstaticsunit.rsfsstructorarray
 msgid "struct or array"
-msgstr ""
+msgstr "结构体或数组"
 
 #: frmfindstaticsunit.rsfsunreadablepointer
 msgid "Unreadable pointer"
-msgstr ""
+msgstr "不可读指针"
 
-#: frmfindstaticsunit.strscan
-msgctxt "frmfindstaticsunit.strscan"
-msgid "Scan"
-msgstr ""
+#: frmfindstaticsunit.strscan  
+msgctxt "frmfindstaticsunit.strscan"  
+msgid "Scan"  
+msgstr "扫描"  
 
-#: frmfindstaticsunit.strstop
-msgctxt "frmfindstaticsunit.strstop"
-msgid "Stop"
-msgstr ""
+#: frmfindstaticsunit.strstop  
+msgctxt "frmfindstaticsunit.strstop"  
+msgid "Stop"  
+msgstr "停止"  
 
-#: frmfindstaticsunit.strstopping
-msgctxt "frmfindstaticsunit.strstopping"
-msgid "Stopping..."
-msgstr ""
+#: frmfindstaticsunit.strstopping  
+msgctxt "frmfindstaticsunit.strstopping"  
+msgid "Stopping..."  
+msgstr "正在停止..."  
 
 #: frmfloatingpointpanelunit.rsfppextended
 msgid "Extended (default)"
-msgstr ""
+msgstr "扩展(默认)"
 
 #: frmgdtunit.rsgdtaccessed
 msgid "Accessed="
-msgstr ""
+msgstr "已访问="
 
 #: frmgdtunit.rsgdtavl
 msgid "AVL="
-msgstr ""
+msgstr "AVL="
 
 #: frmgdtunit.rsgdtcodesegment
 msgid "Code Segment"
-msgstr ""
+msgstr "代码段"
 
 #: frmgdtunit.rsgdtconforming
 msgid "Conforming="
-msgstr ""
+msgstr "符合="
 
 #: frmgdtunit.rsgdtdatasegment
 msgid "Data Segment"
-msgstr ""
+msgstr "数据段"
 
 #: frmgdtunit.rsgdtdpl
 msgid "DPL="
-msgstr ""
+msgstr "DPL="
 
 #: frmgdtunit.rsgdtexpansiondirection
 msgid "Expansion direction="
-msgstr ""
+msgstr "扩展方向="
 
 #: frmgdtunit.rsgdtnotpresent
 msgid "Not present"
-msgstr ""
+msgstr "不存在"
 
 #: frmgdtunit.rsgdtreadable
 msgid "Readable="
-msgstr ""
+msgstr "可读="
 
 #: frmgdtunit.rsgdtreaderror
 msgid "Read error"
-msgstr ""
+msgstr "读取错误"
 
 #: frmgdtunit.rsgdtsystemsegment
 msgid "System Segment"
-msgstr ""
+msgstr "系统段"
 
 #: frmgdtunit.rsgdtwritable
 msgid "Writable="
-msgstr ""
+msgstr "可写="
 
-#: frmgroupscanalgoritmgeneratorunit.rsadd
-msgctxt "frmgroupscanalgoritmgeneratorunit.rsadd"
-msgid "Add"
-msgstr ""
+#: frmgroupscanalgoritmgeneratorunit.rsadd  
+msgctxt "frmgroupscanalgoritmgeneratorunit.rsadd"  
+msgid "Add"  
+msgstr "添加"
 
-#: frmgroupscanalgoritmgeneratorunit.rsgsgblocksizemustbeprovided
-msgid "blocksize must be provided"
-msgstr ""
+Here are the Chinese translations for the remaining strings:
 
-#: frmgroupscanalgoritmgeneratorunit.rsgsgshouldbeatleast
-#, object-pascal-format
-msgid "Should be at least %d"
-msgstr ""
+#: frmgroupscanalgoritmgeneratorunit.rsgsgblocksizemustbeprovided  
+msgid "blocksize must be provided"  
+msgstr "必须提供块大小"  
 
-#: frmgroupscanalgoritmgeneratorunit.rspickedhint
-msgid "When checked this element will get added to the addresslist. Note: If all checkboxes are disabled, ALL elements will be added"
-msgstr ""
+#: frmgroupscanalgoritmgeneratorunit.rsgsgshouldbeatleast  
+#, object-pascal-format  
+msgid "Should be at least %d"  
+msgstr "至少应为 %d"  
 
-#: frmgroupscanalgoritmgeneratorunit.rsrange
-msgid "Range"
-msgstr ""
+#: frmgroupscanalgoritmgeneratorunit.rspickedhint  
+msgid "When checked this element will get added to the addresslist. Note: If all checkboxes are disabled, ALL elements will be added"  
+msgstr "勾选后此元素将被添加到地址列表。注意：如果所有复选框都禁用，则所有元素都会被添加"  
 
-#: frmgroupscanalgoritmgeneratorunit.rssstaticddynamiceexecutable
-msgid "S=Static D=Dynamic E=Executable"
-msgstr ""
+#: frmgroupscanalgoritmgeneratorunit.rsrange  
+msgid "Range"  
+msgstr "范围"  
 
-#: frmgroupscanalgoritmgeneratorunit.rswildcard
-msgid "Skip nr of bytes:"
-msgstr ""
+#: frmgroupscanalgoritmgeneratorunit.rssstaticddynamiceexecutable  
+msgid "S=Static D=Dynamic E=Executable"  
+msgstr "S=静态 D=动态 E=可执行"  
 
-#: frmidtunit.rsidt16bitinterruptgate
-msgid "16-bit interrupt gate"
-msgstr ""
+#: frmgroupscanalgoritmgeneratorunit.rswildcard  
+msgid "Skip nr of bytes:"  
+msgstr "跳过字节数:"  
 
-#: frmidtunit.rsidt16biytrapgate
-msgid "16-bit trap gate"
-msgstr ""
+#: frmidtunit.rsidt16bitinterruptgate  
+msgid "16-bit interrupt gate"  
+msgstr "16位中断门"  
 
-#: frmidtunit.rsidt32bitinterruptgate
-msgid "32-bit interrupt gate"
-msgstr ""
+#: frmidtunit.rsidt16biytrapgate  
+msgid "16-bit trap gate"  
+msgstr "16位陷阱门"  
 
-#: frmidtunit.rsidt32biytrapgate
-msgid "32-bit trap gate"
-msgstr ""
+#: frmidtunit.rsidt32bitinterruptgate  
+msgid "32-bit interrupt gate"  
+msgstr "32位中断门"  
 
-#: frmidtunit.rsidtdpl
-msgid " DPL="
-msgstr ""
+#: frmidtunit.rsidt32biytrapgate  
+msgid "32-bit trap gate"  
+msgstr "32位陷阱门"  
 
-#: frmidtunit.rsidtnotpresent
-msgid "not present"
-msgstr ""
+#: frmidtunit.rsidtdpl  
+msgid " DPL="  
+msgstr " DPL权限等级="  
 
-#: frmidtunit.rsidttaskgate
-msgid "task gate"
-msgstr ""
+#: frmidtunit.rsidtnotpresent  
+msgid "not present"  
+msgstr "不存在"  
 
-#: frmidtunit.rsidtunkownidt
-msgid "unknown IDT"
-msgstr ""
+#: frmidtunit.rsidttaskgate  
+msgid "task gate"  
+msgstr "任务门"  
 
-#: frmloadmemoryunit.rsloadintomemory
-#, object-pascal-format
-msgid "Load %s into memory"
-msgstr ""
+#: frmidtunit.rsidtunkownidt  
+msgid "unknown IDT"  
+msgstr "未知IDT"  
 
-#: frmloadmemoryunit.rsnotallthememorycanbewritteninthecurrentmemoryregion
-msgid "Not all the memory can be written in the current memory region. Do you want to force as much as possible into the given region and just discard what can not be written? (Really bad idea)"
-msgstr ""
+#: frmloadmemoryunit.rsloadintomemory  
+#, object-pascal-format  
+msgid "Load %s into memory"  
+msgstr "将%s加载到内存"  
 
-#: frmloadmemoryunit.rswrotebytesoutof
-#, object-pascal-format
-msgid "Wrote %d bytes out of %d"
-msgstr ""
+#: frmloadmemoryunit.rsnotallthememorycanbewritteninthecurrentmemoryregion  
+msgid "Not all the memory can be written in the current memory region. Do you want to force as much as possible into the given region and just discard what can not be written? (Really bad idea)"  
+msgstr "当前内存区域无法写入全部内容。是否强制尽可能多地写入给定区域并丢弃无法写入的部分？(非常糟糕的主意)"  
 
-#: frmloadmemoryunit.strinvalidfile
-msgid "This is a invalid memory region file. I'll assume this file has no header data"
-msgstr ""
+#: frmloadmemoryunit.rswrotebytesoutof  
+#, object-pascal-format  
+msgid "Wrote %d bytes out of %d"  
+msgstr "已写入%d字节(共%d字节)"  
 
-#: frmluaengineunit.rserror
-msgid "Script Error"
-msgstr ""
+#: frmloadmemoryunit.strinvalidfile  
+msgid "This is a invalid memory region file. I'll assume this file has no header data"  
+msgstr "这是个无效的内存区域文件，将假设该文件没有头部数据"  
 
-#: frmluaengineunit.rsleerrorinline
-msgid "Error in line "
-msgstr ""
+#: frmluaengineunit.rserror  
+msgid "Script Error"  
+msgstr "脚本错误"  
 
-#: frmluaengineunit.rsleonlyonescriptcanbedebuggedatatimeetc
-msgid "Only one script can be debugged at a time. Continue executing this script without the debugger?"
-msgstr ""
+#: frmluaengineunit.rsleerrorinline  
+msgid "Error in line "  
+msgstr "第"  
 
-#: frmluaengineunit.rsleundefinederror
-msgctxt "frmluaengineunit.rsleundefinederror"
-msgid "Undefined error"
-msgstr ""
+#: frmluaengineunit.rsleonlyonescriptcanbedebuggedatatimeetc  
+msgid "Only one script can be debugged at a time. Continue executing this script without the debugger?"  
+msgstr "一次只能调试一个脚本。是否在无调试器情况下继续执行此脚本？"  
 
-#: frmluaengineunit.rsleuserclickedstop
-msgid "User clicked stop"
-msgstr ""
+#: frmluaengineunit.rsleundefinederror  
+msgctxt "frmluaengineunit.rsleundefinederror"  
+msgid "Undefined error"  
+msgstr "未定义错误"  
 
-#: frmluaengineunit.rsluaengine
-msgctxt "frmluaengineunit.rsluaengine"
-msgid "Lua Engine"
-msgstr ""
+#: frmluaengineunit.rsleuserclickedstop  
+msgid "User clicked stop"  
+msgstr "用户点击了停止"  
 
-#: frmmemoryallochandlerunit.rsevent1failure
-msgid "Event1 failure:"
-msgstr ""
+#: frmluaengineunit.rsluaengine  
+msgctxt "frmluaengineunit.rsluaengine"  
+msgid "Lua Engine"  
+msgstr "Lua引擎"  
 
-#: frmmemoryallochandlerunit.rsevent2failure
-msgid "Event2 failure:"
-msgstr ""
+#: frmmemoryallochandlerunit.rsevent1failure  
+msgid "Event1 failure:"  
+msgstr "事件1失败:"  
 
-#: frmmemoryallochandlerunit.rsevent3failure
-msgid "Event3 failure:"
-msgstr ""
+#: frmmemoryallochandlerunit.rsevent2failure  
+msgid "Event2 failure:"  
+msgstr "事件2失败:"  
 
-#: frmmemoryallochandlerunit.rsfailuretohook
-msgid "Failure to hook"
-msgstr ""
+#: frmmemoryallochandlerunit.rsevent3failure  
+msgid "Event3 failure:"  
+msgstr "事件3失败:"  
 
-#: frmmemoryallochandlerunit.rsfailuretoinitialize
-msgid "Failure to initialize"
-msgstr ""
+#: frmmemoryallochandlerunit.rsfailuretohook  
+msgid "Failure to hook"  
+msgstr "挂钩失败"  
 
-#: frmmemoryallochandlerunit.rsheapcount
-#, object-pascal-format
-msgid "Heapcount=%s"
-msgstr ""
+#: frmmemoryallochandlerunit.rsfailuretoinitialize  
+msgid "Failure to initialize"  
+msgstr "初始化失败"  
 
-#: frmmemoryallochandlerunit.rsqueuedmemoryeventswaiting
-#, object-pascal-format
-msgid "Queued memory events waiting: %s"
-msgstr ""
+#: frmmemoryallochandlerunit.rsheapcount  
+#, object-pascal-format  
+msgid "Heapcount=%s"  
+msgstr "堆计数=%s"  
 
-#: frmmemoryrecorddropdownsettingsunit.rsdddropdownotionsfor
-msgid "Dropdown options for "
-msgstr ""
+#: frmmemoryallochandlerunit.rsqueuedmemoryeventswaiting  
+#, object-pascal-format  
+msgid "Queued memory events waiting: %s"  
+msgstr "排队等待的内存事件: %s"  
 
-#: frmmemviewpreferencesunit.rsbackgroundcolor
-msgctxt "frmmemviewpreferencesunit.rsbackgroundcolor"
-msgid "Background color"
-msgstr ""
+#: frmmemoryrecorddropdownsettingsunit.rsdddropdownotionsfor  
+msgid "Dropdown options for "  
+msgstr "下拉选项为 "  
 
-#: frmmemviewpreferencesunit.rscallcolor
-msgctxt "frmmemviewpreferencesunit.rscallcolor"
-msgid "Call color"
-msgstr ""
+#: frmmemviewpreferencesunit.rsbackgroundcolor  
+msgctxt "frmmemviewpreferencesunit.rsbackgroundcolor"  
+msgid "Background color"  
+msgstr "背景颜色"  
 
-#: frmmemviewpreferencesunit.rsconditionaljumpcolor
-msgctxt "frmmemviewpreferencesunit.rsconditionaljumpcolor"
-msgid "Conditional jump color"
-msgstr ""
+#: frmmemviewpreferencesunit.rscallcolor  
+msgctxt "frmmemviewpreferencesunit.rscallcolor"  
+msgid "Call color"  
+msgstr "调用颜色"  
 
-#: frmmemviewpreferencesunit.rsdcbreakpoint
-msgctxt "frmmemviewpreferencesunit.rsdcbreakpoint"
-msgid "Breakpoint"
-msgstr ""
+#: frmmemviewpreferencesunit.rsconditionaljumpcolor  
+msgctxt "frmmemviewpreferencesunit.rsconditionaljumpcolor"  
+msgid "Conditional jump color"  
+msgstr "条件跳转颜色"  
 
-#: frmmemviewpreferencesunit.rsdchighlighted
-msgctxt "frmmemviewpreferencesunit.rsdchighlighted"
-msgid "Highlighted"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdcbreakpoint  
+msgctxt "frmmemviewpreferencesunit.rsdcbreakpoint"  
+msgid "Breakpoint"  
+msgstr "断点"  
 
-#: frmmemviewpreferencesunit.rsdchighlightedbreakpoint
-msgid "Highlighted breakpoint"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdchighlighted  
+msgctxt "frmmemviewpreferencesunit.rsdchighlighted"  
+msgid "Highlighted"  
+msgstr "高亮显示"  
 
-#: frmmemviewpreferencesunit.rsdchighlightedbreakpointsecondary
-msgid "Highlighted breakpoint secondary"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdchighlightedbreakpoint  
+msgid "Highlighted breakpoint"  
+msgstr "高亮断点"  
 
-#: frmmemviewpreferencesunit.rsdchighlightedsecondary
-msgid "Highlighted secondary"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdchighlightedbreakpointsecondary  
+msgid "Highlighted breakpoint secondary"  
+msgstr "高亮断点次要"  
 
-#: frmmemviewpreferencesunit.rsdchighlightedultimap2
-msgid "Highlighted Ultimap2"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdchighlightedsecondary  
+msgid "Highlighted secondary"  
+msgstr "高亮次要"  
 
-#: frmmemviewpreferencesunit.rsdchighlightedultimap2secondary
-msgid "Highlighted Ultimap2 secondary"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdchighlightedultimap2  
+msgid "Highlighted Ultimap2"  
+msgstr "高亮Ultimap2"  
 
-#: frmmemviewpreferencesunit.rsdcnormal
-msgctxt "frmmemviewpreferencesunit.rsdcnormal"
-msgid "Normal"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdchighlightedultimap2secondary  
+msgid "Highlighted Ultimap2 secondary"  
+msgstr "高亮Ultimap2次要"  
 
-#: frmmemviewpreferencesunit.rsdcultimap2
-msgid "Ultimap2"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdcnormal  
+msgctxt "frmmemviewpreferencesunit.rsdcnormal"  
+msgid "Normal"  
+msgstr "正常"  
 
-#: frmmemviewpreferencesunit.rshexadecimalcolor
-msgctxt "frmmemviewpreferencesunit.rshexadecimalcolor"
-msgid "Hexadecimal color"
-msgstr ""
+#: frmmemviewpreferencesunit.rsdcultimap2  
+msgid "Ultimap2"  
+msgstr "Ultimap2"  
 
-#: frmmemviewpreferencesunit.rshexedit
-msgid "Hexedit"
-msgstr ""
+#: frmmemviewpreferencesunit.rshexadecimalcolor  
+msgctxt "frmmemviewpreferencesunit.rshexadecimalcolor"  
+msgid "Hexadecimal color"  
+msgstr "十六进制颜色"  
 
-#: frmmemviewpreferencesunit.rsnormalcolor
-msgid "Normal color"
-msgstr ""
+#: frmmemviewpreferencesunit.rshexedit  
+msgid "Hexedit"  
+msgstr "十六进制编辑"  
 
-#: frmmemviewpreferencesunit.rsregistercolor
-msgctxt "frmmemviewpreferencesunit.rsregistercolor"
-msgid "Register color"
-msgstr ""
+#: frmmemviewpreferencesunit.rsnormalcolor  
+msgid "Normal color"  
+msgstr "正常颜色"  
 
-#: frmmemviewpreferencesunit.rssymbolcolor
-msgctxt "frmmemviewpreferencesunit.rssymbolcolor"
-msgid "Symbol color"
-msgstr ""
+#: frmmemviewpreferencesunit.rsregistercolor  
+msgctxt "frmmemviewpreferencesunit.rsregistercolor"  
+msgid "Register color"  
+msgstr "寄存器颜色"  
 
-#: frmmemviewpreferencesunit.rsunconditionaljumpcolor
-msgctxt "frmmemviewpreferencesunit.rsunconditionaljumpcolor"
-msgid "Unconditional jump color"
-msgstr ""
+#: frmmemviewpreferencesunit.rssymbolcolor  
+msgctxt "frmmemviewpreferencesunit.rssymbolcolor"  
+msgid "Symbol color"  
+msgstr "符号颜色"  
 
-#: frmmergepointerscanresultsettingsunit.rscopiesthesourceptrfilestotheworkingfolder
-msgid "Copies the source .ptr.# files to the working folder of the main PTR"
-msgstr ""
+#: frmmemviewpreferencesunit.rsunconditionaljumpcolor  
+msgctxt "frmmemviewpreferencesunit.rsunconditionaljumpcolor"  
+msgid "Unconditional jump color"  
+msgstr "无条件跳转颜色"  
 
-#: frmmergepointerscanresultsettingsunit.rslinksdirectlytothepathsofthesourceptrfiles
-msgid ""
-"Links directly to the paths of the source .ptr.# files.\n"
-"Note: The result will be unusable by other systems that do not have the same path layout, until you generate new results"
-msgstr ""
+#: frmmergepointerscanresultsettingsunit.rscopiesthesourceptrfilestotheworkingfolder  
+msgid "Copies the source .ptr.# files to the working folder of the main PTR"  
+msgstr "将源.ptr.#文件复制到主PTR的工作文件夹"  
 
-#: frmmergepointerscanresultsettingsunit.rsmovesthesourceptrfilestotheworkingfolder
-msgid ""
-"Moves the source .ptr.# files to the working folder of the main PTR\n"
-"Note: This destroys the source"
-msgstr ""
+#: frmmergepointerscanresultsettingsunit.rslinksdirectlytothepathsofthesourceptrfiles  
+msgid ""  
+"Links directly to the paths of the source .ptr.# files.\n"  
+"Note: The result will be unusable by other systems that do not have the same path layout, until you generate new results"  
+msgstr ""  
+"直接链接到源.ptr.#文件路径\n"  
+"注意：在生成新结果前，其他路径布局不同的系统将无法使用此结果"  
 
-#: frmmodifyregistersunit.rsfailuresettingdbvmchangeregonbp
-msgid "Failure setting a DBVM ChangeRegOnBP breakpoint"
-msgstr ""
+#: frmmergepointerscanresultsettingsunit.rsmovesthesourceptrfilestotheworkingfolder  
+msgid ""  
+"Moves the source .ptr.# files to the working folder of the main PTR\n"  
+"Note: This destroys the source"  
+msgstr ""  
+"将源.ptr.#文件移动到主PTR的工作文件夹\n"  
+"注意：这会破坏源文件"  
+
+#: frmmodifyregistersunit.rsfailuresettingdbvmchangeregonbp  
+msgid "Failure setting a DBVM ChangeRegOnBP breakpoint"  
+msgstr "设置DBVM ChangeRegOnBP断点失败"
 
 #: frmmodifyregistersunit.rsmodifyregisterssat
 #, object-pascal-format
 msgid "Modify registers(s) at %s"
-msgstr ""
+msgstr "修改寄存器在 %s 处"
 
 #: frmmodifyregistersunit.rspleasefillinavalidvaluefor
 msgid "Please fill in a valid value for"
-msgstr ""
+msgstr "请为以下项填写有效值"
 
 #: frmpagingunit.rsfailurereadingphysicalmemory
 msgid "failure reading physical memory"
-msgstr ""
+msgstr "读取物理内存失败"
 
 #: frmpagingunit.rsnotfound
 msgid "Not found"
-msgstr ""
+msgstr "未找到"
 
 #: frmpointerrescanconnectdialogunit.rscouldnotberesolved
 msgctxt "frmpointerrescanconnectdialogunit.rscouldnotberesolved"
 msgid " could not be resolved"
-msgstr ""
+msgstr " 无法解析"
 
 #: frmpointerrescanconnectdialogunit.rshost
 msgctxt "frmpointerrescanconnectdialogunit.rshost"
 msgid "host:"
-msgstr ""
+msgstr "主机："
 
 #: frmpointerscanconnectdialogunit.rshostcouldnotberesolved
 #, object-pascal-format
 msgid "host: %s could not be resolved"
-msgstr ""
+msgstr "主机：%s 无法解析"
 
 #: frmpointerscanconnectdialogunit.rsuseloadedpointermap
 msgid "Use loaded pointermap:"
-msgstr ""
+msgstr "使用已加载的指针映射："
 
 #: frmprocesswatcherunit.rsconventionalids
 msgid "----Conventional ID's----"
-msgstr ""
+msgstr "----常规 ID----"
 
 #: frmprocesswatcherunit.rsfailedstartingtheprocesswatcher
 msgid "Failed starting the process watcher"
-msgstr ""
+msgstr "启动进程监视器失败"
 
 #: frmprocesswatcherunit.rsfirstselectaprocess
 msgctxt "frmprocesswatcherunit.rsfirstselectaprocess"
 msgid "First select a process!"
-msgstr ""
+msgstr "请先选择一个进程！"
 
 #: frmprocesswatcherunit.rsisntavalidprocessid
 #, object-pascal-format
 msgctxt "frmprocesswatcherunit.rsisntavalidprocessid"
 msgid "%s isn't a valid processID"
-msgstr ""
+msgstr "%s 不是有效的进程ID"
 
 #: frmprocesswatcherunit.rspeprocess
 msgid "PEPROCESS="
-msgstr ""
+msgstr "PEPROCESS="
 
 #: frmprocesswatcherunit.rsprocessid
 msgid "ProcessID="
-msgstr ""
+msgstr "进程ID="
 
 #: frmprocesswatcherunit.rsprocesswatcherthreaderror
 #, object-pascal-format
 msgid "processwatcher: thread error:%s"
-msgstr ""
+msgstr "进程监视器：线程错误：%s"
 
 #: frmprocesswatcherunit.rsthreadid
 msgid "ThreadID:"
-msgstr ""
+msgstr "线程ID："
 
 #: frmregistersunit.rslabelregisterhint
 msgid ""
 "DoubleClick: Browse this memory region.\n"
 "Right Mouse Click: Register Value will be copied to Clipboard and Context Menu will open."
 msgstr ""
+"双击：浏览此内存区域。\n"
+"右键单击：寄存器值将被复制到剪贴板，并打开上下文菜单。"
 
 #: frmregistersunit.rsnodescription
 msgctxt "frmregistersunit.rsnodescription"
 msgid "No Description"
-msgstr ""
+msgstr "无描述"
 
 #: frmrescanpointerunit.rsadd
 msgctxt "frmrescanpointerunit.rsadd"
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: frmrescanpointerunit.rsnotalltheendoffsetshavebeenfilledin
 msgid "Not all the end offsets have been filled in"
-msgstr ""
+msgstr "并非所有结束偏移量都已填写"
 
 #: frmrescanpointerunit.rsnotallthestartoffsetshavebeenfilledin
 msgid "Not all the start offsets have been filled in"
-msgstr ""
+msgstr "并非所有起始偏移量都已填写"
 
 #: frmrescanpointerunit.rsremove
 msgctxt "frmrescanpointerunit.rsremove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: frmrescanpointerunit.rsrpentertheipaddressestonotifyexplicitly
 msgctxt "frmrescanpointerunit.rsrpentertheipaddressestonotifyexplicitly"
 msgid "Enter the IP addresses to notify explicitly"
-msgstr ""
+msgstr "输入要明确通知的IP地址"
 
 #: frmrescanpointerunit.rsrpfirstoffset
 msgid "First offset"
-msgstr ""
+msgstr "第一个偏移量"
 
 #: frmrescanpointerunit.rsrpiplist
 msgctxt "frmrescanpointerunit.rsrpiplist"
 msgid "IP List"
-msgstr ""
+msgstr "IP列表"
 
 #: frmrescanpointerunit.rsrplastoffset
 msgctxt "frmrescanpointerunit.rsrplastoffset"
 msgid "Last offset"
-msgstr ""
+msgstr "最后一个偏移量"
 
 #: frmrescanpointerunit.rsrpthefunction
 #, object-pascal-format
 msgid "The function %s(base, offsets, target) has not yet been defined. Please define it first"
-msgstr ""
+msgstr "函数 %s(base, offsets, target) 尚未定义，请先定义它"
 
 #: frmrescanpointerunit.rsrpusesavedpointermap
 msgid "Use saved pointermap: "
-msgstr ""
+msgstr "使用已保存的指针映射："
 
 #: frmrescanpointerunit.rsrpusesavedpointermap2
 msgctxt "frmrescanpointerunit.rsrpusesavedpointermap2"
 msgid "Use saved pointermap"
-msgstr ""
+msgstr "使用已保存的指针映射"
 
 #: frmresumepointerscanunit.rsentertheaddressthisscanshouldlookfor
 msgid "Enter the address this scan should look for"
-msgstr ""
+msgstr "输入本次扫描应查找的地址"
 
 #: frmresumepointerscanunit.rsnewpointermap
 msgid "New pointermap"
-msgstr ""
+msgstr "新指针映射"
 
 #: frmresumepointerscanunit.rsrpsentertheipaddressestonotifyexplicitly
 msgctxt "frmresumepointerscanunit.rsrpsentertheipaddressestonotifyexplicitly"
 msgid "Enter the IP addresses to notify explicitly"
-msgstr ""
+msgstr "输入要明确通知的IP地址"
 
 #: frmresumepointerscanunit.rsrpsiplist
 msgctxt "frmresumepointerscanunit.rsrpsiplist"
 msgid "IP List"
-msgstr ""
+msgstr "IP列表"
 
 #: frmresumepointerscanunit.rsrpswasnotfound
 msgid " was not found"
-msgstr ""
+msgstr " 未找到"
 
 #: frmsavememoryregionunit.rsisnotavalidaddress
 #, object-pascal-format
 msgctxt "frmsavememoryregionunit.rsisnotavalidaddress"
 msgid "%s is not a valid address"
-msgstr ""
+msgstr "%s 不是有效的地址"
 
 #: frmsavememoryregionunit.rsnostartaddress
 msgid "If you don't include the header data you'll have to specify the startaddress yourself when loading the file(That means Cheat Engine won't fill in the startaddress text field when loaded for you)"
-msgstr ""
+msgstr "如果不包含头数据，加载文件时需要自行指定起始地址（这意味着Cheat Engine不会在加载时自动填写起始地址文本框）"
 
 #: frmsavememoryregionunit.rsnotallthememorywasreadablein
 msgid "Not all the memory was readable in"
-msgstr ""
+msgstr "并非所有内存都可在以下位置读取"
 
 #: frmsavememoryregionunit.rspleaseaddatleastoneaddressregiontothelist
 msgid "Please add at least one address region to the list"
-msgstr ""
+msgstr "请向列表中添加至少一个地址区域"
 
 #: frmsavesnapshotsunit.rsssareyousureyouwishtothrowawaythesesnapshots
 msgid "Are you sure you wish to throw away these snapshots?"
-msgstr ""
+msgstr "确定要丢弃这些快照吗？"
 
 #: frmsnapshothandlerunit.rsshcompare
 msgctxt "frmsnapshothandlerunit.rsshcompare"
 msgid "Compare"
-msgstr ""
+msgstr "比较"
 
 #: frmsnapshothandlerunit.rsshdissectandcomparememoryofselectedsnapshots
 msgid "Dissect and compare memory of selected snapshots"
-msgstr ""
+msgstr "解析并比较所选快照的内存"
 
 #: frmsnapshothandlerunit.rsshdissectmemoryofselectedsnapshot
 msgid "Dissect memory of selected snapshot"
-msgstr ""
+msgstr "解析所选快照的内存"
 
 #: frmsnapshothandlerunit.rsshfunctions
 msgid " Function(s): "
-msgstr ""
+msgstr " 功能： "
 
 #: frmsnapshothandlerunit.rsshlockandaddtostructuredissect
 msgctxt "frmsnapshothandlerunit.rsshlockandaddtostructuredissect"
 msgid "Lock and add to structure dissect"
-msgstr ""
+msgstr "锁定并添加到结构解析"
 
 #: frmsnapshothandlerunit.rsshnewwindow
 msgctxt "frmsnapshothandlerunit.rsshnewwindow"
 msgid "<New window>"
-msgstr ""
+msgstr "<新窗口>"
 
 #: frmsnapshothandlerunit.rsshselectthestructuredissectwindowyouwishtoaddthisregionto
 msgctxt "frmsnapshothandlerunit.rsshselectthestructuredissectwindowyouwishtoaddthisregionto"
 msgid "Select the structure dissect window you wish to add this region to"
-msgstr ""
+msgstr "选择要添加此区域的结构解析窗口"
 
 #: frmsnapshothandlerunit.rsshthestructureslistisbroken
 msgctxt "frmsnapshothandlerunit.rsshthestructureslistisbroken"
 msgid "The structures list is broken"
-msgstr ""
+msgstr "结构列表已损坏"
 
 #: frmsnapshothandlerunit.rsshview
 msgctxt "frmsnapshothandlerunit.rsshview"
 msgid "View"
-msgstr ""
+msgstr "查看"
 
 #: frmsortpointerlistunit.rstimeleft
 msgid "Estimated time left"
-msgstr ""
+msgstr "预计剩余时间"
 
 #: frmstackviewunit.rslockandaddtostructuredissect
 msgctxt "frmstackviewunit.rslockandaddtostructuredissect"
 msgid "Lock and add to structure dissect"
-msgstr ""
+msgstr "锁定并添加到结构解析"
 
 #: frmstackviewunit.rsnewwindow
 msgctxt "frmstackviewunit.rsnewwindow"
 msgid "<New window>"
-msgstr ""
+msgstr "<新窗口>"
 
 #: frmstackviewunit.rsselectthestructuredissectwindowyouwishtoaddthisreg
 msgctxt "frmstackviewunit.rsselectthestructuredissectwindowyouwishtoaddthisreg"
 msgid "Select the structure dissect window you wish to add this region to"
-msgstr ""
+msgstr "选择要添加此区域的结构解析窗口"
 
 #: frmstackviewunit.rssvthisstackviewwindowhasallocatedstacksnapshotsetc
 msgid "This stackview window has allocated stack snapshots in the target process. Do you wish to free them?"
-msgstr ""
+msgstr "此堆栈视图窗口已在目标进程中分配了堆栈快照。您希望释放它们吗？"
 
 #: frmstackviewunit.rsthestructureslistisbroken
 msgctxt "frmstackviewunit.rsthestructureslistisbroken"
 msgid "The structures list is broken"
-msgstr ""
+msgstr "结构列表已损坏"
 
 #: frmstringmapunit.rsbtnshowlist
 msgid "<<Show list"
-msgstr ""
+msgstr "<<显示列表"
 
 #: frmstringmapunit.rserror
 msgid "Error="
-msgstr ""
+msgstr "错误="
 
 #: frmstringmapunit.rsgenerateregexprenginefailed
 msgid "GenerateRegExprEngine failed"
-msgstr ""
+msgstr "GenerateRegExprEngine 失败"
 
 #: frmstringmapunit.rsgeneratestringmap
 msgid "Generate string map"
-msgstr ""
+msgstr "生成字符串映射"
 
 #: frmstringmapunit.rsnoreadablememoryfound
 msgctxt "frmstringmapunit.rsnoreadablememoryfound"
 msgid "No readable memory found"
-msgstr ""
+msgstr "未找到可读内存"
 
 #: frmstringmapunit.rsstop
 msgctxt "frmstringmapunit.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: frmstringmapunit.rsstringcount
 #, object-pascal-format
 msgid "Stringcount: %s"
-msgstr ""
+msgstr "字符串计数: %s"
 
 #: frmstringmapunit.rsunhandledtstringscancrash
 msgid "Unhandled TStringScan crash"
-msgstr ""
+msgstr "未处理的 TStringScan 崩溃"
 
 #: frmstringpointerscanunit.rsareyousureyo
 msgctxt "frmstringpointerscanunit.rsareyousureyo"
 msgid "Are you sure you wish to start a new scan?"
-msgstr ""
+msgstr "您确定要开始新的扫描吗？"
 
 #: frmstringpointerscanunit.rsgeneratedscanning
 msgctxt "frmstringpointerscanunit.rsgeneratedscanning"
 msgid "Generated. Scanning..."
-msgstr ""
+msgstr "已生成。正在扫描..."
 
 #: frmstringpointerscanunit.rsgeneratingstringmap
 msgctxt "frmstringpointerscanunit.rsgeneratingstringmap"
 msgid "Generating stringmap"
-msgstr ""
+msgstr "正在生成字符串映射"
 
 #: frmstringpointerscanunit.rsscan
 msgctxt "frmstringpointerscanunit.rsscan"
 msgid "Scan"
-msgstr ""
+msgstr "扫描"
 
 #: frmstringpointerscanunit.rsscanningfoun
 #, object-pascal-format
 msgctxt "frmstringpointerscanunit.rsscanningfoun"
 msgid "Scanning... Found %s"
-msgstr ""
+msgstr "正在扫描... 已找到 %s"
 
 #: frmstringpointerscanunit.rsspsuaddress
 msgctxt "frmstringpointerscanunit.rsspsuaddress"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: frmstringpointerscanunit.rsspsuaddress2
 msgctxt "frmstringpointerscanunit.rsspsuaddress2"
 msgid "Address 2"
-msgstr ""
+msgstr "地址 2"
 
 #: frmstringpointerscanunit.rsspsuerrorduringscannoscanresults
 msgctxt "frmstringpointerscanunit.rsspsuerrorduringscannoscanresults"
 msgid "Error during scan. No scanresults available"
-msgstr ""
+msgstr "扫描期间出错。无扫描结果可用"
 
 #: frmstringpointerscanunit.rsspsuexception
 msgctxt "frmstringpointerscanunit.rsspsuexception"
 msgid "Exception:"
-msgstr ""
+msgstr "异常："
 
 #: frmstringpointerscanunit.rsspsufound
 msgctxt "frmstringpointerscanunit.rsspsufound"
 msgid "Found:"
-msgstr ""
+msgstr "已找到："
 
 #: frmstringpointerscanunit.rsspsufuuuu
 msgctxt "frmstringpointerscanunit.rsspsufuuuu"
 msgid "FUUUU"
-msgstr ""
+msgstr "错误"
 
 #: frmstringpointerscanunit.rsspsufuuuuu
 msgctxt "frmstringpointerscanunit.rsspsufuuuuu"
 msgid "FUUUUU"
-msgstr ""
+msgstr "严重错误"
 
 #: frmstringpointerscanunit.rsspsunotyetimplemented
 msgctxt "frmstringpointerscanunit.rsspsunotyetimplemented"
 msgid "Not yet implemented"
-msgstr ""
+msgstr "尚未实现"
 
 #: frmstringpointerscanunit.rsspsuoffset
 msgctxt "frmstringpointerscanunit.rsspsuoffset"
 msgid "Offset "
-msgstr ""
+msgstr "偏移量 "
 
 #: frmstringpointerscanunit.rsspsurescan
 msgctxt "frmstringpointerscanunit.rsspsurescan"
 msgid "Rescan"
-msgstr ""
+msgstr "重新扫描"
 
 #: frmstringpointerscanunit.rsspsuscandonefound
 msgctxt "frmstringpointerscanunit.rsspsuscandonefound"
 msgid "Scan done! Found "
-msgstr ""
+msgstr "扫描完成！已找到 "
 
 #: frmstringpointerscanunit.rsstop
 msgctxt "frmstringpointerscanunit.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: frmstringpointerscanunit.rsterminating
 msgctxt "frmstringpointerscanunit.rsterminating"
 msgid "Terminating..."
-msgstr ""
+msgstr "正在终止..."
 
 #: frmstringpointerscanunit.rsthisaddressisnotaccessible
 msgctxt "frmstringpointerscanunit.rsthisaddressisnotaccessible"
 msgid "This address is not accessible"
-msgstr ""
+msgstr "此地址不可访问"
 
 #: frmstructurecompareunit.rsareyousureyo
 msgctxt "frmstructurecompareunit.rsareyousureyo"
 msgid "Are you sure you wish to start a new scan?"
-msgstr ""
+msgstr "您确定要开始新的扫描吗？"
 
 #: frmstructurecompareunit.rsgeneratedscanning
 msgctxt "frmstructurecompareunit.rsgeneratedscanning"
 msgid "Generated. Scanning..."
-msgstr ""
+msgstr "已生成。正在扫描..."
 
 #: frmstructurecompareunit.rsgeneratingstringmap
 msgctxt "frmstructurecompareunit.rsgeneratingstringmap"
 msgid "Generating stringmap"
-msgstr ""
+msgstr "正在生成字符串映射"
 
 #: frmstructurecompareunit.rsinvalidgroup
 #, object-pascal-format
 msgid "Group %d address %s (%s) is not valid"
-msgstr ""
+msgstr "组 %d 地址 %s (%s) 无效"
 
 #: frmstructurecompareunit.rsmaxaddressesshown
 msgid "Max addresses shown :"
-msgstr ""
+msgstr "显示的最大地址数："
 
 #: frmstructurecompareunit.rsmaxreached
 msgid "...<max reached>..."
-msgstr ""
+msgstr "...<已达上限>..."
 
 #: frmstructurecompareunit.rssameaddress
 #, object-pascal-format
 msgid "This will result in 0 results as address %s appears multiple times"
-msgstr ""
+msgstr "这将导致0个结果，因为地址 %s 出现多次"
 
 #: frmstructurecompareunit.rsscan
 msgctxt "frmstructurecompareunit.rsscan"
 msgid "Scan"
-msgstr ""
+msgstr "扫描"
 
 #: frmstructurecompareunit.rsscanningfoun
 #, object-pascal-format
 msgctxt "frmstructurecompareunit.rsscanningfoun"
 msgid "Scanning... Found %s"
-msgstr ""
+msgstr "正在扫描... 已找到 %s"
 
 #: frmstructurecompareunit.rsspsinvalidstruct
 msgid "Invalid structure pointerfile"
-msgstr ""
+msgstr "无效的结构指针文件"
 
 #: frmstructurecompareunit.rsspslock
 msgctxt "frmstructurecompareunit.rsspslock"
 msgid "Lock"
-msgstr ""
+msgstr "锁定"
 
 #: frmstructurecompareunit.rsspsneednewce
 msgid "You'll need a newer CE version to open this file"
-msgstr ""
+msgstr "您需要使用更新的CE版本来打开此文件"
 
 #: frmstructurecompareunit.rsspsnoerror
 msgid "No error"
-msgstr ""
+msgstr "无错误"
 
 #: frmstructurecompareunit.rsspsuaddress
 msgctxt "frmstructurecompareunit.rsspsuaddress"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: frmstructurecompareunit.rsspsuaddress2
 msgctxt "frmstructurecompareunit.rsspsuaddress2"
 msgid "Address 2"
-msgstr ""
+msgstr "地址 2"
 
 #: frmstructurecompareunit.rsspsuerrorduringscannoscanresults
 msgctxt "frmstructurecompareunit.rsspsuerrorduringscannoscanresults"
 msgid "Error during scan. No scanresults available"
-msgstr ""
+msgstr "扫描期间出错。无扫描结果可用"
 
 #: frmstructurecompareunit.rsspsuexception
 msgctxt "frmstructurecompareunit.rsspsuexception"
 msgid "Exception:"
-msgstr ""
+msgstr "异常："
 
 #: frmstructurecompareunit.rsspsufound
 msgctxt "frmstructurecompareunit.rsspsufound"
 msgid "Found:"
-msgstr ""
+msgstr "已找到："
 
 #: frmstructurecompareunit.rsspsufuuuu
 msgctxt "frmstructurecompareunit.rsspsufuuuu"
 msgid "FUUUU"
-msgstr ""
+msgstr "错误"
 
 #: frmstructurecompareunit.rsspsufuuuuu
 msgctxt "frmstructurecompareunit.rsspsufuuuuu"
 msgid "FUUUUU"
-msgstr ""
+msgstr "严重错误"
 
 #: frmstructurecompareunit.rsspsunlock
 #, object-pascal-format
 msgid "Unlock (%.8x-%.8x)"
-msgstr ""
+msgstr "解锁 (%.8x-%.8x)"
 
 #: frmstructurecompareunit.rsspsunotyetimplemented
 msgctxt "frmstructurecompareunit.rsspsunotyetimplemented"
 msgid "Not yet implemented"
-msgstr ""
+msgstr "尚未实现"
 
 #: frmstructurecompareunit.rsspsuoffset
 msgctxt "frmstructurecompareunit.rsspsuoffset"
 msgid "Offset "
-msgstr ""
+msgstr "偏移量 "
 
 #: frmstructurecompareunit.rsspsurescan
 msgctxt "frmstructurecompareunit.rsspsurescan"
 msgid "Rescan"
-msgstr ""
+msgstr "重新扫描"
 
 #: frmstructurecompareunit.rsspsuscandonefound
 msgctxt "frmstructurecompareunit.rsspsuscandonefound"
 msgid "Scan done! Found "
-msgstr ""
+msgstr "扫描完成！已找到 "
 
 #: frmstructurecompareunit.rsstop
 msgctxt "frmstructurecompareunit.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: frmstructurecompareunit.rsstructurecompare
 msgctxt "frmstructurecompareunit.rsstructurecompare"
 msgid "Structure Compare"
-msgstr ""
+msgstr "结构比较"
 
 #: frmstructurecompareunit.rsterminating
 msgctxt "frmstructurecompareunit.rsterminating"
 msgid "Terminating..."
-msgstr ""
+msgstr "正在终止..."
 
 #: frmstructurecompareunit.rsthisaddressisnotaccessible
 msgctxt "frmstructurecompareunit.rsthisaddressisnotaccessible"
 msgid "This address is not accessible"
-msgstr ""
+msgstr "此地址不可访问"
 
 #: frmstructurecompareunit.rstoosmallalign
 msgid "Alignsize must be greater than 0"
-msgstr ""
+msgstr "对齐大小必须大于0"
 
 #: frmstructurelinkerunit.strisnotavalidaddress
 #, object-pascal-format
 msgctxt "frmstructurelinkerunit.strisnotavalidaddress"
 msgid "%s is not a valid address"
-msgstr ""
+msgstr "%s 不是有效地址"
 
 #: frmstructures2elementinfounit.rsmustselectstructure
 msgid "For a nested structure you must select a predefined structure"
-msgstr ""
+msgstr "对于嵌套结构，您必须选择一个预定义结构"
 
 #: frmstructures2elementinfounit.rss2eiifyoucontinuetheoldlocallydefinedtype
 #, object-pascal-format
 msgid "If you continue the old locally defined type %s will be deleted. Continue? (Tip: You can make this type into a global type so it can be re-used over again)"
-msgstr ""
+msgstr "如果继续，旧的本地定义类型 %s 将被删除。继续吗？(提示：您可以将此类型设为全局类型以便重复使用)"
 
 #: frmstructures2elementinfounit.rss2eilocalstruct
 msgid "Local struct:"
-msgstr ""
+msgstr "本地结构："
 
 #: frmstructures2elementinfounit.rsundefined
 msgctxt "frmstructures2elementinfounit.rsundefined"
 msgid "Undefined"
-msgstr ""
+msgstr "未定义"
 
 #: frmstructuresconfigunit.rshighlighted
 msgctxt "frmstructuresconfigunit.rshighlighted"
 msgid "Highlighted"
-msgstr ""
+msgstr "高亮显示"
 
 #: frmstructuresconfigunit.rsnormal
 msgctxt "frmstructuresconfigunit.rsnormal"
 msgid "Normal"
-msgstr ""
+msgstr "普通"
 
 #: frmstructuresnewstructureunit.rsguessfieldtypes
 msgid "Guess Field Types"
-msgstr ""
+msgstr "猜测字段类型"
 
 #: frmstructuresnewstructureunit.rssize
 msgctxt "frmstructuresnewstructureunit.rssize"
 msgid "Size:"
-msgstr ""
+msgstr "大小："
 
 #: frmstructuresnewstructureunit.rsstructurename
 msgid "Structure Name:"
-msgstr ""
+msgstr "结构名称："
 
 #: frmstructuresnewstructureunit.rsuseautotypesifavailable
 msgid "Use Auto Types If Available"
-msgstr ""
+msgstr "如果可用则使用自动类型"
 
 #: frmstructuresnewstructureunit.rswindowtitle
 msgid "New Structure"
-msgstr ""
+msgstr "新建结构"
 
 #: frmthreadlistunit.rscouldntobtaincontext
 msgid "Couldn't obtain context"
-msgstr ""
+msgstr "无法获取上下文"
 
 #: frmthreadlistunit.rscouldntopenhandle
 msgid "Couldn't open handle"
-msgstr ""
+msgstr "无法打开句柄"
 
 #: frmthreadlistunit.rscurrent
 msgid "Current"
-msgstr ""
+msgstr "当前"
 
 #: frmthreadlistunit.rsentrypoint
 msgid "Entry Point"
-msgstr ""
+msgstr "入口点"
 
 #: frmthreadlistunit.rspleasefirstattachthedebuggertothisprocess
 msgid "Please first attach the debugger to this process"
-msgstr ""
+msgstr "请先将调试器附加到此进程"
 
 #: frmthreadlistunit.rstl1bytes
 msgid "1 byte"
-msgstr ""
+msgstr "1字节"
 
 #: frmthreadlistunit.rstl2bytes
 msgid "2 bytes"
-msgstr ""
+msgstr "2字节"
 
 #: frmthreadlistunit.rstl4bytes
 msgid "4 bytes"
-msgstr ""
+msgstr "4字节"
 
 #: frmthreadlistunit.rstl8bytes
 msgid "8 bytes"
-msgstr ""
+msgstr "8字节"
 
 #: frmthreadlistunit.rstlaccess
 msgid "Access"
-msgstr ""
+msgstr "访问"
 
 #: frmthreadlistunit.rstlchangevalue
 msgctxt "frmthreadlistunit.rstlchangevalue"
 msgid "Change value"
-msgstr ""
+msgstr "更改值"
 
 #: frmthreadlistunit.rstlexecute
 msgctxt "frmthreadlistunit.rstlexecute"
 msgid "Execute"
-msgstr ""
+msgstr "执行"
 
 #: frmthreadlistunit.rstlfailederrorcode
 msgid "failed. Errorcode="
-msgstr ""
+msgstr "失败。错误代码="
 
 #: frmthreadlistunit.rstlio
 msgid "I/O"
-msgstr ""
+msgstr "输入/输出"
 
 #: frmthreadlistunit.rstlwhatshouldthenewvalueofthisregisterbe
 msgid "What should the new value of this register be?"
-msgstr ""
+msgstr "此寄存器的新值应为什么？"
 
 #: frmthreadlistunit.rstlwrite
 msgid "Write"
-msgstr ""
+msgstr "写入"
 
 #: frmtracerunit.rsdbvmbreakandtraceneedsdbvm
 msgid "DBVM Break and Trace needs DBVM. Loading DBVM can potentially cause a system freeze. Are you sure?"
-msgstr ""
+msgstr "DBVM断点追踪需要DBVM。加载DBVM可能导致系统冻结。您确定吗？"
 
 #: frmtracerunit.rssearch
 msgctxt "frmtracerunit.rssearch"
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: frmtracerunit.rstracer
 msgctxt "frmtracerunit.rstracer"
 msgid "Tracer"
-msgstr ""
+msgstr "追踪器"
 
 #: frmtracerunit.rstypetheluaconditionyouwanttosearchforexampleeax0x1
 msgid ""
 "Type the (LUA) condition you want to search for (Example: EAX==0x1234)    \n"
 "Also available: referencedAddress (integer), referencedBytes (bytetable), instruction (string)"
 msgstr ""
+"输入要搜索的(LUA)条件(例如：EAX==0x1234)    \n"
+"还可使用：referencedAddress (整数), referencedBytes (字节表), instruction (字符串)"
 
 #: frmtracerunit.rswaitingfortracetostart
 msgid "Waiting for trace to start"
-msgstr ""
+msgstr "正在等待跟踪开始"
 
 #: frmultimap2unit.rscantbeparsed
-msgid "\" can't be parsed"
-msgstr ""
+msgid "" can't be parsed"
+msgstr ""无法解析"
 
 #: frmultimap2unit.rsclosingwillfreeallcollecteddata
 msgid "Closing will free all collected data. Continue? (Tip: You can minimize this window instead)"
-msgstr ""
+msgstr "关闭将释放所有收集的数据。继续吗？(提示：您可以最小化此窗口)"
 
 #: frmultimap2unit.rscpu
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 #: frmultimap2unit.rsdasherror
 msgid " -error"
-msgstr ""
+msgstr " -错误"
 
 #: frmultimap2unit.rsdoesntexistandcantbecreated
 msgid " does not exist and can not be created"
-msgstr ""
+msgstr "不存在且无法创建"
 
 #: frmultimap2unit.rsfailureloadinglibipt
 msgid "Failure loading libipt"
-msgstr ""
+msgstr "加载libipt失败"
 
 #: frmultimap2unit.rsfirstopenaprocess
 msgid "First open a process"
-msgstr ""
+msgstr "请先打开一个进程"
 
 #: frmultimap2unit.rsforsomeweirdreason
-msgid "For some weird reason \""
-msgstr ""
+msgid "For some weird reason ""
+msgstr "由于某些奇怪的原因""
 
 #: frmultimap2unit.rsinstructionpointerlistsize
 msgctxt "frmultimap2unit.rsinstructionpointerlistsize"
 msgid "Instruction Pointer List Size:"
-msgstr ""
+msgstr "指令指针列表大小:"
 
 #: frmultimap2unit.rsisaninvalidrange
 msgid " is an invalid range"
-msgstr ""
+msgstr "是无效范围"
 
 #: frmultimap2unit.rsmaxamountofrangesreachedforyourcpu
 msgid "Max amount of ranges reached for your CPU. Clear one first"
-msgstr ""
+msgstr "已达到您的CPU的最大范围数。请先清除一个"
 
 #: frmultimap2unit.rsmodulelist
 msgid "Module list"
-msgstr ""
+msgstr "模块列表"
 
 #: frmultimap2unit.rsonlyforintelcpus
 msgid "Sorry, but Ultimap2 only works on Intel CPU's"
-msgstr ""
+msgstr "抱歉，Ultimap2仅适用于Intel CPU"
 
 #: frmultimap2unit.rspaused
 msgctxt "frmultimap2unit.rspaused"
 msgid "Paused"
-msgstr ""
+msgstr "已暂停"
 
 #: frmultimap2unit.rsprocessingdata
 msgid ""
 "Processing\n"
 "Data"
 msgstr ""
+"正在处理\n"
+"数据"
 
 #: frmultimap2unit.rsputbetweentomarsasanautostoprange
-msgid "(Put between *'s to mark as an auto stop range)"
-msgstr ""
+msgid "(Put between 's to mark as an auto stop range)"
+msgstr "(放在之间标记为自动停止范围)"
 
 #: frmultimap2unit.rsrangesemptyforallmax
 #, object-pascal-format
 msgid "Ranges: (Empty for all) (Max %d)"
-msgstr ""
+msgstr "范围: (空表示全部) (最大%d)"
 
 #: frmultimap2unit.rsrangesneeddbvminwindows10
 msgid "To use ranges with Ultimap2 in windows 10, you must hide the fact that you use ranges from it. To be able to do that DBVM needs to be running. There is a chance running DBVM can crash your system and make you lose your data(So don't forget to save first). Do you want to run DBVM?"
-msgstr ""
+msgstr "要在Windows 10中使用Ultimap2的范围功能，您必须隐藏使用范围的事实。为此需要运行DBVM。运行DBVM可能导致系统崩溃和数据丢失(请先保存)。您要运行DBVM吗?"
 
 #: frmultimap2unit.rsrecording2
 msgid "Recording"
-msgstr ""
+msgstr "正在记录"
 
 #: frmultimap2unit.rsselectamoduleorgiveyourownrange
 msgid "Select a module or give your own range"
-msgstr ""
+msgstr "选择模块或指定自定义范围"
 
 #: frmultimap2unit.rssorrybutyourcpudoesntseemtobeabletosetatargetprocess
 msgid "Sorry, but your CPU doesn't seem to be able to set a target PROCESS"
-msgstr ""
+msgstr "抱歉，您的CPU似乎无法设置目标进程"
 
 #: frmultimap2unit.rssorrybutyourcpuseemstobeleackingiptfeature
 msgid "Sorry, but your CPU seems to be lacking the Intel Processor Trace feature which Ultimap2 makes use of"
-msgstr ""
+msgstr "抱歉，您的CPU似乎缺少Ultimap2所需的Intel处理器追踪功能"
 
 #: frmultimap2unit.rssorrybutyourcpusimplementationoftheiptfeatureistooold
 msgid "Sorry, but your CPU's implementation of the Intel Processor Trace feature is too old. Ultimap uses multiple ToPA entries"
-msgstr ""
+msgstr "抱歉，您的CPU的Intel处理器追踪功能实现太旧。Ultimap使用多个ToPA条目"
 
 #: frmultimap2unit.rstargetadifferentprocess
 msgid "Target a different process. Ultimap2 will suspend the target when the buffer is full, and suspending the thing that empties the buffer is not a good idea"
-msgstr ""
+msgstr "请选择不同进程为目标。当缓冲区满时Ultimap2会挂起目标进程，而挂起清空缓冲区的进程不是好主意"
 
 #: frmultimap2unit.rstherangeyouhaveprovidedisanexitrangebeaware
 msgid "The range you have provided is an 'Exit' range. Be aware that this doesn't mean it will always stop at that range, or that the result is what you expect. A context switch to another thread between the start and stop can add a lot of other data"
-msgstr ""
+msgstr "您提供的范围是一个'退出'范围。请注意这并不意味着它总是会在该范围停止，或者结果是您预期的结果。在开始和停止之间的上下文切换到另一个线程可能会添加大量其他数据"
 
 #: frmultimap2unit.rsthesizehastobe12kborhigher
 msgid "The size has to be 12KB or higher"
-msgstr ""
+msgstr "大小必须为12KB或更高"
 
 #: frmultimap2unit.rsthread
 msgctxt "frmultimap2unit.rsthread"
 msgid "Thread"
-msgstr ""
+msgstr "线程"
 
 #: frmultimap2unit.rsyoumustselectabuffersize
 msgid "You must select a buffersize"
-msgstr ""
+msgstr "您必须选择一个缓冲区大小"
 
 #: frmultimapunit.rsremovehotkey
 #, object-pascal-format
 msgid "Remove hotkey (%s)"
-msgstr ""
+msgstr "移除热键(%s)"
 
 #: frmultimapunit.rsuuerrorduringmap
 msgid "Error during map"
-msgstr ""
+msgstr "映射过程中出错"
 
 #: frmultimapunit.rsuulastfilterresults
 #, object-pascal-format
 msgid "Last filter results: filtered out %d left: %d"
-msgstr ""
+msgstr "最后过滤结果: 已过滤%d 剩余:%d"
 
 #: frmultimapunit.rsuunew
 msgid " new="
-msgstr ""
+msgstr " 新="
 
 #: frmultimapunit.rsuuold
 msgid "old="
-msgstr ""
+msgstr "旧="
 
 #: frmultimapunit.rsuupause
 msgctxt "frmultimapunit.rsuupause"
 msgid "Pause"
-msgstr ""
+msgstr "暂停"
 
 #: frmultimapunit.rsuupleaserunthe64bitversionofcheatenginetomakeuseofthisfeature
 msgid "Please run the 64-bit version of Cheat Engine to make use of this feature"
-msgstr ""
+msgstr "请运行64位版本的Cheat Engine以使用此功能"
 
 #: frmultimapunit.rsuuresume
 msgid "Resume"
-msgstr ""
+msgstr "恢复"
 
 #: frmultimapunit.rsuusorrybutthisfeatureisonlyavailableonintelcpus
 msgid "Sorry, but this feature is only available on intel cpu's"
-msgstr ""
+msgstr "抱歉，此功能仅适用于Intel CPU"
 
 #: frmultimapunit.rsuuthemaximumnumberofworkersis64
 msgid "The maximum number of workers is 64"
-msgstr ""
+msgstr "最大工作线程数为64"
 
 #: frmultimapunit.rsuuthisfunctionneedsatleast200bytesfortheheaderofthebuffer
 msgid "This function needs at least 200 bytes for the header of the buffer"
-msgstr ""
+msgstr "此功能需要至少200字节用于缓冲区头部"
 
 #: frmultimapunit.rsuuthiswillbringbackallfoundinstructions
 msgid "This will bring back all found instructions. Continue?"
-msgstr ""
+msgstr "这将恢复所有找到的指令。继续吗？"
 
 #: frmultimapunit.rsuuthiswillresetthecallcountoffunctionbackto0
 msgid "This will reset the callcount of functions back to 0. This can not be undone. Continue?"
-msgstr ""
+msgstr "这将把函数调用计数重置为0。此操作无法撤销。继续吗？"
 
 #: frmwatchlistunit.rsunparsable
 msgid "<Unparsable>"
-msgstr ""
+msgstr "<无法解析>"
 
 #: frmwatchlistunit.rsunreadable
 msgid "<Unreadable>"
-msgstr ""
+msgstr "<不可读>"
 
 #: gnuassembler.rsbyteswhile
 msgid " bytes while "
-msgstr ""
+msgstr " 字节，而 "
 
 #: gnuassembler.rsconfigureavalidbinutilssetupfirst
 msgid "Configure a valid binutils setup first"
-msgstr ""
+msgstr "请先配置有效的binutils设置"
 
 #: gnuassembler.rscouldnotbefound
 msgctxt "gnuassembler.rscouldnotbefound"
 msgid " could not be found"
-msgstr ""
+msgstr " 未找到"
 
 #: gnuassembler.rsdoesntseemtobeavalidelffile
 msgid " doesn't seem to be a valid ELF file"
-msgstr ""
+msgstr " 似乎不是有效的ELF文件"
 
 #: gnuassembler.rsgnuassemblererror
 msgid "GNU Assembler error"
-msgstr ""
+msgstr "GNU汇编器错误"
 
 #: gnuassembler.rsinvalidelffile
 msgid "Invalid ELF file"
-msgstr ""
+msgstr "无效的ELF文件"
 
 #: gnuassembler.rsnobinutilsinstalled
 msgid "No binutils installed"
-msgstr ""
+msgstr "未安装binutils"
 
 #: gnuassembler.rstheaobfor
 msgid "The AOB for "
-msgstr ""
+msgstr "AOB用于 "
 
 #: gnuassembler.rstheproperformatofasectionis
 msgid "The proper format of .asection is : .asection <name> <preferedaddress>"
-msgstr ""
+msgstr ".asection的正确格式是：.asection <名称> <首选地址>"
 
 #: gnuassembler.rstheproperformatofmsectionis
 msgid "The proper format of .msection is : .msection <name> <address> <optional expected size>"
-msgstr ""
+msgstr ".msection的正确格式是：.msection <名称> <地址> <可选预期大小>"
 
 #: gnuassembler.rstook
 msgid " took "
-msgstr ""
+msgstr " 花费 "
 
 #: gnuassembler.rswhereexpected
 msgid " where expected"
-msgstr ""
+msgstr " 在预期位置"
 
 #: groupscancommandparser.rsaobdoesnotsupportrange
 msgid "AOB does not support range"
-msgstr ""
+msgstr "AOB不支持范围"
 
 #: groupscancommandparser.rsarangecantbeawildcard
 msgid "A range can't be a wildcard"
-msgstr ""
+msgstr "范围不能是通配符"
 
 #: groupscancommandparser.rsarangetypeneedsarangeforvalue
 msgid "A range type needs a range for value"
-msgstr ""
+msgstr "范围类型需要值的范围"
 
 #: groupscancommandparser.rsgscpcustomtypenotrecognized
 msgid "Custom type not recognized: "
-msgstr ""
+msgstr "未识别的自定义类型: "
 
 #: groupscancommandparser.rsgscpinvalidgroupscancommand
 msgid "Invalid groupscan command"
-msgstr ""
+msgstr "无效的组扫描命令"
 
 #: groupscancommandparser.rsgscpwildcardsemptyarenotallowedforoutoforderscans
 msgid "Wildcards/Empty are not allowed for Out of Order scans"
-msgstr ""
+msgstr "无序扫描不允许使用通配符/空值"
 
 #: guisafecriticalsection.rscriticalsectionleavewithoutenter
 msgid "Criticalsection leave without enter"
-msgstr ""
+msgstr "关键段在未进入时退出"
 
 #: hexviewunit.rsaddress
 msgctxt "hexviewunit.rsaddress"
 msgid "address"
-msgstr ""
+msgstr "地址"
 
 #: hexviewunit.rsbase
 msgid "Base"
-msgstr ""
+msgstr "基址"
 
 #: hexviewunit.rsbigfuckingerror
 msgid "Big fucking error"
-msgstr ""
+msgstr "严重错误"
 
 #: hexviewunit.rsbytes
 msgctxt "hexviewunit.rsbytes"
 msgid "bytes"
-msgstr ""
+msgstr "字节"
 
 #: hexviewunit.rscouldnotbeinterpretedasavalue
 #, object-pascal-format
 msgid "%s could not be interpreted as a value"
-msgstr ""
+msgstr "%s 不能被解释为一个值"
 
 #: hexviewunit.rsexecute
 msgctxt "hexviewunit.rsexecute"
 msgid "Execute"
-msgstr ""
+msgstr "执行"
 
 #: hexviewunit.rsexecutereadonly
 msgid "Execute/Read only"
-msgstr ""
+msgstr "执行/只读"
 
 #: hexviewunit.rsexecutereadwrite
 msgid "Execute/Read/Write"
-msgstr ""
+msgstr "执行/读取/写入"
 
 #: hexviewunit.rsexecutewritecopy
 msgid "Execute/Write Copy"
-msgstr ""
+msgstr "执行/写入复制"
 
 #: hexviewunit.rsguarded
 msgid "Guarded"
-msgstr ""
+msgstr "受保护"
 
 #: hexviewunit.rsinvalidbytesperseperatorvalue
 #, object-pascal-format
 msgid "Invalid BytesPerSeperator value:%s"
-msgstr ""
+msgstr "无效的BytesPerSeperator值:%s"
 
 #: hexviewunit.rsmodule
 msgid "Module"
-msgstr ""
+msgstr "模块"
 
 #: hexviewunit.rsnoaccess
 msgctxt "hexviewunit.rsnoaccess"
 msgid "No Access"
-msgstr ""
+msgstr "无访问权限"
 
 #: hexviewunit.rsnotcached
 msgid "Not Cached"
-msgstr ""
+msgstr "未缓存"
 
 #: hexviewunit.rsphysicaladdress
 msgctxt "hexviewunit.rsphysicaladdress"
 msgid "Physical Address"
-msgstr ""
+msgstr "物理地址"
 
 #: hexviewunit.rsprotect
 msgctxt "hexviewunit.rsprotect"
 msgid "Protect"
-msgstr ""
+msgstr "保护"
 
 #: hexviewunit.rsreadonly
 msgid "Read Only"
-msgstr ""
+msgstr "只读"
 
 #: hexviewunit.rsreadwrite
 msgid "Read/Write"
-msgstr ""
+msgstr "读取/写入"
 
 #: hexviewunit.rssize
 msgctxt "hexviewunit.rssize"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: hexviewunit.rsthislookslikeanarrayofbytedoyouwanttoinputitasahex
 msgid "This looks like an array of byte. Do you want to input it as a hexadecimal string?"
-msgstr ""
+msgstr "这看起来像字节数组。要作为十六进制字符串输入吗？"
 
 #: hexviewunit.rsthislookslikeanormalstringdoyouwanttoinputitasastr
-msgid "This looks like a normal string. Do you want to input it as a string ?"
-msgstr ""
+msgid "This looks like a normal string. Do you want to input it as a string?"
+msgstr "这看起来像普通字符串。要作为字符串输入吗？"
 
 #: hexviewunit.rswritecombine
 msgctxt "hexviewunit.rswritecombine"
 msgid "Write Combine"
-msgstr ""
+msgstr "写入组合"
 
 #: hexviewunit.rswritecopy
 msgctxt "hexviewunit.rswritecopy"
 msgid "Write Copy"
-msgstr ""
+msgstr "写入复制"
 
 #: hotkeys.rsdeactivateonrelease
 msgid "Deactivate on release"
-msgstr ""
+msgstr "释放时停用"
 
 #: hotkeys.rsdecreasevaluewith
 msgid "Decrease value with:"
-msgstr ""
+msgstr "减少值:"
 
 #: hotkeys.rsdefaultactivated
 #, object-pascal-format
 msgid "%s Activated"
-msgstr ""
+msgstr "%s 已激活"
 
 #: hotkeys.rsdefaultdeactivated
 #, object-pascal-format
 msgid "%s Deactivated"
-msgstr ""
+msgstr "%s 已停用"
 
 #: hotkeys.rsdisablescript
 msgid "Disable script"
-msgstr ""
+msgstr "禁用脚本"
 
 #: hotkeys.rsenablescript
 msgid "Enable script"
-msgstr ""
+msgstr "启用脚本"
 
 #: hotkeys.rsfreeze
 msgid "Freeze"
-msgstr ""
+msgstr "冻结"
 
 #: hotkeys.rshotkeyid
 #, object-pascal-format
 msgid "Hotkey ID=%s"
-msgstr ""
+msgstr "热键ID=%s"
 
 #: hotkeys.rsincreasevaluewith
 msgid "Increase value with:"
-msgstr ""
+msgstr "增加值:"
 
 #: hotkeys.rsrestoretooriginalonrelease
 msgid "Restore to original on release"
-msgstr ""
+msgstr "释放时恢复原始值"
 
 #: hotkeys.rssetvalueto
 msgid "Set value to:"
-msgstr ""
+msgstr "设置值为:"
 
 #: hotkeys.rsspeaktext
 msgid "Speak Text"
-msgstr ""
+msgstr "朗读文本"
 
 #: hotkeys.rstexttospeechhint
 msgid ""
@@ -4555,609 +4574,613 @@ msgid ""
 "{MRDescription} = The description field of the memory record\n"
 "{MRValue} = The value of the memory record"
 msgstr ""
+"要朗读的文本\n"
+"{Description} = 热键的描述\n"
+"{MRDescription} = 内存记录的描述字段\n"
+"{MRValue} = 内存记录的值"
 
 #: hotkeys.rstogglefreeze
 msgctxt "hotkeys.rstogglefreeze"
 msgid "Toggle freeze"
-msgstr ""
+msgstr "切换冻结"
 
 #: hotkeys.rstogglefreezeandallowdecrease
 msgid "Toggle freeze and allow decrease"
-msgstr ""
+msgstr "切换冻结并允许减少"
 
 #: hotkeys.rstogglefreezeandallowincrease
 msgid "Toggle freeze and allow increase"
-msgstr ""
+msgstr "切换冻结并允许增加"
 
 #: hotkeys.rstogglescript
 msgid "Toggle script"
-msgstr ""
+msgstr "切换脚本"
 
 #: hotkeys.rsunfreeze
 msgid "Unfreeze"
-msgstr ""
+msgstr "解冻"
 
 #: iconstuff.rsfailureopen
 msgid "Failure opening "
-msgstr ""
+msgstr "打开失败 "
 
 #: iconstuff.rsiconpicker
 msgid "Icon picker"
-msgstr ""
+msgstr "图标选择器"
 
 #: iconstuff.rsnoiconfound
 msgid "No icon found in this file"
-msgstr ""
+msgstr "此文件中未找到图标"
 
 #: iconstuff.rsunhandledext
 msgid "Unhandled file extension"
-msgstr ""
+msgstr "不支持的文件扩展名"
 
 #: kerneldebuggerinterface.rsdbkdebug_startdebuggingfailed
 msgid "DBKDebug_StartDebugging failed"
-msgstr ""
+msgstr "DBKDebug_StartDebugging失败"
 
 #: kerneldebuggerinterface.rskernelmodeneedsdbvm
 msgid "You can't use kerneldebug in 64-bit without DBVM"
-msgstr ""
+msgstr "没有DBVM无法在64位系统中使用内核调试"
 
 #: libcepack.askpermission
 #, object-pascal-format
 msgid "Extract %s to %s?"
-msgstr ""
+msgstr "提取 %s 到 %s？"
 
 #: luacaller.rsautoassemblercallbackluafunctionerror
 msgid "AutoAssemblerCallback: Lua Function error("
-msgstr ""
+msgstr "自动汇编回调: Lua函数错误("
 
 #: luacaller.rsisnotyetsupported
 msgctxt "luacaller.rsisnotyetsupported"
 msgid " is not yet supported"
-msgstr ""
+msgstr " 尚未支持"
 
 #: luacaller.rsstructuredissecteventluafunctionerror
 msgid "StructureDissectEvent: Lua Function error("
-msgstr ""
+msgstr "结构解析事件: Lua函数错误("
 
 #: luacaller.rsthistypeofmethod
 msgctxt "luacaller.rsthistypeofmethod"
 msgid "This type of method:"
-msgstr ""
+msgstr "该类型的方法:"
 
 #: luaclass.rsinvalidclassobject
 msgid "Invalid class object"
-msgstr ""
+msgstr "无效的类对象"
 
 #: luadissectcode.rscouldnotbefound
 msgctxt "luadissectcode.rscouldnotbefound"
 msgid " could not be found"
-msgstr ""
+msgstr " 未找到"
 
 #: luadissectcode.rsinvalidparametersfordissect
 msgid "Invalid parameters for dissect"
-msgstr ""
+msgstr "解析参数无效"
 
 #: luadissectcode.rsthemodulenamed
 msgid "The module named "
-msgstr ""
+msgstr "名为 "
 
 #: luaform.rsthegivenformisnotcompatible
 msgid "The given form is not compatible. Formclass="
-msgstr ""
+msgstr "给定的表单不兼容。表单类="
 
 #: luafoundlist.rscreatefoundlistneedsamemscanobjectasparameter
 msgid "createfoundlist needs a memscan object as parameter"
-msgstr ""
+msgstr "createfoundlist需要以memscan对象作为参数"
 
 #: luahandler.rscheatengineisbeingafag
 msgid "Cheatengine is being a fag"
-msgstr ""
+msgstr "Cheat Engine出现问题"
 
 #: luahandler.rsconditionalbreakpointerror
 msgid "Conditional breakpoint error"
-msgstr ""
+msgstr "条件断点错误"
 
 #: luahandler.rscreatememscanneedsaprogressbarornil
 msgid "createMemScan needs a progressbar or nil. "
-msgstr ""
+msgstr "createMemScan需要进度条或nil参数。"
 
 #: luahandler.rsdeallocatesharedmemoryisnotimplemented
 msgid "deallocateSharedMemory is not implemented (It's not even in the list of available functions)"
-msgstr ""
+msgstr "deallocateSharedMemory未实现(甚至不在可用函数列表中)"
 
 #: luahandler.rsdebugsetbreakpointneedsatleastanaddress
 msgid "debug_setBreakpoint needs at least an address"
-msgstr ""
+msgstr "debug_setBreakpoint至少需要一个地址参数"
 
 #: luahandler.rserror
 msgid "Error:"
-msgstr ""
+msgstr "错误:"
 
 #: luahandler.rserror2
 msgid " error:"
-msgstr ""
+msgstr " 错误:"
 
 #: luahandler.rserror3
 msgid " error"
-msgstr ""
+msgstr " 错误"
 
 #: luahandler.rsgetprocesslisttheprovidedlistobjectisnotvalid
 msgid "getProcessList: the provided List object is not valid"
-msgstr ""
+msgstr "getProcessList: 提供的List对象无效"
 
 #: luahandler.rsgetthreadlisttheprovidedlistobjectisnotvalid
 msgid "getThreadlist: the provided List object is not valid"
-msgstr ""
+msgstr "getThreadlist: 提供的List对象无效"
 
 #: luahandler.rsincorrectnumberofparameters
 msgid "Incorrect number of parameters"
-msgstr ""
+msgstr "参数数量不正确"
 
 #: luahandler.rsinvalidfloat
 #, object-pascal-format
 msgid "Invalid floating point string:%s"
-msgstr ""
+msgstr "无效的浮点字符串:%s"
 
 #: luahandler.rsinvalidint
 #, object-pascal-format
 msgid "Invalid integer:%s"
-msgstr ""
+msgstr "无效的整数:%s"
 
 #: luahandler.rsisnotaprogressbar
 msgid " is not a progressbar"
-msgstr ""
+msgstr " 不是进度条"
 
 #: luahandler.rsluapanic
 msgid "LUA panic!"
-msgstr ""
+msgstr "LUA异常!"
 
 #: luahandler.rslua_doscriptwasnotcalledromthemainthread
 msgid "LUA_DoScript was not called from the main thread"
-msgstr ""
+msgstr "LUA_DoScript不是从主线程调用的"
 
 #: luahandler.rsmainluaerror
 msgid "main.lua error:"
-msgstr ""
+msgstr "main.lua错误:"
 
 #: luahandler.rsmainluaerror2
 msgid "main.lua error"
-msgstr ""
+msgstr "main.lua错误"
 
 #: luahandler.rsnonmainthreadluaerror
 msgid "Lua error in a secondary thread"
-msgstr ""
+msgstr "辅助线程中的Lua错误"
 
 #: luahandler.rsnumberrequired
 msgid "Number required"
-msgstr ""
+msgstr "需要数字"
 
 #: luahandler.rsplaysoundtheparametermustbeatablefileoramemorystream
 msgid "playSound: The parameter must be a table file or a memory stream. Nothing else"
-msgstr ""
+msgstr "playSound: 参数必须是表文件或内存流，其他类型均不可"
 
 #: luahandler.rspluginaddress
 msgctxt "luahandler.rspluginaddress"
 msgid "Plugin Address"
-msgstr ""
+msgstr "插件地址"
 
 #: luahandler.rsscriptcorruptedvar
 #, object-pascal-format
 msgid "%s has corrupted the global %s variable. Many scripts will fail to load now"
-msgstr ""
+msgstr "%s破坏了全局变量%s。现在许多脚本将无法加载"
 
 #: luahandler.rsthistypeisnotsupportedhere
 msgid "This type is not supported here"
-msgstr ""
+msgstr "不支持此类型"
 
 #: luahandler.rsundefinedluaerror
 msgid "Undefined lua error"
-msgstr ""
+msgstr "未定义的lua错误"
 
 #: luamemscan.rsnotallparametershavebeenprovided
 msgid "Not all parameters have been provided"
-msgstr ""
+msgstr "未提供所有必要参数"
 
 #: luaobject.rsisnotyetsupported
 msgctxt "luaobject.rsisnotyetsupported"
 msgid " is not yet supported"
-msgstr ""
+msgstr " 尚未支持"
 
 #: luaobject.rsthisisaninvalidclassormethodproperty
 msgid "This is an invalid class or method property"
-msgstr ""
+msgstr "这是无效的类或方法属性"
 
 #: luaobject.rsthistypeofmethod
 msgctxt "luaobject.rsthistypeofmethod"
 msgid "This type of method:"
-msgstr ""
+msgstr "该类型的方法:"
 
 #: luastructure.rsinvalidindex
 msgid "Invalid index"
-msgstr ""
+msgstr "无效索引"
 
 #: luastructurefrm.rsgroup1
 msgctxt "luastructurefrm.rsgroup1"
 msgid "Group 1"
-msgstr ""
+msgstr "组1"
 
 #: luastructurefrm.rsgroupd
 #, object-pascal-format
 msgid "Group %d"
-msgstr ""
+msgstr "组 %d"
 
 #: luasyntax.syns_attrluamstring
 msgid "Multiline String"
-msgstr ""
+msgstr "多行字符串"
 
 #: luasyntax.syns_attrnumber
 msgid "Numbers"
-msgstr ""
+msgstr "数字"
 
 #: luasyntax.syns_attrreservedword2
 msgid "Reserved word 2"
-msgstr ""
+msgstr "保留字2"
 
 #: luasyntax.syns_attrreservedword3
 msgid "Reserved word 3"
-msgstr ""
+msgstr "保留字3"
 
 #: luasyntax.syns_attrreservedword4
 msgid "Reserved word 4"
-msgstr ""
+msgstr "保留字4"
 
 #: luasyntax.syns_filterlua
 msgid "Lua Files (*.lua, *.lpr)|*.lua;*.lpr"
-msgstr ""
+msgstr "Lua文件 (*.lua, *.lpr)|*.lua;*.lpr"
 
 #: luasyntax.syns_langlua
 msgctxt "luasyntax.syns_langlua"
 msgid "Lua"
-msgstr ""
+msgstr "Lua"
 
 #: luatablefile.rscreatetablefilerequiresatleastoneparameter
 msgid "createTableFile requires at least one parameter"
-msgstr ""
+msgstr "createTableFile至少需要一个参数"
 
 #: luatablefile.rserrorraisedwithmessage
 msgid " error raised with message: "
-msgstr ""
+msgstr " 错误发生，消息: "
 
 #: luatablefile.rstabledileentryalreadyexistsforfilename
 msgid "Table file entry already exists for filename: "
-msgstr ""
+msgstr "表文件条目已存在，文件名: "
 
 #: luathread.rserrorinnativethreadcalled
 msgid "Error in thread called "
-msgstr ""
+msgstr "线程中发生错误，线程名: "
 
 #: luathread.rsinnativecode
 msgid " in native code:"
-msgstr ""
+msgstr " 在原生代码中:"
 
 #: luathread.rsinvalidfirstparameterforcreatenativethread
 msgid "Invalid first parameter for createNativeThread"
-msgstr ""
+msgstr "createNativeThread的第一个参数无效"
 
 #: lua_server.rsalreadyexists
 msgid " already exists"
-msgstr ""
+msgstr " 已存在"
 
 #: lua_server.rsaluaserverwiththename
 msgid "A luaserver with the name "
-msgstr ""
+msgstr "已存在名为 "
 
 #: mainunit.rsand
 msgctxt "mainunit.rsand"
 msgid "and"
-msgstr ""
+msgstr "和"
 
 #: mainunit.rsareyousure
 msgctxt "mainunit.rsareyousure"
 msgid "Are you sure?"
-msgstr ""
+msgstr "您确定吗？"
 
 #: mainunit.rsareyousureyouwanttodelete
 #, object-pascal-format
 msgctxt "mainunit.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "您确定要删除%s吗？"
 
 #: mainunit.rsareyousureyouwanttodeletethisform
 msgid "Are you sure you want to delete this form?"
-msgstr ""
+msgstr "您确定要删除此表单吗？"
 
 #: mainunit.rsareyousureyouwanttoerasethedatainthecurrenttable
 msgid "Are you sure you want to erase the data in the current table?"
-msgstr ""
+msgstr "您确定要清除当前表中的数据吗？"
 
 #: mainunit.rsatleastxx
 msgid "at least xx%"
-msgstr ""
+msgstr "至少xx%"
 
 #: mainunit.rsautoassembleedit
 #, object-pascal-format
 msgid "Auto Assemble edit: %s"
-msgstr ""
+msgstr "自动汇编编辑: %s"
 
 #: mainunit.rsbetween
 msgid "between %"
-msgstr ""
+msgstr "在%之间"
 
 #: mainunit.rsbringscheatenginetofront
 msgid "brings Cheat Engine to front"
-msgstr ""
+msgstr "将Cheat Engine置于前台"
 
 #: mainunit.rsbusy
 msgid "<busy>"
-msgstr ""
+msgstr "<忙碌中>"
 
 #: mainunit.rscancel
 msgctxt "mainunit.rscancel"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: mainunit.rsceerror
 msgid "CE Error:"
-msgstr ""
+msgstr "CE错误:"
 
 #: mainunit.rschangevalue
 msgctxt "mainunit.rschangevalue"
 msgid "Change value"
-msgstr ""
+msgstr "更改值"
 
 #: mainunit.rschooselanguage
 msgid "Which language do you wish to use?"
-msgstr ""
+msgstr "您希望使用哪种语言？"
 
 #: mainunit.rsclearingmeansslowness
 msgid "Clearing the assigned memory for this process will cause it to obtain all the memory it needs again which can cause a temporary slowdown in the target. Make sure the value you're interested in gets accessed once before you scan. Continue?"
-msgstr ""
+msgstr "清除为此进程分配的内存将导致它重新获取所需的所有内存，这可能会导致目标暂时变慢。请确保在扫描前您感兴趣的值已被访问过。继续吗？"
 
 #: mainunit.rsclearrecentfiles
 msgid "Empty Recent Files List"
-msgstr ""
+msgstr "清空最近文件列表"
 
 #: mainunit.rscomparetosavedscan
 msgctxt "mainunit.rscomparetosavedscan"
 msgid "Compare to first/saved scan"
-msgstr ""
+msgstr "与首次/保存的扫描比较"
 
 #: mainunit.rscomparingto
 #, object-pascal-format
 msgid "Comparing to %s"
-msgstr ""
+msgstr "正在与%s比较"
 
 #: mainunit.rscurrentprocess
 msgid "Current process"
-msgstr ""
+msgstr "当前进程"
 
 #: mainunit.rscustomluatype
 msgid "Custom LUA type"
-msgstr ""
+msgstr "自定义LUA类型"
 
 #: mainunit.rscustomtypename
 msgid "Custom Type Name"
-msgstr ""
+msgstr "自定义类型名称"
 
 #: mainunit.rsdbvmwatchfailed
 msgid "dbvm_watch failed"
-msgstr ""
+msgstr "dbvm_watch失败"
 
 #: mainunit.rsdecimal
 msgctxt "mainunit.rsdecimal"
 msgid "Decimal"
-msgstr ""
+msgstr "十进制"
 
 #: mainunit.rsdelete
 msgctxt "mainunit.rsdelete"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: mainunit.rsdoyouwantthegroupwithaddress
 msgid "Do you want a header with address support ?"
-msgstr ""
+msgstr "您需要支持地址的标题吗？"
 
 #: mainunit.rsdoyouwanttogotothecheatenginewebsite
 msgid "Do you want to go to the Cheat Engine website?"
-msgstr ""
+msgstr "您要访问Cheat Engine网站吗？"
 
 #: mainunit.rsdoyouwanttoprotectthistrainerfilefromediting
 msgid "Do you want to protect this trainer file from editing?"
-msgstr ""
+msgstr "您要保护此 trainer 文件不被编辑吗？"
 
 #: mainunit.rsdoyouwishtomergethecurrenttablewiththistable
 msgid "Do you wish to merge the current table with this table?"
-msgstr ""
+msgstr "您要将当前表与此表合并吗？"
 
 #: mainunit.rsedit
 msgctxt "mainunit.rsedit"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: mainunit.rseditaddresses
 msgid "Edit addresses"
-msgstr ""
+msgstr "编辑地址"
 
 #: mainunit.rsenablespeedhack
-msgctxt "mainunit.rsenablespeedhack"
+msgctxt "mainunit.rsenablespeedhack" 
 msgid "Enable Speedhack"
-msgstr ""
+msgstr "启用变速功能"
 
 #: mainunit.rsexpired
 msgid "EXPIRED"
-msgstr ""
+msgstr "已过期"
 
 #: mainunit.rsfailedtoload
 msgid "failed to load"
-msgstr ""
+msgstr "加载失败"
 
 #: mainunit.rsfailuresettingthecreateglobalprivilege
 msgid "Failure setting the CreateGlobal privilege."
-msgstr ""
+msgstr "设置CreateGlobal权限失败。"
 
 #: mainunit.rsfailuresettingthedebugprivilege
 msgid "Failure setting the debug privilege. Debugging may be limited."
-msgstr ""
+msgstr "设置调试权限失败。调试功能可能受限。"
 
 #: mainunit.rsfailuresettingtheloaddriverprivilege
 msgid "Failure setting the load driver privilege. Debugging may be limited."
-msgstr ""
+msgstr "设置加载驱动权限失败。调试功能可能受限。"
 
 #: mainunit.rsfailuresettingthesetcbprivilegeprivilege
 msgid "Failure setting the SeTcbPrivilege privilege. Debugging may be limited."
-msgstr ""
+msgstr "设置SeTcbPrivilege权限失败。调试功能可能受限。"
 
 #: mainunit.rsfileinuse
 msgid "<File in use>"
-msgstr ""
+msgstr "<文件使用中>"
 
 #: mainunit.rsfilewillbegone
 msgid "All contents of the target file be gone and unrecoverable. Are you sure?"
-msgstr ""
+msgstr "目标文件的所有内容将被删除且无法恢复。您确定吗？"
 
 #: mainunit.rsfindoutwhataccessesthispointer
 msgid "Find out what accesses this pointer"
-msgstr ""
+msgstr "查找访问此指针的代码"
 
 #: mainunit.rsfindoutwhatwritesthispointer
 msgid "Find out what writes this pointer"
-msgstr ""
+msgstr "查找写入此指针的代码"
 
 #: mainunit.rsfindwhataccessestheaddresspointedatbythispointer
 msgid "Find what accesses the address pointed at by this pointer"
-msgstr ""
+msgstr "查找访问此指针指向地址的代码"
 
 #: mainunit.rsfindwhatwritestheaddresspointedatbythispointer
 msgid "Find what writes the address pointed at by this pointer"
-msgstr ""
+msgstr "查找写入此指针指向地址的代码"
 
 #: mainunit.rsfirst
 msgid "First"
-msgstr ""
+msgstr "首次"
 
 #: mainunit.rsforcetermination
 msgid "Force termination"
-msgstr ""
+msgstr "强制终止"
 
 #: mainunit.rsgivethenewfilename
 msgid "Give the new filename"
-msgstr ""
+msgstr "输入新文件名"
 
 #: mainunit.rsgivethenewvaluefortheselectedaddresses
 msgid "Give the new value for the selected address(es)"
-msgstr ""
+msgstr "为选中地址输入新值"
 
 #: mainunit.rsgroup
 #, object-pascal-format
 msgid "Group %s"
-msgstr ""
+msgstr "组%s"
 
 #: mainunit.rsgroups
 msgid "Groups"
-msgstr ""
+msgstr "分组"
 
 #: mainunit.rsgroupscandatainvalid
 msgid "groupscan data invalid"
-msgstr ""
+msgstr "组扫描数据无效"
 
 #: mainunit.rsgroupscanresultwithnogroupscanparser
 msgid "Groupscan result with no groupscanparser"
-msgstr ""
+msgstr "无组扫描解析器的组扫描结果"
 
 #: mainunit.rsheight
 msgid " , height="
-msgstr ""
+msgstr "，高度="
 
 #: mainunit.rshex
 msgctxt "mainunit.rshex"
 msgid "Hex"
-msgstr ""
+msgstr "十六进制"
 
-#: mainunit.rshexadecimal
+#: mainunit.rshexadecimal  
 msgctxt "mainunit.rshexadecimal"
 msgid "Hexadecimal"
-msgstr ""
+msgstr "十六进制"
 
 #: mainunit.rsinvalidscanfolder
 #, object-pascal-format
 msgid "%s is not accessible like it should.  Please configure a proper location in the settings"
-msgstr ""
+msgstr "%s访问异常。请在设置中配置正确位置"
 
 #: mainunit.rsinvalidstartaddress
 #, object-pascal-format
 msgid "Invalid start address: %s"
-msgstr ""
+msgstr "无效起始地址：%s"
 
 #: mainunit.rsinvalidstopaddress
 #, object-pascal-format
 msgid "Invalid stop address: %s"
-msgstr ""
+msgstr "无效结束地址：%s"
 
 #: mainunit.rsisnotavalidspeed
 #, object-pascal-format
 msgid "%s is not a valid speed"
-msgstr ""
+msgstr "%s不是有效的速度值"
 
 #: mainunit.rsisnotavalidx
 #, object-pascal-format
 msgid "%s is not a valid xml name"
-msgstr ""
+msgstr "%s不是有效的XML名称"
 
 #: mainunit.rslanguage
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: mainunit.rsloadtheassociatedtable
 #, object-pascal-format
 msgid "Load the associated table? (%s)"
-msgstr ""
+msgstr "加载关联的表？(%s)"
 
 #: mainunit.rsluascriptcheattable
 msgid "Lua script: Cheat Table"
-msgstr ""
+msgstr "Lua脚本：作弊表"
 
 #: mainunit.rsmodified
 msgid "Modified"
-msgstr ""
+msgstr "已修改"
 
 #: mainunit.rsmugenerategroupscancommand
 msgctxt "mainunit.rsmugenerategroupscancommand"
 msgid "Generate groupscan command"
-msgstr ""
+msgstr "生成组扫描命令"
 
 #: mainunit.rsnetworkoption
 msgid "Network option :"
-msgstr ""
+msgstr "网络选项："
 
 #: mainunit.rsnewvalueuponactivatingaddress
 msgid "New value upon activating address"
-msgstr ""
+msgstr "激活地址时的新值"
 
 #: mainunit.rsnewvalueupondeactivatingaddress
 msgid "New value upon deactivating address"
-msgstr ""
+msgstr "停用地址时的新值"
 
 #: mainunit.rsoverlay
 msgid "overlay "
-msgstr ""
+msgstr "覆盖层"
 
 #: mainunit.rspart
 msgid " part "
-msgstr ""
+msgstr "部分"
 
 #: mainunit.rspleasewait
 msgctxt "mainunit.rspleasewait"
 msgid "<Processing>"
-msgstr ""
+msgstr "<处理中>"
 
 #: mainunit.rsprevious
 msgctxt "mainunit.rsprevious"
 msgid "Previous"
-msgstr ""
+msgstr "前次"
 
 #: mainunit.rspreviousvaluelist
 msgid "Previous value list"
-msgstr ""
+msgstr "前次值列表"
 
 #: mainunit.rsprocessing
 msgctxt "mainunit.rsprocessing"
@@ -5166,1037 +5189,1037 @@ msgstr ""
 
 #: mainunit.rsremoveselectedaddress
 msgid "Remove selected address"
-msgstr ""
+msgstr "移除选定地址"
 
 #: mainunit.rsremoveselectedaddresses
 msgctxt "mainunit.rsremoveselectedaddresses"
 msgid "Remove selected addresses"
-msgstr ""
+msgstr "移除选定地址（多选）"
 
 #: mainunit.rsrename
 msgctxt "mainunit.rsrename"
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: mainunit.rsrenamefile
 msgid "Rename file"
-msgstr ""
+msgstr "文件重命名"
 
 #: mainunit.rsrequiresdbvmcapablecpu
 msgid "This function requires an CPU with virtualization support. If your system has that then make sure that you're currently not running inside a virtual machine. (Windows has some security features that can run programs inside a VM)"
-msgstr ""
+msgstr "此功能需要支持虚拟化的CPU。若您的系统符合要求，请确保未在虚拟机内运行（Windows某些安全功能会使程序在VM中运行）"
 
 #: mainunit.rsrequiresdbvmept
 msgid "DBVM find routines needs DBVM for EPT/NP page hooking. Loading DBVM can potentially cause a system freeze. Are you sure?"
-msgstr ""
+msgstr "DBVM查找例程需要EPT/NP分页挂钩支持。加载DBVM可能导致系统冻结。是否继续？"
 
 #: mainunit.rsrequiresept
 msgid "This function requires that your CPU supports 'Intel Extended Page Table (EPT) or AMD Nested Paging' which your CPU lacks"
-msgstr ""
+msgstr "此功能需要CPU支持'Intel EPT或AMD嵌套分页'技术，但当前CPU不支持"
 
 #: mainunit.rsrestoreandshow
 msgid "Restore and show"
-msgstr ""
+msgstr "还原并显示"
 
 #: mainunit.rssaved
 msgid "Saved"
-msgstr ""
+msgstr "已保存"
 
 #: mainunit.rssavedscanresults
 msgid "Saved scan results"
-msgstr ""
+msgstr "已保存的扫描结果"
 
 #: mainunit.rssavescanresults
 msgid "Save scan results"
-msgstr ""
+msgstr "保存扫描结果"
 
 #: mainunit.rssavetodisk
 msgid "Save to disk"
-msgstr ""
+msgstr "保存到磁盘"
 
 #: mainunit.rsscan
 msgctxt "mainunit.rsscan"
 msgid "Scan"
-msgstr ""
+msgstr "扫描"
 
 #: mainunit.rsscanerror
 #, object-pascal-format
 msgid "Scan error:%s"
-msgstr ""
+msgstr "扫描错误：%s"
 
 #: mainunit.rsscanresult
 msgid "Scanresult"
-msgstr ""
+msgstr "扫描结果"
 
 #: mainunit.rsselectthesavedresult
 msgid "Select the saved results you wish to use"
-msgstr ""
+msgstr "选择要使用的保存结果"
 
 #: mainunit.rsselectthesavedscanresultfromthelistbelow
 msgid "Select the saved scan result from the list below"
-msgstr ""
+msgstr "从下方列表选择已保存的扫描结果"
 
 #: mainunit.rsselectthesavedscanresulttodeletefromthelistbelow
 msgid "Select the saved scan result to delete from the list below"
-msgstr ""
+msgstr "从下方列表选择要删除的扫描结果"
 
 #: mainunit.rssetchangehotkeys
 msgid "Set/Change hotkeys"
-msgstr ""
+msgstr "设置/更改快捷键"
 
 #: mainunit.rssethotkeys
 msgctxt "mainunit.rssethotkeys"
 msgid "Set hotkeys"
-msgstr ""
+msgstr "设置快捷键"
 
 #: mainunit.rsshowasbinary
 msgctxt "mainunit.rsshowasbinary"
 msgid "Show as binary"
-msgstr ""
+msgstr "二进制显示"
 
 #: mainunit.rsshowasdecimal
 msgid "Show as decimal"
-msgstr ""
+msgstr "十进制显示"
 
 #: mainunit.rsshowashexadecimal
 msgctxt "mainunit.rsshowashexadecimal"
 msgid "Show as hexadecimal"
-msgstr ""
+msgstr "十六进制显示"
 
 #: mainunit.rsshown
 msgid "shown"
-msgstr ""
+msgstr "已显示"
 
 #: mainunit.rsterminatingscan
 msgid "Terminating scan..."
-msgstr ""
+msgstr "正在终止扫描..."
 
 #: mainunit.rstheprocessisntfullyopenedindicatingainvalidprocess
 msgid "The process isn't fully opened. Indicating a invalid ProcessID. You still want to find out the EPROCESS? (BSOD is possible)"
-msgstr ""
+msgstr "进程未完全打开，可能为无效PID。仍要查找EPROCESS结构？（可能导致蓝屏）"
 
 #: mainunit.rsthereareoneormoreautoassemblerentriesorcodechanges
 msgid "There are one or more auto assembler entries or code changes enabled in this table. Do you want them disabled? (without executing the disable part)"
-msgstr ""
+msgstr "当前表格启用了自动汇编或代码修改条目。是否禁用？（不执行禁用代码）"
 
 #: mainunit.rstherecordwithdescriptionhasasinterpretableaddresst
 #, object-pascal-format
 msgid "The record with description '%s' has as interpretable address '%s'. The recalculation will change it to %s. Do you want to edit it to the new address?"
-msgstr ""
+msgstr "描述为'%s'的记录的解析地址为'%s'，重计算将改为%s。是否更新到新地址？"
 
 #: mainunit.rsthisbuttonwillforcecancelascanexpectmemoryleaks
 msgid "This button will force cancel a scan. Expect memory leaks"
-msgstr ""
+msgstr "此按钮将强制取消扫描（可能导致内存泄漏）"
 
 #: mainunit.rsthisbuttonwilltrytocancelthecurrentscanclicktwicet
 msgid "This button will try to cancel the current scan. Click twice to force an exit"
-msgstr ""
+msgstr "此按钮尝试取消当前扫描，双击强制退出"
 
 #: mainunit.rsthislistishuge
 msgid "This list is huge and deleting multiple items will require CE to traverse the whole list and can take a while. Are you sure?"
-msgstr ""
+msgstr "列表数据量庞大，删除多项需要完整遍历列表，可能耗时较长。是否继续？"
 
 #: mainunit.rstrytutorial
 msgid "Do you want to try out the tutorial?"
-msgstr ""
+msgstr "是否尝试教程？"
 
 #: mainunit.rsunabletoscanfixyourscansettings
 msgid "Unable to scan. Fix your scan settings and restart Cheat Engine"
-msgstr ""
+msgstr "扫描失败，请修正扫描设置后重启Cheat Engine"
 
 #: mainunit.rsunrandomizerinfo
 msgid "This will scan for and change some routines that are commonly used to generate a random value so they always return the same. Please be aware that there is a chance it overwrites the wrong routines causing the program to crash, or that the program uses an unknown random generator. Continue?"
-msgstr ""
+msgstr "此操作将扫描并修改常见的随机数生成例程使其返回固定值。注意：可能错误覆盖代码导致程序崩溃，或程序使用未知随机算法。是否继续？"
 
 #: mainunit.rsunspecifiederror
 msgid "Unspecified error"
-msgstr ""
+msgstr "未指定错误"
 
 #: mainunit.rsvalue
 msgid "Value %"
-msgstr ""
+msgstr "数值 %"
 
 #: mainunit.rswasclickedatpositon
 msgid " was clicked at positon "
-msgstr ""
+msgstr " 被点击于位置 "
 
 #: mainunit.rswhatdoyouwantthegroupnametobe
 msgid "What do you want the groupname to be?"
-msgstr ""
+msgstr "请输入分组名称："
 
 #: mainunit.rswhatnamedoyouwanttogivetothesescanresults
 msgid "What name do you want to give to these scanresults?"
-msgstr ""
+msgstr "请为这些扫描结果命名："
 
 #: mainunit.rswhatwillbethenewnameforthistab
 msgid "What will be the new name for this tab?"
-msgstr ""
+msgstr "请为此标签页输入新名称："
 
 #: mainunit.rswidth
 msgid "   -   width="
-msgstr ""
+msgstr "   -   宽度="
 
 #: mainunit.rsyouarelowondiskspaceonthefolderwherethescanresults
 msgid "You are low on diskspace on the folder where the scanresults are stored. Scanning might fail. Are you sure you want to continue?"
-msgstr ""
+msgstr "扫描结果存储目录磁盘空间不足，可能导致扫描失败。是否继续？"
 
 #: mainunit.straccessed
 msgid "The following opcodes accessed the selected address"
-msgstr ""
+msgstr "以下操作码访问了选定地址"
 
 #: mainunit.stradd0
 msgid "Do you want to add a '0'-terminator at the end?"
-msgstr ""
+msgstr "是否在末尾添加'0'终止符？"
 
 #: mainunit.stralreadyin
 msgctxt "mainunit.stralreadyin"
 msgid "This address is already in the list"
-msgstr ""
+msgstr "该地址已存在于列表中"
 
 #: mainunit.stralreadyinlistmultiple
 msgid "One or more addresses where already in the list"
-msgstr ""
+msgstr "一个或多个地址已存在于列表中"
 
 #: mainunit.strasktosave
 msgid "You haven't saved your last changes yet. Save Now?"
-msgstr ""
+msgstr "当前修改尚未保存，是否立即保存？"
 
 #: mainunit.strchange1value
 msgid "Change this value to:"
-msgstr ""
+msgstr "将此值修改为："
 
 #: mainunit.strchangedescription1
 msgctxt "mainunit.strchangedescription1"
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: mainunit.strchangedescription2
 msgid "Change the description to:"
-msgstr ""
+msgstr "将描述修改为："
 
 #: mainunit.strchangemorevalues
 msgid "Change these values to:"
-msgstr ""
+msgstr "将这些值修改为："
 
 #: mainunit.strchangescript
 msgctxt "mainunit.strchangescript"
 msgid "Change script"
-msgstr ""
+msgstr "修改脚本"
 
 #: mainunit.strclicktogohome
 msgid "Click here to go to the Cheat Engine homepage"
-msgstr ""
+msgstr "点击此处访问Cheat Engine官网"
 
 #: mainunit.strconfirmprocesstermination
 msgid "This will close the current process. Are you sure you want to do this?"
-msgstr ""
+msgstr "此操作将关闭当前进程。是否继续？"
 
 #: mainunit.strconfirmundo
 msgid "Do you really want to go back to the results of the previous scan?"
-msgstr ""
+msgstr "是否确认返回上次扫描结果？"
 
 #: mainunit.strdeleteaddress
 msgid "Delete this address"
-msgstr ""
+msgstr "删除此地址"
 
 #: mainunit.strdeleteall
 msgid "Are you sure you want to delete all addresses?"
-msgstr ""
+msgstr "是否确认删除所有地址？"
 
 #: mainunit.strdeletetheseaddresses
 msgid "Delete these addresses"
-msgstr ""
+msgstr "删除这些地址"
 
 #: mainunit.strdisablecheat
 msgid "Disable Cheat"
-msgstr ""
+msgstr "禁用修改"
 
 #: mainunit.strdontbother
 msgid "Don't even bother. Cheat Engine uses the main thread to receive messages when the scan is done, freeze it and CE will crash!"
-msgstr ""
+msgstr "无需尝试：Cheat Engine依赖主线程接收扫描完成消息，冻结它将导致崩溃！"
 
 #: mainunit.strenablecheat
 msgid "Enable Cheat"
-msgstr ""
+msgstr "启用修改"
 
 #: mainunit.strerror
 msgctxt "mainunit.strerror"
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: mainunit.strerrorwhileopeningprocess
 msgid "Error while opening this process"
-msgstr ""
+msgstr "打开进程时出错"
 
 #: mainunit.strerrorwhileopeningprocessmac
 msgid ". Have you disabled 'System Integrity Protection'(SIP) yet?"
-msgstr ""
+msgstr "。是否已禁用'系统完整性保护'(SIP)？"
 
 #: mainunit.strforcerecheck
 msgctxt "mainunit.strforcerecheck"
 msgid "Force recheck symbols"
-msgstr ""
+msgstr "强制重新校验符号"
 
 #: mainunit.strfreezeaddressinlist
 msgid "Freeze the address in this list"
-msgstr ""
+msgstr "冻结列表中的地址"
 
 #: mainunit.strfreezealladdresses
 msgid "Freeze all addresses in this list"
-msgstr ""
+msgstr "冻结列表所有地址"
 
 #: mainunit.strfuture
 msgid "Wow,I never imagined people would use Cheat Engine up to today"
-msgstr ""
+msgstr "真没想到Cheat Engine能持续使用至今"
 
 #: mainunit.strhappybirthday
 msgid "Let's sing Happy Birthday for Dark Byte today!"
-msgstr ""
+msgstr "今天我们一起为Dark Byte唱生日歌吧！"
 
 #: mainunit.strhideall
 msgid "will hide all windows"
-msgstr ""
+msgstr "将隐藏所有窗口"
 
 #: mainunit.strhideforeground
 msgid "will hide the foreground window"
-msgstr ""
+msgstr "将隐藏前景窗口"
 
 #: mainunit.strinfoabouttable
 msgid "Info about this table:"
-msgstr ""
+msgstr "表格信息："
 
 #: mainunit.strkeeplist
 msgid "Keep the current address list/code list?"
-msgstr ""
+msgstr "是否保留当前地址列表/代码列表？"
 
 #: mainunit.strmorepointers
 msgid "There are more pointers selected. Do you want to change them as well?"
-msgstr ""
+msgstr "已选中更多指针，是否一并修改？"
 
 #: mainunit.strmorepointers2
 msgid "You have selected one or more pointers. Do you want to change them as well?"
-msgstr ""
+msgstr "已选中若干指针，是否一并修改？"
 
 #: mainunit.strnewyear
 msgid "And what are your good intentions for this year? ;-)"
-msgstr ""
+msgstr "今年有什么新年计划呢？;-）"
 
 #: mainunit.strnotavalidbinarynotation
 msgid " is not a valid binary notation!"
-msgstr ""
+msgstr " 不是有效的二进制表示法！"
 
 #: mainunit.strnotavalidnotation
 msgid "This is not a valid notation"
-msgstr ""
+msgstr "非法表示法"
 
 #: mainunit.strnotavalidvalue
 msgctxt "mainunit.strnotavalidvalue"
 msgid "This is not an valid value"
-msgstr ""
+msgstr "非法数值"
 
 #: mainunit.strnotsameammountofbytes
 msgid "The number of bytes you typed is not the same as the previous ammount. Continue?"
-msgstr ""
+msgstr "输入的字节数与先前不一致，是否继续？"
 
 #: mainunit.strnotthesamesize1
 msgid "The text you entered isn't the same size as the original. Continue?"
-msgstr ""
+msgstr "文本长度与原始值不同，是否继续？"
 
 #: mainunit.strnotthesamesize2
 msgid "Not the same size!"
-msgstr ""
+msgstr "长度不匹配！"
 
 #: mainunit.stropcodechanged
 msgctxt "mainunit.stropcodechanged"
 msgid "The following opcodes changed the selected address"
-msgstr ""
+msgstr "下列操作码修改了选定地址"
 
 #: mainunit.stropcoderead
 msgid "The following opcodes read from the selected address"
-msgstr ""
+msgstr "下列操作码读取了选定地址"
 
 #: mainunit.strphysicalmemory
 msgctxt "mainunit.strphysicalmemory"
 msgid "Physical Memory"
-msgstr ""
+msgstr "物理内存"
 
 #: mainunit.strrecalculateaddress
 msgctxt "mainunit.strrecalculateaddress"
 msgid "Recalculate address"
-msgstr ""
+msgstr "重新计算地址"
 
 #: mainunit.strrecalculatealladdresses
 msgid "Recalculate all addresses"
-msgstr ""
+msgstr "重新计算所有地址"
 
 #: mainunit.strrecalculateselectedaddresses
 msgid "Recalculate selected addresses"
-msgstr ""
+msgstr "重新计算选定地址"
 
 #: mainunit.strremovefromgroup
 msgid "Remove from group "
-msgstr ""
+msgstr "从分组移除 "
 
 #: mainunit.strsaferphysicalmemory
 msgid "Safer memory access"
-msgstr ""
+msgstr "安全内存访问模式"
 
 #: mainunit.strscantextcaptiontotext
 msgid "Text:"
-msgstr ""
+msgstr "文本："
 
 #: mainunit.strscantextcaptiontovalue
 msgid "Value:"
-msgstr ""
+msgstr "数值："
 
 #: mainunit.strsearchforarray
 msgid "Search for this array"
-msgstr ""
+msgstr "搜索此数组"
 
 #: mainunit.strsearchfortext
 msgid "Search for text"
-msgstr ""
+msgstr "文本搜索"
 
 #: mainunit.strselectedaddressisapointer
 msgid "The selected address is a pointer. Are you sure? (the base pointer will get the address)"
-msgstr ""
+msgstr "选定地址为指针。是否继续？（基指针将获取该地址）"
 
 #: mainunit.strsethotkey
 msgid "Set a hotkey"
-msgstr ""
+msgstr "设置快捷键"
 
 #: mainunit.strshowasdecimal
 msgid "Show as decimal value"
-msgstr ""
+msgstr "十进制显示"
 
 #: mainunit.strshowashex
 msgid "Show as hexadecimal value"
-msgstr ""
+msgstr "十六进制显示"
 
 #: mainunit.strunfreezeaddressinlist
 msgid "Unfreeze the address in this list"
-msgstr ""
+msgstr "解冻列表中的地址"
 
 #: mainunit.strunfreezealladdresses
 msgid "Unfreeze all addresses in this list"
-msgstr ""
+msgstr "解冻列表所有地址"
 
 #: mainunit.strunhideall
 msgid "will bring all windows back"
-msgstr ""
+msgstr "将恢复所有窗口"
 
 #: mainunit.strunhideforeground
 msgid "will bring the foreground window back"
-msgstr ""
+msgstr "将恢复前景窗口"
 
 #: mainunit.strunknownextension
 msgctxt "mainunit.strunknownextension"
 msgid "Unknown extension"
-msgstr ""
+msgstr "未知扩展名"
 
 #: mainunit.strvalue
 msgctxt "mainunit.strvalue"
 msgid "Value"
-msgstr ""
+msgstr "数值"
 
 #: mainunit.strwindowfailedtohide
 msgid "A window failed to hide"
-msgstr ""
+msgstr "窗口隐藏失败"
 
 #: mainunit.strxmess
 msgid "Merry christmas and happy new year"
-msgstr ""
+msgstr "圣诞快乐，新年快乐"
 
 #: mainunit2.cename
 msgctxt "mainunit2.cename"
 msgid "Cheat Engine"
-msgstr ""
+msgstr "Cheat Engine"
 
 #: mainunit2.cenamewithversion
 msgid "Cheat Engine 7.6"
-msgstr ""
+msgstr "Cheat Engine 7.6"
 
 #: mainunit2.rscheatengine
 msgctxt "mainunit2.rscheatengine"
 msgid "Cheat Engine"
-msgstr ""
+msgstr "Cheat Engine"
 
 #: mainunit2.rsdbvmmissedentries
 #, object-pascal-format
 msgid "Missed %d entries due to a too small buffer or slow copy operation"
-msgstr ""
+msgstr "因缓冲区过小或复制操作缓慢，已丢失%d个条目"
 
 #: mainunit2.rsenabledisablespeedhack
 msgid "Enable/Disable speedhack."
-msgstr ""
+msgstr "启用/禁用加速模式"
 
 #: mainunit2.rsm2nohotkey
 msgid " (No hotkey)"
-msgstr ""
+msgstr "（无快捷键）"
 
 #: mainunit2.rsnohotkey
 msgid "No hotkey"
-msgstr ""
+msgstr "无快捷键"
 
 #: mainunit2.rspleasewait
 msgid "Please Wait!"
-msgstr ""
+msgstr "请稍候！"
 
 #: mainunit2.rsselectanitemfromthelistforasmalldescription
 msgid "Select an item from the list for a small description"
-msgstr ""
+msgstr "从列表选择项目查看简要说明"
 
 #: mainunit2.rsusethegameapplicationforawhile
 msgid "Use the game/application for a while and make the address you're watching change. The list will be filled with addresses that contain code that change the watched address."
-msgstr ""
+msgstr "请操作游戏/程序使监控地址产生变化，列表将显示所有修改该地址的代码位置。"
 
 #: mainunit2.rswonthaveanyeffectuntilyouopenanewprocess
 msgid "(Won't have any effect until you (re)open a process)"
-msgstr ""
+msgstr "（需(重新)打开进程后生效）"
 
 #: mainunit2.straddresshastobereadable
 msgid "The address has to be readable if you want to use this function"
-msgstr ""
+msgstr "使用此功能需确保地址可读"
 
 #: mainunit2.strautoassemble
 msgid "Assembler"
-msgstr ""
+msgstr "汇编器"
 
 #: mainunit2.strbiggerthan
 msgid "Bigger than..."
-msgstr ""
+msgstr "大于..."
 
 #: mainunit2.strbug
 msgid "BUG!"
-msgstr ""
+msgstr "程序错误！"
 
 #: mainunit2.strchangedvalue
 msgctxt "mainunit2.strchangedvalue"
 msgid "Changed value"
-msgstr ""
+msgstr "变动的值"
 
 #: mainunit2.strcomparetofirstscan
 msgid "Compare to first scan"
-msgstr ""
+msgstr "与首次扫描比较"
 
 #: mainunit2.strcomparetolastscan
 msgid "Compare to last scan"
-msgstr ""
+msgstr "与上次扫描比较"
 
 #: mainunit2.strcomparetosavedscan
 msgid "Compare to saved scan"
-msgstr ""
+msgstr "与保存的扫描比较"
 
 #: mainunit2.strdecreasedvalue
 msgid "Decreased value"
-msgstr ""
+msgstr "减少的值"
 
 #: mainunit2.strdecreasedvalueby
 msgid "Decreased value by ..."
-msgstr ""
+msgstr "数值减少了..."
 
 #: mainunit2.strexact
 msgid "Exact"
-msgstr ""
+msgstr "精确匹配"
 
 #: mainunit2.strexactvalue
 msgid "Exact Value"
-msgstr ""
+msgstr "精确数值"
 
 #: mainunit2.strfailedtoinitialize
 msgid "Failed to initialize the debugger"
-msgstr ""
+msgstr "调试器初始化失败"
 
 #: mainunit2.strfirstscan
 msgctxt "mainunit2.strfirstscan"
 msgid "First Scan"
-msgstr ""
+msgstr "首次扫描"
 
 #: mainunit2.strignorevalue
 msgid "Ignore value"
-msgstr ""
+msgstr "忽略数值"
 
 #: mainunit2.strincreasedvalue
 msgid "Increased value"
-msgstr ""
+msgstr "增加的值"
 
 #: mainunit2.strincreasedvalueby
 msgid "Increased value by ..."
-msgstr ""
+msgstr "数值增加了..."
 
 #: mainunit2.strneednewerwindowsversion
 msgid "This function only works in Windows 2000+ (perhaps also NT but not tested)"
-msgstr ""
+msgstr "此功能仅支持Windows 2000及以上系统（可能支持NT但未经测试）"
 
 #: mainunit2.strnewscan
 msgctxt "mainunit2.strnewscan"
 msgid "New Scan"
-msgstr ""
+msgstr "新建扫描"
 
 #: mainunit2.strnodescription
 msgctxt "mainunit2.strnodescription"
 msgid "No description"
-msgstr ""
+msgstr "无描述"
 
 #: mainunit2.strok
 msgctxt "mainunit2.strok"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: mainunit2.strsmallerthan
 msgid "Smaller than..."
-msgstr ""
+msgstr "小于..."
 
 #: mainunit2.strstart
 msgctxt "mainunit2.strstart"
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #: mainunit2.strstop
 msgctxt "mainunit2.strstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: mainunit2.strtoolong
 msgid "Too long"
-msgstr ""
+msgstr "过长"
 
 #: mainunit2.strunchangedvalue
 msgid "Unchanged value"
-msgstr ""
+msgstr "未改变的值"
 
 #: mainunit2.strunknowninitialvalue
 msgid "Unknown initial value"
-msgstr ""
+msgstr "未知初始值"
 
 #: mainunit2.strvaluebetween
 msgid "Value between..."
-msgstr ""
+msgstr "数值介于..."
 
 #: manualmoduleloader.rsmmlallocationerror
 msgid "Allocation error"
-msgstr ""
+msgstr "内存分配错误"
 
 #: manualmoduleloader.rsmmlfailedfindingaddressof
 msgid "failed finding address of "
-msgstr ""
+msgstr "查找地址失败："
 
 #: manualmoduleloader.rsmmlnotavalidfile
 msgid "not a dll"
-msgstr ""
+msgstr "非法DLL文件"
 
 #: manualmoduleloader.rsmmlnotavalidheader
 msgid "Not a valid header"
-msgstr ""
+msgstr "无效文件头"
 
 #: manualmoduleloader.rsmmltriedloadinga64bitmoduleona32bitsystem
 msgid "Tried loading a 64-bit module on a 32-bit system"
-msgstr ""
+msgstr "尝试在32位系统加载64位模块"
 
 #: memdisplay.rsfailurecreatingopenglwindow
 msgid "failure creating opengl window"
-msgstr ""
+msgstr "创建OpenGL窗口失败"
 
 #: memdisplay.rsondatareturnedatoosmallmemoryregion
 msgid "OnData returned a too small memory region. It should have returned false instead"
-msgstr ""
+msgstr "OnData返回的内存区域过小，应返回false值"
 
 #: memorybrowserformunit.rs0or1
 msgid "(0 or 1)"
-msgstr ""
+msgstr "(0或1)"
 
 #: memorybrowserformunit.rsaddress
 msgctxt "memorybrowserformunit.rsaddress"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: memorybrowserformunit.rsallocatememory
 msgid "Allocate memory"
-msgstr ""
+msgstr "分配内存"
 
 #: memorybrowserformunit.rsassemblyscan
 msgctxt "memorybrowserformunit.rsassemblyscan"
 msgid "Assembly scan"
-msgstr ""
+msgstr "汇编扫描"
 
 #: memorybrowserformunit.rsatleastbyteshavebeenallocatedatdoyouwanttogotheren
 #, object-pascal-format
 msgid "At least %s bytes have been allocated at %s%sDo you want to go there now?"
-msgstr ""
+msgstr "已在%s处分配至少%s字节%s是否立即跳转至该地址？"
 
 #: memorybrowserformunit.rsatleastbyteshavebeenallocatedatgotherenow
 #, object-pascal-format
 msgid "At least %s bytes have been allocated at %s. Go there now?"
-msgstr ""
+msgstr "已在%s处分配至少%s字节，是否立即跳转？"
 
 #: memorybrowserformunit.rsbecauseofunhandledexeption
 #, object-pascal-format
 msgid "Because of unhandled exception %s"
-msgstr ""
+msgstr "由于未处理的异常：%s"
 
 #: memorybrowserformunit.rsbetween
 #, object-pascal-format
 msgid "Between %s"
-msgstr ""
+msgstr "介于%s之间"
 
 #: memorybrowserformunit.rschangedisplayfader
 msgid "Change display fader"
-msgstr ""
+msgstr "修改显示渐变器"
 
 #: memorybrowserformunit.rschangeregister
 msgid "Change register"
-msgstr ""
+msgstr "修改寄存器"
 
 #: memorybrowserformunit.rscheatenginesinglelingeassembler
 msgid "Single-line assembler"
-msgstr ""
+msgstr "单行汇编器"
 
 #: memorybrowserformunit.rscomment
 msgctxt "memorybrowserformunit.rscomment"
 msgid "Comment"
-msgstr ""
+msgstr "注释"
 
 #: memorybrowserformunit.rscommentfor
 #, object-pascal-format
 msgid "Comment for %s"
-msgstr ""
+msgstr "%s的注释"
 
 #: memorybrowserformunit.rscreateremotethread
 msgid "Create remote thread"
-msgstr ""
+msgstr "创建远程线程"
 
 #: memorybrowserformunit.rsdllinjected
 msgid "DLL Injected"
-msgstr ""
+msgstr "DLL已注入"
 
 #: memorybrowserformunit.rsdoyouwanttoexecuteafunctionofthedll
 msgid "Do you want to execute a function of the dll?"
-msgstr ""
+msgstr "是否要执行DLL中的函数？"
 
 #: memorybrowserformunit.rserrorallocatingmemory
 msgid "Error allocating memory!"
-msgstr ""
+msgstr "内存分配错误！"
 
 #: memorybrowserformunit.rsfillintheaddressyouwanttogoto
 msgid "Fill in the address you want to go to"
-msgstr ""
+msgstr "请输入要跳转的地址"
 
 #: memorybrowserformunit.rsgetkerneladdress
 msgid "Get kernel address"
-msgstr ""
+msgstr "获取内核地址"
 
 #: memorybrowserformunit.rsgivethenameofthefunctionyouwanttofindcasesensitive
 msgid "Give the name of the function you want to find (Case sensitive,certain words can cause blue screens)"
-msgstr ""
+msgstr "输入要查找的函数名称（区分大小写，某些关键词可能导致蓝屏）"
 
 #: memorybrowserformunit.rsgotoaddress
 msgid "Goto Address"
-msgstr ""
+msgstr "转到地址"
 
 #: memorybrowserformunit.rsheaderfor
 #, object-pascal-format
 msgid "Header for %s"
-msgstr ""
+msgstr "%s的头部信息"
 
 #: memorybrowserformunit.rshowlongshouldachangebeshown
 msgid "How long should a change be shown?"
-msgstr ""
+msgstr "更改应显示多长时间？"
 
 #: memorybrowserformunit.rshowmuchis
 #, object-pascal-format
 msgid "How much is %s?"
-msgstr ""
+msgstr "%s的值是多少？"
 
 #: memorybrowserformunit.rshowmuchmemorydoyouwanttoaddtothisprocess
 msgid "How much memory do you want to add to this process?"
-msgstr ""
+msgstr "要为该进程分配多少内存？"
 
 #: memorybrowserformunit.rshowmuchmemorydoyouwishtoallocate
 msgid "How much memory do you wish to allocate?"
-msgstr ""
+msgstr "希望分配多少内存？"
 
 #: memorybrowserformunit.rsidontunderstandwhatyoumeanwith
 #, object-pascal-format
 msgid "I don't understand what you mean with %s"
-msgstr ""
+msgstr "无法理解%s的含义"
 
 #: memorybrowserformunit.rsinjectdll
 msgid "Inject dll"
-msgstr ""
+msgstr "注入DLL"
 
 #: memorybrowserformunit.rsinjectdylib
 msgid "Inject DYLIB"
-msgstr ""
+msgstr "注入DYLIB"
 
 #: memorybrowserformunit.rsinputtheassemblycodetofindwilcardssupported
 msgctxt "memorybrowserformunit.rsinputtheassemblycodetofindwilcardssupported"
 msgid "Input the assembly code to find. Wildcards( * ) supported."
-msgstr ""
+msgstr "输入要查找的汇编代码（支持通配符 * ）"
 
 #: memorybrowserformunit.rsisnotavalidvalue
 #, object-pascal-format
 msgctxt "memorybrowserformunit.rsisnotavalidvalue"
 msgid "%s is not a valid value"
-msgstr ""
+msgstr "%s不是有效值"
 
 #: memorybrowserformunit.rslinkwithotherhexview
 msgctxt "memorybrowserformunit.rslinkwithotherhexview"
 msgid "Link with other hexview"
-msgstr ""
+msgstr "与其他十六进制视图联动"
 
 #: memorybrowserformunit.rsmaxstacktracesize
 msgid "Max stacktrace size"
-msgstr ""
+msgstr "最大堆栈跟踪大小"
 
 #: memorybrowserformunit.rsmbbookmark
 #, object-pascal-format
 msgid "Bookmark %d"
-msgstr ""
+msgstr "书签 %d"
 
 #: memorybrowserformunit.rsmbbookmark2
 #, object-pascal-format
 msgid "Bookmark %d: %s"
-msgstr ""
+msgstr "书签 %d：%s"
 
 #: memorybrowserformunit.rsmbcreationoftheremotethreadfailed
 msgid "Creation of the remote thread failed"
-msgstr ""
+msgstr "远程线程创建失败"
 
 #: memorybrowserformunit.rsmbthreadcreated
 msgid "Thread Created"
-msgstr ""
+msgstr "线程已创建"
 
 #: memorybrowserformunit.rsmemorybrowser
 msgid "MemoryBrowser"
-msgstr ""
+msgstr "内存浏览器"
 
 #: memorybrowserformunit.rsmemoryviewercurrentlydebuggingthread
 #, object-pascal-format
 msgid "Memory Viewer - Currently debugging thread %s"
-msgstr ""
+msgstr "内存查看器 - 当前调试线程 %s"
 
 #: memorybrowserformunit.rsmemoryviewerrunning
 msgid "Memory Viewer - Running"
-msgstr ""
+msgstr "内存查看器 - 运行中"
 
 #: memorybrowserformunit.rsneedtorundissectcode
 msgid "You will need to run the dissect code routine first before this window is usable. Run it now?"
-msgstr ""
+msgstr "使用此窗口前需要先运行代码分析例程，是否立即运行？"
 
 #: memorybrowserformunit.rsnewsize
 msgid "New size"
-msgstr ""
+msgstr "新大小"
 
 #: memorybrowserformunit.rsparameters
 msgctxt "memorybrowserformunit.rsparameters"
 msgid "Parameters"
-msgstr ""
+msgstr "参数"
 
 #: memorybrowserformunit.rspleaseenteravalidhexadecimaladdres
 msgid "Please enter a valid hexadecimal addres"
-msgstr ""
+msgstr "请输入有效的十六进制地址"
 
 #: memorybrowserformunit.rspleaseenteravalidhexadecimalvalue
 msgid "Please enter a valid hexadecimal value"
-msgstr ""
+msgstr "请输入有效的十六进制值"
 
 #: memorybrowserformunit.rspleasespecifythenewsymbolsearchpathseperatespaths
 msgid "Please specify the new symbol searchpath (; separates paths)"
-msgstr ""
+msgstr "请指定新的符号搜索路径（用分号;分隔路径）"
 
 #: memorybrowserformunit.rspleasetargetanotherprocess
 msgid "Start another version of Cheat Engine and attach to that instead"
-msgstr ""
+msgstr "请启动另一个Cheat Engine实例并附加到该进程"
 
 #: memorybrowserformunit.rspleasetargetaprocessfirst
 msgid "Please target a process first"
-msgstr ""
+msgstr "请先选择目标进程"
 
 #: memorybrowserformunit.rsremovebreakpoint
 msgid "Remove breakpoint"
-msgstr ""
+msgstr "移除断点"
 
 #: memorybrowserformunit.rsreplacewithcodethatdoesnothing
 msgctxt "memorybrowserformunit.rsreplacewithcodethatdoesnothing"
 msgid "Replace with code that does nothing"
-msgstr ""
+msgstr "替换为空操作代码"
 
 #: memorybrowserformunit.rsrestorewithorginalcode
 msgctxt "memorybrowserformunit.rsrestorewithorginalcode"
 msgid "Restore with original code"
-msgstr ""
+msgstr "恢复为原始代码"
 
 #: memorybrowserformunit.rsreturnaddress
 msgid "Return Address"
-msgstr ""
+msgstr "返回地址"
 
 #: memorybrowserformunit.rsselectthefunctionyouwanttoexecute
 msgid "Select the function you want to execute"
-msgstr ""
+msgstr "选择要执行的函数"
 
 #: memorybrowserformunit.rssetbreakpoint
 msgctxt "memorybrowserformunit.rssetbreakpoint"
 msgid "Set breakpoint"
-msgstr ""
+msgstr "设置断点"
 
 #: memorybrowserformunit.rssetcustomalignment
 msgctxt "memorybrowserformunit.rssetcustomalignment"
 msgid "Set custom alignment"
-msgstr ""
+msgstr "设置自定义对齐方式"
 
 #: memorybrowserformunit.rsshowdifference
 msgctxt "memorybrowserformunit.rsshowdifference"
 msgid "Show difference"
-msgstr ""
+msgstr "显示差异"
 
 #: memorybrowserformunit.rssomethinghappened
 msgid "something happened"
-msgstr ""
+msgstr "发生异常"
 
 #: memorybrowserformunit.rssshowstheautoguessvalue
 #, object-pascal-format
 msgid "(%s shows the autoguess value)"
-msgstr ""
+msgstr "(%s显示自动猜测值)"
 
 #: memorybrowserformunit.rsstacktrace
 msgctxt "memorybrowserformunit.rsstacktrace"
 msgid "Stacktrace"
-msgstr ""
+msgstr "堆栈追踪"
 
 #: memorybrowserformunit.rsstopshowingthedifference
 msgid "Stop showing the difference"
-msgstr ""
+msgstr "停止显示差异"
 
 #: memorybrowserformunit.rssymbolhandler
 msgid "Symbol handler"
-msgstr ""
+msgstr "符号处理器"
 
 #: memorybrowserformunit.rsthegeneratedcodeisbyteslongbuttheselectedopcodeisb
 #, object-pascal-format
 msgid "The generated code is %s byte(s) long, but the selected opcode is %s byte(s) long! Do you want to replace the incomplete opcode(s) with NOP's?"
-msgstr ""
+msgstr "生成的代码长度为%s字节，但选中操作码长度为%s字节！是否用NOP指令替换不完整的操作码？"
 
 #: memorybrowserformunit.rstypeyourassemblercodehereaddress
 #, object-pascal-format
 msgid "Type your assembler code here: (address=%s)"
-msgstr ""
+msgstr "在此输入汇编代码：(地址=%s)"
 
 #: memorybrowserformunit.rsunlinkfromotherhexview
 msgid "Unlink from other hexview"
-msgstr ""
+msgstr "取消与其他十六进制视图的联动"
 
 #: memorybrowserformunit.rsvalue
 msgctxt "memorybrowserformunit.rsvalue"
 msgid "Value"
-msgstr ""
+msgstr "数值"
 
 #: memorybrowserformunit.rswhatisthenewvalueof
 #, object-pascal-format
 msgid "What is the new value of %s?"
-msgstr ""
+msgstr "%s的新值是多少？"
 
 #: memorybrowserformunit.rswhatwillbethestartaddressofthisthread
 msgid "What will be the startaddress of this thread?"
-msgstr ""
+msgstr "该线程的起始地址是多少？"
 
 #: memorybrowserformunit.rsyouwanttogiveanadditional32bitparameterwillshowupi
 msgid "You want to give an additional 32-bit parameter? (Will show up in (R)/(E)BX)"
-msgstr ""
+msgstr "是否提供额外的32位参数？（将显示在(R)/(E)BX寄存器中）"
 
 #: memoryrecordunit.rsactivate
 msgctxt "memoryrecordunit.rsactivate"
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
 #: memoryrecordunit.rsadjustmrwithrelativeaddress
 msgid "Do you wish to adjust memory records with relative addresses as well?"
-msgstr ""
+msgstr "是否同时调整相对地址的内存记录？"
 
 #: memoryrecordunit.rsdeactivate
 msgctxt "memoryrecordunit.rsdeactivate"
 msgid "Deactivate"
-msgstr ""
+msgstr "禁用"
 
 #: memoryrecordunit.rsdecreasevalue
 msgid "Decrease Value"
-msgstr ""
+msgstr "减少数值"
 
 #: memoryrecordunit.rserror
 msgctxt "memoryrecordunit.rserror"
 msgid "error"
-msgstr ""
+msgstr "错误"
 
 #: memoryrecordunit.rsincreasevalue
 msgid "Increase Value"
-msgstr ""
+msgstr "增加数值"
 
 #: memoryrecordunit.rsmrnibblesupportisonlyforhexadecimaldisplay
 msgid "Nibble support is only for hexadecimal display"
-msgstr ""
+msgstr "半字节支持仅适用于十六进制显示"
 
 #: memoryrecordunit.rsp
 msgctxt "memoryrecordunit.rsp"
 msgid "P->"
-msgstr ""
+msgstr "P->"
 
 #: memoryrecordunit.rspqqqqqqqq
 msgid "P->????????"
-msgstr ""
+msgstr "P->????????"
 
 #: memoryrecordunit.rssetvalue
 msgctxt "memoryrecordunit.rssetvalue"
 msgid "Set Value"
-msgstr ""
+msgstr "设置数值"
 
 #: memoryrecordunit.rstoggleactivation
 msgid "Toggle Activation"
-msgstr ""
+msgstr "切换激活状态"
 
 #: memoryrecordunit.rstoggleactivationallowdecrease
 msgid "Toggle Activation Allow Decrease"
-msgstr ""
+msgstr "切换允许减小的激活状态"
 
 #: memoryrecordunit.rstoggleactivationallowincrease
 msgid "Toggle Activation Allow Increase"
-msgstr ""
+msgstr "切换允许增加的激活状态"
 
 #: memoryrecordunit.rsunknown
 msgctxt "memoryrecordunit.rsunknown"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #: memscan.rsaresultsetwiththisnamealreadyexists
 #, object-pascal-format
 msgid "A result set with this name(%s) already exists"
-msgstr ""
+msgstr "同名(%s)结果集已存在"
 
 #: memscan.rsdiskwriteerror
 #, object-pascal-format
 msgid "Disk write error:%s"
-msgstr ""
+msgstr "磁盘写入错误:%s"
 
 #: memscan.rsdiskwriteerror2
 #, object-pascal-format
 msgid "Disk Write Error:%s"
-msgstr ""
+msgstr "磁盘写入错误:%s"
 
 #: memscan.rserrorallocatingbytesfortheoldresults
 #, object-pascal-format
 msgid "Error allocating %s bytes for the old results. buffersize=%s variablesize=%s"
-msgstr ""
+msgstr "分配%s字节给旧结果时出错。缓冲区大小=%s 变量大小=%s"
 
 #: memscan.rserrorwhenwhileloadingresult
 msgid "Error while loading result"
-msgstr ""
+msgstr "加载结果时出错"
 
 #: memscan.rsfailedspawningthesavefirstscanthread
 msgid "Failed spawning the Save First Scan thread"
-msgstr ""
+msgstr "创建保存首次扫描线程失败"
 
 #: memscan.rsfailureallocatingmemoryforcopytriedallocatingkb
 #, object-pascal-format
 msgid "Failure allocating memory for copy. Tried allocating %s KB"
-msgstr ""
+msgstr "分配内存副本失败。尝试分配%s KB"
 
 #: memscan.rsfailurecreatingthescandirectory
 msgid "Failure creating the scan directory"
