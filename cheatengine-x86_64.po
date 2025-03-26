@@ -6223,1960 +6223,1960 @@ msgstr "分配内存副本失败。尝试分配%s KB"
 
 #: memscan.rsfailurecreatingthescandirectory
 msgid "Failure creating the scan directory"
-msgstr ""
+msgstr "创建扫描目录失败"
 
 #: memscan.rsforsomereasonthescancontrollerdoesnotexist
 msgid "For some reason the scanController does not exist"
-msgstr ""
+msgstr "scanController控制器意外不存在"
 
 #: memscan.rsinvalidbinarynotation
 msgid "Invalid binary notation"
-msgstr ""
+msgstr "无效的二进制表示法"
 
 #: memscan.rsisaninvalidvalue
 #, object-pascal-format
 msgid "%s is an invalid value"
-msgstr ""
+msgstr "%s是无效值"
 
 #: memscan.rsisnotavalidcharacterinsideabinarystring
 #, object-pascal-format
 msgid "%s is not a valid character inside a binary string"
-msgstr ""
+msgstr "二进制字符串中存在非法字符：%s"
 
 #: memscan.rsisnotavalidnotation
 #, object-pascal-format
 msgid "%s is an invalid notation"
-msgstr ""
+msgstr "%s不是有效表示法"
 
 #: memscan.rsisnotavalidvalue
 #, object-pascal-format
 msgctxt "memscan.rsisnotavalidvalue"
 msgid "%s is not a valid value"
-msgstr ""
+msgstr "%s不是有效值"
 
 #: memscan.rsmscustomtypeisnil
 msgid "Custom type is nil"
-msgstr ""
+msgstr "自定义类型为nil"
 
 #: memscan.rsmsnothingtoscanfor
 msgid "Nothing to scan for"
-msgstr ""
+msgstr "无有效扫描目标"
 
 #: memscan.rsmspointertypenotrecognised
 msgid "Pointer type not recognised: "
-msgstr ""
+msgstr "无法识别的指针类型："
 
 #: memscan.rsmsthescanwasforcedtoterminatesubsequentscansmaynotfunctionproperlyetc
 msgid "The scan was forced to terminate. Subsequent scans may not function properly. It's recommended to restart Cheat Engine"
-msgstr ""
+msgstr "扫描已被强制终止。后续扫描可能无法正常工作，建议重启Cheat Engine"
 
 #: memscan.rsmstupidalignsize
 msgid "Stupid alignsize"
-msgstr ""
+msgstr "无效的对齐大小"
 
 #: memscan.rsnoreadablememoryfound
 msgctxt "memscan.rsnoreadablememoryfound"
 msgid "No readable memory found"
-msgstr ""
+msgstr "未找到可读内存区域"
 
 #: memscan.rsnotenoughdiskspacefortheaddressfile
 msgid "Not enough diskspace for the address file"
-msgstr ""
+msgstr "地址文件磁盘空间不足"
 
 #: memscan.rsnotenoughdiskspaceforthememoryfile
 msgid "Not enough diskspace for the memory file"
-msgstr ""
+msgstr "内存文件磁盘空间不足"
 
 #: memscan.rspleasefillsomethingin
 msgid "Please fill something in"
-msgstr ""
+msgstr "请输入有效内容"
 
 #: memscan.rsthetemporaryscandirectorydoesnotexistcheckyourscan
 #, object-pascal-format
 msgid "The temporary scan directory %s does not exist. Check your scan settings"
-msgstr ""
+msgstr "临时扫描目录%s不存在，请检查扫描设置"
 
 #: memscan.rsthread
 msgid "thread "
-msgstr ""
+msgstr "线程 "
 
 #: memscan.rsthreadsynchronizer
 msgid "Thread synchronizer"
-msgstr ""
+msgstr "线程同步器"
 
 #: memscan.rstmpandundoarenamesthatmaynotbeusedtryanothername
 msgid "TMP and UNDO are names that may not be used. Try another name"
-msgstr ""
+msgstr "TMP和UNDO为保留名称，请使用其他名称"
 
 #: memscan.rsunknown
 msgctxt "memscan.rsunknown"
 msgid "Unknown"
-msgstr ""
+msgstr "未知状态"
 
 #: mikmod.rsfailuretoinitializemikmod
 msgid "Failure to initialize MikMod"
-msgstr ""
+msgstr "MikMod音频引擎初始化失败"
 
 #: networkconfig.rscouldnotberesolved
 msgctxt "networkconfig.rscouldnotberesolved"
 msgid " could not be resolved"
-msgstr ""
+msgstr " 无法解析"
 
 #: networkconfig.rsfailedconnectingtotheserver
 msgid "Failed connecting to the server"
-msgstr ""
+msgstr "服务器连接失败"
 
 #: networkconfig.rsfailurecreatingsocket
 msgctxt "networkconfig.rsfailurecreatingsocket"
 msgid "Failure creating socket"
-msgstr ""
+msgstr "套接字创建失败"
 
 #: networkconfig.rshost
 msgctxt "networkconfig.rshost"
 msgid "host:"
-msgstr ""
+msgstr "主机:"
 
 #: networkinterfaceapi.rsinvalidceserverversion
 #, object-pascal-format
 msgid "Invalid ceserver version. ( %s )"
-msgstr ""
+msgstr "无效的ceserver版本 (%s)"
 
 #: networkinterfaceapi.rsnoconnection
 msgid "No connection"
-msgstr ""
+msgstr "连接断开"
 
 #: newkernelhandler.rscouldntbeopened
 #, object-pascal-format
 msgid "%s couldn't be opened"
-msgstr ""
+msgstr "%s无法打开"
 
 #: newkernelhandler.rsdbvmisnotloadedthisfeatureisnotusable
 msgid "DBVM is not loaded. This feature is not usable"
-msgstr ""
+msgstr "DBVM未加载，此功能不可用"
 
 #: newkernelhandler.rsdidnotloaddbvm
 msgid "I don't know what you did, you didn't crash, but you also didn't load DBVM"
-msgstr ""
+msgstr "未知操作状态：未触发崩溃但DBVM亦未加载"
 
 #: newkernelhandler.rsfucked
 msgid "Something is really messed up on your computer! You don't seem to have a kernel!!!!"
-msgstr ""
+msgstr "系统内核严重异常！未检测到有效内核！"
 
 #: newkernelhandler.rspleaserebootandpressf8beforewindowsboots
 msgid "Please reboot and press f8 before windows boots. Then enable unsigned drivers. Alternatively, you could buy yourself a business class certificate and sign the driver yourself (or try debug signing)"
-msgstr ""
+msgstr "请重启并在Windows引导前按F8键，然后启用未签名驱动。或者购买商业证书签名驱动（或尝试调试签名）"
 
 #: newkernelhandler.rsthedriverneedstobeloadedtobeabletousethisfunction
 msgid "The driver needs to be loaded to be able to use this function."
-msgstr ""
+msgstr "需加载驱动程序才能使用此功能"
 
 #: newkernelhandler.rstousethisfunctionyouwillneedtorundbvm
 msgid "To use this function you will need to run DBVM. There is a high chance running DBVM can crash your system and make you lose your data(So don't forget to save first). Do you want to run DBVM?"
-msgstr ""
+msgstr "使用此功能需运行DBVM，运行DBVM有较高概率导致系统崩溃及数据丢失（请务必先保存）。是否继续运行DBVM？"
 
 #: newkernelhandler.rsyourcpumustbeabletorundbvmtousethisfunction
 msgid "Your cpu must be able to run dbvm to use this function"
-msgstr ""
+msgstr "当前CPU必须支持运行DBVM才能使用此功能"
 
 #: opensave.rsaskifstupid
 msgid "Generating a trainer with the current state of the cheat table will likely result in a completely useless trainer that does nothing. Are you sure?"
-msgstr ""
+msgstr "基于当前作弊表状态生成训练器将产生无效功能，是否继续？"
 
 #: opensave.rsdoesntcontainneededinformationwheretoplacethememor
 #, object-pascal-format
 msgid "%s doesn't contain needed information where to place the memory"
-msgstr ""
+msgstr "%s缺少内存定位的必要信息"
 
 #: opensave.rserrorexecutingthistablesluascript
 #, object-pascal-format
 msgid "Error executing this table's lua script: %s"
-msgstr ""
+msgstr "执行表格Lua脚本时出错：%s"
 
 #: opensave.rserrorexecutingthistablesluascriptentry
 #, object-pascal-format
 msgid "Error executing this table's lua script named %s: %s"
-msgstr ""
+msgstr "执行表格Lua脚本(%s)时出错：%s"
 
 #: opensave.rserrorsaving
 msgid "Error saving..."
-msgstr ""
+msgstr "保存出错..."
 
 #: opensave.rsinvalidluafortrainer
 msgid "The lua script in this trainer has some issues and will therefore not load"
-msgstr ""
+msgstr "训练器中的Lua脚本存在问题，无法加载"
 
 #: opensave.rsosthereisanewerversionifcheatengineoutetc
 msgid "There is a newer version of Cheat Engine out. It's recommended to use that version instead"
-msgstr ""
+msgstr "已有新版本Cheat Engine，建议升级使用"
 
 #: opensave.rsosthischeattableiscorrupt
 msgid "This cheat table is corrupt"
-msgstr ""
+msgstr "作弊表格已损坏"
 
 #: opensave.rstheregionatwaspartiallyorcompletlyunreadable
 #, object-pascal-format
 msgid "The region at %s was partially or completely unreadable"
-msgstr ""
+msgstr "地址%s处的内存区域部分/完全不可读"
 
 #: opensave.rstheversionofisincompatiblewiththisceversion
 #, object-pascal-format
 msgid "The version of %s is incompatible with this Cheat Engine version"
-msgstr ""
+msgstr "%s的版本与当前Cheat Engine不兼容"
 
 #: opensave.rsthisisnotavalidcheattable
 msgid "This is not a valid cheat table"
-msgstr ""
+msgstr "无效的作弊表格"
 
 #: opensave.rsthisisnotavalidxmlfile
 msgid "This is not a valid xml file"
-msgstr ""
+msgstr "无效的XML文件"
 
 #: opensave.rsthistablecontainsaluascriptdoyouwanttorunit
 msgid "This table contains a lua script. Do you want to run it?"
-msgstr ""
+msgstr "表格包含Lua脚本，是否执行？"
 
 #: opensave.rsunknownextention
 msgctxt "opensave.rsunknownextention"
 msgid "Unknown extension"
-msgstr ""
+msgstr "未知扩展名"
 
 #: opensave.rsyoucanonlyprotectafileifithasancetrainerextension
 msgid "You can only protect a file if it has an .CETRAINER extension"
-msgstr ""
+msgstr "仅.CETRAINER扩展名文件可被保护"
 
 #: opensave.rsyoureabouttoloadanunsignedobfuscatedtableareyousure
 msgid "You're about to load an unsigned obfuscated table while running with admin privileges. Are you sure?"
-msgstr ""
+msgstr "即将以管理员权限加载未签名的混淆表格，是否继续？"
 
 #: opensave.strcantloadfilepatcher
 msgid "The file patcher can't be loaded by Cheat Engine!"
-msgstr ""
+msgstr "文件补丁程序无法被Cheat Engine加载！"
 
 #: opensave.strcantloadprotectedfile
 msgid "This Trainer is protected from being opened by Cheat Engine. Now go away!!!"
-msgstr ""
+msgstr "此训练器禁止通过Cheat Engine打开！"
 
 #: opensave.strcorrupticon
 msgid "The icon has been corrupted"
-msgstr ""
+msgstr "图标已损坏"
 
 #: opensave.strnotacetrainer
 msgid "This is not a Trainer made by Cheat Engine (If it is a Trainer at all!)"
-msgstr ""
+msgstr "非Cheat Engine生成的训练器（如果确实是训练器的话！）"
 
 #: opensave.strunknowncomponent
 msgid "There is a unknown component in the trainer! compnr="
-msgstr ""
+msgstr "训练器包含未知组件！组件编号="
 
 #: opensave.strunknowntrainerversion
 msgid "This version of Cheat Engine doesn't know how to read this Trainer! Trainerversion="
-msgstr ""
+msgstr "当前Cheat Engine版本无法读取此训练器！训练器版本="
 
 #: parsers.rsinvalidinteger
 msgid "Invalid integer"
-msgstr ""
+msgstr "无效整数值"
 
 #: peinfofunctions.rspeifnoexports
 msgid "No exports"
-msgstr ""
+msgstr "无导出表"
 
 #: peinfofunctions.strinvalidfile
 msgid "Invalid file"
-msgstr ""
+msgstr "无效文件"
 
 #: peinfounit.rspe32bit
 msgid "32-bit, "
-msgstr ""
+msgstr "32位, "
 
 #: peinfounit.rspeaddressoffunctions
 #, object-pascal-format
 msgid "AddressOfFunctions = %x"
-msgstr ""
+msgstr "函数地址表 = %x"
 
 #: peinfounit.rspeaddressofnameordinals
 #, object-pascal-format
 msgid "AddressOfNameOrdinals = %x"
-msgstr ""
+msgstr "名称序号表 = %x"
 
 #: peinfounit.rspeaddressofnames
 #, object-pascal-format
 msgid "AddressOfNames = %x"
-msgstr ""
+msgstr "名称地址表 = %x"
 
 #: peinfounit.rspeaddressofrawdata
 #, object-pascal-format
 msgid "Address of raw data = %x"
-msgstr ""
+msgstr "原始数据地址 = %x"
 
 #: peinfounit.rspeagressivetrim
 msgid "Agressive trim, "
-msgstr ""
+msgstr "激进裁剪, "
 
 #: peinfounit.rspearchitecturespecifictable
 msgid "Architecture-Specific table"
-msgstr ""
+msgstr "架构特定表"
 
 #: peinfounit.rspebase
 #, object-pascal-format
 msgid "Base = %x"
-msgstr ""
+msgstr "基地址 = %x"
 
 #: peinfounit.rspebaseofcode
 #, object-pascal-format
 msgid "Base of code = %.8x "
-msgstr ""
+msgstr "代码段基址 = %.8x"
 
 #: peinfounit.rspebaseofdata
 #, object-pascal-format
 msgid "Base of data = %.8x "
-msgstr ""
+msgstr "数据段基址 = %.8x"
 
 #: peinfounit.rspebaserelocationtable
 msgid "Base-Relocation table"
-msgstr ""
+msgstr "基址重定位表"
 
 #: peinfounit.rspeboundimporttable
 msgid "Bound import table"
-msgstr ""
+msgstr "绑定导入表"
 
 #: peinfounit.rspecertificatetabel
 msgid "Certificate table"
-msgstr ""
+msgstr "证书表"
 
 #: peinfounit.rspecharacterisitics
 #, object-pascal-format
 msgid "characterisitics=%x (%s)"
-msgstr ""
+msgstr "特性=%x (%s)"
 
 #: peinfounit.rspecharacteristics
 #, object-pascal-format
 msgid "Characteristics = %x (%s)"
-msgstr ""
+msgstr "特性 = %x (%s)"
 
 #: peinfounit.rspecharacteristics2
 #, object-pascal-format
 msgid "Characteristics=%x (should be 0)"
-msgstr ""
+msgstr "特性=%x（应为0）"
 
 #: peinfounit.rspecharacteristicsoriginalfirstthunk
 #, object-pascal-format
 msgid "Characteristics/OriginalFirstThunk=%x"
-msgstr ""
+msgstr "特性/原始FirstThunk=%x"
 
 #: peinfounit.rspechecksum
 #, object-pascal-format
 msgid "CheckSum = %x "
-msgstr ""
+msgstr "校验和 = %x"
 
 #: peinfounit.rspeclrruntimetable
 msgid "CLR Runtime table"
-msgstr ""
+msgstr "CLR运行时表"
 
 #: peinfounit.rspecodeview
 msgid "Codeview"
-msgstr ""
+msgstr "Codeview调试信息"
 
 #: peinfounit.rspedebugfile
 #, object-pascal-format
 msgid "Debugfile =%s"
-msgstr ""
+msgstr "调试文件=%s"
 
 #: peinfounit.rspedebugginginfotable
 msgid "Debugging info table"
-msgstr ""
+msgstr "调试信息表"
 
 #: peinfounit.rspedelayimportdescriptiontable
 msgid "Delay import descriptor table"
-msgstr ""
+msgstr "延迟导入描述符表"
 
 #: peinfounit.rspediscardable
 msgid "discardable, "
-msgstr ""
+msgstr "可丢弃, "
 
 #: peinfounit.rspedll
 msgid "DLL, "
-msgstr ""
+msgstr "DLL, "
 
 #: peinfounit.rspedllcharacteristics
 #, object-pascal-format
 msgid "Dll Characteristics = %x "
-msgstr ""
+msgstr "DLL特性 = %x"
 
 #: peinfounit.rspedosentrypoint
 #, object-pascal-format
 msgid "dos entrypoint = %.4x:%.4x"
-msgstr ""
+msgstr "DOS入口点 = %.4x:%.4x"
 
 #: peinfounit.rspedosstack
 #, object-pascal-format
 msgid "dos stack = %.4x:%.4x"
-msgstr ""
+msgstr "DOS堆栈 = %.4x:%.4x"
 
 #: peinfounit.rspeentrypoint
 #, object-pascal-format
 msgid "Entry point = %.8x "
-msgstr ""
+msgstr "入口点 = %.8x"
 
 #: peinfounit.rspeexceptiontable
 msgid "Exception table"
-msgstr ""
+msgstr "异常表"
 
 #: peinfounit.rspeexecutable
 msgid "Executable, "
-msgstr ""
+msgstr "可执行, "
 
 #: peinfounit.rspeexecutablecode
 msgid "Executable code, "
-msgstr ""
+msgstr "可执行代码, "
 
 #: peinfounit.rspeexecutablememory
 msgid "executable memory, "
-msgstr ""
+msgstr "可执行内存, "
 
 #: peinfounit.rspeexporttable
 msgid "Export table"
-msgstr ""
+msgstr "导出表"
 
 #: peinfounit.rspefailureatallocationmemory
 msgid "Failure at allocating memory"
-msgstr ""
+msgstr "内存分配失败"
 
 #: peinfounit.rspefailurereadingmemory
 msgid "Failure reading memory"
-msgstr ""
+msgstr "内存读取失败"
 
 #: peinfounit.rspefilealignment
 #, object-pascal-format
 msgid "File Alignment = %x "
-msgstr ""
+msgstr "文件对齐 = %x"
 
 #: peinfounit.rspefirstthunk
 #, object-pascal-format
 msgid "FirstThunk=%x"
-msgstr ""
+msgstr "FirstThunk=%x"
 
 #: peinfounit.rspeforwarderchain
 #, object-pascal-format
 msgid "Forwarder Chain=%x (-1 if no forwarders)"
-msgstr ""
+msgstr "转发器链=%x（-1表示无转发）"
 
 #: peinfounit.rspeglobalpointertable
 msgid "Global pointer table"
-msgstr ""
+msgstr "全局指针表"
 
 #: peinfounit.rspeimport
 #, object-pascal-format
 msgid "Import %d : %s"
-msgstr ""
+msgstr "导入%d: %s"
 
 #: peinfounit.rspeimportaddresstable
 msgid "import address table"
-msgstr ""
+msgstr "导入地址表(IAT)"
 
 #: peinfounit.rspeimports
 msgid "imports:"
-msgstr ""
+msgstr "导入项:"
 
 #: peinfounit.rspeimporttable
 msgid "Import table"
-msgstr ""
+msgstr "导入表"
 
 #: peinfounit.rspeinconsistent
 msgid " (inconsistent)"
-msgstr ""
+msgstr "（不一致）"
 
 #: peinfounit.rspeinitializeddata
 msgid "Initialized data, "
-msgstr ""
+msgstr "已初始化数据, "
 
 #: peinfounit.rspelfanew
 msgid "lfanew="
-msgstr ""
+msgstr "lfanew="
 
 #: peinfounit.rspeloadconfigtable
 msgid "Load config table"
-msgstr ""
+msgstr "加载配置表"
 
 #: peinfounit.rspeloaderflags
 #, object-pascal-format
 msgid "Loader Flags = %x "
-msgstr ""
+msgstr "加载器标志 = %x"
 
 #: peinfounit.rspemachine
 #, object-pascal-format
 msgid "Machine=%.2x"
-msgstr ""
+msgstr "机器类型=%.2x"
 
 #: peinfounit.rspemachine64
 #, object-pascal-format
 msgid "Machine=%.2x (64 bit)"
-msgstr ""
+msgstr "机器类型=%.2x(64位)"
 
 #: peinfounit.rspemajorimageversion
 #, object-pascal-format
 msgid "Major Image Version = %d "
-msgstr ""
+msgstr "主映像版本 = %d"
 
 #: peinfounit.rspemajorlinkerversion
 #, object-pascal-format
 msgid "Major linker version = %d "
-msgstr ""
+msgstr "主链接器版本 = %d"
 
 #: peinfounit.rspemajoroperatingsystemversion
 #, object-pascal-format
 msgid "Major Operating System Version = %d "
-msgstr ""
+msgstr "主操作系统版本 = %d"
 
 #: peinfounit.rspemajorsubsystemversion
 #, object-pascal-format
 msgid "Major Subsystem Version = %d "
-msgstr ""
+msgstr "主子系统版本 = %d"
 
 #: peinfounit.rspemajorversion
 #, object-pascal-format
 msgid "Major version=%d"
-msgstr ""
+msgstr "主版本号=%d"
 
 #: peinfounit.rspeminorimageversion
 #, object-pascal-format
 msgid "Minor Image Version = %d "
-msgstr ""
+msgstr "次映像版本 = %d"
 
 #: peinfounit.rspeminorlinlerversion
 #, object-pascal-format
 msgid "Minor linker version = %d "
-msgstr ""
+msgstr "次链接器版本 = %d"
 
 #: peinfounit.rspeminorsubsystemversion
 #, object-pascal-format
 msgid "Minor Subsystem Version = %d "
-msgstr ""
+msgstr "次子系统版本 = %d"
 
 #: peinfounit.rspeminorversion
 #, object-pascal-format
 msgid "Minor version=%d"
-msgstr ""
+msgstr "次版本号=%d"
 
 #: peinfounit.rspemzheader
 msgid "MZ header"
-msgstr ""
+msgstr "MZ头"
 
 #: peinfounit.rspename
 #, object-pascal-format
 msgid "Name = %x (%s)"
-msgstr ""
+msgstr "名称 = %x (%s)"
 
 #: peinfounit.rspename2
 #, object-pascal-format
 msgid "Name=%x : %s"
-msgstr ""
+msgstr "名称=%x : %s"
 
 #: peinfounit.rspenetrunfromswap
 msgid "Net: Run from swap, "
-msgstr ""
+msgstr "网络：从交换文件运行, "
 
 #: peinfounit.rspenodbginfo
 msgid "No DBG info, "
-msgstr ""
+msgstr "无DBG调试信息, "
 
 #: peinfounit.rspenolinenumbers
 msgid "No line numbers, "
-msgstr ""
+msgstr "无行号信息, "
 
 #: peinfounit.rspenolocalsymbols
 msgid "No local symbols, "
-msgstr ""
+msgstr "无本地符号, "
 
 #: peinfounit.rspenorelocations
 msgid "No relocations, "
-msgstr ""
+msgstr "无重定位信息, "
 
 #: peinfounit.rspenotallmemorycouldbereadworkingwithapartialcopyhere
 msgid "Not all memory could be read, working with a partial copy here"
-msgstr ""
+msgstr "无法读取全部内存，正在使用部分内存副本"
 
 #: peinfounit.rspenotcached
 msgid "not cached, "
-msgstr ""
+msgstr "未缓存, "
 
 #: peinfounit.rspenotpaged
 msgid "not paged, "
-msgstr ""
+msgstr "未分页, "
 
 #: peinfounit.rspenumberoffunctions
 #, object-pascal-format
 msgid "NumberOfFunctions = %d"
-msgstr ""
+msgstr "函数数量 = %d"
 
 #: peinfounit.rspenumberoflinenumbers
 #, object-pascal-format
 msgid "number of line numbers=%x"
-msgstr ""
+msgstr "行号数量=%x"
 
 #: peinfounit.rspenumberofnames
 #, object-pascal-format
 msgid "NumberOfNames = %d"
-msgstr ""
+msgstr "名称数量 = %d"
 
 #: peinfounit.rspenumberofrelocations
 #, object-pascal-format
 msgid "number of relocations=%x"
-msgstr ""
+msgstr "重定位数量=%x"
 
 #: peinfounit.rspenumberofrvaandsize
 #, object-pascal-format
 msgid "Number Of Rva And Sizes = %d "
-msgstr ""
+msgstr "RVA与大小数量 = %d"
 
 #: peinfounit.rspenumberofsections
 #, object-pascal-format
 msgid "Number of sections=%d"
-msgstr ""
+msgstr "节区数量=%d"
 
 #: peinfounit.rspeoptional
 msgid "-----optional-----"
-msgstr ""
+msgstr "-----可选头-----"
 
 #: peinfounit.rspeoptionalheader
 #, object-pascal-format
 msgid "OptionalHeader size = %x"
-msgstr ""
+msgstr "可选头大小 = %x"
 
 #: peinfounit.rspeoptionalmagicnumber
 #, object-pascal-format
 msgid "Optional magic number = %x "
-msgstr ""
+msgstr "可选头魔数 = %x"
 
 #: peinfounit.rspepeheader
 msgid "PE header"
-msgstr ""
+msgstr "PE头"
 
 #: peinfounit.rspepeinfoimagesize
 msgid "PEInfo: Image size"
-msgstr ""
+msgstr "PE信息：映像大小"
 
 #: peinfounit.rspepointertolinenumbers
 #, object-pascal-format
 msgid "Pointer to line numbers=%x"
-msgstr ""
+msgstr "行号指针=%x"
 
 #: peinfounit.rspepointertorawdata
 #, object-pascal-format
 msgid "Pointer to raw data=%x"
-msgstr ""
+msgstr "原始数据指针=%x"
 
 #: peinfounit.rspepointertorelocations
 #, object-pascal-format
 msgid "Pointer to relocations=%x"
-msgstr ""
+msgstr "重定位指针=%x"
 
 #: peinfounit.rspepreferedimagebase
 #, object-pascal-format
 msgid "Prefered imagebase = %.8x "
-msgstr ""
+msgstr "首选映像基址 = %.8x"
 
 #: peinfounit.rspepreferedimagebase2
 #, object-pascal-format
 msgid "Prefered imagebase = %.16x "
-msgstr ""
+msgstr "首选映像基址 = %.16x"
 
 #: peinfounit.rspereadablememory
 msgid "readable memory, "
-msgstr ""
+msgstr "可读内存, "
 
 #: peinfounit.rsperemovablerunfromswap
 msgid "Removable: Run from swap, "
-msgstr ""
+msgstr "可移动：从交换文件运行, "
 
 #: peinfounit.rsperemoved
 msgid "removed, "
-msgstr ""
+msgstr "已移除, "
 
 #: peinfounit.rspereserved
 msgid "reserved"
-msgstr ""
+msgstr "保留"
 
 #: peinfounit.rsperesourcetable
 msgid "Resource table"
-msgstr ""
+msgstr "资源表"
 
 #: peinfounit.rspereversedbyteshi
 msgid "Reversed bytes HI, "
-msgstr ""
+msgstr "字节序反转(HI), "
 
 #: peinfounit.rspereversedbyteslo
 msgid "Reversed bytes LO, "
-msgstr ""
+msgstr "字节序反转(LO), "
 
 #: peinfounit.rspesectionallignment
 #, object-pascal-format
 msgid "Section allignment = %x "
-msgstr ""
+msgstr "节区对齐 = %x"
 
 #: peinfounit.rspesections
 msgid "-----sections-----"
-msgstr ""
+msgstr "-----节区-----"
 
 #: peinfounit.rspesharedmemory
 msgid "shared memory, "
-msgstr ""
+msgstr "共享内存, "
 
 #: peinfounit.rspesignature
 #, object-pascal-format
 msgid "Signature=%x (%s)"
-msgstr ""
+msgstr "签名=%x (%s)"
 
 #: peinfounit.rspesizeofcode
 #, object-pascal-format
 msgid "Size of code = %x (%d) "
-msgstr ""
+msgstr "代码段大小 = %x (%d)"
 
 #: peinfounit.rspesizeofheader
 #, object-pascal-format
 msgid "Size Of Headers = %x "
-msgstr ""
+msgstr "头部大小 = %x"
 
 #: peinfounit.rspesizeofheapcommit
 #, object-pascal-format
 msgid "Size Of Heap Commit = %x "
-msgstr ""
+msgstr "堆提交大小 = %x"
 
 #: peinfounit.rspesizeofheapreserve
 #, object-pascal-format
 msgid "Size Of Heap Reserve = %x "
-msgstr ""
+msgstr "堆保留大小 = %x"
 
 #: peinfounit.rspesizeofimage
 #, object-pascal-format
 msgid "Size Of Image = %x "
-msgstr ""
+msgstr "映像大小 = %x"
 
 #: peinfounit.rspesizeofinitializeddata
 #, object-pascal-format
 msgid "Size of initialized data = %x (%d)"
-msgstr ""
+msgstr "已初始化数据大小 = %x (%d)"
 
 #: peinfounit.rspesizeofrawdata
 #, object-pascal-format
 msgid "size of raw data=%x"
-msgstr ""
+msgstr "原始数据大小=%x"
 
 #: peinfounit.rspesizeofstackcommit
 #, object-pascal-format
 msgid "Size Of Stack Commit = %x "
-msgstr ""
+msgstr "栈提交大小 = %x"
 
 #: peinfounit.rspesizeofstackreserve
 #, object-pascal-format
 msgid "Size Of Stack Reserve = %x "
-msgstr ""
+msgstr "栈保留大小 = %x"
 
 #: peinfounit.rspesizeofuninitializeddata
 #, object-pascal-format
 msgid "Size of uninitialized data = %x (%d) "
-msgstr ""
+msgstr "未初始化数据大小 = %x (%d)"
 
 #: peinfounit.rspestaticaddresses
 msgid "Static addresses"
-msgstr ""
+msgstr "静态地址"
 
-#: peinfounit.rspesubsystem
+#: peinfoununit.rspesubsystem
 #, object-pascal-format
 msgid "Subsystem = %x "
-msgstr ""
+msgstr "子系统 = %x"
 
 #: peinfounit.rspesymbolcount
 #, object-pascal-format
 msgid "Symbolcount = %x"
-msgstr ""
+msgstr "符号数量 = %x"
 
 #: peinfounit.rspesymboltableat
 #, object-pascal-format
 msgid "SymbolTable at %x"
-msgstr ""
+msgstr "符号表位于 %x"
 
 #: peinfounit.rspesystemfile
 msgid "System file, "
-msgstr ""
+msgstr "系统文件, "
 
 #: peinfounit.rspetheheaderofthemodelecouldnobberead
 msgid "The header of the module could not be read"
-msgstr ""
+msgstr "无法读取模块头部"
 
 #: peinfounit.rspetheimagesizeismorethan256
 msgid "The imagesize is more than 256 MB, is this the correct ammount? If not, edit here"
-msgstr ""
+msgstr "映像大小超过256MB，确认是否正确？如需修改请在此编辑"
 
 #: peinfounit.rspethisisnotavakidpefile
 msgid "This is not a valid PE file"
-msgstr ""
+msgstr "无效的PE文件"
 
 #: peinfounit.rspetimedatastamp
 #, object-pascal-format
 msgid "Time datastamp=%x"
-msgstr ""
+msgstr "时间戳=%x"
 
 #: peinfounit.rspetimedate
 #, object-pascal-format
 msgid "Time/Date =%d"
-msgstr ""
+msgstr "时间/日期 =%d"
 
 #: peinfounit.rspetimedatestamp
 #, object-pascal-format
 msgid "TimeDateStamp=%x (0=not bound -1=bound, and timestamp)"
-msgstr ""
+msgstr "时间日期戳=%x (0=未绑定 -1=已绑定，包含时间戳)"
 
 #: peinfounit.rspetlstable
 msgid "TLS table"
-msgstr ""
+msgstr "TLS表"
 
 #: peinfounit.rspetype
 #, object-pascal-format
 msgid "Type = %d"
-msgstr ""
+msgstr "类型 = %d"
 
 #: peinfounit.rspeuninitializeddata
 msgid "Uninitialized data, "
-msgstr ""
+msgstr "未初始化数据, "
 
 #: peinfounit.rspeunknown
 msgctxt "peinfounit.rspeunknown"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #: peinfounit.rspeupsystemonly
 msgid "UP system only, "
-msgstr ""
+msgstr "仅UP系统, "
 
 #: peinfounit.rspevirtualaddress
 #, object-pascal-format
 msgid "Virtual Address=%x"
-msgstr ""
+msgstr "虚拟地址=%x"
 
 #: peinfounit.rspevirtualaddressbase
 #, object-pascal-format
 msgid "Virtual address base: %.8x (size=%x (%d))"
-msgstr ""
+msgstr "虚拟地址基址: %.8x (大小=%x (%d))"
 
 #: peinfounit.rspevirtualsize
 #, object-pascal-format
 msgid "Virtual Size=%x"
-msgstr ""
+msgstr "虚拟大小=%x"
 
 #: peinfounit.rspewin32versionvalue
 #, object-pascal-format
 msgid "Win32 Version Value = %x "
-msgstr ""
+msgstr "Win32版本值 = %x"
 
 #: peinfounit.rspewritablememory
 msgid "writable memory, "
-msgstr ""
+msgstr "可写内存, "
 
 #: peinfounit.rsthisisnotavalidimage
 msgid "This is not a valid image"
-msgstr ""
+msgstr "无效的映像文件"
 
 #: plugin.rserrordisabling
 #, object-pascal-format
 msgid "Error disabling %s"
-msgstr ""
+msgstr "禁用%s时出错"
 
 #: plugin.rserrorenabling
 #, object-pascal-format
 msgid "Error enabling %s"
-msgstr ""
+msgstr "启用%s时出错"
 
 #: plugin.rserrorloadingonlydllfilesareallowed
 #, object-pascal-format
 msgid "Error loading %s. Only DLL files are allowed"
-msgstr ""
+msgstr "加载%s出错，仅允许DLL文件"
 
 #: plugin.rserrorloadingthedllismissingtheceplugin_getversione
 #, object-pascal-format
 msgid "Error loading %s. The dll is missing the CEPlugin_GetVersion export"
-msgstr ""
+msgstr "加载%s出错，DLL缺少CEPlugin_GetVersion导出函数"
 
 #: plugin.rserrorloadingthedllismissingtheceplugin_getversionf
 #, object-pascal-format
 msgid "Error loading %s. The dll is missing the CEPlugin_GetVersion function"
-msgstr ""
+msgstr "加载%s出错，DLL缺少CEPlugin_GetVersion函数"
 
 #: plugin.rserrorloadingthegetversionfunctionreturnedfalse
 #, object-pascal-format
 msgid "Error loading %s. The GetVersion function returned FALSE"
-msgstr ""
+msgstr "加载%s出错，GetVersion函数返回FALSE"
 
 #: plugin.rserrorloadingthisdllrequiresanewerversionofcetofunc
 #, object-pascal-format
 msgid "Error loading %s. This dll requires a newer version of ce to function properly"
-msgstr ""
+msgstr "加载%s出错，此DLL需要更新版本的CE才能正常运行"
 
 #: plugin.rsismissingtheceplugin_disablepluginexport
 #, object-pascal-format
 msgid "%s is missing the CEPlugin_DisablePlugin export"
-msgstr ""
+msgstr "%s 缺少 CEPlugin_DisablePlugin 导出函数"
 
 #: plugin.rsismissingtheceplugin_initializepluginexport
 #, object-pascal-format
 msgid "%s is missing the CEPlugin_InitializePlugin export"
-msgstr ""
+msgstr "%s 缺少 CEPlugin_InitializePlugin 导出函数"
 
 #: plugin.rsplugtheplugindllcouldnotbeloaded
 msgid "The plugin dll could not be loaded:"
-msgstr ""
+msgstr "无法加载插件 DLL:"
 
 #: pluginexports.rsloadmodulefailed
 msgid "LoadModule failed"
-msgstr ""
+msgstr "加载模块失败"
 
 #: pluginexports.rspluginaddress
 msgctxt "pluginexports.rspluginaddress"
 msgid "Plugin Address"
-msgstr ""
+msgstr "插件地址"
 
 #: pointeraddresslist.rspalinvalidscandatafile
 msgctxt "pointeraddresslist.rspalinvalidscandatafile"
 msgid "Invalid scandata file"
-msgstr ""
+msgstr "无效的扫描数据文件"
 
 #: pointeraddresslist.rspalinvalidscandataversion
 msgctxt "pointeraddresslist.rspalinvalidscandataversion"
 msgid "Invalid scandata version"
-msgstr ""
+msgstr "无效的扫描数据版本"
 
 #: pointerscanconnector.rscouldnotberesolved
 msgctxt "pointerscanconnector.rscouldnotberesolved"
 msgid " could not be resolved"
-msgstr ""
+msgstr " 无法解析"
 
 #: pointerscanconnector.rserrorwhileconnecting
 msgid "Error while connecting: "
-msgstr ""
+msgstr "连接时出错："
 
 #: pointerscanconnector.rsfailurecreatingsocket
 msgctxt "pointerscanconnector.rsfailurecreatingsocket"
 msgid "Failure creating socket"
-msgstr ""
+msgstr "创建套接字失败"
 
 #: pointerscanconnector.rshost
 msgctxt "pointerscanconnector.rshost"
 msgid "host:"
-msgstr ""
+msgstr "主机："
 
 #: pointerscanconnector.rsinvalidresponsefrom
 msgid "invalid response from "
-msgstr ""
+msgstr "来自  的无效响应"
 
 #: pointerscanconnector.rssomeoneforgottogivethisconnector
 msgid "Someone forgot to give this connector an OnConnected event..."
-msgstr ""
+msgstr "有人忘记给这个连接器设置 OnConnected 事件..."
 
 #: pointerscancontroller.rsallpathsreceived
 msgid "All paths received"
-msgstr ""
+msgstr "所有路径已接收"
 
 #: pointerscancontroller.rsfailurecopyingtargetprocessmemory
 msgid "Failure copying target process memory"
-msgstr ""
+msgstr "复制目标进程内存失败"
 
 #: pointerscancontroller.rsinvaliddata
 msgid "invalid data:"
-msgstr ""
+msgstr "无效数据："
 
 #: pointerscancontroller.rsnoupdatefromtheclientforover120sec
 msgid "No update from the client for over 120 seconds"
-msgstr ""
+msgstr "超过120秒未收到客户端更新"
 
 #: pointerscancontroller.rspscachildtriedtoconnect
 msgid "A child tried to connect"
-msgstr ""
+msgstr "子节点尝试连接"
 
 #: pointerscancontroller.rspscalreadystillconnectedtothischild
 msgid "Already/still connected to this child"
-msgstr ""
+msgstr "已经/仍然连接到此子节点"
 
 #: pointerscancontroller.rspscaparenttriedtoconnect
 msgid "A parent tried to connect"
-msgstr ""
+msgstr "父节点尝试连接"
 
 #: pointerscancontroller.rspscchildisntidlewhilepreviouslyitwas
 msgid "child isn't idle while previously it was..."
-msgstr ""
+msgstr "子节点不再空闲(此前处于空闲状态)..."
 
 #: pointerscancontroller.rspscduringscanfinishing
 msgid "During scan finishing: "
-msgstr ""
+msgstr "扫描完成过程中："
 
 #: pointerscancontroller.rspscerror
 msgid " (Error: "
-msgstr ""
+msgstr " (错误："
 
 #: pointerscancontroller.rspscfailurecreatingsocket
 msgctxt "pointerscancontroller.rspscfailurecreatingsocket"
 msgid "Failure creating socket"
-msgstr ""
+msgstr "创建套接字失败"
 
 #: pointerscancontroller.rspscfailuretobindport
 msgid "Failure to bind port "
-msgstr ""
+msgstr "绑定端口失败 "
 
 #: pointerscancontroller.rspscfailuretolisten
 msgid "Failure to listen"
-msgstr ""
+msgstr "监听失败"
 
 #: pointerscancontroller.rspscforsomeunknownreasontheuntrustedchildisntidleanymore
 msgid "For some unknown reason the untrusted child isn't idle anymore"
-msgstr ""
+msgstr "由于未知原因，不受信子节点不再空闲"
 
 #: pointerscancontroller.rspschelloafterinitializtion
 msgid "HELLO after initializtion"
-msgstr ""
+msgstr "初始化后握手失败"
 
 #: pointerscancontroller.rspscimpossibleerroruseloadedpointermapwasfalseetc
 msgid "Impossible error: UseLoadedPointermap was false when a child message got handled"
-msgstr ""
+msgstr "不可能的错误：处理子节点消息时UseLoadedPointermap为false"
 
 #: pointerscancontroller.rspscinvalidchildpassword
 msgid "Invalid child password"
-msgstr ""
+msgstr "无效的子节点密码"
 
 #: pointerscancontroller.rspscinvalidcommandwhilewaitingforhello
 msgid "Invalid command while waiting for hello"
-msgstr ""
+msgstr "等待握手时收到无效指令"
 
 #: pointerscancontroller.rspscinvalidhandshakesignature
 msgid "Invalid handshake signature"
-msgstr ""
+msgstr "无效的握手签名"
 
 #: pointerscancontroller.rspscinvalidmessage
 msgid "Invalid message"
-msgstr ""
+msgstr "无效消息"
 
 #: pointerscancontroller.rspscinvalidmessagereceived
 msgid "Invalid message received"
-msgstr ""
+msgstr "收到无效消息"
 
 #: pointerscancontroller.rspscinvalidparentpassword
 msgid "Invalid parent password"
-msgstr ""
+msgstr "无效的父节点密码"
 
 #: pointerscancontroller.rspscinvalidqueuefile
 msgid "Invalid queue file"
-msgstr ""
+msgstr "无效的队列文件"
 
 #: pointerscancontroller.rspscinvalidreplyforpsupdatereplycmdcurrentscanhasended
 msgid "Invalid reply for PSUPDATEREPLYCMD_CURRENTSCANHASENDED"
-msgstr ""
+msgstr "PSUPDATEREPLYCMD_CURRENTSCANHASENDED命令的无效回复"
 
 #: pointerscancontroller.rspscinvalidresultreceivedafteruploadingthescanresults
 msgid "Invalid result received after uploading the scanresults"
-msgstr ""
+msgstr "上传扫描结果后收到无效结果"
 
 #: pointerscancontroller.rspscinvalidresultreceivedfrompsupdatereplycmdherearesomepaths
 msgid "Invalid result received from PSUPDATEREPLYCMD_HEREARESOMEPATHS"
-msgstr ""
+msgstr "从PSUPDATEREPLYCMD_HEREARESOMEPATHS收到无效结果"
 
 #: pointerscancontroller.rspscinvalidscandatareceivedfilecount
 msgid "Invalid scandata received. filecount=0"
-msgstr ""
+msgstr "收到无效扫描数据(filecount=0)"
 
 #: pointerscancontroller.rspscinvalidupdatestatusreplyreceived
 msgid "Invalid UpdateStatus reply received"
-msgstr ""
+msgstr "收到无效的状态更新回复"
 
 #: pointerscancontroller.rspscnewscanstartedwhilenotdone
 msgid "New scan started while not done"
-msgstr ""
+msgstr "未完成时又开始了新的扫描"
 
 #: pointerscancontroller.rspscnoresumeptrfilereaderpresent
 msgid "no resume ptr file reader present"
-msgstr ""
+msgstr "不存在恢复用的指针文件读取器"
 
 #: pointerscancontroller.rspscparentdidntrespondproperlytopscmdprepareformytermination
 msgid "Parent didn't respond properly to PSCMD_PREPAREFORMYTERMINATION"
-msgstr ""
+msgstr "父节点没有正确响应PSCMD_PREPAREFORMYTERMINATION命令"
 
 #: pointerscancontroller.rspscsleeping
 msgid ":Sleeping"
-msgstr ""
+msgstr "：休眠中"
 
 #: pointerscancontroller.rspscsuccesfullysentscandatatochild
 msgid "Succesfully sent scandata to child"
-msgstr ""
+msgstr "成功将扫描数据发送给子节点"
 
 #: pointerscancontroller.rspscterminated
 msgid ":Terminated"
-msgstr ""
+msgstr "：已终止"
 
 #: pointerscancontroller.rspscthechilddidntrespondtopsupdatereplycmdeverythingokasexpected
 msgid "The child didn't respond to PSUPDATEREPLYCMD_EVERYTHINGOK as expected"
-msgstr ""
+msgstr "子节点未按预期响应PSUPDATEREPLYCMD_EVERYTHINGOK命令"
 
 #: pointerscancontroller.rspscthechildissendingmeresultsofadifferentscan
 msgid "The child is sending me results of a different scan"
-msgstr ""
+msgstr "子节点正在发送不同扫描的结果"
 
 #: pointerscancontroller.rspscthechildtriedtosendanegativeamount
 msgid "The child tried to send a negative amount"
-msgstr ""
+msgstr "子节点尝试发送负数数量"
 
 #: pointerscancontroller.rspscthechildtriedtosendmeresultswhileiwasstillbusy
 msgid "The child tried to send me results while I was still busy"
-msgstr ""
+msgstr "子节点在忙碌状态下仍尝试发送结果"
 
 #: pointerscancontroller.rspscthechildtriedtosendmorepathsatoncethanallowed
 msgid "The child tried to send more paths at once than allowed"
-msgstr ""
+msgstr "子节点尝试一次发送超过允许数量的路径"
 
 #: pointerscancontroller.rspscthechildtriedtosendmorepathsthanallowedafterarequest
 msgid "The child tried to send more paths than allowed after a request"
-msgstr ""
+msgstr "子节点在请求后尝试发送超过允许数量的路径"
 
 #: pointerscancontroller.rspsctheparenttriedtosendmeanegativeammountofpaths
 msgid "The parent tried to send me a negative ammount of paths"
-msgstr ""
+msgstr "父节点尝试发送负数数量的路径"
 
 #: pointerscancontroller.rspsctheparenttriedtosendmemorepathsthanallowedaafterupdate
 msgid "The parent tried to send me more paths than allowed (after update)"
-msgstr ""
+msgstr "父节点尝试发送超过允许数量的路径(更新后)"
 
 #: pointerscancontroller.rspscthepointerlisthandlerwasdestroyedwithoutagoodreason
 msgid "The pointerlisthandler was destroyed without a good reason"
-msgstr ""
+msgstr "指针列表处理程序被无端销毁"
 
 #: pointerscancontroller.rspscthescanwasterminated
 msgid "The scan was terminated"
-msgstr ""
+msgstr "扫描已被终止"
 
 #: pointerscancontroller.rspsctheuploadwasterminated
 msgid "The upload was terminated"
-msgstr ""
+msgstr "上传已被终止"
 
 #: pointerscancontroller.rspscworking
 msgid ":Working"
-msgstr ""
+msgstr "：工作中"
 
 #: pointerscancontroller.rspscwritingtodisk
 msgid ":Writing to disk"
-msgstr ""
+msgstr "：正在写入磁盘"
 
 #: pointerscancontroller.rssavingpointermap
 msgid "Saving pointermap"
-msgstr ""
+msgstr "正在保存指针映射"
 
 #: pointerscannerfrm.rsactive
 msgctxt "pointerscannerfrm.rsactive"
 msgid "Active"
-msgstr ""
+msgstr "激活"
 
 #: pointerscannerfrm.rsaddressspecifiersfoundinthewholeprocess
 msgid "Address specifiers found in the whole process"
-msgstr ""
+msgstr "在整个进程中找到的地址说明符"
 
 #: pointerscannerfrm.rsareyousureyouwishyouforceadisconnect
 msgid "Are you sure you wish you force a disconnect. The current paths will be lost"
-msgstr ""
+msgstr "确定要强制断开连接吗？当前路径将会丢失"
 
 #: pointerscannerfrm.rsbaseaddress
 msgctxt "pointerscannerfrm.rsbaseaddress"
 msgid "Base Address"
-msgstr ""
+msgstr "基地址"
 
 #: pointerscannerfrm.rsceinjectedpointerscan
 msgid "CE Injected Pointerscan"
-msgstr ""
+msgstr "CE注入式指针扫描"
 
 #: pointerscannerfrm.rscurrentlevel
 msgid "Current Level"
-msgstr ""
+msgstr "当前层级"
 
 #: pointerscannerfrm.rserrorduringscan
 msgid "Error during scan"
-msgstr ""
+msgstr "扫描过程中出错"
 
 #: pointerscannerfrm.rsevaluated
 msgid "Evaluated"
-msgstr ""
+msgstr "已评估"
 
 #: pointerscannerfrm.rsgeneratingpointermap
 msgid "Generating pointermap..."
-msgstr ""
+msgstr "正在生成指针映射..."
 
 #: pointerscannerfrm.rsisnotavalid4bytevalue
 #, object-pascal-format
 msgid "%s is not a valid 4 byte value"
-msgstr ""
+msgstr "%s 不是有效的4字节值"
 
 #: pointerscannerfrm.rsisnotavaliddoublevalue
 #, object-pascal-format
 msgid "%s is not a valid double value"
-msgstr ""
+msgstr "%s 不是有效的双精度值"
 
 #: pointerscannerfrm.rsisnotavalidfloatingpointvalue
 #, object-pascal-format
 msgid "%s is not a valid floating point value"
-msgstr ""
+msgstr "%s 不是有效的浮点数值"
 
 #: pointerscannerfrm.rslookingfor
 msgid "Looking for"
-msgstr ""
+msgstr "正在查找"
 
 #: pointerscannerfrm.rsoffset
 msgctxt "pointerscannerfrm.rsoffset"
 msgid "Offset"
-msgstr ""
+msgstr "偏移量"
 
 #: pointerscannerfrm.rsonlythefirst1000000entrieswillbedisplayed
 msgid "Only the first 1000000 entries will be displayed. Rescan will still work with all results.  (This is normal for a pointerscan, you MUST do a few rescans)"
-msgstr ""
+msgstr "仅显示前100万条条目。重新扫描仍将处理所有结果。(这是指针扫描的正常现象，您必须进行几次重新扫描)"
 
 #: pointerscannerfrm.rsoutofdiskspacecleanupthediskorstop
 msgid "OUT OF DISKSPACE! Clean up the disk or stop"
-msgstr ""
+msgstr "磁盘空间不足！请清理磁盘或停止操作"
 
 #: pointerscannerfrm.rspointercount
 msgid "Pointer paths"
-msgstr ""
+msgstr "指针路径"
 
 #: pointerscannerfrm.rspointerpathsfound
 msgid "Pointer paths found"
-msgstr ""
+msgstr "找到的指针路径"
 
 #: pointerscannerfrm.rspointerscan
 msgctxt "pointerscannerfrm.rspointerscan"
 msgid "Pointer scan"
-msgstr ""
+msgstr "指针扫描"
 
 #: pointerscannerfrm.rspointerscanresult
 msgid "pointerscan result"
-msgstr ""
+msgstr "指针扫描结果"
 
 #: pointerscannerfrm.rspointsto
 msgid "Points to"
-msgstr ""
+msgstr "指向"
 
 #: pointerscannerfrm.rspsactive
 msgid " (Active)"
-msgstr ""
+msgstr " (活跃)"
 
 #: pointerscannerfrm.rspschildren
 msgid "Children:"
-msgstr ""
+msgstr "子节点："
 
 #: pointerscannerfrm.rspsconnectingto
 msgid "Connecting to:"
-msgstr ""
+msgstr "正在连接到："
 
 #: pointerscannerfrm.rspsdisconnected
 msgid " (Disconnected)"
-msgstr ""
+msgstr " (已断开连接)"
 
 #: pointerscannerfrm.rspsdownloadingandhandlingresults
 msgid " (Downloading and handling results)"
-msgstr ""
+msgstr " (正在下载和处理结果)"
 
 #: pointerscannerfrm.rspsdownloadingscandata
 #, object-pascal-format
 msgid "Downloading scandata: %.1f%% (%dKB/%dKB : %d KB/sec)"
-msgstr ""
+msgstr "正在下载扫描数据：%.1f%% (%dKB/%dKB : %d KB/秒)"
 
 #: pointerscannerfrm.rspsdoyouwishtoresumethecurrentpointerscanatalatertime
 msgid "Do you wish to resume the current pointerscan at a later time?"
-msgstr ""
+msgstr "您希望稍后恢复当前指针扫描吗？"
 
 #: pointerscannerfrm.rspsdynamicqueusize
 msgid " Dynamic queue size:"
-msgstr ""
+msgstr " 动态队列大小："
 
 #: pointerscannerfrm.rspsexportaborted
 msgid "Export aborted"
-msgstr ""
+msgstr "导出已中止"
 
 #: pointerscannerfrm.rspsexporting
 msgid "Exporting..."
-msgstr ""
+msgstr "正在导出..."
 
 #: pointerscannerfrm.rspsexporttodatabase
 msgid "Export to database"
-msgstr ""
+msgstr "导出到数据库"
 
 #: pointerscannerfrm.rspsexporttodatabasebiggersizeornot
 msgid "Do you want \"result\" table with indexes and keys? It will take up additional disk space."
-msgstr ""
+msgstr "您需要带有索引和键的\"result\"表吗？这将占用额外的磁盘空间。"
 
 #: pointerscannerfrm.rspsexporttodatabasebiggersizeornot_resultid
 msgid "Do you want resultid column filled? It will take up additional disk space."
-msgstr ""
+msgstr "您需要填充resultid列吗？这将占用额外的磁盘空间。"
 
 #: pointerscannerfrm.rspsfindbyaddresspart1
 msgid "Find by address requires an address. \""
-msgstr ""
+msgstr "按地址查找需要一个地址。\""
 
 #: pointerscannerfrm.rspsfindbyaddresspart2
 msgid "\" is not a valid address"
-msgstr ""
+msgstr "\"不是有效的地址"
 
 #: pointerscannerfrm.rspsgeneratingpointermap
 msgctxt "pointerscannerfrm.rspsgeneratingpointermap"
 msgid "Generating pointermap"
-msgstr ""
+msgstr "正在生成指针映射"
 
 #: pointerscannerfrm.rspsgiveanamefortheseresults
 msgid "Give a name for these results"
-msgstr ""
+msgstr "为这些结果命名"
 
 #: pointerscannerfrm.rspsidle
 msgid " (Idle)"
-msgstr ""
+msgstr " (空闲)"
 
 #: pointerscannerfrm.rspsimporting
 msgid "Importing..."
-msgstr ""
+msgstr "正在导入..."
 
 #: pointerscannerfrm.rspsimporting_sortmethod
 msgid "Do you wish to use offsets sum for sorting?"
-msgstr ""
+msgstr "您希望使用偏移量总和进行排序吗？"
 
 #: pointerscannerfrm.rspsimporting_sortornot
 msgid "Do you wish to sort pointerlist by level, then module, then offsets?"
-msgstr ""
+msgstr "您希望按照层级、模块、偏移量的顺序排序指针列表吗？"
 
 #: pointerscannerfrm.rspsinvaliddatabase
 msgid "Invalid database"
-msgstr ""
+msgstr "无效的数据库"
 
 #: pointerscannerfrm.rspslastupdate
 msgid "Last update: "
-msgstr ""
+msgstr "最后更新："
 
 #: pointerscannerfrm.rspslowestknownpath
 msgid "Lowest known path:"
-msgstr ""
+msgstr "最低已知路径："
 
 #: pointerscannerfrm.rspsnetwork
 msgctxt "pointerscannerfrm.rspsnetwork"
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 #: pointerscannerfrm.rspsparent
 msgid "Parent: "
-msgstr ""
+msgstr "父节点："
 
 #: pointerscannerfrm.rspsparentdisconnectedwaitingforreconnect
 msgid "Parent: <disconnected> (Waiting for reconnect)"
-msgstr ""
+msgstr "父节点: <已断开> (等待重新连接)"
 
 #: pointerscannerfrm.rspsparentnone
 msgid "Parent: <none>"
-msgstr ""
+msgstr "父节点: <无>"
 
 #: pointerscannerfrm.rspspathsevaluated
 msgid "Paths evaluated: "
-msgstr ""
+msgstr "已评估路径: "
 
 #: pointerscannerfrm.rspspathsseconds
 #, object-pascal-format
 msgid "Paths / seconds: (%.0n / s)"
-msgstr ""
+msgstr "路径/秒: (%.0n /s)"
 
 #: pointerscannerfrm.rspspscanguiupdatetimererror
 msgid "pscangui update timer error: "
-msgstr ""
+msgstr "指针扫描GUI更新定时器错误: "
 
 #: pointerscannerfrm.rspsqueued
 msgid " (Queued: "
-msgstr ""
+msgstr " (队列中: "
 
 #: pointerscannerfrm.rspsqueuesize
 msgid "Queuesize: "
-msgstr ""
+msgstr "队列大小: "
 
 #: pointerscannerfrm.rspsrescanning
 msgid "Rescanning"
-msgstr ""
+msgstr "正在重新扫描"
 
 #: pointerscannerfrm.rspsresultsfound
 msgid "Results found: "
-msgstr ""
+msgstr "找到的结果: "
 
 #: pointerscannerfrm.rspsscanduration
 msgid "Scan duration: "
-msgstr ""
+msgstr "扫描持续时间: "
 
 #: pointerscannerfrm.rspssecondsago
 msgid " seconds ago"
-msgstr ""
+msgstr "秒前"
 
 #: pointerscannerfrm.rspsstaticqueuesize
 msgid "Static queue size: "
-msgstr ""
+msgstr "静态队列大小: "
 
 #: pointerscannerfrm.rspsstatistics
 msgid "Statistics"
-msgstr ""
+msgstr "统计信息"
 
 #: pointerscannerfrm.rspsthereisalreadyapointerfilewiththsinamepresentinthisdatabase
 msgid "There is already a pointerfile with this name present in this database. Replace it's content with this one ?"
-msgstr ""
+msgstr "数据库已存在同名指针文件。是否替换其内容?"
 
 #: pointerscannerfrm.rspsthisdatabasedoesntcontainanypointerfiles
 msgid "This database does not contain any pointer files"
-msgstr ""
+msgstr "此数据库不包含任何指针文件"
 
 #: pointerscannerfrm.rspsthreadcount
 msgid "Threadcount: "
-msgstr ""
+msgstr "线程数: "
 
 #: pointerscannerfrm.rspsthreads
 msgctxt "pointerscannerfrm.rspsthreads"
 msgid "Threads"
-msgstr ""
+msgstr "线程"
 
 #: pointerscannerfrm.rspstimespentwriting
 msgid "Time spent writing: "
-msgstr ""
+msgstr "写入耗时: "
 
 #: pointerscannerfrm.rspstotalpathsevaluater
 msgid "Total paths evaluated: "
-msgstr ""
+msgstr "已评估路径总数: "
 
 #: pointerscannerfrm.rspstotalpathsseconds
 #, object-pascal-format
 msgid "Total paths / seconds: (%.0n / s)"
-msgstr ""
+msgstr "总路径/秒: (%.0n /s)"
 
 #: pointerscannerfrm.rspstotalqueuesize
 msgid "Total Queuesize: "
-msgstr ""
+msgstr "队列总大小: "
 
 #: pointerscannerfrm.rspstrusted
 msgid " (Trusted)"
-msgstr ""
+msgstr " (受信任)"
 
 #: pointerscannerfrm.rspstrusted2
 msgid "Trusted: "
-msgstr ""
+msgstr "受信任: "
 
 #: pointerscannerfrm.rspsuniquepointervaluesintarget
 msgid "Unique pointervalues in target:"
-msgstr ""
+msgstr "目标中唯一的指针值:"
 
 #: pointerscannerfrm.rspsuploadingscandata
 #, object-pascal-format
 msgid " (Uploading scandata: %.1f%% (%dKB/%dKB : %d KB/sec)"
-msgstr ""
+msgstr " (上传扫描数据: %.1f%% (%dKB/%dKB : %d KB/秒)"
 
 #: pointerscannerfrm.rssavingandterminating
 msgctxt "pointerscannerfrm.rssavingandterminating"
 msgid "Saving..."
-msgstr ""
+msgstr "保存中..."
 
 #: pointerscannerfrm.rssleeping
 msgid "Sleeping"
-msgstr ""
+msgstr "休眠中"
 
 #: pointerscannerfrm.rsstop
 msgctxt "pointerscannerfrm.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: pointerscannerfrm.rsterminating
 msgid "Terminating"
-msgstr ""
+msgstr "终止中"
 
 #: pointerscannerfrm.rsthread
 msgctxt "pointerscannerfrm.rsthread"
 msgid "Thread"
-msgstr ""
+msgstr "线程"
 
 #: pointerscannerfrm.rsthreads
 msgctxt "pointerscannerfrm.rsthreads"
 msgid "Threads"
-msgstr ""
+msgstr "线程"
 
 #: pointerscannerfrm.rstime
 msgid "Time"
-msgstr ""
+msgstr "时间"
 
 #: pointerscannerfrm.rswritingtodisk
 msgid "Writing to disk"
-msgstr ""
+msgstr "正在写入磁盘"
 
 #: pointerscannersettingsfrm.rsadd
 msgctxt "pointerscannersettingsfrm.rsadd"
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: pointerscannersettingsfrm.rsaddress
 msgctxt "pointerscannersettingsfrm.rsaddress"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: pointerscannersettingsfrm.rscouldnotberesolvedtoanipaddress
 msgid "could not be resolved to an IP address"
-msgstr ""
+msgstr "无法解析为IP地址"
 
 #: pointerscannersettingsfrm.rsfilename
 msgid "Filename"
-msgstr ""
+msgstr "文件名"
 
 #: pointerscannersettingsfrm.rsfrom
 msgctxt "pointerscannersettingsfrm.rsfrom"
 msgid "From"
-msgstr ""
+msgstr "来自"
 
 #: pointerscannersettingsfrm.rshasaninvalidport
 #, object-pascal-format
 msgid "%s has an invalid port (%s)"
-msgstr ""
+msgstr "%s 端口无效 (%s)"
 
 #: pointerscannersettingsfrm.rshasnotbeengivenavalidaddress
 #, object-pascal-format
 msgid "%s has not been given a valid address"
-msgstr ""
+msgstr "%s 未提供有效地址"
 
 #: pointerscannersettingsfrm.rshigher
 msgctxt "pointerscannersettingsfrm.rshigher"
 msgid "Higher"
-msgstr ""
+msgstr "更高"
 
 #: pointerscannersettingsfrm.rshighest
 msgctxt "pointerscannersettingsfrm.rshighest"
 msgid "Highest"
-msgstr ""
+msgstr "最高"
 
 #: pointerscannersettingsfrm.rsidle
 msgctxt "pointerscannersettingsfrm.rsidle"
 msgid "Idle"
-msgstr ""
+msgstr "空闲"
 
 #: pointerscannersettingsfrm.rsinvalidaddress
 msgctxt "pointerscannersettingsfrm.rsinvalidaddress"
 msgid "Invalid address"
-msgstr ""
+msgstr "无效地址"
 
 #: pointerscannersettingsfrm.rslastoffset
 msgctxt "pointerscannersettingsfrm.rslastoffset"
 msgid "Last offset"
-msgstr ""
+msgstr "最后偏移量"
 
 #: pointerscannersettingsfrm.rslimitscantospecifiedregionfile
 msgctxt "pointerscannersettingsfrm.rslimitscantospecifiedregionfile"
 msgid "Limit scan to specified region file"
-msgstr ""
+msgstr "限制扫描到指定区域文件"
 
 #: pointerscannersettingsfrm.rslower
 msgctxt "pointerscannersettingsfrm.rslower"
 msgid "Lower"
-msgstr ""
+msgstr "更低"
 
 #: pointerscannersettingsfrm.rslowest
 msgctxt "pointerscannersettingsfrm.rslowest"
 msgid "Lowest"
-msgstr ""
+msgstr "最低"
 
 #: pointerscannersettingsfrm.rsmaxdeviation
 msgid "Max deviation"
-msgstr ""
+msgstr "最大偏差"
 
 #: pointerscannersettingsfrm.rsmaxdeviationexplentation
 msgid "The maximum offset size by which the ending offset can differ"
-msgstr ""
+msgstr "结束偏移量可以变化的最大偏移量大小"
 
 #: pointerscannersettingsfrm.rsnocomparefiles
 msgid "If you do not use the compare results with other saved pointermap option you will get billions of useless results and giga/terrabytes of wasted diskspace and rescans will take hours if not days. Are you sure ?"
-msgstr ""
+msgstr "如果不使用与其他保存指针图比较结果的选项，您将得到数十亿无用结果，浪费GB/TB级磁盘空间，重新扫描将耗时数小时甚至数天。确定吗？"
 
 #: pointerscannersettingsfrm.rsnormal
 msgctxt "pointerscannersettingsfrm.rsnormal"
 msgid "Normal"
-msgstr ""
+msgstr "普通"
 
 #: pointerscannersettingsfrm.rspleasefillinanaddresstolookfor
 msgid "Please fill in an address to look for"
-msgstr ""
+msgstr "请填写要查找的地址"
 
 #: pointerscannersettingsfrm.rsremove
 msgctxt "pointerscannersettingsfrm.rsremove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: pointerscannersettingsfrm.rsreusedthesamefile
 msgid "This file is already in the list of scandata files to be used"
-msgstr ""
+msgstr "此文件已在要使用的扫描数据文件列表中"
 
 #: pointerscannersettingsfrm.rsscandatafilter
 msgid "All files (*.*)|*.*|Scan Data (*.scandata)|*.scandata"
-msgstr ""
+msgstr "所有文件 (*.*)|*.*|扫描数据 (*.scandata)|*.scandata"
 
 #: pointerscannersettingsfrm.rsselectafile
 msgid "<Select a file>"
-msgstr ""
+msgstr "<选择文件>"
 
 #: pointerscannersettingsfrm.rstimecritical
 msgctxt "pointerscannersettingsfrm.rstimecritical"
 msgid "TimeCritical"
-msgstr ""
+msgstr "时间关键"
 
 #: pointerscannersettingsfrm.rsto
 msgctxt "pointerscannersettingsfrm.rsto"
 msgid "To"
-msgstr ""
+msgstr "至"
 
 #: pointerscannersettingsfrm.rsuseloadedpointermap
 msgctxt "pointerscannersettingsfrm.rsuseloadedpointermap"
 msgid "Use saved pointermap"
-msgstr ""
+msgstr "使用保存的指针映射"
 
 #: pointerscannersettingsfrm.strmaxoffsetsisstupid
 msgid "Sorry, but the max offsets should be 1 or higher, or else disable the checkbox"
-msgstr ""
+msgstr "抱歉，最大偏移量应为1或更高，否则请禁用该复选框"
 
 #: pointerscanresultreader.rsbuggedlist
 msgid "BuggedList"
-msgstr ""
+msgstr "错误列表"
 
 #: pointerscanresultreader.rspsrcorruptedpointerscanfile
 msgid "Corrupted pointerscan file"
-msgstr ""
+msgstr "损坏的指针扫描文件"
 
 #: pointerscanresultreader.rspsrinvalidpointerscanfileversion
 msgid "Invalid pointerscan file version"
-msgstr ""
+msgstr "无效的指针扫描文件版本"
 
 #: pointerscansettingsipconnectionlist.rspssicladd
 msgctxt "pointerscansettingsipconnectionlist.rspssicladd"
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: pointerscansettingsipconnectionlist.rspssiclhost
 msgctxt "pointerscansettingsipconnectionlist.rspssiclhost"
 msgid "Host"
-msgstr ""
+msgstr "主机"
 
 #: pointerscansettingsipconnectionlist.rspssiclpassword
 msgctxt "pointerscansettingsipconnectionlist.rspssiclpassword"
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: pointerscansettingsipconnectionlist.rspssiclport
 msgctxt "pointerscansettingsipconnectionlist.rspssiclport"
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 #: pointerscansettingsipconnectionlist.rspssiclremove
 msgctxt "pointerscansettingsipconnectionlist.rspssiclremove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: pointerscansettingsipconnectionlist.rspssiclstable
 msgid "Stable"
-msgstr ""
+msgstr "稳定"
 
 #: pointervaluelist.rsallocatingbytestobuffer
 #, object-pascal-format
 msgid "Allocating %s bytes to 'buffer'"
-msgstr ""
+msgstr "正在分配%s字节到'buffer'"
 
 #: pointervaluelist.rsnomemoryfoundinthespecifiedregion
 msgctxt "pointervaluelist.rsnomemoryfoundinthespecifiedregion"
 msgid "No memory found in the specified region"
-msgstr ""
+msgstr "在指定区域内未找到内存"
 
 #: pointervaluelist.rspointervaluesetuperror
 msgid "Pointer value setup error"
-msgstr ""
+msgstr "指针值设置错误"
 
 #: pointervaluelist.rspvinvalidscandatafile
 msgctxt "pointervaluelist.rspvinvalidscandatafile"
 msgid "Invalid scandata file"
-msgstr ""
+msgstr "无效的扫描数据文件"
 
 #: pointervaluelist.rspvinvalidscandataversion
 msgctxt "pointervaluelist.rspvinvalidscandataversion"
 msgid "Invalid scandata version"
-msgstr ""
+msgstr "无效的扫描数据版本"
 
 #: pointervaluelist.rspvnotenoughmemoryfreetoscan
 msgctxt "pointervaluelist.rspvnotenoughmemoryfreetoscan"
 msgid "Not enough memory free to scan"
-msgstr ""
+msgstr "可用内存不足，无法扫描"
 
 #: processlist.rsicantgettheprocesslistyouarepropablyusingwindowsnt
 msgctxt "processlist.rsicantgettheprocesslistyouarepropablyusingwindowsnt"
 msgid "I can't get the process list. You are propably using windows NT. Use the window list instead!"
-msgstr ""
+msgstr "无法获取进程列表。您可能正在使用Windows NT，请改用窗口列表！"
 
 #: processwindowunit.rsapplications
 msgctxt "processwindowunit.rsapplications"
 msgid "Applications"
-msgstr ""
+msgstr "应用程序"
 
 #: processwindowunit.rsattachdebuggerornot
 msgid "Are you sure you want to attach the debugger and not just open this process? (You can later on always attach the debugger)"
-msgstr ""
+msgstr "确定要附加调试器而不仅仅是打开此进程吗？(您之后随时可以附加调试器)"
 
 #: processwindowunit.rscreateprocess
 msgctxt "processwindowunit.rscreateprocess"
 msgid "Create Process"
-msgstr ""
+msgstr "创建进程"
 
 #: processwindowunit.rsentertheprocessid
 msgid "Enter the ProcessID"
-msgstr ""
+msgstr "输入进程ID"
 
 #: processwindowunit.rsfilter
 msgctxt "processwindowunit.rsfilter"
 msgid "Filter"
-msgstr ""
+msgstr "筛选"
 
 #: processwindowunit.rsfirstselectaprocess
 msgctxt "processwindowunit.rsfirstselectaprocess"
 msgid "First select a process!"
-msgstr ""
+msgstr "请先选择一个进程！"
 
 #: processwindowunit.rsisntavalidprocessid
 #, object-pascal-format
 msgctxt "processwindowunit.rsisntavalidprocessid"
 msgid "%s isn't a valid processID"
-msgstr ""
+msgstr "%s不是有效的进程ID"
 
 #: processwindowunit.rsmanualpid
 msgid "Manual PID"
-msgstr ""
+msgstr "手动输入PID"
 
 #: processwindowunit.rsoptionallaunchparameters
 msgid "Optional launch parameters"
-msgstr ""
+msgstr "可选启动参数"
 
 #: processwindowunit.rsphysicalmemory
 msgctxt "processwindowunit.rsphysicalmemory"
 msgid "Physical Memory"
-msgstr ""
+msgstr "物理内存"
 
 #: processwindowunit.rspleaseselectanotherprocess
 msgid "Please select another process"
-msgstr ""
+msgstr "请选择其他进程"
 
 #: processwindowunit.rsprocesses
 msgctxt "processwindowunit.rsprocesses"
 msgid "Processes"
-msgstr ""
+msgstr "进程"
 
 #: processwindowunit.rsprocesslist
 msgctxt "processwindowunit.rsprocesslist"
 msgid "Process List"
-msgstr ""
+msgstr "进程列表"
 
 #: processwindowunit.rsprocesslistlong
 msgid "Process List(long)"
-msgstr ""
+msgstr "进程列表(详细)"
 
 #: processwindowunit.rsscanningclicktostop
 msgid "Scanning (Click to stop)"
-msgstr ""
+msgstr "正在扫描(点击停止)"
 
 #: processwindowunit.rswhatareyoulookingfor
 msgid "What are you looking for?"
-msgstr ""
+msgstr "您要查找什么？"
 
 #: processwindowunit.rswindows
 msgctxt "processwindowunit.rswindows"
 msgid "Windows"
-msgstr ""
+msgstr "窗口"
 
 #: processwindowunit.rsyoucanonlyloadexefiles
 msgctxt "processwindowunit.rsyoucanonlyloadexefiles"
 msgid "You can only load EXE files"
-msgstr ""
+msgstr "只能加载EXE文件"
 
 #: savedisassemblyfrm.rscopy
 msgctxt "savedisassemblyfrm.rscopy"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: savedisassemblyfrm.rscopydisassembledoutput
 msgid "Copy disassembled output"
-msgstr ""
+msgstr "复制反汇编输出"
 
 #: savedisassemblyfrm.rssave
 msgctxt "savedisassemblyfrm.rssave"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: savedisassemblyfrm.rssavedisassembledoutput
 msgctxt "savedisassemblyfrm.rssavedisassembledoutput"
 msgid "Save disassembled output"
-msgstr ""
+msgstr "保存反汇编输出"
 
 #: savedisassemblyfrm.rsstopcopying
 msgid "Stop copying"
-msgstr ""
+msgstr "停止复制"
 
 #: savedisassemblyfrm.rsstopsaving
 msgid "Stop saving"
-msgstr ""
+msgstr "停止保存"
 
 #: savedscanhandler.rsfailureinfindinginthefirstscanresults
 #, object-pascal-format
 msgid "Failure in finding %s in the first scan results"
-msgstr ""
+msgstr "在首次扫描结果中找不到%s"
 
 #: savedscanhandler.rsfailureinfindinginthepreviousscanresults
 #, object-pascal-format
 msgid "Failure in finding %s in the previous scan results"
-msgstr ""
+msgstr "在之前的扫描结果中找不到%s"
 
 #: savedscanhandler.rsinvalidorderofcallinggetpointertoaddress
 msgid "Invalid order of calling getpointertoaddress"
-msgstr ""
+msgstr "调用getpointertoaddress的顺序无效"
 
 #: savedscanhandler.rsmaxaddresslistcountis0meanstheaddresslistisbad
 msgid "maxaddresslistcount is 0 (Means: the addresslist is bad)"
-msgstr ""
+msgstr "maxaddresslistcount为0(意味着：地址列表有问题)"
 
 #: savedscanhandler.rsnofirstscandatafilesfound
 msgid "No first scan data files found"
-msgstr ""
+msgstr "未找到首次扫描数据文件"
 
 #: speedhack2.rsfailureconfiguringspeedhackpart
 msgid "Failure configuring speedhack part"
-msgstr ""
+msgstr "配置变速部分失败"
 
 #: speedhack2.rsfailureenablingspeedhackdllinjectionfailed
 msgid "Failure enabling speedhack. (DLL injection failed)"
-msgstr ""
+msgstr "启用变速失败 (DLL注入失败)"
 
 #: speedhack2.rsfailuresettingspeed
 msgid "Failure setting speed"
-msgstr ""
+msgstr "设置速度失败"
 
 #: structuresaddelementfrm.rssae2bytes
 msgctxt "structuresaddelementfrm.rssae2bytes"
 msgid "2 Bytes"
-msgstr ""
+msgstr "2字节"
 
 #: structuresaddelementfrm.rssae4bytes
 msgctxt "structuresaddelementfrm.rssae4bytes"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4字节"
 
 #: structuresfrm.rsareyousureyouwanttodelete
 #, object-pascal-format
 msgctxt "structuresfrm.rsareyousureyouwanttodelete"
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "确定要删除%s吗？"
 
 #: structuresfrm.rsareyousureyouwanttoremoveallstructures
 msgctxt "structuresfrm.rsareyousureyouwanttoremoveallstructures"
 msgid "Are you sure you want to remove all structures?"
-msgstr ""
+msgstr "确定要移除所有结构吗？"
 
 #: structuresfrm.rsautogeneratedfor
 #, object-pascal-format
 msgctxt "structuresfrm.rsautogeneratedfor"
 msgid "Autogenerated for %s"
-msgstr ""
+msgstr "自动生成用于%s"
 
 #: structuresfrm.rschangegroup
 msgctxt "structuresfrm.rschangegroup"
 msgid "Change group"
-msgstr ""
+msgstr "更改组"
 
 #: structuresfrm.rsdissectdata
 msgctxt "structuresfrm.rsdissectdata"
 msgid "Dissect Data"
-msgstr ""
+msgstr "解析数据"
 
 #: structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype
 msgctxt "structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype"
 msgid "Do you want Cheat Engine to try and fill in the most basic types of the struct using the current address?"
-msgstr ""
+msgstr "您希望Cheat Engine尝试使用当前地址填充结构的最基础类型吗？"
 
 #: structuresfrm.rsfirstselectastructureyouwanttomodifyordefine
 msgctxt "structuresfrm.rsfirstselectastructureyouwanttomodifyordefine"
 msgid "First select a structure you want to modify or define one first"
-msgstr ""
+msgstr "请先选择一个要修改的结构或先定义一个结构"
 
 #: structuresfrm.rsgivetheaddressofthiselement
 msgctxt "structuresfrm.rsgivetheaddressofthiselement"
 msgid "Give the address of this element"
-msgstr ""
+msgstr "请输入此元素的地址"
 
 #: structuresfrm.rsgivethenameforthisstructure
 msgctxt "structuresfrm.rsgivethenameforthisstructure"
 msgid "Give the name for this structure"
-msgstr ""
+msgstr "请为此结构命名"
 
 #: structuresfrm.rsgivethenewnameofthisstructure
 msgctxt "structuresfrm.rsgivethenewnameofthisstructure"
 msgid "Give the new name of this structure"
-msgstr ""
+msgstr "请输入此结构的新名称"
 
 #: structuresfrm.rshowmanybytesdoyouwanttoshiftthisandfollowingoffset
 msgid "How many bytes do you want to shift this and following offsets?"
-msgstr ""
+msgstr "你想要将此偏移量和后续偏移量移动多少字节？"
 
 #: structuresfrm.rsihavenoideawhatmeans
 #, object-pascal-format
 msgctxt "structuresfrm.rsihavenoideawhatmeans"
 msgid "I have no idea what %s means"
-msgstr ""
+msgstr "我不明白%s是什么意思"
 
 #: structuresfrm.rslockmemory
 msgctxt "structuresfrm.rslockmemory"
 msgid "Lock memory"
-msgstr ""
+msgstr "锁定内存"
 
 #: structuresfrm.rsmemorydissect
 msgctxt "structuresfrm.rsmemorydissect"
 msgid "Memory dissect"
-msgstr ""
+msgstr "内存解析"
 
 #: structuresfrm.rsnewinterval
 msgctxt "structuresfrm.rsnewinterval"
 msgid "New interval"
-msgstr ""
+msgstr "新间隔"
 
 #: structuresfrm.rspleasegiveastartingoffsettoevaluate
 msgctxt "structuresfrm.rspleasegiveastartingoffsettoevaluate"
 msgid "Please give a starting offset to evaluate"
-msgstr ""
+msgstr "请提供一个起始偏移量进行评估"
 
 #: structuresfrm.rspleasegiveastartingsizeofthestructyoucanchangethis
 msgctxt "structuresfrm.rspleasegiveastartingsizeofthestructyoucanchangethis"
 msgid "Please give a starting size of the struct (You can change this later if needed)"
-msgstr ""
+msgstr "请提供结构的起始大小(如果需要，您之后可以修改)"
 
 #: structuresfrm.rspleasegivethesizeoftheblocktoevaluate
 msgctxt "structuresfrm.rspleasegivethesizeoftheblocktoevaluate"
 msgid "Please give the size of the block to evaluate"
-msgstr ""
+msgstr "请提供要评估的区块大小"
 
 #: structuresfrm.rspointerto
 msgctxt "structuresfrm.rspointerto"
 msgid "Pointer"
-msgstr ""
+msgstr "指针"
 
 #: structuresfrm.rsrecalculatebaseofstructure
 msgctxt "structuresfrm.rsrecalculatebaseofstructure"
 msgid "Recalculate base of structure"
-msgstr ""
+msgstr "重新计算结构基址"
 
 #: structuresfrm.rsrenamestructure
 msgctxt "structuresfrm.rsrenamestructure"
 msgid "Rename structure"
-msgstr ""
+msgstr "重命名结构"
 
 #: structuresfrm.rsstructuredefine
 msgctxt "structuresfrm.rsstructuredefine"
 msgid "Structure define"
-msgstr ""
+msgstr "结构定义"
 
 #: structuresfrm.rsstructuredefiner
 msgctxt "structuresfrm.rsstructuredefiner"
 msgid "Structure definer"
-msgstr ""
+msgstr "结构定义器"
 
 #: structuresfrm.rsstructureviewlock
 msgctxt "structuresfrm.rsstructureviewlock"
