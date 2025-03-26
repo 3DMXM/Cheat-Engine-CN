@@ -1332,698 +1332,702 @@ msgstr "读/写时"
 
 #: debuggertypedefinitions.rsonwrite
 msgid "On Write"
-msgstr ""
+msgstr "写入时"
 
 #: debuggertypedefinitions.rssoftwarebreakpoint
 msgctxt "debuggertypedefinitions.rssoftwarebreakpoint"
 msgid "Software Breakpoint"
-msgstr ""
+msgstr "软件断点"
 
 #: debughelper.rsaddbreakpointaninvaliddebugregisterisused
 msgid "AddBreakpoint: An invalid debug register is used"
-msgstr ""
+msgstr "AddBreakpoint: 使用了无效的调试寄存器"
 
 #: debughelper.rsall4debugregistersarecurrentlyusedupfreeoneandtrya
 msgid "All debug registers are currently used up. Free one and try again"
-msgstr ""
+msgstr "所有调试寄存器都已用完。释放一个寄存器后重试"
 
 #: debughelper.rsalldebugregistersareusedup
 msgid "All debug registers are used up"
-msgstr ""
+msgstr "所有调试寄存器都已用完"
 
 #: debughelper.rsalldebugregistersareusedupdoyouwanttouseasoftwarebp
 msgid "All debug registers are used up. Do you want to use a software breakpoint?"
-msgstr ""
+msgstr "所有调试寄存器都已用完。是否要使用软件断点？"
 
 #: debughelper.rsasktoenablenx
 msgid ""
 "For execute page exceptions the target process must support No-Execute page support. Currently this process doesn't have this enabled, but if you think the process itself does support it you can enable it.\n"
 "Do you wish to enable No-Execute support for this process?"
 msgstr ""
+"要使用执行页异常，目标进程必须支持No-Execute页保护。当前进程未启用此功能，但如果您认为该进程本身支持，可以启用它。\n"
+"是否要为该进程启用No-Execute支持？"
 
 #: debughelper.rsbreakpointerror
 msgid "Breakpoint error:"
-msgstr ""
+msgstr "断点错误："
 
 #: debughelper.rscalledfromanunexpectedthread
 msgid "Called from an unexpected thread"
-msgstr ""
+msgstr "从未预期的线程调用"
 
 #: debughelper.rscalledfromdebuggerthread
 msgid "Called from debugger thread"
-msgstr ""
+msgstr "从调试器线程调用"
 
 #: debughelper.rscalledfrommainthread
 msgid "Called from main thread"
-msgstr ""
+msgstr "从主线程调用"
 
 #: debughelper.rscantenabledep
 msgid "Data execution prevention is not enabled in this process and can not be enabled"
-msgstr ""
+msgstr "此进程未启用数据执行保护且无法启用"
 
 #: debughelper.rscreateprocessfailed
 #, object-pascal-format
 msgid "CreateProcess failed:%s"
-msgstr ""
+msgstr "CreateProcess失败：%s"
 
 #: debughelper.rsdebuggerattachaborted
 msgid "Debugger attach aborted"
-msgstr ""
+msgstr "调试器附加已中止"
 
 #: debughelper.rsdebuggerattachtimeout
 msgctxt "debughelper.rsdebuggerattachtimeout"
 msgid "Debugger attach timeout"
-msgstr ""
+msgstr "调试器附加超时"
 
 #: debughelper.rsdebuggercrash
 msgid "Debugger Crash"
-msgstr ""
+msgstr "调试器崩溃"
 
 #: debughelper.rsdebuggerfailedtoattach
 msgid "Debugger failed to attach"
-msgstr ""
+msgstr "调试器附加失败"
 
 #: debughelper.rsdebuggerinterfacedoesnotsupportdbvmbreakpoints
 #, object-pascal-format
 msgid "Debugger interface %s does not support DBVM breakpoints"
-msgstr ""
+msgstr "调试器接口%s不支持DBVM断点"
 
 #: debughelper.rsdebuggerinterfacedoesnotsupportsoftwarebreakpoints
 #, object-pascal-format
 msgid "Debugger interface %s does not support software breakpoints"
-msgstr ""
+msgstr "调试器接口%s不支持软件断点"
 
 #: debughelper.rsdebuggerthreadisatpoint
 msgid "debuggerthread is at point "
-msgstr ""
+msgstr "调试器线程位于"
 
 #: debughelper.rsdepsettingtimeout
 msgid "Timeout while trying to set DEP policy. Continue with the breakpoint?"
-msgstr ""
+msgstr "设置DEP策略超时。要继续设置断点吗？"
 
 #: debughelper.rsfaileddep
 msgid "Failed enabling No Execute"
-msgstr ""
+msgstr "启用No Execute失败"
 
 #: debughelper.rsfaileddeppermanently
 msgid "Failed enabling No Execute AND blocked it from every changing. Fuck"
-msgstr ""
+msgstr "启用No Execute失败并永久阻止更改。操"
 
 #: debughelper.rsfailuregettingdepinformation
 msgid "Failure getting DEP information for this process. No Execute Breakpoint support"
-msgstr ""
+msgstr "获取此进程的DEP信息失败。不支持执行断点"
 
 #: debughelper.rslastlocation
 msgid " (Last location:"
-msgstr ""
+msgstr " (最后位置:"
 
 #: debughelper.rsno
 msgctxt "debughelper.rsno"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: debughelper.rsnoexecutepageexceptionsforyou
 msgid "Execute page exception breakpoints are not possible on your system"
-msgstr ""
+msgstr "您的系统不支持执行页异常断点"
 
 #: debughelper.rsnoform
 msgid "No form"
-msgstr ""
+msgstr "无表单"
 
 #: debughelper.rsonlythedebuggerthreadisallowedtosetthecurrentthread
 msgid "Only the debugger thread is allowed to set the current thread"
-msgstr ""
+msgstr "只有调试器线程可以设置当前线程"
 
 #: debughelper.rsoutofhwbreakpoints
 msgid "All debug registers are used up and this debugger interface does not support software Breakpoints. Remove some and try again"
-msgstr ""
+msgstr "所有调试寄存器已用完且此调试器接口不支持软件断点。请移除部分后重试"
 
 #: debughelper.rsprocesssucksnodepsupport
 msgid "Ooops, looks like the process does not support No Execute"
-msgstr ""
+msgstr "哎呀，看起来该进程不支持No Execute"
 
 #: debughelper.rsthedebuggerattachhastimedout
 msgid ""
 "The debugger attach is taking a while. This is normal when there are many symbols or the system is slow so please be patient. But if you don't have the time to wait or the program has crashes to desktop, then you can cancel this wait. Beware though that you may have to restart the target process if you do wish to debug anyhow.\n"
 "Do you wish to wait longer?"
 msgstr ""
+"调试器附加需要一些时间。当有许多符号或系统较慢时这是正常的，请耐心等待。但如果您没有时间等待或程序已崩溃到桌面，则可以取消此等待。不过请注意，如果您仍然希望调试，可能需要重新启动目标进程。\n"
+"是否要继续等待？"
 
 #: debughelper.rsthefollowingaddressesexecute
 #, object-pascal-format
 msgid "The following codes execute %s"
-msgstr ""
+msgstr "以下代码执行 %s"
 
 #: debughelper.rsthefollowingopcodesaccessed
 #, object-pascal-format
 msgid "The following opcodes accessed %s"
-msgstr ""
+msgstr "以下操作码访问了 %s"
 
 #: debughelper.rsthefollowingopcodeswriteto
 #, object-pascal-format
 msgid "The following opcodes write to %s"
-msgstr ""
+msgstr "以下操作码写入 %s"
 
 #: debughelper.rsthisdebuggerinterfacedoesntsupportbreakonentryyet
 #, object-pascal-format
 msgid "This debugger interface :'%s' doesn't support Break On Entry yet"
-msgstr ""
+msgstr "此调试器接口 '%s' 尚不支持入口断点"
 
 #: debughelper.rsunreadableaddress
 msgid "Unreadable address"
-msgstr ""
+msgstr "不可读地址"
 
 #: debughelper.rsunreadablememoryunabletosetsoftwarebreakpoint
 msgid "Unreadable memory. Unable to set software breakpoint"
-msgstr ""
+msgstr "内存不可读，无法设置软件断点"
 
 #: debughelper.rsvmwareisrunningiptbad
 msgid "VMWare seems to be running. It's known that some versions of vmware will cause a BSOD in combination with intel IPT. Do you still want to use intel IPT?"
-msgstr ""
+msgstr "VMWare似乎正在运行。已知某些版本的VMWare与Intel IPT结合使用会导致蓝屏。您仍要使用Intel IPT吗？"
 
 #: debughelper.rsyes
 msgctxt "debughelper.rsyes"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: disassemblerviewlinesunit.rscall
 msgid "(Call)"
-msgstr ""
+msgstr "(调用)"
 
 #: disassemblerviewlinesunit.rscon
 msgid "(Conditional)"
-msgstr ""
+msgstr "(条件)"
 
 #: disassemblerviewlinesunit.rsinvaliddisassembly
 msgid "Invalid disassembly"
-msgstr ""
+msgstr "无效的反汇编"
 
 #: disassemblerviewlinesunit.rsmemory
 msgid "(Code/Data)"
-msgstr ""
+msgstr "(代码/数据)"
 
 #: disassemblerviewlinesunit.rsun
 msgid "(Unconditional)"
-msgstr ""
+msgstr "(无条件)"
 
 #: disassemblerviewunit.rsaddress
 msgctxt "disassemblerviewunit.rsaddress"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: disassemblerviewunit.rsbytes
 msgctxt "disassemblerviewunit.rsbytes"
 msgid "Bytes"
-msgstr ""
+msgstr "字节"
 
 #: disassemblerviewunit.rscomment
 msgctxt "disassemblerviewunit.rscomment"
 msgid "Comment"
-msgstr ""
+msgstr "注释"
 
 #: disassemblerviewunit.rscopy
 msgctxt "disassemblerviewunit.rscopy"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: disassemblerviewunit.rsdebugsymbolsarebeingloaded
 #, object-pascal-format
 msgid "Debug symbols are being loaded (%d %% (%s))"
-msgstr ""
+msgstr "正在加载调试符号(%d%% (%s))"
 
 #: disassemblerviewunit.rsextendeddebuginfoisloaded
 #, object-pascal-format
 msgid "Extended debug info is being loaded (%d %%)"
-msgstr ""
+msgstr "正在加载扩展调试信息(%d%%)"
 
 #: disassemblerviewunit.rsopcode
 msgid "Opcode"
-msgstr ""
+msgstr "操作码"
 
 #: disassemblerviewunit.rspleaseopenaprocessfirst
 msgid "Please open a process first"
-msgstr ""
+msgstr "请先打开一个进程"
 
 #: disassemblerviewunit.rsstructuresarebeingparsed
 msgid "Structures are being parsed"
-msgstr ""
+msgstr "正在解析结构体"
 
 #: disassemblerviewunit.rssymbolsarebeingloaded
 #, object-pascal-format
 msgid "Symbols are being loaded (%d %%)"
-msgstr ""
+msgstr "正在加载符号(%d%%)"
 
 #: dissectcodethread.rsinvaliddissectcodefile
 msgid "Invalid dissect code file"
-msgstr ""
+msgstr "无效的代码分析文件"
 
 #: dissectcodethread.rstdissectcodethreadgetcalllistcalledwithanonemptylist
 msgid "TDissectCodeThread.getCallList called with a non empty list"
-msgstr ""
+msgstr "TDissectCodeThread.getCallList被调用时传入非空列表"
 
 #: dissectcodeunit.rsdissectdataloaded
 msgid "Dissect data loaded"
-msgstr ""
+msgstr "代码分析数据已加载"
 
 #: dissectcodeunit.rsdone
 msgctxt "dissectcodeunit.rsdone"
 msgid "done"
-msgstr ""
+msgstr "完成"
 
 #: dissectcodeunit.rspleaseselectsomethingtoscan
 msgid "Please select something to scan or enter a custom range"
-msgstr ""
+msgstr "请选择要扫描的内容或输入自定义范围"
 
 #: dissectcodeunit.rsstart
 msgctxt "dissectcodeunit.rsstart"
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #: dissectcodeunit.rsstop
 msgctxt "dissectcodeunit.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: dotnettypes.rsdnt2byte
 msgctxt "dotnettypes.rsdnt2byte"
 msgid "2 Byte"
-msgstr ""
+msgstr "2字节"
 
 #: dotnettypes.rsdnt2bytesigned
 msgid "2 Byte (Signed)"
-msgstr ""
+msgstr "2字节(有符号)"
 
 #: dotnettypes.rsdnt4byte
 msgctxt "dotnettypes.rsdnt4byte"
 msgid "4 Byte"
-msgstr ""
+msgstr "4字节"
 
 #: dotnettypes.rsdnt4bytesigned
 msgid "4 Byte (Signed)"
-msgstr ""
+msgstr "4字节(有符号)"
 
 #: dotnettypes.rsdnt8byte
 msgctxt "dotnettypes.rsdnt8byte"
 msgid "8 Byte"
-msgstr ""
+msgstr "8字节"
 
 #: dotnettypes.rsdnt8bytesigned
 msgid "8 Byte (Signed)"
-msgstr ""
+msgstr "8字节(有符号)"
 
 #: dotnettypes.rsdntarray
 msgid "Array"
-msgstr ""
+msgstr "数组"
 
 #: dotnettypes.rsdntbool
 msgid "bool"
-msgstr ""
+msgstr "布尔值"
 
 #: dotnettypes.rsdntbyte
 msgctxt "dotnettypes.rsdntbyte"
 msgid "Byte"
-msgstr ""
+msgstr "字节"
 
 #: dotnettypes.rsdntbytesigned
 msgid "Byte (Signed)"
-msgstr ""
+msgstr "字节(有符号)"
 
 #: dotnettypes.rsdntchar
 msgid "char"
-msgstr ""
+msgstr "字符"
 
 #: dotnettypes.rsdntclass
 msgid "Class"
-msgstr ""
+msgstr "类"
 
 #: dotnettypes.rsdntcmod_opt
 msgid "CMOD_OPT"
-msgstr ""
+msgstr "CMOD_OPT"
 
 #: dotnettypes.rsdntcmod_reqd
 msgid "CMOD_REQD"
-msgstr ""
+msgstr "CMOD_REQD"
 
 #: dotnettypes.rsdntdouble
 msgctxt "dotnettypes.rsdntdouble"
 msgid "Double"
-msgstr ""
+msgstr "双精度"
 
 #: dotnettypes.rsdntend
 msgid "END"
-msgstr ""
+msgstr "END"
 
 #: dotnettypes.rsdntfloat
 msgctxt "dotnettypes.rsdntfloat"
 msgid "Float"
-msgstr ""
+msgstr "单精度"
 
 #: dotnettypes.rsdntfunctionpointer
 msgid "Function Pointer"
-msgstr ""
+msgstr "函数指针"
 
 #: dotnettypes.rsdntgenericinst
 msgid "GenericInst"
-msgstr ""
+msgstr "泛型实例"
 
 #: dotnettypes.rsdntinternal
 msgid "Internal"
-msgstr ""
+msgstr "内部类型"
 
 #: dotnettypes.rsdntmax
 msgid "MAX"
-msgstr ""
+msgstr "最大值"
 
 #: dotnettypes.rsdntmodifier
 msgid "Modifier"
-msgstr ""
+msgstr "修饰符"
 
 #: dotnettypes.rsdntmvar
 msgid "MVar"
-msgstr ""
+msgstr "MVar(模块变量)"
 
 #: dotnettypes.rsdntobject
 msgid "Object"
-msgstr ""
+msgstr "对象"
 
 #: dotnettypes.rsdntpinned
 msgid "Pinned"
-msgstr ""
+msgstr "固定类型"
 
 #: dotnettypes.rsdntpointer
 msgctxt "dotnettypes.rsdntpointer"
 msgid "Pointer"
-msgstr ""
+msgstr "指针"
 
 #: dotnettypes.rsdntreference
 msgid "Reference"
-msgstr ""
+msgstr "引用"
 
 #: dotnettypes.rsdntsentinel
 msgid "Sentinel"
-msgstr ""
+msgstr "哨兵值"
 
 #: dotnettypes.rsdntsigned
 msgctxt "dotnettypes.rsdntsigned"
 msgid "Signed"
-msgstr ""
+msgstr "有符号"
 
 #: dotnettypes.rsdntstring
 msgctxt "dotnettypes.rsdntstring"
 msgid "String"
-msgstr ""
+msgstr "字符串"
 
 #: dotnettypes.rsdntszarray
 msgid "SZ Array"
-msgstr ""
+msgstr "单维数组"
 
 #: dotnettypes.rsdnttypedbyref
 msgid "Typed By Ref"
-msgstr ""
+msgstr "类型化引用"
 
 #: dotnettypes.rsdntunsigned
 msgid "Unsigned"
-msgstr ""
+msgstr "无符号"
 
 #: dotnettypes.rsdntvaluetype
 msgid "ValueType"
-msgstr ""
+msgstr "值类型"
 
 #: dotnettypes.rsdntvar
 msgid "Var"
-msgstr ""
+msgstr "Var(类型变量)"
 
 #: dotnettypes.rsdntvoid
 msgid "void"
-msgstr ""
+msgstr "空类型"
 
 #: driverlist.rsdlnothingfound
 msgctxt "driverlist.rsdlnothingfound"
 msgid "nothing found"
-msgstr ""
+msgstr "未找到任何内容"
 
 #: extratrainercomponents.rsundefineddescription
 msgid "undefined description"
-msgstr ""
+msgstr "未定义的描述"
 
 #: extratrainercomponents.rsundefinedhotkey
 msgid "undefined hotkey"
-msgstr ""
+msgstr "未定义的热键"
 
 #: feces.rsbcryptcouldnotbeused
 msgid "bcrypt could not be used"
-msgstr ""
+msgstr "无法使用bcrypt加密库"
 
 #: feces.rscheatenginesignaturefiles
 msgid "Cheat Engine signature files"
-msgstr ""
+msgstr "Cheat Engine签名文件(*.ces)|*.ces"
 
 #: feces.rscouldnotopenthealgorithmprovider
 msgid "Could not open the algorithm provider.  Load the table as if it's signature is valid?"
-msgstr ""
+msgstr "无法打开算法提供程序。是否忽略签名验证加载此表？"
 
 #: feces.rsfailedcreatinghasalgorithmprovider
 msgctxt "feces.rsfailedcreatinghasalgorithmprovider"
 msgid "Failed creating has algorithm provider"
-msgstr ""
+msgstr "创建哈希算法提供程序失败"
 
 #: feces.rsfailedcreatinghasalgorithmprovider2
 msgctxt "feces.rsfailedcreatinghasalgorithmprovider2"
 msgid "Failed creating has algorithm provider"
-msgstr ""
+msgstr "创建哈希算法提供程序失败"
 
 #: feces.rsfailedcreatinghash
 msgid "Failed creating hash"
-msgstr ""
+msgstr "创建哈希值失败"
 
 #: feces.rsfailedcreatinghash2
 msgid "Failed creating hash 2"
-msgstr ""
+msgstr "创建哈希值失败(2)"
 
 #: feces.rsfailedgettingtheobjectlength
 msgid "Failed getting the object length"
-msgstr ""
+msgstr "获取对象长度失败"
 
 #: feces.rsfailedhashingtable
 msgid "Failed hashing table"
-msgstr ""
+msgstr "计算表格哈希失败"
 
 #: feces.rsfailedhashingtable2
 msgid "Failed hashing table 2"
-msgstr ""
+msgstr "计算表格哈希失败(2)"
 
 #: feces.rsfailedtofinishthehash
 msgid "Failed to finish the hash"
-msgstr ""
+msgstr "完成哈希计算失败"
 
 #: feces.rsfailedtofinishthehash2
 msgid "Failed to finish the hash 2"
-msgstr ""
+msgstr "完成哈希计算失败(2)"
 
 #: feces.rsfailedtogethashlength
 msgid "Failed to get hashlength"
-msgstr ""
+msgstr "获取哈希长度失败"
 
 #: feces.rsfailedtogethashlength2
 msgid "Failed to get hashlength 2"
-msgstr ""
+msgstr "获取哈希长度失败(2)"
 
 #: feces.rsfailedtogetsignaturesize
 msgid "Failed to get the signature size"
-msgstr ""
+msgstr "获取签名大小失败"
 
 #: feces.rsfailedtoloadcheatenginepublickey
 msgid "Failed to load Cheat Engine public key"
-msgstr ""
+msgstr "加载Cheat Engine公钥失败"
 
 #: feces.rsfailedtoloadprivatekey
 msgid "Failed to load private key"
-msgstr ""
+msgstr "加载私钥失败"
 
 #: feces.rsfailedtoloadthetablepublickey
 msgid "Failed to load the table public key"
-msgstr ""
+msgstr "加载表格公钥失败"
 
 #: feces.rsinvalidpublickey
 msgid "The provided public key is invalid(Not signed by the Cheat Engine guy). Remove the signature section to load this table"
-msgstr ""
+msgstr "提供的公钥无效(非Cheat Engine官方签名)。请删除签名部分以加载此表"
 
 #: feces.rsispasswordcorrect
 msgid "Is the password correct?"
-msgstr ""
+msgstr "密码是否正确？"
 
 #: feces.rsnopublickey
 msgid "This table's signature does not contain a PublicKey element"
-msgstr ""
+msgstr "此表格签名不包含PublicKey元素"
 
 #: feces.rsnosignedhash
 msgid "This table's signature does not contain a SignedHash element"
-msgstr ""
+msgstr "此表格签名不包含SignedHash元素"
 
 #: feces.rsselectyourcheatenginesignaturefile
 msgid "Select your Cheat Engine signature file"
-msgstr ""
+msgstr "选择您的Cheat Engine签名文件"
 
 #: feces.rsthistablehasbeenmodified
 msgid "This table has been modified. To load this table, remove the signature part with an editor (And check the file for suspicious things while you're at it)"
-msgstr ""
+msgstr "此表格已被修改。要加载此表，请使用编辑器删除签名部分(同时检查文件是否存在可疑内容)"
 
 #: fileaccess.rsnogetnamedsecurityinfo
 msgid "no GetNamedSecurityInfo"
-msgstr ""
+msgstr "缺少GetNamedSecurityInfo函数"
 
 #: fileaccess.rsnogetsecurityinfo
 msgid "no GetSecurityInfo"
-msgstr ""
+msgstr "缺少GetSecurityInfo函数"
 
 #: fileaccess.rsnosetentriesinacl
 msgid "no SetEntriesInAcl"
-msgstr ""
+msgstr "缺少SetEntriesInAcl函数"
 
 #: fileaccess.rsnosetnamedsecurityinfo
 msgid "no SetNamedSecurityInfo"
-msgstr ""
+msgstr "缺少SetNamedSecurityInfo函数"
 
 #: filemapping.rsdoesnotexist
 #, object-pascal-format
 msgid "%s does not exist"
-msgstr ""
+msgstr "%s不存在"
 
 #: filemapping.rsfailedcreatingaproperview
 msgid "Failed creating a proper view"
-msgstr ""
+msgstr "创建正确视图失败"
 
 #: filemapping.rsmappingfailed
 msgid "Mapping failed"
-msgstr ""
+msgstr "映射失败"
 
 #: findwindowunit.rsnothingfound
 msgid "Nothing found"
-msgstr ""
+msgstr "未找到任何内容"
 
 #: findwindowunit.rsthespecifiedrangeisinvalid
 msgid "The specified range is invalid"
-msgstr ""
+msgstr "指定范围无效"
 
 #: formaddresschangeunit.rsacaddoffset
 msgid "Add Offset"
-msgstr ""
+msgstr "添加偏移量"
 
 #: formaddresschangeunit.rsacaddoffsethint
 msgid "Click: Add New Offset. Ctrl+Click: Add New Offset to the opposite location"
-msgstr ""
+msgstr "单击：添加新偏移量。Ctrl+单击：将新偏移量添加到相反位置"
 
 #: formaddresschangeunit.rsacremoveoffset
 msgctxt "formaddresschangeunit.rsacremoveoffset"
 msgid "Remove Offset"
-msgstr ""
+msgstr "移除偏移量"
 
 #: formaddresschangeunit.rsacremoveoffsethint
 msgid "Click: Remove Offset. Ctrl+Click: Remove Offset from the opposite location"
-msgstr ""
+msgstr "单击：移除偏移量。Ctrl+单击：从相反位置移除偏移量"
 
 #: formaddresschangeunit.rsaddressofpointer
 msgid "Address of pointer"
-msgstr ""
+msgstr "指针地址"
 
 #: formaddresschangeunit.rsfillinthenrofbytesafterthelocationthepointerpoints
 msgid "Fill in the nr. of bytes after the location the pointer points to"
-msgstr ""
+msgstr "填写指针指向位置之后的字节数"
 
 #: formaddresschangeunit.rsisnotavalidoffset
 #, object-pascal-format
 msgid "%s is not a valid offset"
-msgstr ""
+msgstr "%s 不是有效的偏移量"
 
 #: formaddresschangeunit.rsnotalloffsetshavebeenfilledin
 msgid "Not all offsets have been filled in"
-msgstr ""
+msgstr "并非所有偏移量都已填写"
 
 #: formaddresschangeunit.rsoffsethex
 msgid "Offset (Hex)"
-msgstr ""
+msgstr "偏移量(十六进制)"
 
 #: formaddresschangeunit.rsresultofnextpointer
 msgid "Result of next pointer"
-msgstr ""
+msgstr "下一个指针的结果"
 
 #: formaddresschangeunit.rstheoffsetyouchosebringsitto
 msgid "The offset you chose brings it to"
-msgstr ""
+msgstr "您选择的偏移量将使其指向"
 
 #: formaddresschangeunit.rsthispointerpointstoaddress
 msgid "This pointer points to address"
-msgstr ""
+msgstr "此指针指向地址"
 
 #: formaddtocodelist.rspleasefillinavalidfromaddress
 msgctxt "formaddtocodelist.rspleasefillinavalidfromaddress"
 msgid "Please fill in a valid 'From' address"
-msgstr ""
+msgstr "请填写有效的'起始'地址"
 
 #: formaddtocodelist.rspleasefillinavalidtoaddress
 msgctxt "formaddtocodelist.rspleasefillinavalidtoaddress"
 msgid "Please fill in a valid 'To' address"
-msgstr ""
+msgstr "请填写有效的'结束'地址"
 
 #: formaddtocodelist.rsregion
 msgid "Region"
-msgstr ""
+msgstr "区域"
 
 #: formaddtocodelist.rsregiontoadd
 msgctxt "formaddtocodelist.rsregiontoadd"
 msgid "Region to add"
-msgstr ""
+msgstr "要添加的区域"
 
 #: formchangedaddresses.rsareyouwishtodelete
 msgid "Are you sure you wish to delete these entries(s)?"
-msgstr ""
+msgstr "确定要删除这些条目吗？"
 
 #: formchangedaddresses.rschangedaddressesby
 #, object-pascal-format
 msgid "Accessed addresses by %x"
-msgstr ""
+msgstr "被%x访问的地址"
 
 #: formchangedaddresses.rsclose
 msgctxt "formchangedaddresses.rsclose"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: formchangedaddresses.rscodeaccessesaddresses
 #, object-pascal-format
 msgid "The following %d addresses have been accessed by the code you selected"
-msgstr ""
+msgstr "您选择的代码已访问以下%d个地址"
 
 #: formchangedaddresses.rscodeaccessessingleaddress
 msgid "This address has been accessed by the code you selected"
-msgstr ""
+msgstr "此地址已被您选择的代码访问"
 
 #: formchangedaddresses.rsdeleteaddresses
 msgid "Delete addresses"
-msgstr ""
+msgstr "删除地址"
 
 #: formchangedaddresses.rsdesignatesomeaddresses
 msgid "Please designate a group to at least some addresses"
-msgstr ""
+msgstr "请为至少部分地址指定一个组"
 
 #: formchangedaddresses.rsdisassemblethisaddress
 msgid "Disassemble this address"
-msgstr ""
+msgstr "反汇编此地址"
 
 #: formchangedaddresses.rsenterluaformula
 msgid "Enter a Lua formula to use to filter. E.g RCX==0x2301adc0.  Empty for no filter"
-msgstr ""
+msgstr "输入Lua过滤公式。例如 RCX==0x2301adc0。留空表示不过滤"
 
 #: formchangedaddresses.rsfilter
 msgctxt "formchangedaddresses.rsfilter"
 msgid "Filter"
-msgstr ""
+msgstr "过滤"
 
 #: formchangedaddresses.rsgivethenewvalue
 msgid "Give the new value"
-msgstr ""
+msgstr "输入新值"
 
 #: formchangedaddresses.rsinvalidgroups
 msgid "Invalid groups"
-msgstr ""
+msgstr "无效的组"
 
 #: formchangedaddresses.rsneedsiptfindwhat
 msgctxt "formchangedaddresses.rsneedsiptfindwhat"
@@ -2031,450 +2035,455 @@ msgid ""
 "The debugger did not collect any IPT data. This may be due to the Intel PT feature not being enabled in settings/malfunctioning, or that the option to also log the trace in \"find what...\" results was disabled. Do you wish to enable this for this debugging session? You will need to recollect this information again though.\n"
 "(This is for this session only. If you wish to always turn it on from the start, go to settings->debugger options, and enable \"Use Intel-PT feature\" and the suboption for recording elements in \"find what ...\" routines)"
 msgstr ""
+"调试器未收集任何IPT数据。这可能是由于设置中未启用Intel PT功能/功能故障，或禁用了在\"查找什么...\"结果中记录跟踪的选项。您希望为此调试会话启用此功能吗？不过您需要重新收集这些信息。\n"
+"(仅适用于当前会话。如果想从一开始就启用，请前往设置->调试器选项，启用\"使用Intel-PT功能\"及其子选项\"在'查找什么...'例程中记录元素\")"
 
 #: formchangedaddresses.rsnoaddressesleftforgroup
 #, object-pascal-format
 msgid "There are no addresses left for group %d"
-msgstr ""
+msgstr "组%d没有剩下任何地址"
 
 #: formchangedaddresses.rsnodescription
 msgctxt "formchangedaddresses.rsnodescription"
 msgid "No Description"
-msgstr ""
+msgstr "无描述"
 
 #: formchangedaddresses.rsstop
 msgctxt "formchangedaddresses.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: formchangedaddresses.rsvaluechange
-msgid "Value Change"
-msgstr ""
+msgid "Value Change"  
+msgstr "数值变更"
 
-#: formdesignerunit.rsformdesignercaption
-msgctxt "formdesignerunit.rsformdesignercaption"
-msgid "Form Designer"
-msgstr ""
+#: formdesignerunit.rsformdesignercaption  
+msgctxt "formdesignerunit.rsformdesignercaption"  
+msgid "Form Designer"  
+msgstr "窗体设计器"
 
-#: formdesignerunit.rsformfilesfrmfrm
-msgid "Form files(*.frm)|*.FRM"
-msgstr ""
+#: formdesignerunit.rsformfilesfrmfrm  
+msgid "Form files(*.frm)|*.FRM"  
+msgstr "窗体文件(*.frm)|*.FRM"
 
-#: formdesignerunit.rsformfileslfmlfm
-msgid "Form files(*.lfm)|*.LFM"
-msgstr ""
+#: formdesignerunit.rsformfileslfmlfm  
+msgid "Form files(*.lfm)|*.LFM"  
+msgstr "窗体文件(*.lfm)|*.LFM"
 
-#: formdesignerunit.rsinvalidobject
-msgid "{Invalid object}"
-msgstr ""
+#: formdesignerunit.rsinvalidobject  
+msgid "{Invalid object}"  
+msgstr "{无效对象}"
 
-#: formdesignerunit.rsshowcheckboxesforboolean
-msgid "Show checkboxes for boolean"
-msgstr ""
+#: formdesignerunit.rsshowcheckboxesforboolean  
+msgid "Show checkboxes for boolean"  
+msgstr "为布尔值显示复选框"
 
-#: formdifferentbitsizeunit.rsthelasttimeyouscannedthenumberofbitswasandnowitisp
-#, object-pascal-format
-msgid "The last time you scanned the number of bits was %s and now it is %s. Please tell me how and how much i must change the bit offset to scan successfully. (Left+right arrow keys move the bits)"
-msgstr ""
+#: formdifferentbitsizeunit.rsthelasttimeyouscannedthenumberofbitswasandnowitisp  
+#, object-pascal-format  
+msgid "The last time you scanned the number of bits was %s and now it is %s. Please tell me how and how much i must change the bit offset to scan successfully. (Left+right arrow keys move the bits)"  
+msgstr "上次扫描的位数为%s，现在为%s。请告诉我需要如何改变位偏移量才能成功扫描。(左右方向键移动位数)"
 
-#: formdifferentbitsizeunit.rswelldoneyoufoundaeasteregg
-msgid "Well done, you found a easter egg!"
-msgstr ""
+#: formdifferentbitsizeunit.rswelldoneyoufoundaeasteregg  
+msgid "Well done, you found a easter egg!"  
+msgstr "干得好，你找到了一个彩蛋！"
 
-#: formfoundcodelistextraunit.rsneedsiptfindwhat
-msgctxt "formfoundcodelistextraunit.rsneedsiptfindwhat"
-msgid ""
-"The debugger did not collect any IPT data. This may be due to the Intel PT feature not being enabled in settings/malfunctioning, or that the option to also log the trace in \"find what...\" results was disabled. Do you wish to enable this for this debugging session? You will need to recollect this information again though.\n"
-"(This is for this session only. If you wish to always turn it on from the start, go to settings->debugger options, and enable \"Use Intel-PT feature\" and the suboption for recording elements in \"find what ...\" routines)"
-msgstr ""
+#: formfoundcodelistextraunit.rsneedsiptfindwhat  
+msgctxt "formfoundcodelistextraunit.rsneedsiptfindwhat"  
+msgid ""  
+"The debugger did not collect any IPT data. This may be due to the Intel PT feature not being enabled in settings/malfunctioning, or that the option to also log the trace in \"find what...\" results was disabled. Do you wish to enable this for this debugging session? You will need to recollect this information again though.\n"  
+"(This is for this session only. If you wish to always turn it on from the start, go to settings->debugger options, and enable \"Use Intel-PT feature\" and the suboption for recording elements in \"find what ...\" routines)"  
+msgstr ""  
+"调试器未收集任何IPT数据。这可能是由于未在设置中启用Intel PT功能/功能故障，或禁用了在\"查找什么...\"结果中记录跟踪的选项。您要为本次调试会话启用此功能吗？不过需要重新收集这些信息。\n"  
+"(仅适用于当前会话。如果想从一开始就启用，请前往设置->调试器选项，启用\"使用Intel-PT功能\"及其子选项\"在'查找什么...'例程中记录元素\")"
 
-#: formfoundcodelistextraunit.rsprobablebasepointer
-#, object-pascal-format
-msgid "Probable base pointer =%s"
-msgstr ""
+#: formfoundcodelistextraunit.rsprobablebasepointer  
+#, object-pascal-format  
+msgid "Probable base pointer =%s"  
+msgstr "可能的基础指针=%s"
 
-#: formfoundcodelistextraunit.rsthevalueofthepointerneededtofindthisaddressisproba
-#, object-pascal-format
-msgid "The value of the pointer needed to find this address is probably %s"
-msgstr ""
+#: formfoundcodelistextraunit.rsthevalueofthepointerneededtofindthisaddressisproba  
+#, object-pascal-format  
+msgid "The value of the pointer needed to find this address is probably %s"  
+msgstr "查找此地址所需的指针值可能为%s"
 
-#: formhotkeyunit.rsalt
-msgctxt "formhotkeyunit.rsalt"
-msgid "Alt"
-msgstr ""
+# 以下是按键名称翻译(保持英文缩写)
+#: formhotkeyunit.rsalt  
+msgctxt "formhotkeyunit.rsalt"  
+msgid "Alt"  
+msgstr "Alt"
 
-#: formhotkeyunit.rsapplicationskey
-msgctxt "formhotkeyunit.rsapplicationskey"
-msgid "Applications key"
-msgstr ""
+#: formhotkeyunit.rsapplicationskey  
+msgctxt "formhotkeyunit.rsapplicationskey"  
+msgid "Applications key"  
+msgstr "应用键"
 
-#: formhotkeyunit.rsbackspace
-msgctxt "formhotkeyunit.rsbackspace"
-msgid "Backspace"
-msgstr ""
+#: formhotkeyunit.rsbackspace  
+msgctxt "formhotkeyunit.rsbackspace"  
+msgid "Backspace"  
+msgstr "退格键"
 
-#: formhotkeyunit.rscapslock
-msgctxt "formhotkeyunit.rscapslock"
-msgid "Caps Lock"
-msgstr ""
+#: formhotkeyunit.rscapslock  
+msgctxt "formhotkeyunit.rscapslock"  
+msgid "Caps Lock"  
+msgstr "大写锁定"
 
-#: formhotkeyunit.rsclear
-msgctxt "formhotkeyunit.rsclear"
-msgid "Clear"
-msgstr ""
+#: formhotkeyunit.rsclear  
+msgctxt "formhotkeyunit.rsclear"  
+msgid "Clear"  
+msgstr "清除"
 
-#: formhotkeyunit.rsctrl
-msgctxt "formhotkeyunit.rsctrl"
-msgid "Ctrl"
-msgstr ""
+#: formhotkeyunit.rsctrl  
+msgctxt "formhotkeyunit.rsctrl"  
+msgid "Ctrl"  
+msgstr "Ctrl"
 
-#: formhotkeyunit.rsdelete
-msgctxt "formhotkeyunit.rsdelete"
-msgid "Delete"
-msgstr ""
+#: formhotkeyunit.rsdelete  
+msgctxt "formhotkeyunit.rsdelete"  
+msgid "Delete"  
+msgstr "删除"
 
-#: formhotkeyunit.rsdownarrow
-msgctxt "formhotkeyunit.rsdownarrow"
-msgid "Down Arrow"
-msgstr ""
+#: formhotkeyunit.rsdownarrow  
+msgctxt "formhotkeyunit.rsdownarrow"  
+msgid "Down Arrow"  
+msgstr "下箭头"
 
-#: formhotkeyunit.rsend
-msgctxt "formhotkeyunit.rsend"
-msgid "End"
-msgstr ""
+#: formhotkeyunit.rsend  
+msgctxt "formhotkeyunit.rsend"  
+msgid "End"  
+msgstr "End"
 
-#: formhotkeyunit.rsenter
-msgctxt "formhotkeyunit.rsenter"
-msgid "Enter"
-msgstr ""
+#: formhotkeyunit.rsenter  
+msgctxt "formhotkeyunit.rsenter"  
+msgid "Enter"  
+msgstr "Enter"
 
-#: formhotkeyunit.rsesc
-msgctxt "formhotkeyunit.rsesc"
-msgid "Esc"
-msgstr ""
+#: formhotkeyunit.rsesc  
+msgctxt "formhotkeyunit.rsesc"  
+msgid "Esc"  
+msgstr "Esc"
 
-#: formhotkeyunit.rsexecute
-msgctxt "formhotkeyunit.rsexecute"
-msgid "Execute"
-msgstr ""
+#: formhotkeyunit.rsexecute  
+msgctxt "formhotkeyunit.rsexecute"  
+msgid "Execute"  
+msgstr "执行"
 
-#: formhotkeyunit.rshelp
-msgctxt "formhotkeyunit.rshelp"
-msgid "Help"
-msgstr ""
+#: formhotkeyunit.rshelp  
+msgctxt "formhotkeyunit.rshelp"  
+msgid "Help"  
+msgstr "帮助"
 
-#: formhotkeyunit.rshome
-msgctxt "formhotkeyunit.rshome"
-msgid "Home"
-msgstr ""
+#: formhotkeyunit.rshome  
+msgctxt "formhotkeyunit.rshome"  
+msgid "Home"  
+msgstr "Home"
 
-#: formhotkeyunit.rsinsert
-msgctxt "formhotkeyunit.rsinsert"
-msgid "Insert"
-msgstr ""
+#: formhotkeyunit.rsinsert  
+msgctxt "formhotkeyunit.rsinsert"  
+msgid "Insert"  
+msgstr "Insert"
 
-#: formhotkeyunit.rsleftarrow
-msgctxt "formhotkeyunit.rsleftarrow"
-msgid "Left Arrow"
-msgstr ""
+#: formhotkeyunit.rsleftarrow  
+msgctxt "formhotkeyunit.rsleftarrow"  
+msgid "Left Arrow"  
+msgstr "左箭头"
 
-#: formhotkeyunit.rsleftwindowskey
-msgctxt "formhotkeyunit.rsleftwindowskey"
-msgid "Left Windows key"
-msgstr ""
+#: formhotkeyunit.rsleftwindowskey  
+msgctxt "formhotkeyunit.rsleftwindowskey"  
+msgid "Left Windows key"  
+msgstr "左Win键"
 
-#: formhotkeyunit.rsnumeric
-msgctxt "formhotkeyunit.rsnumeric"
-msgid "numeric"
-msgstr ""
+#: formhotkeyunit.rsnumeric  
+msgctxt "formhotkeyunit.rsnumeric"  
+msgid "numeric"  
+msgstr "数字"
 
-#: formhotkeyunit.rsnumlock
-msgctxt "formhotkeyunit.rsnumlock"
-msgid "Num Lock"
-msgstr ""
+#: formhotkeyunit.rsnumlock  
+msgctxt "formhotkeyunit.rsnumlock"  
+msgid "Num Lock"  
+msgstr "数字锁定"
 
-#: formhotkeyunit.rspagedown
-msgctxt "formhotkeyunit.rspagedown"
-msgid "Page Down"
-msgstr ""
+#: formhotkeyunit.rspagedown  
+msgctxt "formhotkeyunit.rspagedown"  
+msgid "Page Down"  
+msgstr "Page Down"
 
-#: formhotkeyunit.rspageup
-msgctxt "formhotkeyunit.rspageup"
-msgid "Page Up"
-msgstr ""
+#: formhotkeyunit.rspageup  
+msgctxt "formhotkeyunit.rspageup"  
+msgid "Page Up"  
+msgstr "Page Up"
 
-#: formhotkeyunit.rspause
-msgctxt "formhotkeyunit.rspause"
-msgid "Pause"
-msgstr ""
+#: formhotkeyunit.rspause  
+msgctxt "formhotkeyunit.rspause"  
+msgid "Pause"  
+msgstr "暂停"
 
-#: formhotkeyunit.rsprint
-msgctxt "formhotkeyunit.rsprint"
-msgid "Print"
-msgstr ""
+#: formhotkeyunit.rsprint  
+msgctxt "formhotkeyunit.rsprint"  
+msgid "Print"  
+msgstr "打印"
 
-#: formhotkeyunit.rsprintscreen
-msgctxt "formhotkeyunit.rsprintscreen"
-msgid "Print Screen"
-msgstr ""
+#: formhotkeyunit.rsprintscreen  
+msgctxt "formhotkeyunit.rsprintscreen"  
+msgid "Print Screen"  
+msgstr "打印屏幕"
 
-#: formhotkeyunit.rsrightarrow
-msgctxt "formhotkeyunit.rsrightarrow"
-msgid "Right Arrow"
-msgstr ""
+#: formhotkeyunit.rsrightarrow  
+msgctxt "formhotkeyunit.rsrightarrow"  
+msgid "Right Arrow"  
+msgstr "右箭头"
 
-#: formhotkeyunit.rsrightwindowskey
-msgctxt "formhotkeyunit.rsrightwindowskey"
-msgid "Right Windows key"
-msgstr ""
+#: formhotkeyunit.rsrightwindowskey  
+msgctxt "formhotkeyunit.rsrightwindowskey"  
+msgid "Right Windows key"  
+msgstr "右Win键"
 
-#: formhotkeyunit.rsscrolllock
-msgctxt "formhotkeyunit.rsscrolllock"
-msgid "Scroll Lock"
-msgstr ""
+#: formhotkeyunit.rsscrolllock  
+msgctxt "formhotkeyunit.rsscrolllock"  
+msgid "Scroll Lock"  
+msgstr "滚动锁定"
 
-#: formhotkeyunit.rsselect
-msgctxt "formhotkeyunit.rsselect"
-msgid "Select"
-msgstr ""
+#: formhotkeyunit.rsselect  
+msgctxt "formhotkeyunit.rsselect"  
+msgid "Select"  
+msgstr "选择"
 
-#: formhotkeyunit.rsseparator
-msgctxt "formhotkeyunit.rsseparator"
-msgid "Separator"
-msgstr ""
+#: formhotkeyunit.rsseparator  
+msgctxt "formhotkeyunit.rsseparator"  
+msgid "Separator"  
+msgstr "分隔符"
 
-#: formhotkeyunit.rsshift
-msgctxt "formhotkeyunit.rsshift"
-msgid "Shift"
-msgstr ""
+#: formhotkeyunit.rsshift  
+msgctxt "formhotkeyunit.rsshift"  
+msgid "Shift"  
+msgstr "Shift"
 
-#: formhotkeyunit.rsspacebar
-msgctxt "formhotkeyunit.rsspacebar"
-msgid "Space bar"
-msgstr ""
+#: formhotkeyunit.rsspacebar  
+msgctxt "formhotkeyunit.rsspacebar"  
+msgid "Space bar"  
+msgstr "空格键"
 
-#: formhotkeyunit.rstab
-msgctxt "formhotkeyunit.rstab"
-msgid "Tab"
-msgstr ""
+#: formhotkeyunit.rstab  
+msgctxt "formhotkeyunit.rstab"  
+msgid "Tab"  
+msgstr "Tab"
 
-#: formhotkeyunit.rsuparrow
-msgctxt "formhotkeyunit.rsuparrow"
-msgid "Up Arrow"
-msgstr ""
+#: formhotkeyunit.rsuparrow  
+msgctxt "formhotkeyunit.rsuparrow"  
+msgid "Up Arrow"  
+msgstr "上箭头"
 
-#: formmemoryregionsunit.rscommit
-msgid "Commit"
-msgstr ""
+#: formmemoryregionsunit.rscommit  
+msgid "Commit"  
+msgstr "提交"
 
-#: formmemoryregionsunit.rsdone
-msgctxt "formmemoryregionsunit.rsdone"
-msgid "done"
-msgstr ""
+#: formmemoryregionsunit.rsdone  
+msgctxt "formmemoryregionsunit.rsdone"  
+msgid "done"  
+msgstr "完成"
 
-#: formmemoryregionsunit.rsdoyouwanttousethecopyonwritebit
-msgid "Do you want to use the COPY-ON-WRITE bit?"
-msgstr ""
+#: formmemoryregionsunit.rsdoyouwanttousethecopyonwritebit  
+msgid "Do you want to use the COPY-ON-WRITE bit?"  
+msgstr "要使用写时复制(COPY-ON-WRITE)位吗？"
 
 #: formmemoryregionsunit.rsexecute
 msgctxt "formmemoryregionsunit.rsexecute"
 msgid "Execute"
-msgstr ""
+msgstr "执行"
 
 #: formmemoryregionsunit.rsexecuteread
 msgid "Execute+Read"
-msgstr ""
+msgstr "执行+读取"
 
 #: formmemoryregionsunit.rsexecutereadwrite
 msgid "Execute+Read+Write"
-msgstr ""
+msgstr "执行+读取+写入"
 
 #: formmemoryregionsunit.rsexecutewritecopy
 msgid "Execute+Write Copy"
-msgstr ""
+msgstr "执行+写入副本"
 
 #: formmemoryregionsunit.rsfailedtodelete
 #, object-pascal-format
 msgid "Failed to delete %s"
-msgstr ""
+msgstr "删除%s失败"
 
 #: formmemoryregionsunit.rsfree
 msgid "Free"
-msgstr ""
+msgstr "空闲"
 
 #: formmemoryregionsunit.rsguard
 msgid "Guard"
-msgstr ""
+msgstr "保护"
 
 #: formmemoryregionsunit.rsimage
 msgctxt "formmemoryregionsunit.rsimage"
 msgid "Image"
-msgstr ""
+msgstr "映像"
 
 #: formmemoryregionsunit.rsmapped
 msgid "Mapped"
-msgstr ""
+msgstr "映射"
 
 #: formmemoryregionsunit.rsmemoryregions
 msgctxt "formmemoryregionsunit.rsmemoryregions"
 msgid "Memory regions"
-msgstr ""
+msgstr "内存区域"
 
 #: formmemoryregionsunit.rsmemoryregionssaving
 #, object-pascal-format
 msgid "Memory regions - Saving(%s/%s)"
-msgstr ""
+msgstr "内存区域 - 保存中(%s/%s)"
 
 #: formmemoryregionsunit.rsnoaccess
 msgctxt "formmemoryregionsunit.rsnoaccess"
 msgid "No Access"
-msgstr ""
+msgstr "禁止访问"
 
 #: formmemoryregionsunit.rsnocache
 msgid "No Cache"
-msgstr ""
+msgstr "无缓存"
 
 #: formmemoryregionsunit.rsprivate
 msgid "Private"
-msgstr ""
+msgstr "私有"
 
 #: formmemoryregionsunit.rsread
 msgctxt "formmemoryregionsunit.rsread"
 msgid "Read"
-msgstr ""
+msgstr "读取"
 
 #: formmemoryregionsunit.rsreadwrite
 msgid "Read+Write"
-msgstr ""
+msgstr "读取+写入"
 
 #: formmemoryregionsunit.rsreserve
 msgid "Reserve"
-msgstr ""
+msgstr "保留"
 
 #: formmemoryregionsunit.rstherearealreadymemoryfileswiththisnamedoyouwanttod
 msgid "There are already memoryfiles with this name. Do you want to delete them? (choosing no will add the file(s) to empty slots)"
-msgstr ""
+msgstr "已存在同名的内存文件。要删除它们吗？(选择否将会把文件添加到空槽位)"
 
 #: formmemoryregionsunit.rsthereisnofreeslot
 msgid "There is no free slot"
-msgstr ""
+msgstr "没有可用槽位"
 
 #: formmemoryregionsunit.rswritecombine
 msgctxt "formmemoryregionsunit.rswritecombine"
 msgid "Write Combine"
-msgstr ""
+msgstr "写入组合"
 
 #: formmemoryregionsunit.rswritecopy
 msgctxt "formmemoryregionsunit.rswritecopy"
 msgid "Write Copy"
-msgstr ""
+msgstr "写入副本"
 
 #: formsettingsunit.rs2bytes
 msgctxt "formsettingsunit.rs2bytes"
 msgid "2 Bytes"
-msgstr ""
+msgstr "2字节"
 
 #: formsettingsunit.rs4bytes
 msgctxt "formsettingsunit.rs4bytes"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4字节"
 
 #: formsettingsunit.rs8bytes
 msgctxt "formsettingsunit.rs8bytes"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8字节"
 
 #: formsettingsunit.rsallcustomtypes
 msgctxt "formsettingsunit.rsallcustomtypes"
 msgid "All Custom Types"
-msgstr ""
+msgstr "所有自定义类型"
 
 #: formsettingsunit.rsarrayofbyte
 msgctxt "formsettingsunit.rsarrayofbyte"
 msgid "Array of byte"
-msgstr ""
+msgstr "字节数组"
 
 #: formsettingsunit.rsattachtoforegroundprocess
 msgid "Attach to current foreground process"
-msgstr ""
+msgstr "附加到当前前台进程"
 
 #: formsettingsunit.rsbinary
 msgctxt "formsettingsunit.rsbinary"
 msgid "Binary"
-msgstr ""
+msgstr "二进制"
 
 #: formsettingsunit.rsbyte
 msgctxt "formsettingsunit.rsbyte"
 msgid "Byte"
-msgstr ""
+msgstr "字节"
 
 #: formsettingsunit.rscancelthecurrentscan
 msgid "Cancel the current scan"
-msgstr ""
+msgstr "取消当前扫描"
 
 #: formsettingsunit.rschangedvalue
 msgid "Changed Value"
-msgstr ""
+msgstr "已更改值"
 
 #: formsettingsunit.rschangetypeto
 msgid "Change type to"
-msgstr ""
+msgstr "更改为类型"
 
 #: formsettingsunit.rsdebuggeroptions
 msgctxt "formsettingsunit.rsdebuggeroptions"
 msgid "Debugger Options"
-msgstr ""
+msgstr "调试器选项"
 
 #: formsettingsunit.rsdebugrun
 msgid "Debug->Run"
-msgstr ""
+msgstr "调试->运行"
 
 #: formsettingsunit.rsdecreasedvalue
 msgid "Decreased Value"
-msgstr ""
+msgstr "减少值"
 
 #: formsettingsunit.rsdouble
 msgctxt "formsettingsunit.rsdouble"
 msgid "Double"
-msgstr ""
+msgstr "双精度"
 
 #: formsettingsunit.rsextra
 msgctxt "formsettingsunit.rsextra"
 msgid "Extra"
-msgstr ""
+msgstr "额外"
 
 #: formsettingsunit.rsfailmmregistry
 msgid "Failure getting the Memory Management registry key"
-msgstr ""
+msgstr "获取内存管理注册表项失败"
 
 #: formsettingsunit.rsfailuretoopenregistry
 msgid "Failure to open the registry entry"
-msgstr ""
+msgstr "打开注册表项失败"
 
 #: formsettingsunit.rsfloat
 msgctxt "formsettingsunit.rsfloat"
 msgid "Float"
-msgstr ""
+msgstr "单精度浮点"
 
 #: formsettingsunit.rsgeneralsettings
 msgctxt "formsettingsunit.rsgeneralsettings"
 msgid "General Settings"
-msgstr ""
+msgstr "通用设置"
 
 #: formsettingsunit.rshigher
 msgctxt "formsettingsunit.rshigher"
 msgid "Higher"
-msgstr ""
+msgstr "更高"
 
 #: formsettingsunit.rshighest
 msgctxt "formsettingsunit.rshighest"
 msgid "Highest"
-msgstr ""
+msgstr "最高"
 
 #: formsettingsunit.rshotkeys
 msgctxt "formsettingsunit.rshotkeys"
 msgid "Hotkeys"
-msgstr ""
+msgstr "热键"
 
 #: formsettingsunit.rsidle
 msgctxt "formsettingsunit.rsidle"

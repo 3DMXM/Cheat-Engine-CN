@@ -1,4 +1,4 @@
-# Cheat Engine 汉化文本
+# Cheat Engine 7.6 汉化文本
 
 这是 Cheat Engine 的汉化文本文件，包含了所有的汉化文本和一些其他的文件。
 
