@@ -1,0 +1,39 @@
+#: VC-U2CVICNEL
+msgid "Unable to check version (Invalid content, not enough lines)"
+msgstr "无法检查版本(内容无效，行数不足)"
+
+#: VC-U2CVIC
+msgid "Unable to check version (Invalid content)"
+msgstr "无法检查版本(内容无效)"
+
+#: VC-CFNV
+msgid "Check for new version"
+msgstr "检查新版本"
+
+#: VC-NCA
+msgid "Cheat Engine %s is available at www.cheatengine.org. Go there now?"
+msgstr "Cheat Engine %s 版本已在 www.cheatengine.org 上发布。现在前往？"
+
+#: VC-UP2D
+msgid "You are up to date. The latest version is %s"
+msgstr "您使用的是最新版本。最新版本为 %s"
+
+#: VC-WTF
+msgid "Unable to check version (Can't connect)"
+msgstr "无法检查版本(无法连接)"
+
+#: VC-UPDATETO
+msgid "Update to %s"
+msgstr "更新至 %s"
+
+#: VC-UPDATETO
+msgid "In how many days should I notify you again?"
+msgstr "多少天后再次提醒您？"
+
+#: VC-SETTINGS-TEXT
+msgid "Check for updates when Cheat Engine starts"
+msgstr "启动Cheat Engine时检查更新"
+
+#: VC-INTERVAL
+msgid "Interval(days):"
+msgstr "间隔天数:"
