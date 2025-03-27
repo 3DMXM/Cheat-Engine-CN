@@ -25,12 +25,12 @@ jobs:
 
       # 打包为 zip 文件
       - name: Create zip archive
-        run: zip -r release.zip zh_CN
+        run: zip -r zh_CN.zip zh_CN
 
       # 使用 softprops/action-gh-release 上传文件到 Release
       - name: Upload Release Asset
         uses: softprops/action-gh-release@v2
         with:
-          files: release.zip
+          files: zh_CN.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
