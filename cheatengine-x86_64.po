@@ -17813,394 +17813,394 @@ msgstr "清除列表"
 
 #: tfrmultimap2.mirangedeleteselected.caption
 msgid "Delete Selected"
-msgstr ""
+msgstr "删除选中项"
 
 #: tfrmultimap2.miremovehotkey.caption
 msgctxt "tfrmultimap2.miremovehotkey.caption"
 msgid "Remove hotkey"
-msgstr ""
+msgstr "移除热键"
 
 #: tfrmultimap2.misethotkey.caption
 msgctxt "tfrmultimap2.misethotkey.caption"
 msgid "Set hotkey"
-msgstr ""
+msgstr "设置热键"
 
 #: tfrmultimap2.panel2.caption
 msgctxt "tfrmultimap2.panel2.caption"
 msgid "Panel2"
-msgstr ""
+msgstr "面板2"
 
 #: tfrmultimap2.rblogtofolder.caption
 msgid "Process data later"
-msgstr ""
+msgstr "稍后处理数据"
 
 #: tfrmultimap2.rblogtofolder.hint
 msgid "CE will write the results to disk as quickly as possible but won't process it until the recording is stopped, or a filter function is being used."
-msgstr ""
+msgstr "CE将尽快将结果写入磁盘，但直到停止记录或使用过滤功能时才会处理它。"
 
 #: tfrmultimap2.rbruntimeparsing.caption
 msgid "Process data while recording"
-msgstr ""
+msgstr "在记录时处理数据"
 
 #: tfrmultimap2.rbruntimeparsing.hint
 msgid "Constantly process the data instead of waiting for the user's input"
-msgstr ""
+msgstr "持续处理数据，而不是等待用户输入"
 
 #: tfrmwatchlist.caption
 msgid "Watch list"
-msgstr ""
+msgstr "监视列表"
 
 #: tfrmwatchlist.lvwatchlist.columns[0].caption
 msgid "Address/Expression"
-msgstr ""
+msgstr "地址/表达式"
 
 #: tfrmwatchlist.lvwatchlist.columns[1].caption
 msgctxt "tfrmwatchlist.lvwatchlist.columns[1].caption"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: tfrmwatchlist.menuitem3.caption
 msgid "Refresh values"
-msgstr ""
+msgstr "刷新值"
 
 #: tfrmwatchlist.menuitem4.caption
 msgid "Browse memory region"
-msgstr ""
+msgstr "浏览内存区域"
 
 #: tfrmwatchlist.miadditem.caption
 msgid "Add Item"
-msgstr ""
+msgstr "添加项目"
 
 #: tfrmwatchlist.micopytoclipboard.caption
 msgid "Copy expression(s) to clipboard"
-msgstr ""
+msgstr "复制表达式到剪贴板"
 
 #: tfrmwatchlist.micopytoclipboardex.caption
 msgid "Copy expression(s) and value(s) to clipboard"
-msgstr ""
+msgstr "复制表达式和值到剪贴板"
 
 #: tfrmwatchlist.mideleteitems.caption
 msgid "Delete Item(s)"
-msgstr ""
+msgstr "删除项目"
 
 #: tfrmwatchlist.miedititem.caption
 msgid "Edit Item"
-msgstr ""
+msgstr "编辑项目"
 
 #: tfrmwatchlist.mipastefromclipboard.caption
 msgid "Paste expression(s) from clipboard"
-msgstr ""
+msgstr "从剪贴板粘贴表达式"
 
 #: tfrmwatchlistaddentry.btncancel.caption
 msgctxt "tfrmwatchlistaddentry.btncancel.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: tfrmwatchlistaddentry.btnok.caption
 msgctxt "tfrmwatchlistaddentry.btnok.caption"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: tfrmwatchlistaddentry.caption
 msgid "Add watcher entry"
-msgstr ""
+msgstr "添加监视条目"
 
 #: tfrmwatchlistaddentry.edtexpression.texthint
 msgid "Expression"
-msgstr ""
+msgstr "表达式"
 
 #: tfrmwatchlistaddentry.rgtype.caption
 msgctxt "tfrmwatchlistaddentry.rgtype.caption"
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: thotkeyform.btnapply.caption
 msgctxt "thotkeyform.btnapply.caption"
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: thotkeyform.btncancel.caption
 msgctxt "thotkeyform.btncancel.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: thotkeyform.btncreatehotkey.caption
 msgid "Create hotkey"
-msgstr ""
+msgstr "创建热键"
 
 #: thotkeyform.btnedithotkey.caption
 msgid "Edit Hotkey"
-msgstr ""
+msgstr "编辑热键"
 
 #: thotkeyform.btnok.caption
 msgctxt "thotkeyform.btnok.caption"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: thotkeyform.button2.caption
 msgctxt "thotkeyform.button2.caption"
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 #: thotkeyform.caption
 msgid "Set/Change hotkey"
-msgstr ""
+msgstr "设置/更改热键"
 
 #: thotkeyform.cbactivatesound.text
 msgctxt "thotkeyform.cbactivatesound.text"
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
 #: thotkeyform.cbdeactivatesound.text
 msgctxt "thotkeyform.cbdeactivatesound.text"
 msgid "Deactivate"
-msgstr ""
+msgstr "停用"
 
 #: thotkeyform.cbforceenglishactivate.caption
 msgctxt "thotkeyform.cbforceenglishactivate.caption"
 msgid "Force English"
-msgstr ""
+msgstr "强制使用英语"
 
 #: thotkeyform.cbforceenglishactivate.hint
 msgctxt "thotkeyform.cbforceenglishactivate.hint"
 msgid "Tries to set the language of the windows speech synthesizer to English when speaking this. Won't speak if there is no English voice installed"
-msgstr ""
+msgstr "尝试在朗读时将Windows语音合成器的语言设置为英语。如果没有安装英语语音，将不会朗读"
 
 #: thotkeyform.cbforceenglishdeactivate.caption
 msgctxt "thotkeyform.cbforceenglishdeactivate.caption"
 msgid "Force English"
-msgstr ""
+msgstr "强制使用英语"
 
 #: thotkeyform.cbforceenglishdeactivate.hint
 msgctxt "thotkeyform.cbforceenglishdeactivate.hint"
 msgid "Tries to set the language of the windows speech synthesizer to English when speaking this. Won't speak if there is no English voice installed"
-msgstr ""
+msgstr "尝试在朗读时将Windows语音合成器的语言设置为英语。如果没有安装英语语音，将不会朗读"
 
 #: thotkeyform.cbfreezedirection.text
 msgctxt "thotkeyform.cbfreezedirection.text"
 msgid "Toggle freeze"
-msgstr ""
+msgstr "切换冻结"
 
 #: thotkeyform.cbonlywhiledown.caption
 msgid "Only while hotkey is down/Restore when released"
-msgstr ""
+msgstr "仅在按住热键时/松开时恢复"
 
 #: thotkeyform.edtactivatetext.text
 msgid "{MRDescription} Activated"
-msgstr ""
+msgstr "{MRDescription} 已激活"
 
 #: thotkeyform.edtdeactivatetext.text
 msgid "{MRDescription} Deactivated"
-msgstr ""
+msgstr "{MRDescription} 已停用"
 
 #: thotkeyform.edtdescription.hint
 msgid "When autogenerating a trainer this field will be used as description"
-msgstr ""
+msgstr "自动生成修改器时，此字段将用作描述"
 
 #: thotkeyform.label1.caption
 msgid "Type the keys you want to set the hotkey to"
-msgstr ""
+msgstr "输入您想设置为热键的按键"
 
 #: thotkeyform.label2.caption
 msgid "Description (Optional)"
-msgstr ""
+msgstr "描述（可选）"
 
 #: thotkeyform.lblactivatesound.caption
 msgid "Activate sound"
-msgstr ""
+msgstr "激活声音"
 
 #: thotkeyform.lbldeactivatesound.caption
 msgid "Deactivate sound"
-msgstr ""
+msgstr "停用声音"
 
 #: thotkeyform.listview1.columns[0].caption
 msgctxt "thotkeyform.listview1.columns[0].caption"
 msgid "Hotkey"
-msgstr ""
+msgstr "热键"
 
 #: thotkeyform.listview1.columns[1].caption
 msgid "On Hotkey"
-msgstr ""
+msgstr "热键按下时"
 
 #: thotkeyform.listview1.columns[2].caption
 msgctxt "thotkeyform.listview1.columns[2].caption"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: thotkeyform.listview1.columns[3].caption
 msgctxt "thotkeyform.listview1.columns[3].caption"
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: thotkeyform.miaddsound.caption
 msgid "Add sounds"
-msgstr ""
+msgstr "添加声音"
 
 #: thotkeyform.midelete.caption
 msgctxt "thotkeyform.midelete.caption"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: thotkeyform.tabsheet1.caption
 msgid "TabSheet1"
-msgstr ""
+msgstr "标签页1"
 
 #: thotkeyform.tabsheet2.caption
 msgid "TabSheet2"
-msgstr ""
+msgstr "标签页2"
 
 #: tinputboxtop.button1.caption
 msgctxt "tinputboxtop.button1.caption"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: tinputboxtop.button2.caption
 msgctxt "tinputboxtop.button2.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: tinputboxtop.edit1.text
 msgid "edit1"
-msgstr ""
+msgstr "编辑1"
 
 #: tinputboxtop.label1.caption
 msgctxt "tinputboxtop.label1.caption"
 msgid "Label1"
-msgstr ""
+msgstr "标签1"
 
 #: tlgunit.rsyouwin
 msgid "OMG, You must have cheated or don't have a life. (Although some people claim that thats the same)"
-msgstr ""
+msgstr "天啊，您一定是作弊了或者没有生活。（虽然有些人认为这是一回事）"
 
 #: tmainform.a1.caption
 msgid "a"
-msgstr ""
+msgstr "a"
 
 #: tmainform.actautoassemble.caption
 msgid "actAutoAssemble"
-msgstr ""
+msgstr "actAutoAssemble"
 
 #: tmainform.actmemoryview.caption
 msgid "actMemoryView"
-msgstr ""
+msgstr "actMemoryView"
 
 #: tmainform.actopen.hint
 msgctxt "tmainform.actopen.hint"
 msgid "Open a cheat table or unprotected cetrainer"
-msgstr ""
+msgstr "打开作弊表格或未受保护的cetrainer"
 
 #: tmainform.actopendissectstructure.caption
 msgid "actOpenDissectStructure"
-msgstr ""
+msgstr "actOpenDissectStructure"
 
 #: tmainform.actopenluaengine.caption
 msgid "actOpenLuaEngine"
-msgstr ""
+msgstr "actOpenLuaEngine"
 
 #: tmainform.actsave.hint
 msgctxt "tmainform.actsave.hint"
 msgid "Save your current data. Save as .exe to create a standalone trainer"
-msgstr ""
+msgstr "保存您当前的数据。另存为.exe以创建独立修改器"
 
 #: tmainform.address1.caption
 msgctxt "tmainform.address1.caption"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: tmainform.advancedbutton.caption
 msgid "Advanced Options"
-msgstr ""
+msgstr "高级选项"
 
 #: tmainform.advancedbutton.hint
 msgid "Codelist and pause"
-msgstr ""
+msgstr "代码列表和暂停"
 
 #: tmainform.andlabel.caption
 msgctxt "tmainform.andlabel.caption"
 msgid "and"
-msgstr ""
+msgstr "和"
 
 #: tmainform.b1.caption
 msgid "b"
-msgstr ""
+msgstr "b"
 
 #: tmainform.browsethismemoryarrea1.caption
 msgctxt "tmainform.browsethismemoryarrea1.caption"
 msgid "Browse this memory region"
-msgstr ""
+msgstr "浏览此内存区域"
 
 #: tmainform.browsethismemoryregion1.caption
 msgctxt "tmainform.browsethismemoryregion1.caption"
 msgid "Browse this memory region"
-msgstr ""
+msgstr "浏览此内存区域"
 
 #: tmainform.browsethismemoryregioninthedisassembler1.caption
 msgctxt "tmainform.browsethismemoryregioninthedisassembler1.caption"
 msgid "Disassemble this memory region"
-msgstr ""
+msgstr "反汇编此内存区域"
 
 #: tmainform.btnaddaddressmanually.caption
 msgid "Add Address Manually"
-msgstr ""
+msgstr "手动添加地址"
 
 #: tmainform.btnfirst.caption
 msgid "First Scan2"
-msgstr ""
+msgstr "首次扫描2"
 
 #: tmainform.btnmemoryview.caption
 msgid "Memory View"
-msgstr ""
+msgstr "内存视图"
 
 #: tmainform.btnnewscan.caption
 msgctxt "tmainform.btnnewscan.caption"
 msgid "First Scan"
-msgstr ""
+msgstr "首次扫描"
 
 #: tmainform.btnnext.caption
 msgid "Next scan 2"
-msgstr ""
+msgstr "下一次扫描 2"
 
 #: tmainform.btnnextscan.caption
 msgctxt "tmainform.btnnextscan.caption"
 msgid "Next Scan"
-msgstr ""
+msgstr "下一次扫描"
 
 #: tmainform.btnsetspeedhack2.caption
 msgctxt "tmainform.btnsetspeedhack2.caption"
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: tmainform.c1.caption
 msgid "c"
-msgstr ""
+msgstr "c"
 
 #: tmainform.calculatenewvaluepart21.caption
 msgid "Recalculate new addresses"
-msgstr ""
+msgstr "重新计算新地址"
 
 #: tmainform.caption
 msgctxt "tmainform.caption"
 msgid "Cheat Engine"
-msgstr ""
+msgstr "Cheat Engine"
 
 #: tmainform.cbcasesensitive.caption
 msgctxt "tmainform.cbcasesensitive.caption"
 msgid "Case sensitive"
-msgstr ""
+msgstr "区分大小写"
 
 #: tmainform.cbcodepage.caption
 msgctxt "tmainform.cbcodepage.caption"
 msgid "Codepage"
-msgstr ""
+msgstr "代码页"
 
 #: tmainform.cbcomparetosavedscan.caption
 msgctxt "tmainform.cbcomparetosavedscan.caption"
 msgid "Compare to first/saved scan"
-msgstr ""
+msgstr "与首次/保存的扫描比较"
 
 #: tmainform.cbcopyonwrite.caption
 msgid "CopyOnWrite"
-msgstr ""
+msgstr "写时复制"
 
 #: tmainform.cbcopyonwrite.hint
 msgid ""
@@ -18213,10 +18213,18 @@ msgid ""
 "Gray:\n"
 "Don't care if it's copy-on-write or not"
 msgstr ""
+"未选中：\n"
+"不扫描写时复制内存\n"
+"\n"
+"选中：\n"
+"只扫描写时复制内存\n"
+"\n"
+"灰色：\n"
+"不关心是否为写时复制内存"
 
 #: tmainform.cbexecutable.caption
 msgid "Executable"
-msgstr ""
+msgstr "可执行"
 
 #: tmainform.cbexecutable.hint
 msgid ""
@@ -18229,31 +18237,39 @@ msgid ""
 "Gray:\n"
 "Don't care if it's executable or not"
 msgstr ""
+"未选中：\n"
+"不扫描可执行内存\n"
+"\n"
+"选中：\n"
+"只扫描可执行内存\n"
+"\n"
+"灰色：\n"
+"不关心是否为可执行内存"
 
 #: tmainform.cbfastscan.caption
 msgid "Fast Scan"
-msgstr ""
+msgstr "快速扫描"
 
 #: tmainform.cbfastscan.hint
 msgid "Speeds up the scan and decreases useless results by skipping unaligned memory, or only scans addresses ending with specific digits"
-msgstr ""
+msgstr "通过跳过未对齐的内存或仅扫描以特定数字结尾的地址来加快扫描速度并减少无用结果"
 
 #: tmainform.cbfloatsimple.caption
 msgid "Simple values only"
-msgstr ""
+msgstr "仅简单值"
 
 #: tmainform.cbhexadecimal.caption
 msgctxt "tmainform.cbhexadecimal.caption"
 msgid "Hex"
-msgstr ""
+msgstr "十六进制"
 
 #: tmainform.cbhexadecimal.hint
 msgid "When checked the value you type in is hexadecimal"
-msgstr ""
+msgstr "选中时您输入的值为十六进制"
 
 #: tmainform.cbluaformula.caption
 msgid "Lua formula"
-msgstr ""
+msgstr "Lua公式"
 
 #: tmainform.cbluaformula.hint
 msgid ""
@@ -18264,71 +18280,79 @@ msgid ""
 "example:\n"
 "value>5 and value~=8"
 msgstr ""
+"选中时，值将被解释为Lua脚本。\n"
+"可用的局部变量：\n"
+"value, previousvalue\n"
+"\n"
+"例如：\n"
+"value>5 and value~=8"
 
 #: tmainform.cbnewluastate.caption
 msgid "Separate Lua state"
-msgstr ""
+msgstr "独立Lua状态"
 
 #: tmainform.cbnewluastate.hint
 msgid ""
 "When checked, the Lua environment used will be limited to just some basic functions and you won't have access to userdefined functions.\n"
 "The positive side is that this allows multiple threads to scan at the same time, so will be a lot faster"
 msgstr ""
+"选中时，使用的Lua环境将仅限于一些基本函数，您将无法访问用户定义的函数。\n"
+"积极的一面是，这允许多个线程同时扫描，因此速度会快很多"
 
 #: tmainform.cbnot.caption
 msgid "Not"
-msgstr ""
+msgstr "逻辑\"非\"运算"
 
 #: tmainform.cbnot.hint
 msgid "When checked CE will find everything EXCEPT the value/range you've given"
-msgstr ""
+msgstr "选中时，CE将查找除您给定的值/范围之外的所有内容"
 
 #: tmainform.cbpausewhilescanning.caption
 msgid "Pause the game while scanning"
-msgstr ""
+msgstr "扫描时暂停游戏"
 
 #: tmainform.cbpercentage.caption
 msgid "Percent"
-msgstr ""
+msgstr "百分比"
 
 #: tmainform.cbpresentmemoryonly.caption
 msgid "Active memory only"
-msgstr ""
+msgstr "仅活动内存"
 
 #: tmainform.cbpresentmemoryonly.hint
 msgid "Only scans the working set of a process"
-msgstr ""
+msgstr "仅扫描进程的工作集"
 
 #: tmainform.cbrepeatuntilstopped.caption
 msgid "Repeat"
-msgstr ""
+msgstr "重复"
 
 #: tmainform.cbrepeatuntilstopped.hint
 msgid "Repeats the unchanged value scan until it gets stopped"
-msgstr ""
+msgstr "重复未更改值的扫描，直到被停止"
 
 #: tmainform.cbspeedhack.caption
 msgctxt "tmainform.cbspeedhack.caption"
 msgid "Enable Speedhack"
-msgstr ""
+msgstr "启用速度修改"
 
 #: tmainform.cbspeedhack.hint
 msgid "Enable speedhack"
-msgstr ""
+msgstr "启用速度修改"
 
 #: tmainform.cbunicode.caption
 msgctxt "tmainform.cbunicode.caption"
 msgid "UTF-16"
-msgstr ""
+msgstr "UTF-16"
 
 #: tmainform.cbunrandomizer.caption
 msgctxt "tmainform.cbunrandomizer.caption"
 msgid "Unrandomizer"
-msgstr ""
+msgstr "禁止随机"
 
 #: tmainform.cbwritable.caption
 msgid "Writable"
-msgstr ""
+msgstr "可写"
 
 #: tmainform.cbwritable.hint
 msgid ""
@@ -18341,866 +18365,876 @@ msgid ""
 "Gray:\n"
 "Don't care if it's writable memory or not"
 msgstr ""
+"未选中：\n"
+"不扫描可写内存\n"
+"\n"
+"选中：\n"
+"只扫描可写内存\n"
+"\n"
+"灰色：\n"
+"不关心是否为可写内存"
 
 #: tmainform.change1.caption
 msgid "Change record"
-msgstr ""
+msgstr "更改记录"
 
 #: tmainform.changescript1.caption
 msgctxt "tmainform.changescript1.caption"
 msgid "Change script"
-msgstr ""
+msgstr "更改脚本"
 
 #: tmainform.commentbutton.caption
 msgid "Table Extras"
-msgstr ""
+msgstr "表格附加功能"
 
 #: tmainform.copy1.caption
 msgctxt "tmainform.copy1.caption"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: tmainform.copy2.caption
 msgctxt "tmainform.copy2.caption"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: tmainform.copyselectedaddresses1.caption
 msgid "Copy selected addresses"
-msgstr ""
+msgstr "复制选中的地址"
 
 #: tmainform.creategroup.caption
 msgid "Create header"
-msgstr ""
+msgstr "创建标题"
 
 #: tmainform.createprocess1.caption
 msgctxt "tmainform.createprocess1.caption"
 msgid "Create Process"
-msgstr ""
+msgstr "创建进程"
 
 #: tmainform.cut1.caption
 msgctxt "tmainform.cut1.caption"
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 #: tmainform.cut2.caption
 msgctxt "tmainform.cut2.caption"
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 #: tmainform.d1.caption
 msgid "d"
-msgstr ""
+msgstr "d"
 
 #: tmainform.deletethisrecord1.caption
 msgid "Delete this record"
-msgstr ""
+msgstr "删除此记录"
 
 #: tmainform.description1.caption
 msgctxt "tmainform.description1.caption"
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: tmainform.e1.caption
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: tmainform.edit3.caption
 msgid "&Edit"
-msgstr ""
+msgstr "编辑(&E)"
 
 #: tmainform.editsh2.text
 msgctxt "tmainform.editsh2.text"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: tmainform.edtalignment.text
 msgctxt "tmainform.edtalignment.text"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: tmainform.file1.caption
 msgid "&File"
-msgstr ""
+msgstr "文件(&F)"
 
 #: tmainform.findoutwhataccessesthisaddress1.caption
 msgctxt "tmainform.findoutwhataccessesthisaddress1.caption"
 msgid "Find out what accesses this address"
-msgstr ""
+msgstr "查找访问此地址的内容"
 
 #: tmainform.forcerechecksymbols1.caption
 msgctxt "tmainform.forcerechecksymbols1.caption"
 msgid "Force recheck symbols"
-msgstr ""
+msgstr "强制重新检查符号"
 
 #: tmainform.foundcountlabel.caption
 msgctxt "tmainform.foundcountlabel.caption"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tmainform.foundcountlabel.hint
 msgid "This shows the amount of addresses found"
-msgstr ""
+msgstr "这显示了找到的地址数量"
 
 #: tmainform.foundlist3.columns[0].caption
 msgctxt "tmainform.foundlist3.columns[0].caption"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: tmainform.foundlist3.columns[1].caption
 msgctxt "tmainform.foundlist3.columns[1].caption"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: tmainform.foundlist3.columns[2].caption
 msgctxt "tmainform.foundlist3.columns[2].caption"
 msgid "Previous"
-msgstr ""
+msgstr "之前"
 
 #: tmainform.foundlist3.hint
 msgid "This list shows all the found addresses that matched your last scan"
-msgstr ""
+msgstr "此列表显示了匹配您上次扫描的所有找到的地址"
 
 #: tmainform.freezealladdresses2.caption
 msgid "Toggle selected records"
-msgstr ""
+msgstr "切换选中记录"
 
 #: tmainform.fromaddress.text
 msgctxt "tmainform.fromaddress.text"
 msgid "00000000"
-msgstr ""
+msgstr "00000000"
 
 #: tmainform.gbscanoptions.caption
 msgid "Memory Scan Options"
-msgstr ""
+msgstr "内存扫描选项"
 
 #: tmainform.helpindex1.caption
 msgid "Cheat Engine Help"
-msgstr ""
+msgstr "Cheat Engine帮助"
 
 #: tmainform.label1.caption
 msgctxt "tmainform.label1.caption"
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #: tmainform.label2.caption
 msgctxt "tmainform.label2.caption"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: tmainform.label54.caption
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #: tmainform.label6.caption
 msgctxt "tmainform.label6.caption"
 msgid "Found:"
-msgstr ""
+msgstr "找到："
 
 #: tmainform.lblcomparetosavedscan.caption
 msgid "<xxxx>"
-msgstr ""
+msgstr "<xxxx>"
 
 #: tmainform.lblscantype.caption
 msgid "Scan Type"
-msgstr ""
+msgstr "扫描类型"
 
 #: tmainform.lblsh0.caption
 msgctxt "tmainform.lblsh0.caption"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tmainform.lblsh20.caption
 msgctxt "tmainform.lblsh20.caption"
 msgid "500"
-msgstr ""
+msgstr "500"
 
 #: tmainform.lblsigned.caption
 msgid ""
 "This table has been signed by\n"
 "Someone"
 msgstr ""
+"此表格已由\n"
+"某人签名"
 
 #: tmainform.lblvaluetype.caption
 msgid "Value Type"
-msgstr ""
+msgstr "值类型"
 
 #: tmainform.load1.caption
 msgctxt "tmainform.load1.caption"
 msgid "Load"
-msgstr ""
+msgstr "加载"
 
 #: tmainform.menuitem1.caption
 msgid "Select All"
-msgstr ""
+msgstr "全选"
 
 #: tmainform.menuitem15.caption
 msgid "Cheat Engine Tutorial Games"
-msgstr ""
+msgstr "Cheat Engine教程游戏"
 
 #: tmainform.menuitem16.caption
 msgid "Cheat Engine Tutorial (AArch64)"
-msgstr ""
+msgstr "Cheat Engine教程 (AArch64)"
 
 #: tmainform.menuitem17.caption
 msgid "Memory read method"
-msgstr ""
+msgstr "内存读取方法"
 
 #: tmainform.menuitem18.caption
 msgid "Memory write method"
-msgstr ""
+msgstr "内存写入方法"
 
 #: tmainform.menuitem2.caption
 msgid "New Item1"
-msgstr ""
+msgstr "新项目1"
 
 #: tmainform.menuitem7.caption
 msgid "Quit"
-msgstr ""
+msgstr "退出"
 
 #: tmainform.menuitem8.caption
 msgctxt "tmainform.menuitem8.caption"
 msgid "Open Process"
-msgstr ""
+msgstr "打开进程"
 
 #: tmainform.menuitem9.caption
 msgid "Generate generic trainer lua script from table"
-msgstr ""
+msgstr "从表格生成通用的修改器lua脚本"
 
 #: tmainform.mi3d.caption
 msgid "D3D"
-msgstr ""
+msgstr "D3D"
 
 #: tmainform.miabout.caption
 msgctxt "tmainform.miabout.caption"
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: tmainform.miaddaddress.caption
 msgid "Add selected addresses to the addresslist"
-msgstr ""
+msgstr "将选中的地址添加到地址列表"
 
 #: tmainform.miaddfile.caption
 msgid "Add file"
-msgstr ""
+msgstr "添加文件"
 
 #: tmainform.miaddtab.caption
 msgid "Add scan tab"
-msgstr ""
+msgstr "添加扫描标签页"
 
 #: tmainform.miallowcollapse.caption
 msgid "Allow left and right arrow keys to collapse and expand"
-msgstr ""
+msgstr "允许左右箭头键折叠和展开"
 
 #: tmainform.mialwayshidechildren.caption
 msgid "Always hide children"
-msgstr ""
+msgstr "始终隐藏子项"
 
 #: tmainform.miasyncscript.caption
 msgid "Execute asynchronous"
-msgstr ""
+msgstr "异步执行"
 
 #: tmainform.miautoassembleerrormessage.caption
 msgid "<Error message here>"
-msgstr ""
+msgstr "<此处显示错误信息>"
 
 #: tmainform.mibindactivation.caption
 msgid "Activating this entry activates it's children"
-msgstr ""
+msgstr "激活此项目同时激活其子项"
 
 #: tmainform.mibinddeactivation.caption
 msgid "Deactivating this entry deactivates it's children"
-msgstr ""
+msgstr "停用此项目同时停用其子项"
 
 #: tmainform.michangecolor.caption
 msgid "Change color"
-msgstr ""
+msgstr "更改颜色"
 
 #: tmainform.michangevalue.caption
 msgid "Change value of selected addresses"
-msgstr ""
+msgstr "更改选中地址的值"
 
 #: tmainform.michangevalueback.caption
 msgid "Change value of selected addresses back to previous/saved value"
-msgstr ""
+msgstr "将选中地址的值还原为之前/保存的值"
 
 #: tmainform.miclearworkingset.caption
 msgid "Clear active memory"
-msgstr ""
+msgstr "清除活动内存"
 
 #: tmainform.miclosetab.caption
 msgid "Close tab"
-msgstr ""
+msgstr "关闭标签页"
 
 #: tmainform.micompression.caption
 msgctxt "tmainform.micompression.caption"
 msgid "Compression"
-msgstr ""
+msgstr "压缩"
 
 #: tmainform.micreateluaform.caption
 msgid "Create form"
-msgstr ""
+msgstr "创建表单"
 
 #: tmainform.midbvmfindwhatwritesoraccesses.caption
 msgid "DBVM Find out what writes or accesses this address"
-msgstr ""
+msgstr "使用DBVM查找写入或访问此地址的内容"
 
 #: tmainform.midefinenewcustomtype.caption
 msgid "Define new custom type (Auto Assembler)"
-msgstr ""
+msgstr "定义新的自定义类型（自动汇编器）"
 
 #: tmainform.midefinenewcustomtypelua.caption
 msgid "Define new custom type (LUA)"
-msgstr ""
+msgstr "定义新的自定义类型（LUA）"
 
 #: tmainform.mideletecustomtype.caption
 msgid "Delete selected custom type"
-msgstr ""
+msgstr "删除选中的自定义类型"
 
 #: tmainform.mideletesavedscanresults.caption
 msgid "Delete scanresult"
-msgstr ""
+msgstr "删除扫描结果"
 
 #: tmainform.midisassemble.caption
 msgctxt "tmainform.midisassemble.caption"
 msgid "Disassemble this memory region"
-msgstr ""
+msgstr "反汇编此内存区域"
 
 #: tmainform.midisplay2byte.caption
 msgctxt "tmainform.midisplay2byte.caption"
 msgid "2 Bytes"
-msgstr ""
+msgstr "2 字节"
 
 #: tmainform.midisplay4byte.caption
 msgctxt "tmainform.midisplay4byte.caption"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4 字节"
 
 #: tmainform.midisplay8byte.caption
 msgctxt "tmainform.midisplay8byte.caption"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8 字节"
 
 #: tmainform.midisplaybyte.caption
 msgctxt "tmainform.midisplaybyte.caption"
 msgid "Byte"
-msgstr ""
+msgstr "字节"
 
 #: tmainform.midisplaydefault.caption
 msgctxt "tmainform.midisplaydefault.caption"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #: tmainform.midisplaydouble.caption
 msgctxt "tmainform.midisplaydouble.caption"
 msgid "Double"
-msgstr ""
+msgstr "双精度浮点"
 
 #: tmainform.midisplayfloat.caption
 msgctxt "tmainform.midisplayfloat.caption"
 msgid "Float"
-msgstr ""
+msgstr "浮点"
 
 #: tmainform.midisplayhex.caption
 msgctxt "tmainform.midisplayhex.caption"
 msgid "Hexadecimal"
-msgstr ""
+msgstr "十六进制"
 
 #: tmainform.midotnet.caption
 msgid ".Net"
-msgstr ""
+msgstr ".Net"
 
 #: tmainform.mieditcustomtype.caption
 msgid "Edit selected custom type"
-msgstr ""
+msgstr "编辑选中的自定义类型"
 
 #: tmainform.mienablelcldebug.caption
 msgid "Generate errorlogs"
-msgstr ""
+msgstr "生成错误日志"
 
 #: tmainform.miflfindwhataccesses.caption
 msgctxt "tmainform.miflfindwhataccesses.caption"
 msgid "Find out what accesses this address"
-msgstr ""
+msgstr "查找访问此地址的内容"
 
 #: tmainform.miflfindwhatwrites.caption
 msgctxt "tmainform.miflfindwhatwrites.caption"
 msgid "Find out what writes to this address"
-msgstr ""
+msgstr "查找写入此地址的内容"
 
 #: tmainform.miforgotscan.caption
 msgid "Reload the previous value list (Forgot value scan)"
-msgstr ""
+msgstr "重新加载之前的值列表（忘记值扫描）"
 
 #: tmainform.mifoundlistpreferences.caption
 msgctxt "tmainform.mifoundlistpreferences.caption"
 msgid "Preferences"
-msgstr ""
+msgstr "首选项"
 
 #: tmainform.mifreezenegative.caption
 msgid "Freeze negative"
-msgstr ""
+msgstr "冻结为负值"
 
 #: tmainform.mifreezepositive.caption
 msgid "Freeze positive"
-msgstr ""
+msgstr "冻结为正值"
 
 #: tmainform.migeneratepointermap.caption
 msgctxt "tmainform.migeneratepointermap.caption"
 msgid "Generate pointermap"
-msgstr ""
+msgstr "生成指针映射"
 
 #: tmainform.migetdotnetobjectlist.caption
 msgid "Get object list"
-msgstr ""
+msgstr "获取对象列表"
 
 #: tmainform.migroupconfig.caption
 msgid "Group config"
-msgstr ""
+msgstr "组配置"
 
 #: tmainform.mihelp.caption
 msgid "&Help"
-msgstr ""
+msgstr "帮助(&H)"
 
 #: tmainform.mihidechildren.caption
 msgid "Hide children when deactivated"
-msgstr ""
+msgstr "停用时隐藏子项"
 
 #: tmainform.mihookd3d.caption
 msgid "Hook Direct3D"
-msgstr ""
+msgstr "钩住Direct3D"
 
 #: tmainform.milanguages.caption
 msgctxt "tmainform.milanguages.caption"
 msgid "Languages"
-msgstr ""
+msgstr "语言"
 
 #: tmainform.miloadrecent.caption
 msgid "Load Recent"
-msgstr ""
+msgstr "加载最近使用"
 
 #: tmainform.milockmouseingame.caption
 msgid "Lock mouse in game window"
-msgstr ""
+msgstr "锁定鼠标在游戏窗口"
 
 #: tmainform.miluadocumentation.caption
 msgid "Lua documentation"
-msgstr ""
+msgstr "Lua文档"
 
 #: tmainform.mimanualexpandcollapse.caption
 msgid "Manual expand/collapse"
-msgstr ""
+msgstr "手动展开/折叠"
 
 #: tmainform.mimemrechidecheckbox.caption
 msgid "Hide checkbox"
-msgstr ""
+msgstr "隐藏复选框"
 
 #: tmainform.mimemrecwithnocheckboxstartsleft.caption
 msgid "Description at start"
-msgstr ""
+msgstr "描述在开头"
 
 #: tmainform.minetwork.caption
 msgctxt "tmainform.minetwork.caption"
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 #: tmainform.minetworkreaduseprocmem.caption
 msgctxt "tmainform.minetworkreaduseprocmem.caption"
 msgid "0: /proc/pid/mem"
-msgstr ""
+msgstr "0: /proc/pid/mem"
 
 #: tmainform.minetworkreaduseptrace.caption
 msgid "1: ptrace peek"
-msgstr ""
+msgstr "1: ptrace peek"
 
 #: tmainform.minetworkreadusevmread.caption
 msgid "2: process_vm_readv"
-msgstr ""
+msgstr "2: process_vm_readv"
 
 #: tmainform.minetworkwriteuseprocmem.caption
 msgctxt "tmainform.minetworkwriteuseprocmem.caption"
 msgid "0: /proc/pid/mem"
-msgstr ""
+msgstr "0: /proc/pid/mem"
 
 #: tmainform.minetworkwriteuseptrace.caption
 msgid "1: ptrace poke"
-msgstr ""
+msgstr "1: ptrace poke"
 
 #: tmainform.minetworkwriteusevmwrite.caption
 msgid "2:process_vm_writev"
-msgstr ""
+msgstr "2:process_vm_writev"
 
 #: tmainform.miobfuscatetable.caption
 msgid "Obfuscate currently loaded table"
-msgstr ""
+msgstr "混淆当前加载的表格"
 
 #: tmainform.mionlyshowcurrentcomparetocolumn.caption
 msgid "Only show current \"compare to\" column"
-msgstr ""
+msgstr "仅显示当前\"比较\"列"
 
 #: tmainform.miopenfile.caption
 msgctxt "tmainform.miopenfile.caption"
 msgid "Open File"
-msgstr ""
+msgstr "打开文件"
 
 #: tmainform.mipresetall.caption
 msgid "Preset: Scan all memory"
-msgstr ""
+msgstr "预设：扫描所有内存"
 
 #: tmainform.mipresetwritable.caption
 msgid "Preset: Scan writable memory"
-msgstr ""
+msgstr "预设：扫描可写内存"
 
 #: tmainform.mirecordconfig.caption
 msgid "Record config"
-msgstr ""
+msgstr "记录配置"
 
 #: tmainform.mirecordconfigactivatesetvalue.caption
 msgctxt "tmainform.mirecordconfigactivatesetvalue.caption"
 msgid "Set Value"
-msgstr ""
+msgstr "设置值"
 
 #: tmainform.mirecordconfigdeactivaterestore.caption
 msgid "Restore to original"
-msgstr ""
+msgstr "恢复为原始值"
 
 #: tmainform.mirecordconfigdeactivatesetvalue.caption
 msgid "Set value"
-msgstr ""
+msgstr "设置值"
 
 #: tmainform.mirecordconfigonactivate.caption
 msgid "On Activate"
-msgstr ""
+msgstr "激活时"
 
 #: tmainform.mirecordconfigondeactivate.caption
 msgid "On Deactivate"
-msgstr ""
+msgstr "停用时"
 
 #: tmainform.mirecursivesetvalue.caption
 msgid "Setting a value to this entry sets same value to children"
-msgstr ""
+msgstr "为此项设置值的同时为其子项设置相同值"
 
 #: tmainform.mirenametab.caption
 msgctxt "tmainform.mirenametab.caption"
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: tmainform.miresetrange.caption
 msgid "Reset range"
-msgstr ""
+msgstr "重置范围"
 
 #: tmainform.miresyncformswithlua.caption
 msgid "Resynchronize forms with Lua"
-msgstr ""
+msgstr "重新同步表单与Lua"
 
 #: tmainform.misave.caption
 msgctxt "tmainform.misave.caption"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: tmainform.misavefile.caption
 msgid "Save File"
-msgstr ""
+msgstr "保存文件"
 
 #: tmainform.misavescanresults.caption
 msgid "Save current scanresults"
-msgstr ""
+msgstr "保存当前扫描结果"
 
 #: tmainform.miscandirtyonly.caption
 msgid "Scan changed regions only"
-msgstr ""
+msgstr "仅扫描已更改区域"
 
 #: tmainform.miscanpagedonly.caption
 msgid "Scan paged (physical) memory only"
-msgstr ""
+msgstr "仅扫描分页（物理）内存"
 
 #: tmainform.misetcrosshair.caption
 msgid "Set custom crosshair"
-msgstr ""
+msgstr "设置自定义准星"
 
 #: tmainform.misetdropdownoptions.caption
 msgid "Set/Change dropdown selection options"
-msgstr ""
+msgstr "设置/更改下拉选择选项"
 
 #: tmainform.misetupsnapshotkeys.caption
 msgid "Start and configure snapshot recording"
-msgstr ""
+msgstr "开始并配置快照记录"
 
 #: tmainform.mishowasbinary.caption
 msgctxt "tmainform.mishowasbinary.caption"
 msgid "Show as binary"
-msgstr ""
+msgstr "显示为二进制"
 
 #: tmainform.mishowassigned.caption
 msgctxt "tmainform.mishowassigned.caption"
 msgid "Show as signed"
-msgstr ""
+msgstr "显示为有符号"
 
 #: tmainform.mishowcustomtypedebug.caption
 msgid "Show custom type debug info"
-msgstr ""
+msgstr "显示自定义类型调试信息"
 
 #: tmainform.mishowluascript.caption
 msgid "Show Cheat Table Lua Script"
-msgstr ""
+msgstr "显示作弊表Lua脚本"
 
 #: tmainform.mishowpreviousvalue.caption
 msgid "Show previous value column(s)"
-msgstr ""
+msgstr "显示之前值列"
 
 #: tmainform.misigntable.caption
 msgid "Sign Table"
-msgstr ""
+msgstr "签名表格"
 
 #: tmainform.misnapshothandler.caption
 msgctxt "tmainform.misnapshothandler.caption"
 msgid "Snapshot handler"
-msgstr ""
+msgstr "快照处理器"
 
 #: tmainform.mitable.caption
 msgid "Table"
-msgstr ""
+msgstr "表格"
 
 #: tmainform.mitestaccessviolationthread.caption
 msgid "Test access violation in thread"
-msgstr ""
+msgstr "测试线程中的访问违规"
 
 #: tmainform.mitriggeraccessviolation.caption
 msgctxt "tmainform.mitriggeraccessviolation.caption"
 msgid "Test access violation"
-msgstr ""
+msgstr "测试访问违规"
 
 #: tmainform.mitutorial.caption
 msgid "Cheat Engine Tutorial"
-msgstr ""
+msgstr "Cheat Engine教程"
 
 #: tmainform.mitutorial64.caption
 msgctxt "tmainform.mitutorial64.caption"
 msgid "Cheat Engine Tutorial (x86_64)"
-msgstr ""
+msgstr "Cheat Engine教程 (x86_64)"
 
 #: tmainform.miundovalue.caption
 msgctxt "tmainform.miundovalue.caption"
 msgid "Undo last edit"
-msgstr ""
+msgstr "撤销上次编辑"
 
 #: tmainform.miwireframe.caption
 msgid "Toggle wireframe mode"
-msgstr ""
+msgstr "切换线框模式"
 
 #: tmainform.mizbuffer.caption
 msgid "Toggle disabled zbuffer"
-msgstr ""
+msgstr "切换禁用Z缓冲"
 
 #: tmainform.mizeroterminate.caption
 msgid "Zero-Terminate string"
-msgstr ""
+msgstr "零终止字符串"
 
 #: tmainform.new1.caption
 msgctxt "tmainform.new1.caption"
 msgid "Clear list"
-msgstr ""
+msgstr "清除列表"
 
 #: tmainform.ools1.caption
 msgid "&Tools"
-msgstr ""
+msgstr "工具(&T)"
 
 #: tmainform.openprocess1.caption
 msgid "Open Process window"
-msgstr ""
+msgstr "打开进程窗口"
 
 #: tmainform.paste1.caption
 msgctxt "tmainform.paste1.caption"
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 #: tmainform.paste2.caption
 msgctxt "tmainform.paste2.caption"
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 #: tmainform.plugins1.caption
 msgctxt "tmainform.plugins1.caption"
 msgid "Plugins"
-msgstr ""
+msgstr "插件"
 
 #: tmainform.plugins2.caption
 msgid "P&lugins"
-msgstr ""
+msgstr "插件(&L)"
 
 #: tmainform.pointerscanforthisaddress1.caption
 msgid "Pointer scan for this address"
-msgstr ""
+msgstr "为此地址进行指针扫描"
 
 #: tmainform.process1.caption
 msgid "&Process"
-msgstr ""
+msgstr "进程(&P)"
 
 #: tmainform.processlabel.caption
 msgid "No Process Selected"
-msgstr ""
+msgstr "未选择进程"
 
 #: tmainform.progressbar.hint
 msgid "This shows how far Cheat Engine is with searching"
-msgstr ""
+msgstr "这显示了Cheat Engine搜索的进度"
 
 #: tmainform.rbbit.caption
 msgid "Bits"
-msgstr ""
+msgstr "位"
 
 #: tmainform.rbdec.caption
 msgctxt "tmainform.rbdec.caption"
 msgid "Decimal"
-msgstr ""
+msgstr "十进制"
 
 #: tmainform.rbfsmaligned.caption
 msgid "Alignment"
-msgstr ""
+msgstr "对齐"
 
 #: tmainform.rbfsmaligned.hint
 msgid "When set and fastscan is enabled will scan the memory address if it is dividable by the given value"
-msgstr ""
+msgstr "启用快速扫描时，如果内存地址能被给定值整除，则会扫描该地址"
 
 #: tmainform.rbfsmlastdigts.caption
 msgid "Last Digits"
-msgstr ""
+msgstr "最后几位数字"
 
 #: tmainform.rbfsmlastdigts.hint
 msgid "When set and fastscan is enabled will only scan and return addresses that end with the given digits"
-msgstr ""
+msgstr "启用快速扫描时，只会扫描并返回以给定数字结尾的地址"
 
 #: tmainform.removeselectedaddresses1.caption
 msgctxt "tmainform.removeselectedaddresses1.caption"
 msgid "Remove selected addresses"
-msgstr ""
+msgstr "移除选中的地址"
 
 #: tmainform.rt1.caption
 msgid "Rounded (default)"
-msgstr ""
+msgstr "四舍五入（默认）"
 
 #: tmainform.rt2.caption
 msgid "Rounded (extreme)"
-msgstr ""
+msgstr "四舍五入（极端）"
 
 #: tmainform.rt3.caption
 msgid "Truncated"
-msgstr ""
+msgstr "截断"
 
 #: tmainform.save1.caption
 msgctxt "tmainform.save1.caption"
 msgid "Save As..."
-msgstr ""
+msgstr "另存为..."
 
 #: tmainform.sbclearactivememory.hint
 msgid "Clear RAM usage of target process"
-msgstr ""
+msgstr "清除目标进程的RAM使用"
 
 #: tmainform.sbopenprocess.hint
 msgid "Select a process to open"
-msgstr ""
+msgstr "选择要打开的进程"
 
 #: tmainform.scantext.caption
 msgctxt "tmainform.scantext.caption"
 msgid "Scan Value"
-msgstr ""
+msgstr "扫描值"
 
 #: tmainform.scantext2.caption
 msgctxt "tmainform.scantext2.caption"
 msgid "Scan Value"
-msgstr ""
+msgstr "扫描值"
 
 #: tmainform.scantype.text
 msgid "Exact value"
-msgstr ""
+msgstr "精确值"
 
 #: tmainform.selectallitems1.caption
 msgid "Select all items"
-msgstr ""
+msgstr "选择所有项目"
 
 #: tmainform.setbreakpoint1.caption
 msgctxt "tmainform.setbreakpoint1.caption"
 msgid "Find out what writes to this address"
-msgstr ""
+msgstr "查找写入此地址的内容"
 
 #: tmainform.sethotkey1.caption
 msgid "Assign hotkey"
-msgstr ""
+msgstr "分配热键"
 
 #: tmainform.settings1.caption
 msgctxt "tmainform.settings1.caption"
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: tmainform.settingsbutton.caption
 msgctxt "tmainform.settingsbutton.caption"
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: tmainform.showashexadecimal1.caption
 msgctxt "tmainform.showashexadecimal1.caption"
 msgid "Show as hexadecimal"
-msgstr ""
+msgstr "显示为十六进制"
 
 #: tmainform.smarteditaddresses1.caption
 msgid "Smart edit address(es)"
-msgstr ""
+msgstr "智能编辑地址"
 
 #: tmainform.speedbutton2.hint
 msgid "Delete all addresses from the list"
-msgstr ""
+msgstr "从列表中删除所有地址"
 
 #: tmainform.speedbutton3.hint
 msgid "Copy all selected items to the address list"
-msgstr ""
+msgstr "将所有选中项复制到地址列表"
 
 #: tmainform.toaddress.text
 msgid "ffffffff"
-msgstr ""
+msgstr "ffffffff"
 
 #: tmainform.type1.caption
 msgctxt "tmainform.type1.caption"
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: tmainform.undoscan.caption
 msgid "Undo Scan"
-msgstr ""
+msgstr "撤销扫描"
 
 #: tmainform.value1.caption
 msgctxt "tmainform.value1.caption"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: tmainform.vartype.text
 msgctxt "tmainform.vartype.text"
 msgid "Binary"
-msgstr ""
+msgstr "二进制"
 
 #: tmemorybrowser.addthisaddresstothelist1.caption
 msgctxt "tmemorybrowser.addthisaddresstothelist1.caption"
 msgid "Add this address to the list"
-msgstr ""
+msgstr "将此地址添加到列表"
 
 #: tmemorybrowser.aflabel.caption
 msgctxt "tmemorybrowser.aflabel.caption"
 msgid "AF 0"
-msgstr ""
+msgstr "AF 0"
 
 #: tmemorybrowser.all1.caption
 msgid "Full stack"
-msgstr ""
+msgstr "完整堆栈"
 
 #: tmemorybrowser.allocatenonpagedmemory1.caption
 msgid "Allocate nonpaged memory"
-msgstr ""
+msgstr "分配非分页内存"
 
 #: tmemorybrowser.assemble1.caption
 msgid "Assemble"
-msgstr ""
+msgstr "汇编"
 
 #: tmemorybrowser.assemblycode1.caption
 msgid "Find assembly code"
-msgstr ""
+msgstr "查找汇编代码"
 
 #: tmemorybrowser.autoinject1.caption
 msgid "Auto Assemble"
