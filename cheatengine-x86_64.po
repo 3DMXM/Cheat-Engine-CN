@@ -19238,1880 +19238,1883 @@ msgstr "查找汇编代码"
 
 #: tmemorybrowser.autoinject1.caption
 msgid "Auto Assemble"
-msgstr ""
+msgstr "自动汇编"
 
 #: tmemorybrowser.back1.caption
 msgctxt "tmemorybrowser.back1.caption"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: tmemorybrowser.breakandtraceinstructions1.caption
 msgid "Break and trace instructions"
-msgstr ""
+msgstr "断点并跟踪指令"
 
 #: tmemorybrowser.breakpointlist1.caption
 msgid "Breakpointlist"
-msgstr ""
+msgstr "断点列表"
 
 #: tmemorybrowser.caption
 msgid "Memory Viewer"
-msgstr ""
+msgstr "内存查看器"
 
 #: tmemorybrowser.cflabel.caption
 msgctxt "tmemorybrowser.cflabel.caption"
 msgid "CF 0"
-msgstr ""
+msgstr "CF 0"
 
 #: tmemorybrowser.change1.caption
 msgctxt "tmemorybrowser.change1.caption"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: tmemorybrowser.changestateofregisteratthislocation1.caption
 msgid "Change register at this location"
-msgstr ""
+msgstr "更改此位置的寄存器"
 
 #: tmemorybrowser.continueanddetachdebugger1.caption
 msgid "Continue and  detach debugger"
-msgstr ""
+msgstr "继续并分离调试器"
 
 #: tmemorybrowser.copybytes.caption
 msgctxt "tmemorybrowser.copybytes.caption"
 msgid "Bytes"
-msgstr ""
+msgstr "字节"
 
 #: tmemorybrowser.copybytesandopcodes.caption
 msgid "Bytes+Opcodes"
-msgstr ""
+msgstr "字节+操作码"
 
 #: tmemorybrowser.copybytesandopcodesandcomments.caption
 msgid "Bytes+Opcodes+Comments"
-msgstr ""
+msgstr "字节+操作码+注释"
 
 #: tmemorybrowser.copyopcodes.caption
 msgid "Opcodes"
-msgstr ""
+msgstr "操作码"
 
 #: tmemorybrowser.copytoclipboard1.caption
 msgctxt "tmemorybrowser.copytoclipboard1.caption"
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "复制到剪贴板"
 
 #: tmemorybrowser.createthread1.caption
 msgid "Create Thread"
-msgstr ""
+msgstr "创建线程"
 
 #: tmemorybrowser.cslabel.caption
 msgctxt "tmemorybrowser.cslabel.caption"
 msgid "CS 0000"
-msgstr ""
+msgstr "CS 0000"
 
 #: tmemorybrowser.cut1.caption
 msgctxt "tmemorybrowser.cut1.caption"
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "复制到剪贴板"
 
 #: tmemorybrowser.debug1.caption
 msgctxt "tmemorybrowser.debug1.caption"
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 #: tmemorybrowser.debugstrings1.caption
 msgctxt "tmemorybrowser.debugstrings1.caption"
 msgid "Debug strings"
-msgstr ""
+msgstr "调试字符串"
 
 #: tmemorybrowser.dflabel.caption
 msgctxt "tmemorybrowser.dflabel.caption"
 msgid "DF 0"
-msgstr ""
+msgstr "DF 0"
 
 #: tmemorybrowser.disectwindow1.caption
 msgid "Dissect window(s)"
-msgstr ""
+msgstr "分析窗口"
 
 #: tmemorybrowser.dispbytes.caption
 msgid "Byte hex"
-msgstr ""
+msgstr "字节十六进制"
 
 #: tmemorybrowser.dispchar.caption
 msgid "Byte decimal"
-msgstr ""
+msgstr "字节十进制"
 
 #: tmemorybrowser.dispdouble.caption
 msgctxt "tmemorybrowser.dispdouble.caption"
 msgid "Double"
-msgstr ""
+msgstr "双精度浮点"
 
 #: tmemorybrowser.dispdwords.caption
 msgid "4 Byte hex"
-msgstr ""
+msgstr "4字节十六进制"
 
 #: tmemorybrowser.dispfloat.caption
 msgctxt "tmemorybrowser.dispfloat.caption"
 msgid "Float"
-msgstr ""
+msgstr "浮点"
 
 #: tmemorybrowser.dispints.caption
 msgid "4 Byte decimal"
-msgstr ""
+msgstr "4字节十进制"
 
 #: tmemorybrowser.displaytype1.caption
 msgid "Display Type"
-msgstr ""
+msgstr "显示类型"
 
 #: tmemorybrowser.displongs.caption
 msgid "8 Byte decimal"
-msgstr ""
+msgstr "8字节十进制"
 
 #: tmemorybrowser.dispqwords.caption
 msgid "8 Byte hex"
-msgstr ""
+msgstr "8字节十六进制"
 
 #: tmemorybrowser.dispshorts.caption
 msgid "2 Byte decimal"
-msgstr ""
+msgstr "2字节十进制"
 
 #: tmemorybrowser.dispwords.caption
 msgid "2 Byte hex"
-msgstr ""
+msgstr "2字节十六进制"
 
 #: tmemorybrowser.dissectcode1.caption
 msgid "Dissect code"
-msgstr ""
+msgstr "分析代码"
 
 #: tmemorybrowser.dissectdata1.caption
 msgctxt "tmemorybrowser.dissectdata1.caption"
 msgid "Pointer scan"
-msgstr ""
+msgstr "指针扫描"
 
 #: tmemorybrowser.dissectpeheaders1.caption
 msgid "Dissect PE headers"
-msgstr ""
+msgstr "分析PE头"
 
 #: tmemorybrowser.driverlist1.caption
 msgctxt "tmemorybrowser.driverlist1.caption"
 msgid "Driver list"
-msgstr ""
+msgstr "驱动列表"
 
 #: tmemorybrowser.dslabel.caption
 msgctxt "tmemorybrowser.dslabel.caption"
 msgid "DS 0000"
-msgstr ""
+msgstr "DS 0000"
 
 #: tmemorybrowser.eaxlabel.caption
 msgctxt "tmemorybrowser.eaxlabel.caption"
 msgid "EAX 00000000"
-msgstr ""
+msgstr "EAX 00000000"
 
 #: tmemorybrowser.ebplabel.caption
 msgctxt "tmemorybrowser.ebplabel.caption"
 msgid "EBP 00000000"
-msgstr ""
+msgstr "EBP 00000000"
 
 #: tmemorybrowser.ebxlabel.caption
 msgctxt "tmemorybrowser.ebxlabel.caption"
 msgid "EBX 00000000"
-msgstr ""
+msgstr "EBX 00000000"
 
 #: tmemorybrowser.ecxlabel.caption
 msgctxt "tmemorybrowser.ecxlabel.caption"
 msgid "ECX 00000000"
-msgstr ""
+msgstr "ECX 00000000"
 
 #: tmemorybrowser.edilabel.caption
 msgctxt "tmemorybrowser.edilabel.caption"
 msgid "EDI 00000000"
-msgstr ""
+msgstr "EDI 00000000"
 
 #: tmemorybrowser.edxlabel.caption
 msgctxt "tmemorybrowser.edxlabel.caption"
 msgid "EDX 00000000"
-msgstr ""
+msgstr "EDX 00000000"
 
 #: tmemorybrowser.eiplabel.caption
 msgctxt "tmemorybrowser.eiplabel.caption"
 msgid "EIP 00000000"
-msgstr ""
+msgstr "EIP 00000000"
 
 #: tmemorybrowser.enumeratedllsandsymbols1.caption
 msgid "Enumerate DLL's and Symbols"
-msgstr ""
+msgstr "枚举DLL和符号"
 
 #: tmemorybrowser.esilabel.caption
 msgctxt "tmemorybrowser.esilabel.caption"
 msgid "ESI 00000000"
-msgstr ""
+msgstr "ESI 00000000"
 
 #: tmemorybrowser.eslabel.caption
 msgctxt "tmemorybrowser.eslabel.caption"
 msgid "ES 0000"
-msgstr ""
+msgstr "ES 0000"
 
 #: tmemorybrowser.esplabel.caption
 msgctxt "tmemorybrowser.esplabel.caption"
 msgid "ESP 00000000"
-msgstr ""
+msgstr "ESP 00000000"
 
 #: tmemorybrowser.extra1.caption
 msgctxt "tmemorybrowser.extra1.caption"
 msgid "Tools"
-msgstr ""
+msgstr "工具"
 
 #: tmemorybrowser.file1.caption
 msgctxt "tmemorybrowser.file1.caption"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: tmemorybrowser.fillmemory1.caption
 msgid "Fill Memory"
-msgstr ""
+msgstr "填充内存"
 
 #: tmemorybrowser.findmemory1.caption
 msgid "Find memory"
-msgstr ""
+msgstr "查找内存"
 
 #: tmemorybrowser.findoutwhataddressesthisinstructionaccesses1.caption
 msgid "Find out what addresses this instruction accesses"
-msgstr ""
+msgstr "查找此指令访问的地址"
 
 #: tmemorybrowser.findstaticpointers1.caption
 msgctxt "tmemorybrowser.findstaticpointers1.caption"
 msgid "Find static addresses"
-msgstr ""
+msgstr "查找静态地址"
 
 #: tmemorybrowser.follow1.caption
 msgctxt "tmemorybrowser.follow1.caption"
 msgid "Follow"
-msgstr ""
+msgstr "跟随"
 
 #: tmemorybrowser.fslabel.caption
 msgctxt "tmemorybrowser.fslabel.caption"
 msgid "FS 0000"
-msgstr ""
+msgstr "FS 0000"
 
 #: tmemorybrowser.gdtlist1.caption
 msgid "GDT list"
-msgstr ""
+msgstr "GDT列表"
 
 #: tmemorybrowser.getaddress1.caption
 msgid "Get address"
-msgstr ""
+msgstr "获取地址"
 
 #: tmemorybrowser.goto1.caption
 msgid "Goto address"
-msgstr ""
+msgstr "转到地址"
 
 #: tmemorybrowser.gotoaddress1.caption
 msgid "Go to address"
-msgstr ""
+msgstr "转到地址"
 
 #: tmemorybrowser.gslabel.caption
 msgctxt "tmemorybrowser.gslabel.caption"
 msgid "GS 0000"
-msgstr ""
+msgstr "GS 0000"
 
 #: tmemorybrowser.heaps1.caption
 msgid "Heaplist"
-msgstr ""
+msgstr "堆列表"
 
 #: tmemorybrowser.idtlist1.caption
 msgid "IDT list"
-msgstr ""
+msgstr "IDT列表"
 
 #: tmemorybrowser.injectdll1.caption
 msgid "Inject DLL"
-msgstr ""
+msgstr "注入DLL"
 
 #: tmemorybrowser.jumplines1.caption
 msgctxt "tmemorybrowser.jumplines1.caption"
 msgid "Jumplines"
-msgstr ""
+msgstr "跳转线"
 
 #: tmemorybrowser.kerneltools1.caption
 msgid "Kernel tools"
-msgstr ""
+msgstr "内核工具"
 
 #: tmemorybrowser.lblflags.caption
 msgctxt "tmemorybrowser.lblflags.caption"
 msgid "Flags"
-msgstr ""
+msgstr "标志"
 
 #: tmemorybrowser.lblregisters.caption
 msgctxt "tmemorybrowser.lblregisters.caption"
 msgid "Registers:"
-msgstr ""
+msgstr "寄存器："
 
 #: tmemorybrowser.lblspecial.caption
 msgctxt "tmemorybrowser.lblspecial.caption"
 msgid "Special"
-msgstr ""
+msgstr "特殊"
 
 #: tmemorybrowser.loadmemolryregion1.caption
 msgid "Load memory region"
-msgstr ""
+msgstr "加载内存区域"
 
 #: tmemorybrowser.loadsymbolfile1.caption
 msgid "Load symbol file"
-msgstr ""
+msgstr "加载符号文件"
 
 #: tmemorybrowser.lvstacktracedata.columns[0].caption
 msgctxt "tmemorybrowser.lvstacktracedata.columns[0].caption"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: tmemorybrowser.lvstacktracedata.columns[1].caption
 msgid "DWORD"
-msgstr ""
+msgstr "DWORD"
 
 #: tmemorybrowser.lvstacktracedata.columns[2].caption
 msgctxt "tmemorybrowser.lvstacktracedata.columns[2].caption"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: tmemorybrowser.lvstacktracedata.hint
 msgid ""
 "Shows the current stack.\n"
 "Tip: When doubleclicking the value and it represents an address, then you can hold shift to make it show in the disassembler, and ctrl to make it show in the memory view. Else Cheat Engine will guess it for you based on if it's executable memory or not"
 msgstr ""
+"显示当前堆栈。\n"
+"提示：当双击值且它表示一个地址时，可以按住Shift键在反汇编器中显示，按住Ctrl键在内存视图中显示。否则Cheat Engine会根据它是否是可执行内存为您猜测"
 
 #: tmemorybrowser.makepagewritable1.caption
 msgid "Change page protection"
-msgstr ""
+msgstr "更改页面保护"
 
 #: tmemorybrowser.maxstacktracesize1.caption
 msgid "Max stack: 4096"
-msgstr ""
+msgstr "最大堆栈：4096"
 
 #: tmemorybrowser.memoryregions1.caption
 msgid "Memory Regions"
-msgstr ""
+msgstr "内存区域"
 
 #: tmemorybrowser.menuitem10.caption
 msgid "All strings"
-msgstr ""
+msgstr "所有字符串"
 
 #: tmemorybrowser.menuitem12.caption
 msgid "Apply changes to file"
-msgstr ""
+msgstr "将更改应用到文件"
 
 #: tmemorybrowser.menuitem14.caption
 msgid "Use windows debug symbols"
-msgstr ""
+msgstr "使用Windows调试符号"
 
 #: tmemorybrowser.menuitem15.caption
 msgid "Overlay with structure"
-msgstr ""
+msgstr "用结构覆盖"
 
 #: tmemorybrowser.menuitem17.caption
 msgid "Generate structure from datastream and template"
-msgstr ""
+msgstr "从数据流和模板生成结构"
 
 #: tmemorybrowser.menuitem18.caption
 msgid "Graphical memory view"
-msgstr ""
+msgstr "图形内存视图"
 
 #: tmemorybrowser.menuitem4.caption
 msgid "Disable toolbar"
-msgstr ""
+msgstr "禁用工具栏"
 
 #: tmemorybrowser.menuitem9.caption
 msgid "Change fade timer"
-msgstr ""
+msgstr "更改淡出计时器"
 
 #: tmemorybrowser.miaddebp.caption
 msgctxt "tmemorybrowser.miaddebp.caption"
 msgid "(ebp+*)"
-msgstr ""
+msgstr "(ebp+*)"
 
 #: tmemorybrowser.miaddesp.caption
 msgctxt "tmemorybrowser.miaddesp.caption"
 msgid "(esp+*)"
-msgstr ""
+msgstr "(esp+*)"
 
 #: tmemorybrowser.miaddref.caption
 #, object-pascal-format
 msgctxt "tmemorybrowser.miaddref.caption"
 msgid "(ref+*) Ref will be %x"
-msgstr ""
+msgstr "(ref+*) 引用将为 %x"
 
 #: tmemorybrowser.miaddtothecodelist.caption
 msgid "Add to the code list"
-msgstr ""
+msgstr "添加到代码列表"
 
 #: tmemorybrowser.miarcharm.caption
 msgid "ARM"
-msgstr ""
+msgstr "ARM"
 
 #: tmemorybrowser.miarchautodetect.caption
 msgctxt "tmemorybrowser.miarchautodetect.caption"
 msgid "Autodetect"
-msgstr ""
+msgstr "自动检测"
 
 #: tmemorybrowser.miarchitecture.caption
 msgid "Architecture"
-msgstr ""
+msgstr "架构"
 
 #: tmemorybrowser.miarchx86.caption
 msgid "X86"
-msgstr ""
+msgstr "X86"
 
 #: tmemorybrowser.mibinutils.caption
 msgid "BinUtils"
-msgstr ""
+msgstr "二进制工具"
 
 #: tmemorybrowser.mibinutilsselect.caption
 msgctxt "tmemorybrowser.mibinutilsselect.caption"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: tmemorybrowser.mibreakandtrace.caption
 msgctxt "tmemorybrowser.mibreakandtrace.caption"
 msgid "Break and trace"
-msgstr ""
+msgstr "断点与跟踪"
 
 #: tmemorybrowser.mibreakonexceptions.caption
 msgid "Break on unexpected exceptions"
-msgstr ""
+msgstr "在意外异常时断点"
 
 #: tmemorybrowser.michangeprotectionr.caption
 msgctxt "tmemorybrowser.michangeprotectionr.caption"
 msgid "Read"
-msgstr ""
+msgstr "读取"
 
 #: tmemorybrowser.michangeprotectionre.caption
 msgid "Read Execute"
-msgstr ""
+msgstr "读取执行"
 
 #: tmemorybrowser.michangeprotectionrw.caption
 msgid "Read Write"
-msgstr ""
+msgstr "读取写入"
 
 #: tmemorybrowser.michangeprotectionrwe.caption
 msgid "Read Write Execute"
-msgstr ""
+msgstr "读取写入执行"
 
 #: tmemorybrowser.miclearcache.caption
 msgid "Clear GDB cache for this page"
-msgstr ""
+msgstr "清除此页面的GDB缓存"
 
 #: tmemorybrowser.micodefilter.caption
 msgctxt "tmemorybrowser.micodefilter.caption"
 msgid "Code Filter"
-msgstr ""
+msgstr "代码过滤器"
 
 #: tmemorybrowser.micomparestructures.caption
 msgctxt "tmemorybrowser.micomparestructures.caption"
 msgid "Compare data/structures"
-msgstr ""
+msgstr "比较数据/结构"
 
 #: tmemorybrowser.miconditionalbreak.caption
 msgid "Set/Change break condition"
-msgstr ""
+msgstr "设置/更改断点条件"
 
 #: tmemorybrowser.micopyaddressesonly.caption
 msgid "Addresses only"
-msgstr ""
+msgstr "仅地址"
 
 #: tmemorybrowser.micopybytesonly.caption
 msgid "Bytes only (no address)"
-msgstr ""
+msgstr "仅字节（无地址）"
 
 #: tmemorybrowser.micopyopcodesonly.caption
 msgid "Opcodes only (no address)"
-msgstr ""
+msgstr "仅操作码（无地址）"
 
 #: tmemorybrowser.micr3switcher.caption
 msgid "CR3 Switcher"
-msgstr ""
+msgstr "CR3切换器"
 
 #: tmemorybrowser.midatabreakpointmenu.caption
 msgid "Data Breakpoint"
-msgstr ""
+msgstr "数据断点"
 
 #: tmemorybrowser.midbvmactivatecloak.caption
 msgid "DBVM Activate Cloak"
-msgstr ""
+msgstr "DBVM激活隐身"
 
 #: tmemorybrowser.midbvmdisablecloak.caption
 msgid "DBVM Disable Cloak"
-msgstr ""
+msgstr "DBVM禁用隐身"
 
 #: tmemorybrowser.midbvmfindoutwhataddressesthisinstructionaccesses.caption
 msgid "DBVM Find out what addresses this instruction accesses"
-msgstr ""
+msgstr "DBVM查找此指令访问的地址"
 
 #: tmemorybrowser.midebugbreak.caption
 msgctxt "tmemorybrowser.midebugbreak.caption"
 msgid "Break"
-msgstr ""
+msgstr "中断"
 
 #: tmemorybrowser.midebugevents.caption
 msgid "Debug events"
-msgstr ""
+msgstr "调试事件"
 
 #: tmemorybrowser.midebugexecutetillreturn.caption
 msgid "Step Out - Execute till return"
-msgstr ""
+msgstr "步出 - 执行至返回"
 
 #: tmemorybrowser.midebugrun.caption
 msgctxt "tmemorybrowser.midebugrun.caption"
 msgid "Run"
-msgstr ""
+msgstr "运行"
 
 #: tmemorybrowser.midebugruntill.caption
 msgctxt "tmemorybrowser.midebugruntill.caption"
 msgid "Run till..."
-msgstr ""
+msgstr "运行至..."
 
 #: tmemorybrowser.midebugsetaddress.caption
 msgid "Set Address"
-msgstr ""
+msgstr "设置地址"
 
 #: tmemorybrowser.midebugstep.caption
 msgctxt "tmemorybrowser.midebugstep.caption"
 msgid "Step Into"
-msgstr ""
+msgstr "单步进入"
 
 #: tmemorybrowser.midebugstepover.caption
 msgctxt "tmemorybrowser.midebugstepover.caption"
 msgid "Step Over"
-msgstr ""
+msgstr "单步跳过"
 
 #: tmemorybrowser.midebugtogglebreakpoint.caption
 msgid "Toggle breakpoint"
-msgstr ""
+msgstr "切换断点"
 
 #: tmemorybrowser.mideletebp.caption
 msgid "Delete Breakpoint"
-msgstr ""
+msgstr "删除断点"
 
 #: tmemorybrowser.midisassemblertype.caption
 msgid "Disassembly output"
-msgstr ""
+msgstr "反汇编输出"
 
 #: tmemorybrowser.midisassembly32.caption
 msgid "32-bit"
-msgstr ""
+msgstr "32位"
 
 #: tmemorybrowser.midisassembly64.caption
 msgid "64-bit"
-msgstr ""
+msgstr "64位"
 
 #: tmemorybrowser.midisassemblyautodetect.caption
 msgctxt "tmemorybrowser.midisassemblyautodetect.caption"
 msgid "Autodetect"
-msgstr ""
+msgstr "自动检测"
 
 #: tmemorybrowser.midissectdata.caption
 msgid "Dissect data/structures old"
-msgstr ""
+msgstr "分析数据/结构（旧）"
 
 #: tmemorybrowser.midissectdata2.caption
 msgid "Dissect data/structures"
-msgstr ""
+msgstr "分析数据/结构"
 
 #: tmemorybrowser.miexceptionignorelist.caption
 msgid "Manage exception code filter"
-msgstr ""
+msgstr "管理异常代码过滤器"
 
 #: tmemorybrowser.miexceptionregionautoaddallocs.caption
 msgctxt "tmemorybrowser.miexceptionregionautoaddallocs.caption"
 msgid "Automatically add allocated memory by CE as watched regions"
-msgstr ""
+msgstr "自动将CE分配的内存添加为监视区域"
 
 #: tmemorybrowser.miexceptionregionmanagelist.caption
 msgid "Manage exception region list"
-msgstr ""
+msgstr "管理异常区域列表"
 
 #: tmemorybrowser.mifindwhataccesses.caption
 msgctxt "tmemorybrowser.mifindwhataccesses.caption"
 msgid "Find out what accesses this address"
-msgstr ""
+msgstr "查找访问此地址的内容"
 
 #: tmemorybrowser.mifindwhatwrites.caption
 msgid "Find out what writes this address"
-msgstr ""
+msgstr "查找写入此地址的内容"
 
 #: tmemorybrowser.mifollowinhexview.caption
 msgid "Follow in hexview when stepping"
-msgstr ""
+msgstr "单步执行时在十六进制视图中跟随"
 
 #: tmemorybrowser.mignuassembler.caption
 msgid "GNU Assembler"
-msgstr ""
+msgstr "GNU汇编器"
 
 #: tmemorybrowser.migotobookmark.caption
 msgctxt "tmemorybrowser.migotobookmark.caption"
 msgid "Goto bookmark"
-msgstr ""
+msgstr "转到书签"
 
 #: tmemorybrowser.migotobookmark0.caption
 msgctxt "tmemorybrowser.migotobookmark0.caption"
 msgid "Bookmark 0"
-msgstr ""
+msgstr "书签 0"
 
 #: tmemorybrowser.migotobookmark1.caption
 msgctxt "tmemorybrowser.migotobookmark1.caption"
 msgid "Bookmark 1"
-msgstr ""
+msgstr "书签 1"
 
 #: tmemorybrowser.migotobookmark2.caption
 msgctxt "tmemorybrowser.migotobookmark2.caption"
 msgid "Bookmark 2"
-msgstr ""
+msgstr "书签 2"
 
 #: tmemorybrowser.migotobookmark3.caption
 msgctxt "tmemorybrowser.migotobookmark3.caption"
 msgid "Bookmark 3"
-msgstr ""
+msgstr "书签 3"
 
 #: tmemorybrowser.migotobookmark4.caption
 msgctxt "tmemorybrowser.migotobookmark4.caption"
 msgid "Bookmark 4"
-msgstr ""
+msgstr "书签 4"
 
 #: tmemorybrowser.migotobookmark5.caption
 msgctxt "tmemorybrowser.migotobookmark5.caption"
 msgid "Bookmark 5"
-msgstr ""
+msgstr "书签 5"
 
 #: tmemorybrowser.migotobookmark6.caption
 msgctxt "tmemorybrowser.migotobookmark6.caption"
 msgid "Bookmark 6"
-msgstr ""
+msgstr "书签 6"
 
 #: tmemorybrowser.migotobookmark7.caption
 msgctxt "tmemorybrowser.migotobookmark7.caption"
 msgid "Bookmark 7"
-msgstr ""
+msgstr "书签 7"
 
 #: tmemorybrowser.migotobookmark8.caption
 msgctxt "tmemorybrowser.migotobookmark8.caption"
 msgid "Bookmark 8"
-msgstr ""
+msgstr "书签 8"
 
 #: tmemorybrowser.migotobookmark9.caption
 msgctxt "tmemorybrowser.migotobookmark9.caption"
 msgid "Bookmark 9"
-msgstr ""
+msgstr "书签 9"
 
 #: tmemorybrowser.mihidetoolbar.caption
 msgid "Hide toolbar"
-msgstr ""
+msgstr "隐藏工具栏"
 
 #: tmemorybrowser.mihvback.caption
 msgctxt "tmemorybrowser.mihvback.caption"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: tmemorybrowser.mihvfollow.caption
 msgctxt "tmemorybrowser.mihvfollow.caption"
 msgid "Follow"
-msgstr ""
+msgstr "跟随"
 
 #: tmemorybrowser.miiptlog.caption
 msgid "IPT Log"
-msgstr ""
+msgstr "IPT 日志"
 
 #: tmemorybrowser.mikernelmodesymbols.caption
 msgid "Kernelmode symbols"
-msgstr ""
+msgstr "内核模式符号"
 
 #: tmemorybrowser.miloadtrace.caption
 msgctxt "tmemorybrowser.miloadtrace.caption"
 msgid "Load trace"
-msgstr ""
+msgstr "加载跟踪"
 
 #: tmemorybrowser.milock.caption
 msgctxt "tmemorybrowser.milock.caption"
 msgid "Link with other hexview"
-msgstr ""
+msgstr "与其他十六进制视图链接"
 
 #: tmemorybrowser.milockrowsize.caption
 msgctxt "tmemorybrowser.milockrowsize.caption"
 msgid "Set custom alignment"
-msgstr ""
+msgstr "设置自定义对齐"
 
 #: tmemorybrowser.miluaengine.caption
 msgctxt "tmemorybrowser.miluaengine.caption"
 msgid "Lua Engine"
-msgstr ""
+msgstr "Lua 引擎"
 
 #: tmemorybrowser.miopenindissectdata.caption
 msgid "Open in dissect data/structure"
-msgstr ""
+msgstr "在数据/结构分析中打开"
 
 #: tmemorybrowser.mipaging.caption
 msgid "Paging"
-msgstr ""
+msgstr "分页"
 
 #: tmemorybrowser.mipointerspider.caption
 msgctxt "tmemorybrowser.mipointerspider.caption"
 msgid "Structure spider"
-msgstr ""
+msgstr "结构蜘蛛"
 
 #: tmemorybrowser.mireferencedfunctions.caption
 msgctxt "tmemorybrowser.mireferencedfunctions.caption"
 msgid "Referenced functions"
-msgstr ""
+msgstr "被引用的函数"
 
 #: tmemorybrowser.mireplacewithnops.caption
 msgctxt "tmemorybrowser.mireplacewithnops.caption"
 msgid "Replace with code that does nothing"
-msgstr ""
+msgstr "替换为无操作代码"
 
 #: tmemorybrowser.mirununhandled.caption
 msgctxt "tmemorybrowser.mirununhandled.caption"
 msgid "Run Unhandled"
-msgstr ""
+msgstr "运行未处理"
 
 #: tmemorybrowser.misearchforaccessiblestrings.caption
 msgctxt "tmemorybrowser.misearchforaccessiblestrings.caption"
 msgid "Search for accessible strings"
-msgstr ""
+msgstr "搜索可访问字符串"
 
 #: tmemorybrowser.miselectcurrentfunction.caption
 msgctxt "tmemorybrowser.miselectcurrentfunction.caption"
 msgid "Select current function"
-msgstr ""
+msgstr "选择当前函数"
 
 #: tmemorybrowser.miseperators.caption
 msgid "Seperators"
-msgstr ""
+msgstr "分隔符"
 
 #: tmemorybrowser.misepevery2bytes.caption
 msgctxt "tmemorybrowser.misepevery2bytes.caption"
 msgid "2 Bytes"
-msgstr ""
+msgstr "2 字节"
 
 #: tmemorybrowser.misepevery4bytes.caption
 msgctxt "tmemorybrowser.misepevery4bytes.caption"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4 字节"
 
 #: tmemorybrowser.misepevery8bytes.caption
 msgctxt "tmemorybrowser.misepevery8bytes.caption"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8 字节"
 
 #: tmemorybrowser.misetbookmark0.caption
 msgctxt "tmemorybrowser.misetbookmark0.caption"
 msgid "Bookmark 0"
-msgstr ""
+msgstr "书签 0"
 
 #: tmemorybrowser.misetbookmark1.caption
 msgctxt "tmemorybrowser.misetbookmark1.caption"
 msgid "Bookmark 1"
-msgstr ""
+msgstr "书签 1"
 
 #: tmemorybrowser.misetbookmark2.caption
 msgctxt "tmemorybrowser.misetbookmark2.caption"
 msgid "Bookmark 2"
-msgstr ""
+msgstr "书签 2"
 
 #: tmemorybrowser.misetbookmark3.caption
 msgctxt "tmemorybrowser.misetbookmark3.caption"
 msgid "Bookmark 3"
-msgstr ""
+msgstr "书签 3"
 
 #: tmemorybrowser.misetbookmark4.caption
 msgctxt "tmemorybrowser.misetbookmark4.caption"
 msgid "Bookmark 4"
-msgstr ""
+msgstr "书签 4"
 
 #: tmemorybrowser.misetbookmark5.caption
 msgctxt "tmemorybrowser.misetbookmark5.caption"
 msgid "Bookmark 5"
-msgstr ""
+msgstr "书签 5"
 
 #: tmemorybrowser.misetbookmark6.caption
 msgctxt "tmemorybrowser.misetbookmark6.caption"
 msgid "Bookmark 6"
-msgstr ""
+msgstr "书签 6"
 
 #: tmemorybrowser.misetbookmark7.caption
 msgctxt "tmemorybrowser.misetbookmark7.caption"
 msgid "Bookmark 7"
-msgstr ""
+msgstr "书签 7"
 
 #: tmemorybrowser.misetbookmark8.caption
 msgctxt "tmemorybrowser.misetbookmark8.caption"
 msgid "Bookmark 8"
-msgstr ""
+msgstr "书签 8"
 
 #: tmemorybrowser.misetbookmark9.caption
 msgctxt "tmemorybrowser.misetbookmark9.caption"
 msgid "Bookmark 9"
-msgstr ""
+msgstr "书签 9"
 
 #: tmemorybrowser.misetbreakpointdbvmexec.caption
 msgid "DBVM Breakpoint (+1 instruction)"
-msgstr ""
+msgstr "DBVM 断点 (+1 指令)"
 
 #: tmemorybrowser.misetbreakpointhw.caption
 msgctxt "tmemorybrowser.misetbreakpointhw.caption"
 msgid "Hardware Breakpoint"
-msgstr ""
+msgstr "硬件断点"
 
 #: tmemorybrowser.misetbreakpointpe.caption
 msgid "Exception Breakpoint (+1 instruction)"
-msgstr ""
+msgstr "异常断点 (+1 指令)"
 
 #: tmemorybrowser.misetbreakpointsw.caption
 msgctxt "tmemorybrowser.misetbreakpointsw.caption"
 msgid "Software Breakpoint"
-msgstr ""
+msgstr "软件断点"
 
 #: tmemorybrowser.misetspecificbreakpoint.caption
 msgid "Set specific breakpoint type"
-msgstr ""
+msgstr "设置特定断点类型"
 
 #: tmemorybrowser.misetunsetbookmark.caption
 msgctxt "tmemorybrowser.misetunsetbookmark.caption"
 msgid "Set/Unset bookmark"
-msgstr ""
+msgstr "设置/取消书签"
 
 #: tmemorybrowser.mishowdifference.caption
 msgctxt "tmemorybrowser.mishowdifference.caption"
 msgid "Show difference"
-msgstr ""
+msgstr "显示差异"
 
 #: tmemorybrowser.mishowindisassembler.caption
 msgid "Show in disassembler"
-msgstr ""
+msgstr "在反汇编器中显示"
 
 #: tmemorybrowser.mishowinhexview.caption
 msgid "Show in hexview"
-msgstr ""
+msgstr "在十六进制视图中显示"
 
 #: tmemorybrowser.mishowmoduleaddresses.caption
 msgid "Show module addresses"
-msgstr ""
+msgstr "显示模块地址"
 
 #: tmemorybrowser.mishowrelative.caption
 msgctxt "tmemorybrowser.mishowrelative.caption"
 msgid "Show relative addresses"
-msgstr ""
+msgstr "显示相对地址"
 
 #: tmemorybrowser.mishowrelativedisassembler.caption
 msgctxt "tmemorybrowser.mishowrelativedisassembler.caption"
 msgid "Show relative addresses"
-msgstr ""
+msgstr "显示相对地址"
 
 #: tmemorybrowser.mishowsectionaddresses.caption
 msgid "Show section addresses"
-msgstr ""
+msgstr "显示区段地址"
 
 #: tmemorybrowser.mishowsymbols.caption
 msgid "Show symbols"
-msgstr ""
+msgstr "显示符号"
 
 #: tmemorybrowser.misvcopy.caption
 msgctxt "tmemorybrowser.misvcopy.caption"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: tmemorybrowser.mitextencoding.caption
 msgctxt "tmemorybrowser.mitextencoding.caption"
 msgid "Text Encoding"
-msgstr ""
+msgstr "文本编码"
 
 #: tmemorybrowser.mitextencoding16.caption
 msgctxt "tmemorybrowser.mitextencoding16.caption"
 msgid "UTF-16"
-msgstr ""
+msgstr "UTF-16"
 
 #: tmemorybrowser.mitextencodingascii.caption
 msgid "Ascii"
-msgstr ""
+msgstr "ASCII"
 
 #: tmemorybrowser.mitextencodingcodepage.caption
 msgctxt "tmemorybrowser.mitextencodingcodepage.caption"
 msgid "Codepage"
-msgstr ""
+msgstr "代码页"
 
 #: tmemorybrowser.mitextencodingutf8.caption
 msgid "UTF-8"
-msgstr ""
+msgstr "UTF-8"
 
 #: tmemorybrowser.mitextpreferences.caption
 msgctxt "tmemorybrowser.mitextpreferences.caption"
 msgid "Preferences"
-msgstr ""
+msgstr "首选项"
 
 #: tmemorybrowser.mitogglebreakpoint.caption
 msgctxt "tmemorybrowser.mitogglebreakpoint.caption"
 msgid "Set breakpoint"
-msgstr ""
+msgstr "设置断点"
 
 #: tmemorybrowser.miultimap.caption
 msgctxt "tmemorybrowser.miultimap.caption"
 msgid "Ultimap"
-msgstr ""
+msgstr "Ultimap"
 
 #: tmemorybrowser.miultimap2.caption
 msgctxt "tmemorybrowser.miultimap2.caption"
 msgid "Ultimap 2"
-msgstr ""
+msgstr "Ultimap 2"
 
 #: tmemorybrowser.miundolastedit.caption
 msgctxt "tmemorybrowser.miundolastedit.caption"
 msgid "Undo last edit"
-msgstr ""
+msgstr "撤销上次编辑"
 
 #: tmemorybrowser.miunexpectedexceptionbreakalways.caption
 msgctxt "tmemorybrowser.miunexpectedexceptionbreakalways.caption"
 msgid "Always"
-msgstr ""
+msgstr "总是"
 
 #: tmemorybrowser.miunexpectedexceptionbreakifinregion.caption
 msgid "Only in specified regions"
-msgstr ""
+msgstr "仅在指定区域"
 
 #: tmemorybrowser.miunexpectedexceptionbreaknever.caption
 msgctxt "tmemorybrowser.miunexpectedexceptionbreaknever.caption"
 msgid "Never"
-msgstr ""
+msgstr "从不"
 
 #: tmemorybrowser.miuserdefinedcomment.caption
 msgid "Set/Change comment"
-msgstr ""
+msgstr "设置/更改注释"
 
 #: tmemorybrowser.miuserdefinedheader.caption
 msgid "Set/Change header"
-msgstr ""
+msgstr "设置/更改标题"
 
 #: tmemorybrowser.miuserdefinedsymbols.caption
 msgid "Userdefined symbols"
-msgstr ""
+msgstr "用户定义符号"
 
 #: tmemorybrowser.miuserwriteinteger.caption
 msgctxt "tmemorybrowser.miuserwriteinteger.caption"
 msgid "User write history"
-msgstr ""
+msgstr "用户写入历史"
 
 #: tmemorybrowser.miwatchaccess.caption
 msgctxt "tmemorybrowser.miwatchaccess.caption"
 msgid "Break on Access"
-msgstr ""
+msgstr "访问时断点"
 
 #: tmemorybrowser.miwatchbpdbvm.caption
 msgctxt "tmemorybrowser.miwatchbpdbvm.caption"
 msgid "DBVM Breakpoint"
-msgstr ""
+msgstr "DBVM断点"
 
 #: tmemorybrowser.miwatchbpexception.caption
 msgctxt "tmemorybrowser.miwatchbpexception.caption"
 msgid "Exception Breakpoint"
-msgstr ""
+msgstr "异常断点"
 
 #: tmemorybrowser.miwatchbphardware.caption
 msgctxt "tmemorybrowser.miwatchbphardware.caption"
 msgid "Hardware Breakpoint"
-msgstr ""
+msgstr "硬件断点"
 
 #: tmemorybrowser.miwatchlist.caption
 msgctxt "tmemorybrowser.miwatchlist.caption"
 msgid "Watchlist"
-msgstr ""
+msgstr "监视列表"
 
 #: tmemorybrowser.miwatchmemorypageaccess.caption
 msgctxt "tmemorybrowser.miwatchmemorypageaccess.caption"
 msgid "Watch memory page access"
-msgstr ""
+msgstr "监视内存页面访问"
 
 #: tmemorybrowser.miwatchwrite.caption
 msgctxt "tmemorybrowser.miwatchwrite.caption"
 msgid "Break on Write"
-msgstr ""
+msgstr "写入时断点"
 
 #: tmemorybrowser.modulesonly1.caption
 msgid "Modules only"
-msgstr ""
+msgstr "仅模块"
 
 #: tmemorybrowser.newwindow1.caption
 msgctxt "tmemorybrowser.newwindow1.caption"
 msgid "New window"
-msgstr ""
+msgstr "新窗口"
 
 #: tmemorybrowser.nonsystemmodulesonly1.caption
 msgid "Non system modules only"
-msgstr ""
+msgstr "仅非系统模块"
 
 #: tmemorybrowser.oflabel.caption
 msgctxt "tmemorybrowser.oflabel.caption"
 msgid "OF 0"
-msgstr ""
+msgstr "OF 0"
 
 #: tmemorybrowser.onlyshowjumplineswithinrange1.caption
 msgid "Only show jumplines within range"
-msgstr ""
+msgstr "仅显示范围内的跳转线"
 
 #: tmemorybrowser.opendlldialog.title
 msgid "Select the module you want to inject"
-msgstr ""
+msgstr "选择您想注入的模块"
 
 #: tmemorybrowser.pastefromclipboard1.caption
 msgid "Paste from clipboard"
-msgstr ""
+msgstr "从剪贴板粘贴"
 
 #: tmemorybrowser.pflabel.caption
 msgctxt "tmemorybrowser.pflabel.caption"
 msgid "PF 0"
-msgstr ""
+msgstr "PF 0"
 
 #: tmemorybrowser.plugins1.caption
 msgctxt "tmemorybrowser.plugins1.caption"
 msgid "Plugins"
-msgstr ""
+msgstr "插件"
 
 #: tmemorybrowser.referencedstrings1.caption
 msgid "Referenced strings"
-msgstr ""
+msgstr "被引用的字符串"
 
 #: tmemorybrowser.reservememory1.caption
 msgid "Allocate Memory"
-msgstr ""
+msgstr "分配内存"
 
 #: tmemorybrowser.savedisassemledoutput1.caption
 msgctxt "tmemorybrowser.savedisassemledoutput1.caption"
 msgid "Save disassembled output"
-msgstr ""
+msgstr "保存反汇编输出"
 
 #: tmemorybrowser.savememoryregion1.caption
 msgid "Save memory region"
-msgstr ""
+msgstr "保存内存区域"
 
 #: tmemorybrowser.sbshowfloats.caption
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: tmemorybrowser.scanforcodecaves1.caption
 msgid "Scan for code caves"
-msgstr ""
+msgstr "扫描代码空洞"
 
 #: tmemorybrowser.search1.caption
 msgid "Search memory..."
-msgstr ""
+msgstr "搜索内存..."
 
 #: tmemorybrowser.search2.caption
 msgctxt "tmemorybrowser.search2.caption"
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: tmemorybrowser.sericedescriptortable1.caption
 msgid "Service Descriptor Table"
-msgstr ""
+msgstr "服务描述符表"
 
 #: tmemorybrowser.setsymbolsearchpath1.caption
 msgid "Set symbol searchpath"
-msgstr ""
+msgstr "设置符号搜索路径"
 
 #: tmemorybrowser.sflabel.caption
 msgctxt "tmemorybrowser.sflabel.caption"
 msgid "SF 0"
-msgstr ""
+msgstr "SF 0"
 
 #: tmemorybrowser.showdebugtoolbar1.caption
 msgid "Show debug toolbar"
-msgstr ""
+msgstr "显示调试工具栏"
 
 #: tmemorybrowser.showjumplines1.caption
 msgid "Show jumplines"
-msgstr ""
+msgstr "显示跳转线"
 
 #: tmemorybrowser.showvaluesofstaticaddresses1.caption
 msgid "Show 'Comment' row"
-msgstr ""
+msgstr "显示'注释'行"
 
 #: tmemorybrowser.sslabel.caption
 msgctxt "tmemorybrowser.sslabel.caption"
 msgid "SS 0000"
-msgstr ""
+msgstr "SS 0000"
 
 #: tmemorybrowser.stacktrace1.caption
 msgctxt "tmemorybrowser.stacktrace1.caption"
 msgid "Stacktrace"
-msgstr ""
+msgstr "堆栈跟踪"
 
 #: tmemorybrowser.stacktrace2.caption
 msgctxt "tmemorybrowser.stacktrace2.caption"
 msgid "Stacktrace"
-msgstr ""
+msgstr "堆栈跟踪"
 
 #: tmemorybrowser.tbdebug.caption
 msgctxt "tmemorybrowser.tbdebug.caption"
 msgid "tbDebug"
-msgstr ""
+msgstr "tbDebug"
 
 #: tmemorybrowser.tbrun.caption
 msgctxt "tmemorybrowser.tbrun.caption"
 msgid "Run"
-msgstr ""
+msgstr "运行"
 
+```
 #: tmemorybrowser.tbrun.hint
 msgid "F9"
-msgstr ""
+msgstr "F9"
 
 #: tmemorybrowser.tbruntill.caption
 msgctxt "tmemorybrowser.tbruntill.caption"
 msgid "Run till..."
-msgstr ""
+msgstr "运行至..."
 
 #: tmemorybrowser.tbruntill.hint
 msgid "F4"
-msgstr ""
+msgstr "F4"
 
 #: tmemorybrowser.tbrununhandled.caption
 msgctxt "tmemorybrowser.tbrununhandled.caption"
 msgid "Run Unhandled"
-msgstr ""
+msgstr "不处理运行"
 
 #: tmemorybrowser.tbrununhandled.hint
 msgid "Shift+F9"
-msgstr ""
+msgstr "Shift+F9"
 
 #: tmemorybrowser.tbseparator1.caption
 msgctxt "tmemorybrowser.tbseparator1.caption"
 msgid "tbSeparator1"
-msgstr ""
+msgstr "tbSeparator1"
 
 #: tmemorybrowser.tbseparator2.caption
 msgctxt "tmemorybrowser.tbseparator2.caption"
 msgid "tbSeparator2"
-msgstr ""
+msgstr "tbSeparator2"
 
 #: tmemorybrowser.tbseparator3.caption
 msgctxt "tmemorybrowser.tbseparator3.caption"
 msgid "tbSeparator3"
-msgstr ""
+msgstr "tbSeparator3"
 
 #: tmemorybrowser.tbstepinto.caption
 msgctxt "tmemorybrowser.tbstepinto.caption"
 msgid "Step Into"
-msgstr ""
+msgstr "单步进入"
 
 #: tmemorybrowser.tbstepinto.hint
 msgid "F7"
-msgstr ""
+msgstr "F7"
 
 #: tmemorybrowser.tbstepout.caption
 msgctxt "tmemorybrowser.tbstepout.caption"
 msgid "Step Out"
-msgstr ""
+msgstr "单步退出"
 
 #: tmemorybrowser.tbstepout.hint
 msgid "Shift+F8"
-msgstr ""
+msgstr "Shift+F8"
 
 #: tmemorybrowser.tbstepover.caption
 msgctxt "tmemorybrowser.tbstepover.caption"
 msgid "Step Over"
-msgstr ""
+msgstr "单步跳过"
 
 #: tmemorybrowser.tbstepover.hint
 msgid "F8"
-msgstr ""
+msgstr "F8"
 
 #: tmemorybrowser.tbtogglebreakpoint.caption
 msgid "Toggle Breakpoint"
-msgstr ""
+msgstr "切换断点"
 
 #: tmemorybrowser.tbtogglebreakpoint.hint
 msgid "F5"
-msgstr ""
+msgstr "F5"
 
 #: tmemorybrowser.threadlist1.caption
 msgctxt "tmemorybrowser.threadlist1.caption"
 msgid "Threadlist"
-msgstr ""
+msgstr "线程列表"
 
 #: tmemorybrowser.view1.caption
 msgctxt "tmemorybrowser.view1.caption"
 msgid "View"
-msgstr ""
+msgstr "视图"
 
 #: tmemorybrowser.watchmemoryallocations1.caption
 msgid "Watch memory allocations"
-msgstr ""
+msgstr "监视内存分配"
 
 #: tmemorybrowser.zflabel.caption
 msgctxt "tmemorybrowser.zflabel.caption"
 msgid "ZF 0"
-msgstr ""
+msgstr "ZF 0"
 
 #: tprocesswindow.btnattachdebugger.caption
 msgid "Attach debugger to process"
-msgstr ""
+msgstr "附加调试器到进程"
 
 #: tprocesswindow.btnnetwork.caption
 msgctxt "tprocesswindow.btnnetwork.caption"
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 #: tprocesswindow.cancelbutton.caption
 msgctxt "tprocesswindow.cancelbutton.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: tprocesswindow.caption
 msgctxt "tprocesswindow.caption"
 msgid "Process List"
-msgstr ""
+msgstr "进程列表"
 
 #: tprocesswindow.filter1.caption
 msgctxt "tprocesswindow.filter1.caption"
 msgid "Filter"
-msgstr ""
+msgstr "筛选"
 
 #: tprocesswindow.inputpidmanually1.caption
 msgid "Input PID manually"
-msgstr ""
+msgstr "手动输入PID"
 
 #: tprocesswindow.menuitem1.caption
 msgctxt "tprocesswindow.menuitem1.caption"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: tprocesswindow.menuitem3.caption
 msgctxt "tprocesswindow.menuitem3.caption"
 msgid "Process watcher"
-msgstr ""
+msgstr "进程监视器"
 
 #: tprocesswindow.menuitem4.caption
 msgctxt "tprocesswindow.menuitem4.caption"
 msgid "View"
-msgstr ""
+msgstr "视图"
 
 #: tprocesswindow.menuitem5.caption
 msgctxt "tprocesswindow.menuitem5.caption"
 msgid "Preferences"
-msgstr ""
+msgstr "首选项"
 
 #: tprocesswindow.michangefont.caption
 msgid "Change font"
-msgstr ""
+msgstr "更改字体"
 
 #: tprocesswindow.miconvertpidtodecimal.caption
 msgid "Convert PID to decimal"
-msgstr ""
+msgstr "将PID转换为十进制"
 
 #: tprocesswindow.micreateprocess.caption
 msgctxt "tprocesswindow.micreateprocess.caption"
 msgid "Create Process"
-msgstr ""
+msgstr "创建进程"
 
 #: tprocesswindow.miopenfile.caption
 msgctxt "tprocesswindow.miopenfile.caption"
 msgid "Open File"
-msgstr ""
+msgstr "打开文件"
 
 #: tprocesswindow.miownprocessesonly.caption
 msgid "Only show processes of the current user"
-msgstr ""
+msgstr "只显示当前用户的进程"
 
 #: tprocesswindow.miprocesslistlong.caption
 msgid "Process List (Long)"
-msgstr ""
+msgstr "进程列表（详细）"
 
 #: tprocesswindow.mirefresh.caption
 msgctxt "tprocesswindow.mirefresh.caption"
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 #: tprocesswindow.mishowinvisibleitems.caption
 msgid "Show invisible windows"
-msgstr ""
+msgstr "显示不可见窗口"
 
 #: tprocesswindow.okbutton.caption
 msgctxt "tprocesswindow.okbutton.caption"
 msgid "Open"
-msgstr ""
+msgstr "打开"
 
 #: tprocesswindow.tsapplications.caption
 msgctxt "tprocesswindow.tsapplications.caption"
 msgid "Applications"
-msgstr ""
+msgstr "应用程序"
 
 #: tprocesswindow.tsprocesses.caption
 msgctxt "tprocesswindow.tsprocesses.caption"
 msgid "Processes"
-msgstr ""
+msgstr "进程"
 
 #: tprocesswindow.tswindows.caption
 msgctxt "tprocesswindow.tswindows.caption"
 msgid "Windows"
-msgstr ""
+msgstr "窗口"
 
 #: trainergenerator.rsaaaaw
 msgid "aaaaw :("
-msgstr ""
+msgstr "哎呀 :("
 
 #: trainergenerator.rsabout
 msgctxt "trainergenerator.rsabout"
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: trainergenerator.rsalreadyatrainerformdefined
 msgid "There is already a trainer form defined. Continuing will erase the current trainerscript and cheats in the trainer and replace them with the current hotkeys defined in your current cheat table (Layout and images will remain unchanged). Continue ?"
-msgstr ""
+msgstr "已经存在一个修改器表单。继续操作将会擦除当前修改器脚本和作弊设置，并用当前作弊表中定义的热键替换它们（布局和图像将保持不变）。是否继续？"
 
 #: trainergenerator.rsareyousure
 msgctxt "trainergenerator.rsareyousure"
 msgid "Are you sure?"
-msgstr ""
+msgstr "您确定吗？"
 
 #: trainergenerator.rsautogenwarningpart1
 msgid "This is autogenerated code. Changing code in this block will"
-msgstr ""
+msgstr "这是自动生成的代码。更改此代码块中的内容将会"
 
 #: trainergenerator.rsautogenwarningpart2
 msgid "get erased and rewritten if you regenerate the trainer code"
-msgstr ""
+msgstr "在重新生成修改器代码时被擦除并重写"
 
 #: trainergenerator.rsbutallowdecrease
 msgid "but allow decrease"
-msgstr ""
+msgstr "但允许减少"
 
 #: trainergenerator.rsbutallowincrease
 msgid "but allow increase"
-msgstr ""
+msgstr "但允许增加"
 
 #: trainergenerator.rsby
 msgid "by"
-msgstr ""
+msgstr "通过"
 
 #: trainergenerator.rscheatentries
 msgid "Cheat Entries"
-msgstr ""
+msgstr "作弊条目"
 
 #: trainergenerator.rsclose
 msgctxt "trainergenerator.rsclose"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: trainergenerator.rsdeactive
 msgid "(De)active"
-msgstr ""
+msgstr "激活/停用"
 
 #: trainergenerator.rsdecrease
 msgid "Decrease"
-msgstr ""
+msgstr "减少"
 
 #: trainergenerator.rsdesignuserinterfacemanually
 msgctxt "trainergenerator.rsdesignuserinterfacemanually"
 msgid "Design userinterface manually"
-msgstr ""
+msgstr "手动设计用户界面"
 
 #: trainergenerator.rsdontsupportcheatengineoryourself
 msgctxt "trainergenerator.rsdontsupportcheatengineoryourself"
 msgid "Don't support Cheat Engine (or yourself)"
-msgstr ""
+msgstr "不支持Cheat Engine（或你自己）"
 
 #: trainergenerator.rsdosomethingwith
 msgid "Do something with"
-msgstr ""
+msgstr "对其执行操作"
 
 #: trainergenerator.rseffect
 msgid "Effect"
-msgstr ""
+msgstr "效果"
 
 #: trainergenerator.rsgobacktogenerateddesigner
 msgid "Go back to generated designer"
-msgstr ""
+msgstr "返回到生成的设计器"
 
 #: trainergenerator.rshotkey
 msgctxt "trainergenerator.rshotkey"
 msgid "Hotkey"
-msgstr ""
+msgstr "热键"
 
 #: trainergenerator.rsincrease
 msgid "Increase"
-msgstr ""
+msgstr "增加"
 
 #: trainergenerator.rsinvalidtrainerscript
 msgid "The current lua script only has a half TRAINERGENERATORSTART/TRAINERGENERATORSTOP block. Please fix this first (Removing is the easiest option)"
-msgstr ""
+msgstr "当前Lua脚本只有一半TRAINERGENERATORSTART/TRAINERGENERATORSTOP块。请先修复这个问题（删除是最简单的选择）"
 
 #: trainergenerator.rsnocheatpanel
 #, object-pascal-format
 msgid "The current trainer form does not have a panel named 'CHEATPANEL' so can not be reused by the automated trainer generator.%sDo you want to start from scratch? (If you want to create a trainer from your current script you can just save your table as .EXE instead of using the automated trainer generator)"
-msgstr ""
+msgstr "当前修改器表单没有名为'CHEATPANEL'的面板，因此无法被自动修改器生成器重用。%s您想要从头开始吗？（如果您想从当前脚本创建修改器，您可以直接将表格保存为.EXE文件，而不使用自动修改器生成器）"
 
 #: trainergenerator.rsonclosewarning
 msgid "This form had an onClose event. Good thing this was only a stub, else Cheat Engine would have terminated"
-msgstr ""
+msgstr "此表单有一个onClose事件。好在这只是一个存根，否则Cheat Engine会被终止"
 
 #: trainergenerator.rspleaseselecttypeinaprocessname
 msgid "Please select/type in a processname"
-msgstr ""
+msgstr "请选择/输入一个进程名"
 
 #: trainergenerator.rsselectthecheatentryyouwanttosetthehotkeyfor
 msgid "Select the cheat entry you want to set the hotkey for"
-msgstr ""
+msgstr "选择您想要设置热键的作弊条目"
 
 #: trainergenerator.rsset
 msgctxt "trainergenerator.rsset"
 msgid "Set"
-msgstr ""
+msgstr "设置"
 
 #: trainergenerator.rsthankyou
 msgid "Thank you! :)"
-msgstr ""
+msgstr "谢谢！:)"
 
 #: trainergenerator.rstipyoudonthavetousethetrainergeneratorifyoudontwantto
 msgid "Tip: You don't have to use the trainer generator if you don't want to. You can just save your table as .EXE or CETRAINER"
-msgstr ""
+msgstr "提示：如果您不想使用修改器生成器，可以不用。您可以直接将表格保存为.EXE或CETRAINER文件"
 
 #: trainergenerator.rsto
 msgid "to"
-msgstr ""
+msgstr "到"
 
 #: trainergenerator.rsunfreeze
 msgid "(Un)Freeze"
-msgstr ""
+msgstr "冻结/解冻"
 
 #: trainergenerator.rsyouneedacheattablewithcheatentries
 msgid "You need a cheat table with cheat entries"
-msgstr ""
+msgstr "您需要一个带有作弊条目的作弊表"
 
 #: tregisters.caption
 msgid "Registers"
-msgstr ""
+msgstr "寄存器"
 
 #: tregisters.eaxlabel.caption
 msgid "EAX 0123456789ABCDEF"
-msgstr ""
+msgstr "EAX 0123456789ABCDEF"
 
 #: tregisters.ebplabel.caption
 msgctxt "tregisters.ebplabel.caption"
 msgid "EBP 00000000"
-msgstr ""
+msgstr "EBP 00000000"
 
 #: tregisters.ebxlabel.caption
 msgctxt "tregisters.ebxlabel.caption"
 msgid "EBX 00000000"
-msgstr ""
+msgstr "EBX 00000000"
 
 #: tregisters.ecxlabel.caption
 msgctxt "tregisters.ecxlabel.caption"
 msgid "ECX 00000000"
-msgstr ""
+msgstr "ECX 00000000"
 
 #: tregisters.edilabel.caption
 msgctxt "tregisters.edilabel.caption"
 msgid "EDI 00000000"
-msgstr ""
+msgstr "EDI 00000000"
 
 #: tregisters.edxlabel.caption
 msgctxt "tregisters.edxlabel.caption"
 msgid "EDX 00000000"
-msgstr ""
+msgstr "EDX 00000000"
 
 #: tregisters.eiplabel.caption
 msgctxt "tregisters.eiplabel.caption"
 msgid "EIP 00000000"
-msgstr ""
+msgstr "EIP 00000000"
 
 #: tregisters.esilabel.caption
 msgctxt "tregisters.esilabel.caption"
 msgid "ESI 00000000"
-msgstr ""
+msgstr "ESI 00000000"
 
 #: tregisters.esplabel.caption
 msgctxt "tregisters.esplabel.caption"
 msgid "ESP 00000000"
-msgstr ""
+msgstr "ESP 00000000"
 
 #: tregisters.labelregisters.caption
 msgctxt "tregisters.labelregisters.caption"
 msgid "Registers:"
-msgstr ""
+msgstr "寄存器："
 
 #: tregisters.lblaf.caption
 msgctxt "tregisters.lblaf.caption"
 msgid "AF 0"
-msgstr ""
+msgstr "AF 0"
 
 #: tregisters.lblcf.caption
 msgctxt "tregisters.lblcf.caption"
 msgid "CF 0"
-msgstr ""
+msgstr "CF 0"
 
 #: tregisters.lbldf.caption
 msgctxt "tregisters.lbldf.caption"
 msgid "DF 0"
-msgstr ""
+msgstr "DF 0"
 
 #: tregisters.lblof.caption
 msgctxt "tregisters.lblof.caption"
 msgid "OF 0"
-msgstr ""
+msgstr "OF 0"
 
 #: tregisters.lblpf.caption
 msgctxt "tregisters.lblpf.caption"
 msgid "PF 0"
-msgstr ""
+msgstr "PF 0"
 
 #: tregisters.lblsf.caption
 msgctxt "tregisters.lblsf.caption"
 msgid "SF 0"
-msgstr ""
+msgstr "SF 0"
 
 #: tregisters.lblzf.caption
 msgctxt "tregisters.lblzf.caption"
 msgid "ZF 0"
-msgstr ""
+msgstr "ZF 0"
 
 #: tregisters.mibrowsememoryregion.caption
 msgctxt "tregisters.mibrowsememoryregion.caption"
 msgid "Browse this memory region"
-msgstr ""
+msgstr "浏览此内存区域"
 
 #: tregisters.micopyallregisterstoclipboard.caption
 msgid "Copy all registers values to clipboard"
-msgstr ""
+msgstr "复制所有寄存器值到剪贴板"
 
 #: tregisters.micopyregistervaluetoclipboard.caption
 msgid "Copy selected register value to clipboard"
-msgstr ""
+msgstr "复制选定的寄存器值到剪贴板"
 
 #: tregisters.midisassemblememoryregion.caption
 msgctxt "tregisters.midisassemblememoryregion.caption"
 msgid "Disassemble this memory region"
-msgstr ""
+msgstr "反汇编此内存区域"
 
 #: tregisters.sbshowfloats.caption
 msgctxt "tregisters.sbshowfloats.caption"
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: tregisters.sbshowfloats.hint
 msgctxt "tregisters.sbshowfloats.hint"
 msgid "Floating point registers"
-msgstr ""
+msgstr "浮点寄存器"
 
 #: tregisters.sbshowstack.caption
 msgctxt "tregisters.sbshowstack.caption"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: tregisters.sbshowstack.hint
 msgctxt "tregisters.sbshowstack.hint"
 msgid "Stack view"
-msgstr ""
+msgstr "堆栈视图"
 
 #: ttlg.caption
 msgid "TLG:The Lame Game"
-msgstr ""
+msgstr "TLG：无聊游戏"
 
 #: ttlg.label1.caption
 msgid "Score:"
-msgstr ""
+msgstr "分数："
 
 #: ttlg.label2.caption
 msgctxt "ttlg.label2.caption"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ttypeform.bitlengthedit.text
 msgctxt "ttypeform.bitlengthedit.text"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ttypeform.buttoncancel.caption
 msgctxt "ttypeform.buttoncancel.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ttypeform.buttonok.caption
 msgctxt "ttypeform.buttonok.caption"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: ttypeform.caption
 msgctxt "ttypeform.caption"
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: ttypeform.cbcodepage.caption
 msgctxt "ttypeform.cbcodepage.caption"
 msgid "Codepage"
-msgstr ""
+msgstr "代码页"
 
 #: ttypeform.cbhex.caption
 msgctxt "ttypeform.cbhex.caption"
 msgid "Hexadecimal"
-msgstr ""
+msgstr "十六进制"
 
 #: ttypeform.cbsigned.caption
 msgctxt "ttypeform.cbsigned.caption"
 msgid "Signed"
-msgstr ""
+msgstr "有符号"
 
 #: ttypeform.cbunicode.caption
 msgctxt "ttypeform.cbunicode.caption"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: ttypeform.label1.caption
 msgid "Select the new type:"
-msgstr ""
+msgstr "选择新类型："
 
 #: ttypeform.labelbit0.caption
 msgctxt "ttypeform.labelbit0.caption"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ttypeform.labelbit1.caption
 msgctxt "ttypeform.labelbit1.caption"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ttypeform.labelbit2.caption
 msgctxt "ttypeform.labelbit2.caption"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ttypeform.labelbit3.caption
 msgctxt "ttypeform.labelbit3.caption"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ttypeform.labelbit4.caption
 msgctxt "ttypeform.labelbit4.caption"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ttypeform.labelbit5.caption
 msgctxt "ttypeform.labelbit5.caption"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ttypeform.labelbit6.caption
 msgctxt "ttypeform.labelbit6.caption"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ttypeform.labelbit7.caption
 msgctxt "ttypeform.labelbit7.caption"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ttypeform.labelbitlength.caption
 msgctxt "ttypeform.labelbitlength.caption"
 msgid "Length"
-msgstr ""
+msgstr "长度"
 
 #: ttypeform.labellength.caption
 msgctxt "ttypeform.labellength.caption"
 msgid "Length"
-msgstr ""
+msgstr "长度"
 
 #: ttypeform.lengthedit.text
 msgctxt "ttypeform.lengthedit.text"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ttypeform.vartype.text
 msgctxt "ttypeform.vartype.text"
 msgid "Binary"
-msgstr ""
+msgstr "二进制"
 
 #: tvaluechangeform.button1.caption
 msgctxt "tvaluechangeform.button1.caption"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: tvaluechangeform.button2.caption
 msgctxt "tvaluechangeform.button2.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: tvaluechangeform.caption
 msgid "Change Offset: ########"
-msgstr ""
+msgstr "更改偏移量：########"
 
 #: tvaluechangeform.cbunicode.caption
 msgctxt "tvaluechangeform.cbunicode.caption"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: tvaluechangeform.cbvartype.text
 msgid "1 Byte"
-msgstr ""
+msgstr "1 字节"
 
 #: typepopup.rsinvalidlength
 msgid "Invalid length"
-msgstr ""
+msgstr "无效长度"
 
 #: unrandomizer.rsthefollowingaddressesgotchanged
 msgid "The following addresses got changed"
-msgstr ""
+msgstr "以下地址已被更改"
 
 #: unrandomizer.rstheunrandomizerwillcurrentlynotworkon64bitapplicat
 msgid "The unrandomizer will currently not work on 64-bit applications"
-msgstr ""
+msgstr "禁止随机功能目前不适用于64位应用程序"
 
 #: valuechange.rschangeoffset
 #, object-pascal-format
 msgid "Change offset %s"
-msgstr ""
+msgstr "更改偏移量 %s"
 
 #: valuechange.rspartofthestringisunreadable
 msgid "Part of the string is unreadable!"
-msgstr ""
+msgstr "部分字符串不可读！"
 
 #: valuechange.rsunicode
 msgctxt "valuechange.rsunicode"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: vartypestrings.rs_vtall
 msgctxt "vartypestrings.rs_vtall"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: vartypestrings.rs_vtautoassembler
 msgid "Auto Assembler Script"
-msgstr ""
+msgstr "自动汇编脚本"
 
 #: vartypestrings.rs_vtbinary
 msgctxt "vartypestrings.rs_vtbinary"
 msgid "Binary"
-msgstr ""
+msgstr "二进制"
 
 #: vartypestrings.rs_vtbyte
 msgctxt "vartypestrings.rs_vtbyte"
 msgid "Byte"
-msgstr ""
+msgstr "字节"
 
 #: vartypestrings.rs_vtbytearray
 msgctxt "vartypestrings.rs_vtbytearray"
 msgid "Array of byte"
-msgstr ""
+msgstr "字节数组"
 
 #: vartypestrings.rs_vtcodepagestring
 msgid "CodePage String"
-msgstr ""
+msgstr "代码页字符串"
 
 #: vartypestrings.rs_vtcustom
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 #: vartypestrings.rs_vtdouble
 msgctxt "vartypestrings.rs_vtdouble"
 msgid "Double"
-msgstr ""
+msgstr "双精度浮点"
 
 #: vartypestrings.rs_vtdword
 msgctxt "vartypestrings.rs_vtdword"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4 字节"
 
 #: vartypestrings.rs_vtgrouped
 msgid "Grouped"
-msgstr ""
+msgstr "分组"
 
 #: vartypestrings.rs_vtpointer
 msgctxt "vartypestrings.rs_vtpointer"
 msgid "Pointer"
-msgstr ""
+msgstr "指针"
 
 #: vartypestrings.rs_vtpointerornested
 msgid "Pointer or Nested Structure"
-msgstr ""
+msgstr "指针或嵌套结构"
 
 #: vartypestrings.rs_vtqword
 msgctxt "vartypestrings.rs_vtqword"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8 字节"
 
 #: vartypestrings.rs_vtsingle
 msgctxt "vartypestrings.rs_vtsingle"
 msgid "Float"
-msgstr ""
+msgstr "浮点数"
 
 #: vartypestrings.rs_vtstring
 msgctxt "vartypestrings.rs_vtstring"
 msgid "String"
-msgstr ""
+msgstr "字符串"
 
 #: vartypestrings.rs_vtunicodestring
 msgid "Unicode String"
-msgstr ""
+msgstr "Unicode字符串"
 
 #: vartypestrings.rs_vtwidestring
 msgid "Widestring"
-msgstr ""
+msgstr "宽字符串"
 
 #: vartypestrings.rs_vtword
 msgctxt "vartypestrings.rs_vtword"
 msgid "2 Bytes"
-msgstr ""
+msgstr "2 字节"
 
 #: vehdebugger.rscheatenginefailedtogetintotheconfig
 #, object-pascal-format
 msgid "Cheat Engine failed to get into the config of the selected program. (Error=%s)"
-msgstr ""
+msgstr "Cheat Engine无法进入所选程序的配置。（错误=%s）"
 
 #: vehdebugger.rserrorwhiletryingtocreatetheconfigurationstructure
 #, object-pascal-format
 msgid "Error while trying to create the configuration structure! (Which effectively renders this whole feature useless) Errorcode=%s"
-msgstr ""
+msgstr "尝试创建配置结构时出错！（这实际上使整个功能无法使用）错误代码=%s"
 
 #: vehdebugger.rsfailureduplicatingtheeventhandlestotheotherprocess
 msgid "Failure duplicating the event handles to the other process"
-msgstr ""
+msgstr "无法将事件句柄复制到其他进程"
 
 #: vehdebugger.rsfailureduplicatingthefilemapping
 msgid "Failure duplicating the filemapping"
-msgstr ""
+msgstr "无法复制文件映射"
 
 #: vehdebugger.rsthevehdllseemstohavefailedtoload
 msgid "The VEH dll seems to have failed to load"
-msgstr ""
+msgstr "VEH dll似乎加载失败"
 
 #: vehdebugger.rsvehdebugerror
 msgid "VEH Debug error"
-msgstr ""
+msgstr "VEH调试错误"
 
 #: vehdebugger.rswrongvehdllversion
 #, object-pascal-format
 msgid "The version of the VEH dll inside the target process (%x) does not match what was expected %x"
-msgstr ""
+msgstr "目标进程中的VEH dll版本（%x）与预期的版本%x不匹配"
 
 #: virtualmemory.rsnomemoryfoundinthespecifiedregion
 msgctxt "virtualmemory.rsnomemoryfoundinthespecifiedregion"
 msgid "No memory found in the specified region"
-msgstr ""
+msgstr "在指定区域中未找到内存"
 
 #: virtualmemory.rsnotenoughmemoryfreetoscan
 msgctxt "virtualmemory.rsnotenoughmemoryfreetoscan"
 msgid "Not enough memory free to scan"
-msgstr ""
+msgstr "没有足够的可用内存进行扫描"
 
 #: vmxfunctions.rsbigerror
 msgctxt "vmxfunctions.rsbigerror"
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: vmxfunctions.rsinvalidinstruction
 msgid "Invalid instruction"
-msgstr ""
+msgstr "无效指令"
 
 #: vmxfunctions.rssmallerror
 msgctxt "vmxfunctions.rssmallerror"
 msgid "error"
-msgstr ""
+msgstr "错误"
 
 #: windowsdebugger.rserrorattachingthewindowsdebugger
 #, object-pascal-format
 msgid "Error attaching the windows debugger: %s"
-msgstr ""
+msgstr "附加Windows调试器时出错：%s"
 
 #: zstreamext.rsaseekwasdoneforanotherpurpose
 msgid "A seek was done for another purpose than getting the position"
-msgstr ""
+msgstr "执行了一个不是为了获取位置的定位操作"
 
