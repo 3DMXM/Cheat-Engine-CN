@@ -2869,8 +2869,6 @@ msgstr "脚本1"
 msgid "Start address"
 msgstr "起始地址"
 
-Here are the translations for the provided strings:
-
 #: frmautoinjectunit.rsthumbinstructionsarenotyetimplemented
 msgid "Thumb instructions are not yet implemented"
 msgstr "Thumb 指令集尚未实现"
@@ -3236,8 +3234,6 @@ msgstr "可写="
 msgctxt "frmgroupscanalgoritmgeneratorunit.rsadd"  
 msgid "Add"  
 msgstr "添加"
-
-Here are the Chinese translations for the remaining strings:
 
 #: frmgroupscanalgoritmgeneratorunit.rsgsgblocksizemustbeprovided  
 msgid "blocksize must be provided"  
@@ -4154,8 +4150,8 @@ msgid "Waiting for trace to start"
 msgstr "正在等待跟踪开始"
 
 #: frmultimap2unit.rscantbeparsed
-msgid "" can't be parsed"
-msgstr ""无法解析"
+msgid " can't be parsed"
+msgstr "无法解析"
 
 #: frmultimap2unit.rsclosingwillfreeallcollecteddata
 msgid "Closing will free all collected data. Continue? (Tip: You can minimize this window instead)"
@@ -4182,8 +4178,8 @@ msgid "First open a process"
 msgstr "请先打开一个进程"
 
 #: frmultimap2unit.rsforsomeweirdreason
-msgid "For some weird reason ""
-msgstr "由于某些奇怪的原因""
+msgid "For some weird reason "
+msgstr "由于某些奇怪的原因"
 
 #: frmultimap2unit.rsinstructionpointerlistsize
 msgctxt "frmultimap2unit.rsinstructionpointerlistsize"
@@ -10436,7 +10432,7 @@ msgid ""
 "With this option enabled the debugger will give the gui some time to handle the messages before it sends it a new update.\n"
 "Downside: The game may become slightly slower when using these functions. (Of course, if it has been hammering the gui, it would already have been frozen)"
 msgstr ""
-"有时使用"查找什么..."功能时，它们被触发得太频繁，以至于GUI没有时间更新，导致一些烦人的行为，如某些窗口无法关闭或按钮无响应。\n"
+"有时使用\"查找什么...\"功能时，它们被触发得太频繁，以至于GUI没有时间更新，导致一些烦人的行为，如某些窗口无法关闭或按钮无响应。\n"
 "启用此选项后，调试器将在发送新更新前给GUI一些时间处理消息。\n"
 "缺点：使用这些功能时游戏可能会变得稍微慢一些。（当然，如果它一直在猛烈触发GUI，游戏本来就已经冻结了）"
 
@@ -13244,7 +13240,7 @@ msgstr "Lua 引擎"
 
 #: tfrmluaengine.cbshowonprint.caption
 msgid "Show on \"print\""
-msgstr "在"print"时显示"
+msgstr "在\"print\"时显示"
 
 #: tfrmluaengine.groupbox1.caption
 msgctxt "tfrmluaengine.groupbox1.caption"
@@ -20350,7 +20346,6 @@ msgctxt "tmemorybrowser.tbrun.caption"
 msgid "Run"
 msgstr "运行"
 
-```
 #: tmemorybrowser.tbrun.hint
 msgid "F9"
 msgstr "F9"
