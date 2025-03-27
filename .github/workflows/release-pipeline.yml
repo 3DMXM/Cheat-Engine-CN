@@ -6,7 +6,7 @@ on:
       - published # 当一个 Release 被发布时触发
 permissions:
   contents: write
-  
+
 jobs:
   build-and-package:
     runs-on: ubuntu-latest
@@ -27,11 +27,10 @@ jobs:
       - name: Create zip archive
         run: zip -r release.zip zh_CN
 
-      # 将 zip 文件上传到 Release
+      # 使用 softprops/action-gh-release 上传文件到 Release
       - name: Upload Release Asset
-        uses: actions/upload-release-asset@v1
+        uses: softprops/action-gh-release@v2
         with:
-          upload_url: ${{ github.event.release.upload_url }}
-          asset_path: ./release.zip
-          asset_name: release.zip
-          asset_content_type: application/zip
+          files: release.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
