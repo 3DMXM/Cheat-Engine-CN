@@ -4,7 +4,9 @@ on:
   release:
     types:
       - published # 当一个 Release 被发布时触发
-
+permissions:
+  contents: write
+  
 jobs:
   build-and-package:
     runs-on: ubuntu-latest
@@ -18,8 +20,8 @@ jobs:
       - name: Prepare zh_CN folder
         run: |
           mkdir -p zh_CN
-          mv * zh_CN/ || true
-          mv .[^.]* zh_CN/ || true
+          shopt -s extglob
+          mv !(zh_CN|.git) zh_CN/ || true
 
       # 打包为 zip 文件
       - name: Create zip archive
