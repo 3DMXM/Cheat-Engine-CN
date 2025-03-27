@@ -8784,8 +8784,6 @@ msgid "Made by: Dark Byte"
 msgstr "作者: Dark Byte\n"
 "汉化: 小莫\n"
 "此汉化首发于 3DM Mod站\n"
-"使用此汉化包需要保留此条版权信息\n"
-"严禁倒卖"
 
 #: tabout.label10.caption
 msgid "Script engine powered by Lua"
