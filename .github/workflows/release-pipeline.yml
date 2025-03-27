@@ -1,0 +1,35 @@
+name: Release Packaging
+
+on:
+  release:
+    types:
+      - published # 当一个 Release 被发布时触发
+
+jobs:
+  build-and-package:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出仓库的代码
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 创建 zh_CN 文件夹并移动所有内容到其中
+      - name: Prepare zh_CN folder
+        run: |
+          mkdir -p zh_CN
+          mv * zh_CN/ || true
+          mv .[^.]* zh_CN/ || true
+
+      # 打包为 zip 文件
+      - name: Create zip archive
+        run: zip -r release.zip zh_CN
+
+      # 将 zip 文件上传到 Release
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./release.zip
+          asset_name: release.zip
+          asset_content_type: application/zip

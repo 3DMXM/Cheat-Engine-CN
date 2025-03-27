@@ -2,7 +2,7 @@
 
 汉化: 小莫
 
-GitHub: https://github.com/cheat-engine/cheat-engine
+GitHub: https://github.com/3DMXM/Cheat-Engine-CN
 
 这是 Cheat Engine 的汉化文本文件，包含了所有的汉化文本和一些其他的文件。
 
