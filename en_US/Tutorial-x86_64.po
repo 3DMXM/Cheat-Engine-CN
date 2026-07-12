@@ -1,0 +1,810 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.btnok.caption
+msgctxt "tform1.btnok.caption"
+msgid "OK"
+msgstr ""
+
+#: tform1.button1.caption
+msgctxt "tform1.button1.caption"
+msgid "Next Ⓟⓔⓝⓘⓢ"
+msgstr ""
+
+#: tform1.button1.hint
+msgid "Click this to continue!!!"
+msgstr ""
+
+#: tform1.button2.caption
+msgid "Button2"
+msgstr ""
+
+#: tform1.caption
+msgid "Cheat Engine Tutorial v3.4 Ⓟⓔⓝⓘⓢ"
+msgstr ""
+
+#: tform1.edtpassword.hint
+msgid "Use this to go imeadiatly to the step you want to try"
+msgstr ""
+
+#: tform1.edtpassword.text
+msgid "090453"
+msgstr ""
+
+#: tform1.label1.caption
+msgid "Password"
+msgstr ""
+
+#: tform10.button3.caption
+msgid "Restart game"
+msgstr ""
+
+#: tform10.button4.caption
+msgctxt "tform10.button4.caption"
+msgid "Attack"
+msgstr ""
+
+#: tform10.button5.caption
+msgctxt "tform10.button5.caption"
+msgid "Attack"
+msgstr ""
+
+#: tform10.button6.caption
+msgctxt "tform10.button6.caption"
+msgid "Restart game and autoplay"
+msgstr ""
+
+#: tform10.button7.caption
+msgctxt "tform10.button7.caption"
+msgid "Attack"
+msgstr ""
+
+#: tform10.button8.caption
+msgctxt "tform10.button8.caption"
+msgid "Attack"
+msgstr ""
+
+#: tform10.caption
+msgid "Step 9"
+msgstr ""
+
+#: tform10.label1.caption
+msgctxt "tform10.label1.caption"
+msgid "100"
+msgstr ""
+
+#: tform10.label10.caption
+msgctxt "tform10.label10.caption"
+msgid "Health: 500"
+msgstr ""
+
+#: tform10.label2.caption
+msgctxt "tform10.label2.caption"
+msgid "Health:"
+msgstr ""
+
+#: tform10.label3.caption
+msgid "Player 1: Dave"
+msgstr ""
+
+#: tform10.label4.caption
+msgctxt "tform10.label4.caption"
+msgid "Health: 100"
+msgstr ""
+
+#: tform10.label5.caption
+msgid "Player 2: Eric"
+msgstr ""
+
+#: tform10.label6.caption
+msgctxt "tform10.label6.caption"
+msgid "Health: 100"
+msgstr ""
+
+#: tform10.label7.caption
+msgid "C. Player 3: HAL"
+msgstr ""
+
+#: tform10.label8.caption
+msgctxt "tform10.label8.caption"
+msgid "Health: 500"
+msgstr ""
+
+#: tform10.label9.caption
+msgid "C. Player 4: KITT"
+msgstr ""
+
+#: tform2.button1.caption
+msgctxt "tform2.button1.caption"
+msgid "Next"
+msgstr ""
+
+#: tform2.button2.caption
+msgctxt "tform2.button2.caption"
+msgid "Hit me"
+msgstr ""
+
+#: tform2.caption
+msgid "Step 2"
+msgstr ""
+
+#: tform2.label1.caption
+msgctxt "tform2.label1.caption"
+msgid "100"
+msgstr ""
+
+#: tform2.label2.caption
+msgctxt "tform2.label2.caption"
+msgid "Health:"
+msgstr ""
+
+#: tform2.speedbutton1.caption
+msgctxt "tform2.speedbutton1.caption"
+msgid "Skip"
+msgstr ""
+
+#: tform3.button1.caption
+msgctxt "tform3.button1.caption"
+msgid "Next"
+msgstr ""
+
+#: tform3.button2.caption
+msgctxt "tform3.button2.caption"
+msgid "Hit me"
+msgstr ""
+
+#: tform3.caption
+msgid "Step 3"
+msgstr ""
+
+#: tform3.label1.caption
+msgid " "
+msgstr ""
+
+#: tform3.speedbutton1.caption
+msgctxt "tform3.speedbutton1.caption"
+msgid "Skip"
+msgstr ""
+
+#: tform4.button1.caption
+msgctxt "tform4.button1.caption"
+msgid "OK"
+msgstr ""
+
+#: tform4.caption
+msgid "Tutorial End"
+msgstr ""
+
+#: tform4.label1.caption
+msgid "Well done, you've completed the tutorial of Cheat Engine."
+msgstr ""
+
+#: tform4.label2.caption
+msgid "Just play around with the tutorial and learn how the other scanmethods work."
+msgstr ""
+
+#: tform4.label3.caption
+msgid "And you can always check out the Cheat Engine Forum for useful information and ask for help"
+msgstr ""
+
+#: tform4.label4.caption
+msgid "Cheat Engine Forum"
+msgstr ""
+
+#: tform5.button1.caption
+msgid "Fire"
+msgstr ""
+
+#: tform5.button2.caption
+msgctxt "tform5.button2.caption"
+msgid "Next"
+msgstr ""
+
+#: tform5.button3.caption
+msgctxt "tform5.button3.caption"
+msgid "Hit me"
+msgstr ""
+
+#: tform5.caption
+msgid "Step 4"
+msgstr ""
+
+#: tform5.label1.caption
+msgctxt "tform5.label1.caption"
+msgid "100"
+msgstr ""
+
+#: tform5.label2.caption
+msgid "Ammo"
+msgstr ""
+
+#: tform5.label3.caption
+msgctxt "tform5.label3.caption"
+msgid "Health:"
+msgstr ""
+
+#: tform5.label4.caption
+msgctxt "tform5.label4.caption"
+msgid "100"
+msgstr ""
+
+#: tform5.label5.caption
+msgid "(float)"
+msgstr ""
+
+#: tform5.label6.caption
+msgid "(double)"
+msgstr ""
+
+#: tform5.speedbutton1.caption
+msgctxt "tform5.speedbutton1.caption"
+msgid "Skip"
+msgstr ""
+
+#: tform6.button1.caption
+msgctxt "tform6.button1.caption"
+msgid "Change value"
+msgstr ""
+
+#: tform6.button2.caption
+msgctxt "tform6.button2.caption"
+msgid "Next"
+msgstr ""
+
+#: tform6.caption
+msgid "Step 5"
+msgstr ""
+
+#: tform6.label1.caption
+msgctxt "tform6.label1.caption"
+msgid "100"
+msgstr ""
+
+#: tform6.speedbutton1.caption
+msgctxt "tform6.speedbutton1.caption"
+msgid "Skip"
+msgstr ""
+
+#: tform7.button1.caption
+msgctxt "tform7.button1.caption"
+msgid "Change value"
+msgstr ""
+
+#: tform7.button2.caption
+msgctxt "tform7.button2.caption"
+msgid "Next"
+msgstr ""
+
+#: tform7.button3.caption
+msgctxt "tform7.button3.caption"
+msgid "Change pointer"
+msgstr ""
+
+#: tform7.caption
+msgid "Step 6"
+msgstr ""
+
+#: tform7.label1.caption
+msgctxt "tform7.label1.caption"
+msgid "100"
+msgstr ""
+
+#: tform7.label2.caption
+msgctxt "tform7.label2.caption"
+msgid "3"
+msgstr ""
+
+#: tform7.speedbutton1.caption
+msgctxt "tform7.speedbutton1.caption"
+msgid "Skip"
+msgstr ""
+
+#: tform8.button1.caption
+msgctxt "tform8.button1.caption"
+msgid "Hit me"
+msgstr ""
+
+#: tform8.button2.caption
+msgctxt "tform8.button2.caption"
+msgid "Next"
+msgstr ""
+
+#: tform8.caption
+msgid "Step 7"
+msgstr ""
+
+#: tform8.label1.caption
+msgctxt "tform8.label1.caption"
+msgid "Health: 100"
+msgstr ""
+
+#: tform8.speedbutton1.caption
+msgctxt "tform8.speedbutton1.caption"
+msgid "Skip"
+msgstr ""
+
+#: tform9.button1.caption
+msgctxt "tform9.button1.caption"
+msgid "Change value"
+msgstr ""
+
+#: tform9.button2.caption
+msgctxt "tform9.button2.caption"
+msgid "Next"
+msgstr ""
+
+#: tform9.button3.caption
+msgctxt "tform9.button3.caption"
+msgid "Change pointer"
+msgstr ""
+
+#: tform9.caption
+msgid "Step 8"
+msgstr ""
+
+#: tform9.label1.caption
+msgctxt "tform9.label1.caption"
+msgid "100"
+msgstr ""
+
+#: tform9.label2.caption
+msgctxt "tform9.label2.caption"
+msgid "3"
+msgstr ""
+
+#: tform9.speedbutton1.caption
+msgctxt "tform9.speedbutton1.caption"
+msgid "Skip"
+msgstr ""
+
+#: tfrmhelp.caption
+msgid "Help"
+msgstr ""
+
+#: tfrmhelp.image1.hint
+msgid "More information like videos for this step and written tutorials"
+msgstr ""
+
+#: unit1.rsfirststeptoohardbettergiveupnow
+msgid "First step too hard? Go to forum.cheatengine.org, then click on \"Tutorials\" for helpful guides!"
+msgstr ""
+
+#: unit1.rstutorial1
+msgid ""
+"Welcome to the Cheat Engine Tutorial (v3.6)\n"
+"\n"
+"This tutorial will teach you the basics of cheating in video games. It will also show you foundational aspects of using Cheat Engine (or CE for short). Follow the steps below to get started.\n"
+"\n"
+"1: Open Cheat Engine if it currently isn't running.\n"
+"2: Click on the \"Open Process\" icon (it's the top-left icon with the computer on it, below \"File\".).\n"
+"3: With the Process List window now open, look for this tutorial's process in the list. It will look something like \"00001F98-Tutorial-x86_64.exe\" or \"0000047C-Tutorial-i386.exe\". (The first 8 numbers/letters will probably be different.)\n"
+"4: Once you've found the process, click on it to select it, then click the \"Open\" button. (Don't worry about all the other buttons right now. You can learn about them later if you're interested.)\n"
+"\n"
+"Congratulations! If you did everything correctly, the process window should be gone with Cheat Engine now attached to the tutorial (you will see the process name towards the top-center of CE).\n"
+"\n"
+"Click the \"Next\" button below to continue, or fill in the password and click the \"OK\" button to proceed to that step.)\n"
+"\n"
+"If you're having problems, simply head over to forum.cheatengine.org, then click on \"Tutorials\" to view beginner-friendly guides!"
+msgstr ""
+
+#: unit10.rsdead
+msgid "DEAD"
+msgstr ""
+
+#: unit10.rsfailureyourteamdied
+msgid "Failure. Your team died"
+msgstr ""
+
+#: unit10.rshealth
+#, object-pascal-format
+msgid "Health: %s"
+msgstr ""
+
+#: unit10.rsrestartgameandautoplay
+msgctxt "unit10.rsrestartgameandautoplay"
+msgid "Restart game and autoplay"
+msgstr ""
+
+#: unit10.rsstep9sharedcodepw
+#, object-pascal-format
+msgid "Step 9: Shared code: (PW=%s)"
+msgstr ""
+
+#: unit10.rsstop
+msgid "Stop"
+msgstr ""
+
+#: unit10.rsthisplayerisalreadydeadrestartthegame
+msgid "This player is already dead. Restart the game"
+msgstr ""
+
+#: unit10.rstryagain10
+msgid "Can't figure out how to do this? Don't worry. Try asking in the forum at cheatengine.org or perhaps someone already explained it better there. Are you sure you want to quit?"
+msgstr ""
+
+#: unit10.rstutorialstep9
+msgid ""
+"This step will explain how to deal with code that is used for other object of the same type\n"
+"\n"
+"Often when you've found health of a unit or your own player, you will find that if you remove the code, it affects enemies as well.\n"
+"In these cases you must find out how to distinguish between your and the enemies objects.\n"
+"Sometimes this is as easy as checking the first 4 bytes (Function pointer table) which often point to a unique location for the player, and sometimes it's a team number, or a pointer to a pointer to a pointer to a pointer to a pointer to a playername. It all depends on the complexity of the game, and your luck\n"
+"\n"
+"The easiest method is finding what addresses the code you found writes to and then use the dissect data feature to compare against two structures. (Your unit(s)/player and the enemies) And then see if you can find out a way to distinguish between them.\n"
+"When you have found out how to distinguish between you and the computer you can inject an assembler script that checks for the condition and then either do not execute the code or do something else. (One hit kills for example)\n"
+"Alternatively, you can also use this to build a so called \"Array of byte\" string which you can use to search which will result in a list of all your or the enemies players\n"
+"In this tutorial I have implemented the most amazing game you will ever play.\n"
+"It has 4 players. 2 Players belong to your team, and 2 Players belong to the computer. \n"
+"Your task is to find the code that writes the health and make it so you win the game WITHOUT freezing your health\n"
+"To continue, press \"Restart game and autoplay\" to test that your code is correct\n"
+"\n"
+"\n"
+"Tip: Health is a float\n"
+"Tip2: There are multiple solutions"
+msgstr ""
+
+#: unit10.rsu10thiswasthelasttutorial
+msgid "This was the last tutorial and you skipped it. You lose"
+msgstr ""
+
+#: unit2.rsawyouredeathletmereviveyou
+msgctxt "unit2.rsawyouredeathletmereviveyou"
+msgid "Aw, you're dead! Let me revive you"
+msgstr ""
+
+#: unit2.rsloser
+msgctxt "unit2.rsloser"
+msgid "BOO"
+msgstr ""
+
+#: unit2.rsquittingonstep2thisistheeasieststepthereisfindheal
+msgid "Quitting on step2? This is the easiest step there is. Find health, change health, done.... Sure you want to quit?"
+msgstr ""
+
+#: unit2.rsstep2exactvaluescanningpw
+msgid "Step 2: Exact Value scanning (PW="
+msgstr ""
+
+#: unit2.rstutorialstep2
+msgid ""
+"Now that you have opened the tutorial with Cheat Engine let's get on with the next step.\n"
+"\n"
+"You can see at the bottom of this window is the text Health: xxx\n"
+"Each time you click 'Hit me'  your health gets decreased.\n"
+"\n"
+"To get to the next step you have to find this value and change it to 1000\n"
+"\n"
+"To find the value there are different ways, but I'll tell you about the easiest, 'Exact Value':\n"
+"First make sure value type is set to at least 2-bytes or 4-bytes. 1-byte will also work, but you'll run into an easy to fix problem when you've found the address and want to change it. The 8-byte may perhaps works if the bytes after the address are 0, but I wouldn't take the bet.\n"
+"Single, double, and the other scans just don't work, because they store the value in a different way.\n"
+"\n"
+"When the value type is set correctly, make sure the scantype is set to 'Exact Value'\n"
+"Then fill in the number your health is in the value box. And click 'First Scan'\n"
+"After a while (if you have an extremely slow pc) the scan is done and the results are shown in the list on the left.\n"
+"\n"
+"If you find more than 1 address and you don't know for sure which address it is, click 'Hit me', fill in the new health value into the value box, and click 'Next Scan'\n"
+"repeat this until you're sure you've found it. (that includes that there's only 1 address in the list.....)\n"
+"\n"
+"Now double click the address in the list on the left. This makes the address pop-up in the list at the bottom, showing you the current value.\n"
+"Double click the value, (or select it and press enter), and change the value to 1000.\n"
+"\n"
+"If everything went ok the Next button should become enabled, and you're ready for the next step.\n"
+"\n"
+"\n"
+"Note:\n"
+"If you did anything wrong while scanning, click \"New Scan\" and repeat the scanning again.\n"
+"Also, try playing around with the value and click 'Hit me'."
+msgstr ""
+
+#: unit3.rsdead
+msgid "Seems you've done it again! Let me get a replacement! (And restart your scan!)"
+msgstr ""
+
+#: unit3.rsloser
+msgctxt "unit3.rsloser"
+msgid "BOO"
+msgstr ""
+
+#: unit3.rsstep3unknowninitialvaluepw
+msgid "Step 3: Unknown initial value (PW="
+msgstr ""
+
+#: unit3.rstryagain3
+msgid "Step 3 isn't really that hard. Just do a new scan, unkown initial value and then decreased value till you find it. Almost everyone gets past this one. Sure you want to quit?"
+msgstr ""
+
+#: unit3.rstutorialstep3
+msgid ""
+"Ok, seeing that you've figured out how to find a value using exact value let's move on to the next step.\n"
+"\n"
+"First things first though. Since you are doing a new scan, you have to click on New Scan first, to start a new scan. (You may think this is straighforward, but you'd be surprised how many people get stuck on that step) I won't be explaining this step again, so keep this in mind.\n"
+"Now that you've started a new scan, let's continue.\n"
+"\n"
+"In the previous test we knew the initial value so we could do an exact value search, but now we have a status bar where we don't know the starting value.\n"
+"We only know that the value is between 0 and 500. And each time you click 'Hit me' you lose some health. The amount you lose each time is shown above the status bar.\n"
+"\n"
+"Again there are several different ways to find the value. (like doing a decreased value by... scan), but I'll only explain the easiest. \"Unknown initial value\", and decreased value.\n"
+"Because you don't know the value it is right now, exact value wont do any good, so choose as scantype 'Unknown initial value', again, the value type is 4-bytes. (Most windows apps use 4-bytes.) Click First scan and wait till it's done.\n"
+"\n"
+"When it is done click 'Hit me'. You'll lose some of your health. (the amount you lost shows for a few seconds and then disappears, but you don't need that)\n"
+"Now go to Cheat Engine, and choose 'Decreased Value' and click 'Next Scan'\n"
+"When that scan is done, click 'Hit me' again, and repeat the above till you only find a few. \n"
+"\n"
+"We know the value is between 0 and 500, so pick the one that is most likely the address we need, and add it to the list.\n"
+"Now change the health to 5000, to proceed to the next step."
+msgstr ""
+
+#: unit5.rsconfirmclose5
+msgid "Come on. This step is simple. For health do a float scan, and for ammo a double type. (don't forget to disable fastscan for double in this case) Just ignore the fact that it looks different because it has a \".\" in the value. You sure you want to quit?"
+msgstr ""
+
+#: unit5.rsdead
+#, object-pascal-format
+msgid "I think you're dead!%sPress ok to become a brain eating zombie"
+msgstr ""
+
+#: unit5.rsloser
+msgctxt "unit5.rsloser"
+msgid "BOO"
+msgstr ""
+
+#: unit5.rsoutofammo
+#, object-pascal-format
+msgid "Out of ammo!%sPress ok to stock up on some ammo"
+msgstr ""
+
+#: unit5.rsstep4floatingpointspw
+msgid "Step 4: Floating points (PW="
+msgstr ""
+
+#: unit5.rstutorialstep4
+msgid ""
+"In the previous tutorial we used bytes to scan, but some games store information in so called 'floating point' notations. \n"
+"(probably to prevent simple memory scanners from finding it the easy way)\n"
+"a floating point is a value with some digits behind the point. (like 5.12 or 11321.1)\n"
+"\n"
+"Below you see your health and ammo. Both are stored as Floating point notations, but health is stored as a float and ammo is stored as a double.\n"
+"Click on hit me to lose some health, and on shoot to decrease your ammo with 0.5\n"
+" \n"
+"You have to set BOTH values to 5000 or higher to proceed.\n"
+"\n"
+"Exact value scan will work fine here, but you may want to experiment with other types too.\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Hint: It is recommended to disable \"Fast Scan\" for type double"
+msgstr ""
+
+#: unit6.rsloser
+msgctxt "unit6.rsloser"
+msgid "BOO"
+msgstr ""
+
+#: unit6.rsstep5codefinderpw
+#, object-pascal-format
+msgid "Step 5: Code finder (PW=%s)"
+msgstr ""
+
+#: unit6.rstryagain6
+msgid "This may look difficult, but it shouldn't be. Basically find health, right click health, find what overwrites it, change health, click replace, change health, done.  But don't feel down if you don't get it. At least you know the basics of memory scanning...  Are you sure you want to quit?"
+msgstr ""
+
+#: unit6.rstutorialstep5
+msgid ""
+"Sometimes the location of a value is stored at changes, when you restart the game, or even while you're playing. In that case you can use 2 things to still make a table that works.\n"
+"In this step I'll try to describe how to use the Code Finder function.\n"
+"\n"
+"The value down here will be at a different location each time you start the tutorial, so a normal entry in the address list wouldn't work.\n"
+"First try to find the address. (You've got to this point so I assume you know how to do that.)\n"
+"When you've found the address, right-click the address in Cheat Engine and choose \"Find out what writes to this address\". A window will pop up with an empty list.\n"
+"Then click on the Change value button in this tutorial, and go back to Cheat Engine. If everything went right, there should be an address with assembler code there now.\n"
+"Click it and choose the Replace option to replace it with code that does nothing. That will also add the code address to the code list in the Advanced Options window. (Which gets saved if you save your table.)\n"
+"\n"
+"Click on Stop, so the game will start running normal again, and click on Close to close the window.\n"
+"Now, click on Change value, and if everything went right the Next button should become enabled.\n"
+"\n"
+"Note: When you're freezing the address with a high enough speed it may happen that Next becomes visible anyhow."
+msgstr ""
+
+#: unit6.rswelldoneyouscrewedupthetutorial
+msgctxt "unit6.rswelldoneyouscrewedupthetutorial"
+msgid "Well done, you screwed up the tutorial!!!!"
+msgstr ""
+
+#: unit7.rsdontfuckingfreezethepointer
+msgid "I'm sorry, but freezing the pointer is not really a functional solution"
+msgstr ""
+
+#: unit7.rsloser
+msgctxt "unit7.rsloser"
+msgid "BOO"
+msgstr ""
+
+#: unit7.rsstep6pointerspw
+#, object-pascal-format
+msgid "Step 6: Pointers: (PW=%s)"
+msgstr ""
+
+#: unit7.rstryagain7
+msgid "So, pointers are too difficult eh? Don't worry, try again later. For most beginners this is difficult to grasp. But I have to tell you it's a powerful feature if you learn to use it. Are you sure you want to quit?"
+msgstr ""
+
+#: unit7.rstutorialstep6
+msgid ""
+"Step 6: Pointers (PW = 098712)\n"
+"In earlier steps you found values by scanning memory directly. This works only as long as the value stays at the same address. Many programs and games store values at different memory locations while running or each time they start. When that happens, normal scans no longer work. Pointers are used to solve this problem.\n"
+"\n"
+"A pointer is an address that contains another address. Even if the final value moves, the pointer usually stays the same, which allows you to always find the value again.\n"
+"\n"
+"At the bottom of the tutorial program there are two buttons. One button changes only the value. The other button changes both the value and the memory location. This step teaches you how to find a pointer that still works even when the location changes.\n"
+"\n"
+"You do not need to know assembly language for this step, but basic understanding will help.\n"
+"\n"
+"First, find the address of the value the same way you did in previous steps. Once you have the correct address, right-click it and choose “Find out what accesses this address.” A new window will open.\n"
+"\n"
+"Now click the button in the tutorial that changes the value. One or more instructions will appear in the list. It is normal to see multiple results. Some instructions write to the address, and others only read from it.\n"
+"\n"
+"You can double-click any instruction or select it and click “More Info” to see detailed information. Do not worry if you are unsure which instruction to use at first.\n"
+"\n"
+"When looking at the instructions, focus on how the memory address inside the square brackets is calculated. If an instruction does not have anything between a [ and ], ignore it and try another one.\n"
+"\n"
+"Both read and write instructions can be useful. Even if an instruction only reads the value, it still shows how the address was calculated. Some read instructions may also modify the register they use. This is not a problem.\n"
+"\n"
+"Remember that you started by telling Cheat Engine to find what accesses this specific address. That means the expression inside the square brackets must evaluate to the address of the value you found.\n"
+"\n"
+"For example, you might see an instruction like:\n"
+"mov eax,[eax]\n"
+"\n"
+"This may look confusing at first. You can think of it as:\n"
+"mov eax,[eax+0]\n"
+"\n"
+"Since you know that [eax+0] was the address you told Cheat Engine to watch, this means that the value in the EAX register before the instruction ran must have been the address of the value itself. In this case, EAX is the pointer and the offset is 0.\n"
+"\n"
+"The same logic applies to other instructions. Even if the instruction changes a register, you can still use the calculation inside the square brackets to determine which register holds the base pointer and what offset is used.\n"
+"\n"
+"If Cheat Engine’s extra information window shows what it believes the pointer value is, remember that value.\n"
+"\n"
+"Next, go back to the main Cheat Engine window and scan for the pointer value. Use an exact value scan in hexadecimal. If the target program is 32-bit, use a 4 byte scan. If the target program is 64-bit, pointers are usually 8 bytes, so use an 8 byte scan instead.\n"
+"\n"
+"After scanning, you may get one address or many addresses. In most cases, the correct pointer is the smallest address in the list.\n"
+"\n"
+"Now click “Add Address Manually” and enable the pointer checkbox. The window will change and allow you to enter a pointer address and an offset.\n"
+"\n"
+"Enter the pointer address you found. You can enter it relative to the process, for example “Tutorial-i386.exe + xxxxxx,” or you can double-click the address in the scan results to add it to the address list and then use the absolute address shown there.\n"
+"\n"
+"Now enter the offset. If the instruction looked like [esi+12], then the offset is 12 in hexadecimal. If it looked like [esi], then the offset is 0.\n"
+"\n"
+"If the instruction was more complicated, such as:\n"
+"[EAX*2 + EDX + 00000310]\n"
+"\n"
+"Then EDX is the pointer, and everything else is part of the offset. For example, if eax was 4C, the offset would be calculated as 2 times 4C plus 310, which equals 3A8 in hexadecimal. You can use Windows Calculator in Programmer mode to do hexadecimal calculations.\n"
+"\n"
+"Click OK to add the pointer. If everything was done correctly, the address in the list will show something like P->xxxxxxx, where xxxxxxx is the actual address of the value. If it does not, then something went wrong in an earlier step.\n"
+"\n"
+"Finally, use the pointer you added to change the value to 5000 and check the Active box to freeze it. Then click the Change Pointer button in the tutorial. If the pointer works correctly, the Next button will appear.\n"
+"\n"
+"\n"
+"\n"
+"As an extra option, you can also use Cheat Engine’s pointer scanner to automatically search for pointers. This is especially useful in real games, but it is slower and more advanced."
+msgstr ""
+
+#: unit7.rswelldoneyouscrewedupthetutorial
+msgctxt "unit7.rswelldoneyouscrewedupthetutorial"
+msgid "Well done, you screwed up the tutorial!!!!"
+msgstr ""
+
+#: unit7.rsyouvegotsecondslefttochangethevalueto5000
+#, object-pascal-format
+msgid "You have %s second%s left to change the value to 5000"
+msgstr ""
+
+#: unit8.rsawyouredeathletmereviveyou
+msgctxt "unit8.rsawyouredeathletmereviveyou"
+msgid "Aw, you're dead! Let me revive you"
+msgstr ""
+
+#: unit8.rshealth
+msgid "Health"
+msgstr ""
+
+#: unit8.rsloser
+msgctxt "unit8.rsloser"
+msgid "BOO"
+msgstr ""
+
+#: unit8.rsstep7codeinjectionpw
+#, object-pascal-format
+msgid "Step 7: Code Injection: (PW=%s)"
+msgstr ""
+
+#: unit8.rstryagain8
+msgid "Code injections too tough? No problem, memory scanning and basic pointers should be enough to get you experienced enough and you can always try the tutorial later. Are you sure you want to quit?"
+msgstr ""
+
+#: unit8.rstutorialstep7
+msgid ""
+"Code injection is a technique where you inject a piece of code into the target process, and then reroute the execution of code to go through your own written code.\n"
+"\n"
+"In this tutorial you'll have a health value and a button that will decrease your health by 1 each time you click it.\n"
+"Your task is to use code injection to make the button increase your health by 2 each time it is clicked.\n"
+"\n"
+"Start with finding the address and then find what writes to it.\n"
+"Then when you've found the code that decreases it browse to that address in the disassembler, and open the auto assembler window (Ctrl+A).\n"
+"There click on template and then code injection, and give it the address that decreases health (if it isn't already filled in correctly).\n"
+"That will generate a basic auto assembler injection framework you can use for your code.\n"
+"\n"
+"Notice the alloc, that will allocate a block of memory for your code cave, in the past, in the pre windows 2000 systems, people had to find code caves in the memory (regions of memory unused by the game), but that's luckily a thing of the past since windows 2000, and will these days cause errors when trying to be used, due to SP2 of XP and the NX bit of new CPUs.\n"
+"\n"
+"Also notice the line newmem: and originalcode: and the text \"Place your code here\".\n"
+"As you guessed it, write your code here that will increase the health with 2.\n"
+"A useful assembler instruction in this case is the \"ADD instruction\".\n"
+"\n"
+"Here are a few examples:\n"
+"\"ADD [00901234],9\" to increase the address at 00901234 with 9\n"
+"\"ADD [ESP+4],9\" to increase the address pointed to by ESP+4 with 9\n"
+"In this case, you'll have to use the same thing between the brackets as the original code has that decreases your health.\n"
+"\n"
+"Notice:\n"
+"It is recommended to delete the line that decreases your health from the original code section, else you'll have to increase your health with 3 (you increase with 3, the original code decreases with 1, so the end result is increase with 2), which might become confusing. But it's all up to you and your programming.\n"
+"\n"
+"Notice 2:\n"
+"In some games the original code can exist out of multiple instructions, and sometimes, not always, it might happen that a code at another place jumps into your jump instruction end will then cause unknown behavior. If that happens, you should usually look near that instruction and see the jumps and fix it, or perhaps even choose to use a different address to do the code injection from. As long as you're able to figure out the address to change from inside your injected code."
+msgstr ""
+
+#: unit9.rsloser
+msgctxt "unit9.rsloser"
+msgid "BOO"
+msgstr ""
+
+#: unit9.rsstep8multilevelpointerspw
+#, object-pascal-format
+msgid "Step 8: Multilevel pointers: (PW=%s)"
+msgstr ""
+
+#: unit9.rstryagain9
+msgid "Aw, you've almost reached the end. But don't worry, multilevel pointers can be a real pain when dealing with. If you get more experienced someday you can try it again. Are you sure you want to quit?"
+msgstr ""
+
+#: unit9.rstutorialstep8
+msgid ""
+"This step will explain how to use multi-level pointers.\n"
+"In step 6 you had a simple level-1 pointer, with the first address found already being the real base address.\n"
+"This step however is a level-4 pointer. It has a pointer to a pointer to a pointer to a pointer to a pointer to the health.\n"
+"\n"
+"You basicly do the same as in step 6. Find out what accesses the value, look at the instruction and what probably is the base pointer value, and what is the offset, and already fill that in or write it down. But in this case the address you'll find will also be a pointer. You just have to find out the pointer to that pointer exactly the same way as you did with the value. Find out what accesses that address you found, look at the assembler instruction, note the probable instruction and offset, and use that.\n"
+"And continue till you can't get any further (usually when the base address is a static address, shown up as green.)\n"
+"\n"
+"Click Change Value to let the tutorial access the health.\n"
+"If you think you've found the pointer path click Change Register. The pointers and value will then change and you'll have 3 seconds to freeze the address to 5000.\n"
+"\n"
+"Extra: This problem can also be solved using an auto assembler script, or using the pointer scanner.\n"
+"Extra2: In some situations it is recommended to change CE's Codefinder settings to Access violations when \n"
+"encountering instructions like mov eax,[eax] since debug registers show it AFTER it was changed, making it hard to find out the value of the pointer.\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Extra3: If you're still reading. You might notice that when looking at the assembler instructions that the pointer is being read and filled out in the same codeblock (same routine, if you know assembler, look up till the start of the routine). This doesn't always happen, but can be really useful in finding a pointer when debugging is troublesome."
+msgstr ""
+
+#: unit9.rsunrandomizerdetected
+msgid "Unrandomizer detected"
+msgstr ""
+
+#: unit9.rsyouvegotsecondslefttochangethevalueto5000
+#, object-pascal-format
+msgid "You've got %s seconds left to change the value to 5000"
+msgstr ""
+
