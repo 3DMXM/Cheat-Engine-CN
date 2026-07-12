@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3dmxm.github.io/Cheat-Engine-CN/sitemap.xml

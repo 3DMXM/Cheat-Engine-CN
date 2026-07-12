@@ -8952,7 +8952,7 @@ msgstr "Cheat Engine"
 
 #: tabout.label1.caption
 msgid "Made by: Dark Byte"
-msgstr "作者：Dark Byte"
+msgstr "作者：Dark Byte\n汉化: 小莫"
 
 #: tabout.label10.caption
 msgid "Script engine powered by Lua"

@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cheat Engine CE Share\n"
+"PO-Revision-Date: 2026-07-12 00:00+0800\n"
+"Last-Translator: Cheat Engine CN\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: frmCEShareCheatBrowser.TTrainerForm.Caption
+msgid "Cheat Browser"
+msgstr "作弊表浏览器"
+
+#: frmCEShareCheatBrowser.CELabel.Caption
+msgid "Processname:"
+msgstr "进程名称："
+
+#: frmCEShareCheatBrowser.Title.Caption
+msgid "Title"
+msgstr "标题"
+
+#: frmCEShareCheatBrowser.Author.Caption
+msgid "Author"
+msgstr "作者"
+
+#: frmCEShareCheatBrowser.Public.Caption
+msgid "Public"
+msgstr "公开"
+
+#: frmCEShareCheatBrowser.Score.Caption
+msgid "Score"
+msgstr "评分"
+
+#: frmCEShareCheatBrowser.Version.Caption
+msgid "Version independent"
+msgstr "不受版本限制"
+
+# msgid ""
+# msgstr ""
+#: frmCEShareCheatBrowser.Signed.Caption frmCEShareCheatBrowser.Match.Caption
+msgid "% Match"
+msgstr "匹配度（%）"
+
+#: frmCEShareCheatBrowser.btnLoadTable.Caption
+msgid "    Load    "
+msgstr "    加载    "
+
+#: frmCEShareCheatBrowser.btnAddViewComments.Caption
+msgid "Add/View Comments"
+msgstr "添加/查看评论"
+
+#: frmCEShareCheatBrowser.lblRate.Caption
+msgid "Rate:"
+msgstr "评分："
+
+#: frmCEShareCheatBrowser.btnViewHistory.Caption
+msgid "View History"
+msgstr "查看历史记录"
+
+#: frmCEShareCheatBrowser.lblContact.Hint
+msgid "For contacting the table owner or site admin"
+msgstr "用于联系作弊表所有者或网站管理员"
+
+#: frmCEShareCheatBrowser.lblContact.Caption
+msgid "Contact"
+msgstr "联系"
+
+#: frmCEShareCheatBrowser.miLoad.Caption
+msgid "Load Table"
+msgstr "加载作弊表"
+
+#: frmCEShareCheatBrowser.miViewComments.Caption
+msgid "View Comments"
+msgstr "查看评论"
+
+#: frmCEShareCheatBrowser.miLoginToSeeMoreOptions.Caption
+msgid "Login to see more options"
+msgstr "登录以查看更多选项"
+
+#: frmCEShareCheatBrowser.miUpdateTable.Caption
+#: frmCEShareUpdateOrNew_1.btnChoose.Caption
+msgid "Update table"
+msgstr "更新作弊表"
+
+#: frmCEShareCheatBrowser.miDeleteTable.Caption
+msgid "Delete table"
+msgstr "删除作弊表"
+
+#: frmCEShareCheatBrowser.miManageAccessList.Caption
+msgid "Manage accesslist"
+msgstr "管理访问列表"
+
+#: ceshare_frmComments.lblPrevious25.Caption
+msgid "Previous 25"
+msgstr "上一页（25 条）"
+
+#: ceshare_frmComments.lblNext25.Caption
+msgid "Next 25"
+msgstr "下一页（25 条）"
+
+#: ceshare_frmComments.btnSend.Caption
+msgid "   Send   "
+msgstr "   发送   "
+
+#: ceshare_initiaISetup.Caption
+msgid "CEShare Initial Setup"
+msgstr "CE Share 初始设置"
+
+#: ceshare_initiaISetup.CELabel1.Caption
+msgid "CEShare community URL:"
+msgstr "CE Share 社区 URL："
+
+#: ceshare_initiaISetup.CELabel2.Caption
+msgid "By entering a CEShare URL you will be able to upload and download Cheat Tables from a ceshare server community"
+msgstr "输入 CE Share URL 后，即可在 CE Share 服务器社区上传和下载作弊表"
+
+#: ceshare_initiaISetup.CELabel3.Caption
+msgid ""
+"Disclaimer: These are third-party servers. They are not owned or maintained by the Cheat Engine project, and no warranty or responsiblity regarding their content is given.  DMCA Claims need to be send to the appropriate administrator of the server who will be reachable by the link in the bottom right part of a cheat table entry\n"
+"\n"
+"Please contact the respective server owner for further inquiries."
+msgstr ""
+"免责声明：这些服务器由第三方运营，并非 Cheat Engine 项目所有或维护；本项目不对其内容作任何保证，也不承担相关责任。DMCA 投诉应发送给相应的服务器管理员。可通过作弊表条目右下角的链接联系该管理员。\n"
+"\n"
+"如有其他疑问，请联系相应的服务器所有者。"
+
+#: ceshare_initiaISetup.CELabel4.Caption
+msgid "Click cancel or leave empty if you don't wish to use this"
+msgstr "如果不想使用此功能，请单击“取消”或留空"
+
+#: ceshare_initiaISetup.CEButton1.Caption
+msgid "OK"
+msgstr "确定"
+
+#: ceshare_initiaISetup.CEButton2.Caption
+msgid "Cancel"
+msgstr "取消"
+
+#: frmCESharePublishCheat.Caption
+msgid "Publish New Cheat"
+msgstr "发布新作弊表"
+
+#: frmCESharePublishCheat.lblTitle.Caption
+msgid "Title:"
+msgstr "标题："
+
+#: frmCESharePublishCheat.lblHeaderMD5Text.Caption
+msgid "Header MD5:"
+msgstr "文件头 MD5："
+
+#: frmCESharePublishCheat.cbNeedsFullFilrHash.Caption
+msgid "Needs full file hash"
+msgstr "需要完整文件哈希"
+
+#: frmCESharePublishCheat.lblFullHeaderMD5Text.Caption
+msgid "Full file hash:"
+msgstr "完整文件哈希："
+
+#: frmCESharePublishCheat.cbUseSecondaryModule.Caption
+msgid "Needs secondary modulecheck"
+msgstr "需要检查辅助模块"
+
+#: frmCESharePublishCheat.lblModulename.Caption
+msgid "Modulename"
+msgstr "模块名称"
+
+#: frmCESharePublishCheat.lblURL.Caption
+msgid "URL (Optional)"
+msgstr "URL（可选）"
+
+#: frmCESharePublishCheat.cbPublic.Caption
+msgid "Allow everyone to edit this table"
+msgstr "允许所有人编辑此作弊表"
+
+#: frmCESharePublishCheat.cbPublic.Hint
+msgid "When this is enabled will let EVERYONE be able to edit/replace your table.  So be careful with enabling this and understand that once someone else has modified the table, you will not be able to delete it anymore"
+msgstr "启用后，任何人都能编辑或替换您的作弊表。请谨慎启用；一旦他人修改了该表，您将无法再将其删除"
+
+#: frmCESharePublishCheat.btnPublish.Caption
+msgid "Publish"
+msgstr "发布"
+
+#: frmCEShareUpdateOrNew_1.Caption
+msgid "Update/publish"
+msgstr "更新/发布"
+
+#: frmCEShareUpdateOrNew_1.rbPublish.Caption
+msgid "Publish new table"
+msgstr "发布新作弊表"
+
+#: ceshare_permissions.Caption
+msgid "Update Permissions"
+msgstr "更新权限"
+
+#: ceshare_permissions.lblIDTxt.Caption
+msgid "ID"
+msgstr "ID"
+
+#: ceshare_permissions.lblOwnerTxt.Caption
+msgid "Owner"
+msgstr "所有者"
+
+#: ceshare_permissions.mrOK.Caption
+msgid "  OK  "
+msgstr "  确定  "
+
+#: ceshare_permissions.btnAddUser.Caption
+msgid "Add user"
+msgstr "添加用户"
+
+#: miCESHARETopMenuItem.Caption
+msgid "CE Share"
+msgstr "CE 分享"
+
+#: miCheckForCheats.Caption
+msgid "Check for mods/cheats for current process"
+msgstr "查找当前进程可用的模组/作弊表"
+
+#: miRequestCheats.Caption
+msgid "Request and check other requests for mods/cheats for current process"
+msgstr "请求当前进程的模组/作弊表并查看其他请求"
+
+#: miLoginToSeeMoreOptions.Caption
+msgid "Publish/Update table"
+msgstr "发布/更新作弊表"
+
+#: miViewAllTables.Caption
+msgid "View all available tables"
+msgstr "查看所有可用作弊表"
+
+#: sf.SettingsTreeView.Items.insert
+msgid "CEShare"
+msgstr "CE 分享"
+
+#: lblCEShareLabel.Caption
+msgid "CEShare community URL"
+msgstr "CE Share 社区 URL"
+
+#: d.Caption
+msgid "Secondary identifier code"
+msgstr "辅助标识代码"
+
+#: btnAllow.Caption
+msgid "Allow"
+msgstr "允许"
+
+#: header.caption
+msgid "This process needs a special identifier to set it apart from others with the same name. To generate this identifier the below code is needed. Do you agree with the execution of this code to generate the identifier?"
+msgstr "此进程需要特殊标识符，以便与其他同名进程区分。生成该标识符需要执行以下代码。是否允许执行？"
+
+#: Error
+msgid "Error:"
+msgstr "错误："
+
+#: IRFS
+msgid "Invalid reply from server:"
+msgstr "服务器返回了无效响应："
+
+#: SDNR
+msgid "Server did not respond"
+msgstr "服务器未响应"
+
+#: ceshare_account-f.Caption
+msgid "CEShare Login"
+msgstr "登录 CE Share"
+
+#: ceshare_account-lblUsername.Caption
+msgid "Username"
+msgstr "用户名"
+
+#: ceshare_account-lblPassword.Caption
+msgid "Password"
+msgstr "密码"
+
+#: ceshare_account-lblRegister.Caption
+msgid "Register"
+msgstr "注册"
+
+#: ceshare_account-cbLogoutWhenLoadingTables.Caption
+msgid "Logout when loading ceshare tables"
+msgstr "加载 CE Share 作弊表时退出登录"
+
+#: ceshare_account-cbLogoutWhenLoadingTables.Hint
+msgid "When checked you will get logged out when loading a ceshare table. This to prevent malicious tables from using your account"
+msgstr "选中后，加载 CE Share 作弊表时将退出登录，以防恶意作弊表使用您的账户"
+
+#: ceshare_permissions
+msgid "Are you sure you wish to change the owner?"
+msgstr "确定要更改所有者吗？"
+
+#: ceshare_permissions1
+msgid "Access has been updated"
+msgstr "访问权限已更新"
+
+#: ceshare_publish
+msgid "Are you sure you wish to delete this table?"
+msgstr "确定要删除此作弊表吗？"
+
+#: ceshare_publish
+msgid "Table successfuly deleted"
+msgstr "作弊表已成功删除"
+
+#: ceshare_publish
+msgid "processname is empty"
+msgstr "进程名称不能为空"
+
+#: ceshare_publish
+msgid "title is empty"
+msgstr "标题不能为空"
+
+#: ceshare_publish
+msgid "data is empty"
+msgstr "数据不能为空"
+
+#: ceshare_publish
+msgid "description is empty"
+msgstr "描述不能为空"
+
+#: ceshare_publish
+msgid "Thank you, your table has been published"
+msgstr "谢谢，您的作弊表已发布"
+
+#: ceshare_publish
+msgid "No id given"
+msgstr "未提供 ID"
+
+#: ceshare_publish
+msgid "Thank you, your table has been updated"
+msgstr "谢谢，您的作弊表已更新"
+
+#: ceshare_publish
+msgid "Please select a cheattable to update"
+msgstr "请选择要更新的作弊表"
+
+#: ceshare_publish
+msgid "Invalid background update query list"
+msgstr "后台更新查询列表无效"
+
+#: ceshare_publish
+msgid "Are you sure you wish to let 'Everyone' overwrite your table in the ceshare system ?"
+msgstr "确定要允许“所有人”在 CE Share 系统中覆盖您的作弊表吗？"
+
+#: ceshare_publish
+msgid "Do you wish to sign this table?"
+msgstr "是否要对该作弊表进行签名？"
+
+#: ceshare_querycheats
+msgid "Contact who?"
+msgstr "要联系谁？"
+
+#: ceshare_querycheats
+msgid "Site Admin"
+msgstr "网站管理员"
+
+#: ceshare_querycheats
+msgid "Table Owner"
+msgstr "作弊表所有者"
+
+#: ceshare_querycheats
+msgid "Sorry, but there are currently no tables for this target. Perhaps you can be the first"
+msgstr "抱歉，目前没有适用于此目标的作弊表。也许您可以发布第一份"
+
+#: ceshare_requests
+msgid "Requests"
+msgstr "请求"
+
+#: ceshare_requests
+msgid "Score="
+msgstr "评分="
+
+#: ceshare_fulltablelist
+msgid "  and %d more tables..."
+msgstr "  另有 %d 个作弊表..."
+
+#: ceshare_fulltablelist
+msgid "All tables"
+msgstr "所有作弊表"
+
+#: ceshare_fulltablelist
+msgid "Search:"
+msgstr "搜索："
+
+#: ceshare_fulltablelist
+msgid "Previous (25)"
+msgstr "上一页（25 条）"
+
+#: ceshare_fulltablelist
+msgid "Next (25)"
+msgstr "下一页（25 条）"

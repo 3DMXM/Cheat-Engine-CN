@@ -12,7 +12,7 @@ msgstr "确定"
 #: tform1.button1.caption
 msgctxt "tform1.button1.caption"
 msgid "Next Ⓟⓔⓝⓘⓢ"
-msgstr "下一步 Ⓟⓔⓝⓘⓢ"
+msgstr "下一步"
 
 #: tform1.button1.hint
 msgid "Click this to continue!!!"
