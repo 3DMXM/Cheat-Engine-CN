@@ -1,4 +1,4 @@
-# Cheat Engine 7.6 汉化文本
+# Cheat Engine 7.7 汉化文本
 
 汉化: 小莫
 

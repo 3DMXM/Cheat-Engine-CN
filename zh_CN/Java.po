@@ -1,3 +1,9 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #: java-AAF
 msgid "Auto assembler failed:"
 msgstr "自动汇编器失败："
@@ -20,7 +26,7 @@ msgstr "Java：事件处理程序正在终止"
 
 #: java-IJS
 msgid "Invalid java signature"
-msgstr "无效的Java签名"
+msgstr "无效的 Java 签名"
 
 #: java-ARTANS
 msgid "Array return types are not supported"
@@ -84,11 +90,11 @@ msgstr "---方法---"
 
 #: java-SFC
 msgid "Search for class..."
-msgstr "搜索类..."
+msgstr "搜索类…"
 
 #: java-SF
 msgid "Search for..."
-msgstr "搜索..."
+msgstr "搜索…"
 
 #: java-NewS
 msgid "New Scan"
@@ -100,7 +106,7 @@ msgstr "首次扫描"
 
 #: java-JVScanner
 msgid "Java Variable Scanner"
-msgstr "Java变量扫描器"
+msgstr "Java 变量扫描器"
 
 #: java-Value
 msgid "Value"
@@ -108,7 +114,7 @@ msgstr "值"
 
 #: java-NextS
 msgid "Next Scan"
-msgstr "下一次扫描"
+msgstr "再次扫描"
 
 #: java-Found
 msgid "Found:"
@@ -116,7 +122,7 @@ msgstr "找到："
 
 #: java-FWATV
 msgid "Find what accesses this value"
-msgstr "查找访问此值的内容"
+msgstr "查找是什么访问了该值"
 
 #: java-Search
 msgid "Search"
@@ -128,7 +134,7 @@ msgstr "查找类"
 
 #: java-Finddotdotdot
 msgid "Find..."
-msgstr "查找..."
+msgstr "查找…"
 
 #: java-EM
 msgid "Edit method"
@@ -136,15 +142,15 @@ msgstr "编辑方法"
 
 #: java-AJF
 msgid "Activate java features"
-msgstr "激活Java功能"
+msgstr "启用 Java 功能"
 
 #: java-DJC
 msgid "Dissect java classes"
-msgstr "解析Java类"
+msgstr "分析 Java 类"
 
 #: java-JVScan
 msgid "Java variable scan"
-msgstr "Java变量扫描"
+msgstr "Java 变量扫描"
 
 #: java-DCP
 msgid "Debug child processes"
@@ -152,11 +158,11 @@ msgstr "调试子进程"
 
 #: java-JHDTI
 msgid "The java handler failed to initialize"
-msgstr "Java处理器初始化失败"
+msgstr "Java 处理程序初始化失败"
 
 #: java-SJMIEITTP
 msgid "Show java menu item even if the target process hasn't loaded jvm.dll (Used for the local setEnvironment option)"
-msgstr "即使目标进程未加载jvm.dll也显示Java菜单项（用于本地setEnvironment选项）"
+msgstr "即使目标进程尚未加载 jvm.dll，也显示 Java 菜单项（用于本地 setEnvironment 选项）"
 
 #: javaclass-ICPTE
 msgid "Invalid constant pool tag encountered: "
@@ -176,7 +182,7 @@ msgstr " 当前未实现"
 
 #: javaclasseditor-WCNBUW
 msgid "wide can not be used with "
-msgstr "wide不能与以下指令一起使用："
+msgstr "wide 不能与以下指令一起使用："
 
 #: javaclasseditor-IAOPPF
 msgid "Invalid amount of parameters provided for "
@@ -216,7 +222,7 @@ msgstr "插入行"
 
 #: javaclasseditor-ITJAC
 msgid "Input the java assembly code you wish to insert at line "
-msgstr "输入您希望在该行插入的Java汇编代码 "
+msgstr "请输入要插入到以下行的 Java 汇编代码："
 
 #: javaclasseditor-EL
 msgid "Edit line"
@@ -228,7 +234,7 @@ msgstr "定义新标签"
 
 #: javaclasseditor-GALFL
 msgid "Give a labelname for line "
-msgstr "为该行指定标签名 "
+msgstr "请为以下行指定标签名："
 
 #: javaclasseditor-TIAALWTN
 msgid "There is already a label with this name"
@@ -236,11 +242,11 @@ msgstr "已存在同名标签"
 
 #: javaclasseditor-OBSNBS
 msgid "old bsize=%d new bsize=%d"
-msgstr "旧字节大小=%d 新字节大小=%d"
+msgstr "旧字节大小 = %d，新字节大小 = %d"
 
 #: javaclasseditor-OSNS
 msgid "old size=%d new size=%d"
-msgstr "旧大小=%d 新大小=%d"
+msgstr "旧大小 = %d，新大小 = %d"
 
 #: javaclasseditor-Method
 msgid "Method: "
@@ -248,11 +254,11 @@ msgstr "方法："
 
 #: javaclasseditor-MS
 msgid "Max Stack"
-msgstr "最大栈"
+msgstr "最大栈深度"
 
 #: javaclasseditor-ML
 msgid "Max Locals"
-msgstr "最大本地变量"
+msgstr "最大局部变量数"
 
 #: javaclasseditor-SC
 msgid "Save changes"

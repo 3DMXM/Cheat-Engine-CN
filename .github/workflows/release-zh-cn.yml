@@ -1,0 +1,30 @@
+name: Upload zh_CN Release Archive
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  upload-archive:
+    name: Package and upload zh_CN
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the released version
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          ref: ${{ github.event.release.tag_name }}
+          persist-credentials: false
+
+      - name: Create zh_CN.zip
+        run: git archive --format=zip --prefix=zh_CN/ --output=zh_CN.zip HEAD:zh_CN
+
+      - name: Upload archive to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: gh release upload "$RELEASE_TAG" zh_CN.zip --clobber

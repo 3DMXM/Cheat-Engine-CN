@@ -1,19 +1,25 @@
-#: SS-OaPF  
-msgid "Open a process first"  
-msgstr "请先选择一个进程"  
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
-#: SS-CESF  
-msgid "Cheat Engine Scan files"  
-msgstr "Cheat Engine 扫描文件"  
+#: SS-OaPF
+msgid "Open a process first"
+msgstr "请先打开一个进程"
 
-#: SS-OaPFDaS  
-msgid "Open a process first and do a scan"  
-msgstr "请先选择进程再进行扫描"  
+#: SS-CESF
+msgid "Cheat Engine Scan files"
+msgstr "Cheat Engine 扫描文件"
 
-#: SS-SSS  
-msgid "Save scan session"  
-msgstr "保存扫描会话"  
+#: SS-OaPFDaS
+msgid "Open a process first and do a scan"
+msgstr "请先打开一个进程并进行扫描"
 
-#: SS-LSS  
-msgid "Load scan session"  
-msgstr "加载扫描会话"  
+#: SS-SSS
+msgid "Save scan session"
+msgstr "保存扫描会话"
+
+#: SS-LSS
+msgid "Load scan session"
+msgstr "加载扫描会话"
