@@ -241,16 +241,16 @@ msgstr "无法写入此地址的内存"
 #: advancedoptionsunit.strfindwhatcodeaccesses
 msgctxt "advancedoptionsunit.strfindwhatcodeaccesses"
 msgid "Find out what addresses this code accesses"
-msgstr "查找此代码访问的地址"
+msgstr "找出此代码访问了哪些地址"
 
 #: advancedoptionsunit.strfindwhatcodereads
 msgid "Find out what addresses this code reads from"
-msgstr "查找此代码读取的地址"
+msgstr "找出此代码从哪些地址读取了数据"
 
 #: advancedoptionsunit.strfindwhatcodewrites
 msgctxt "advancedoptionsunit.strfindwhatcodewrites"
 msgid "Find out what addresses this code writes to"
-msgstr "查找此代码写入的地址"
+msgstr "找出此代码写入了哪些地址"
 
 #: advancedoptionsunit.strnamececode
 msgid "What name do you want to give this code?"
@@ -2068,8 +2068,8 @@ msgid ""
 "The debugger did not collect any IPT data. This may be due to the Intel PT feature not being enabled in settings/malfunctioning, or that the option to also log the trace in \"find what...\" results was disabled. Do you wish to enable this for this debugging session? You will need to recollect this information again though.\n"
 "(This is for this session only. If you wish to always turn it on from the start, go to settings->debugger options, and enable \"Use Intel-PT feature\" and the suboption for recording elements in \"find what ...\" routines)"
 msgstr ""
-"调试器未收集任何 IPT 数据。可能是因为未在设置中启用 Intel PT、该功能出现故障，或已禁用在“查找什么...”结果中记录跟踪的选项。要为本次调试会话启用该选项吗？启用后需要重新收集这些信息。\n"
-"（此设置仅对当前会话有效。若要始终从一开始就启用，请前往“设置 -> 调试器选项”，启用“使用 Intel-PT 功能”及其子选项“在‘查找什么...’例程中记录元素”）"
+"调试器未收集任何 IPT 数据。可能是因为未在设置中启用 Intel PT、该功能出现故障，或已禁用在“找出是什么……”结果中记录跟踪的选项。要为本次调试会话启用该选项吗？启用后需要重新收集这些信息。\n"
+"（此设置仅对当前会话有效。若要始终从一开始就启用，请前往“设置 -> 调试器选项”，启用“使用 Intel-PT 功能”及其子选项“在‘找出是什么……’功能的各个结果中记录跟踪信息”）"
 
 #: formchangedaddresses.rsnoaddressesleftforgroup
 #, object-pascal-format
@@ -2136,8 +2136,8 @@ msgid ""
 "The debugger did not collect any IPT data. This may be due to the Intel PT feature not being enabled in settings/malfunctioning, or that the option to also log the trace in \"find what...\" results was disabled. Do you wish to enable this for this debugging session? You will need to recollect this information again though.\n"
 "(This is for this session only. If you wish to always turn it on from the start, go to settings->debugger options, and enable \"Use Intel-PT feature\" and the suboption for recording elements in \"find what ...\" routines)"
 msgstr ""
-"调试器未收集任何 IPT 数据。可能是因为未在设置中启用 Intel PT、该功能出现故障，或已禁用在“查找什么...”结果中记录跟踪的选项。要为本次调试会话启用该选项吗？启用后需要重新收集这些信息。\n"
-"（此设置仅对当前会话有效。若要始终从一开始就启用，请前往“设置 -> 调试器选项”，启用“使用 Intel-PT 功能”及其子选项“在‘查找什么...’例程中记录元素”）"
+"调试器未收集任何 IPT 数据。可能是因为未在设置中启用 Intel PT、该功能出现故障，或已禁用在“找出是什么……”结果中记录跟踪的选项。要为本次调试会话启用该选项吗？启用后需要重新收集这些信息。\n"
+"（此设置仅对当前会话有效。若要始终从一开始就启用，请前往“设置 -> 调试器选项”，启用“使用 Intel-PT 功能”及其子选项“在‘找出是什么……’功能的各个结果中记录跟踪信息”）"
 
 #: formfoundcodelistextraunit.rsprobablebasepointer
 #, object-pascal-format
@@ -2430,17 +2430,17 @@ msgstr "写时复制"
 #: formsettingsunit.rs2bytes
 msgctxt "formsettingsunit.rs2bytes"
 msgid "2 Bytes"
-msgstr "2字节"
+msgstr "2 字节"
 
 #: formsettingsunit.rs4bytes
 msgctxt "formsettingsunit.rs4bytes"
 msgid "4 Bytes"
-msgstr "4字节"
+msgstr "4 字节"
 
 #: formsettingsunit.rs8bytes
 msgctxt "formsettingsunit.rs8bytes"
 msgid "8 Bytes"
-msgstr "8字节"
+msgstr "8 字节"
 
 #: formsettingsunit.rsallcustomtypes
 msgctxt "formsettingsunit.rsallcustomtypes"
@@ -2494,7 +2494,7 @@ msgstr "减少的数值"
 #: formsettingsunit.rsdouble
 msgctxt "formsettingsunit.rsdouble"
 msgid "Double"
-msgstr "双精度浮点数"
+msgstr "双浮点数"
 
 #: formsettingsunit.rsextra
 msgctxt "formsettingsunit.rsextra"
@@ -2512,7 +2512,7 @@ msgstr "打开注册表项失败"
 #: formsettingsunit.rsfloat
 msgctxt "formsettingsunit.rsfloat"
 msgid "Float"
-msgstr "单精度浮点数"
+msgstr "单浮点数"
 
 #: formsettingsunit.rsgeneralsettings
 msgctxt "formsettingsunit.rsgeneralsettings"
@@ -2704,7 +2704,7 @@ msgstr "撤销上次扫描"
 
 #: formsettingsunit.rsunknowninitialvalue
 msgid "Unknown Initial Value"
-msgstr "未知的初始数值"
+msgstr "未知初始值"
 
 #: formsettingsunit.rsunrandomizer
 msgctxt "formsettingsunit.rsunrandomizer"
@@ -5161,19 +5161,19 @@ msgstr "目标文件的所有内容将被删除且无法恢复。您确定吗？
 
 #: mainunit.rsfindoutwhataccessesthispointer
 msgid "Find out what accesses this pointer"
-msgstr "查找访问此指针的代码"
+msgstr "找出是什么访问了这个指针"
 
 #: mainunit.rsfindoutwhatwritesthispointer
 msgid "Find out what writes this pointer"
-msgstr "查找写入此指针的代码"
+msgstr "找出是什么写入了这个指针"
 
 #: mainunit.rsfindwhataccessestheaddresspointedatbythispointer
 msgid "Find what accesses the address pointed at by this pointer"
-msgstr "查找访问此指针指向地址的代码"
+msgstr "找出是什么访问了这个指针所指向的地址"
 
 #: mainunit.rsfindwhatwritestheaddresspointedatbythispointer
 msgid "Find what writes the address pointed at by this pointer"
-msgstr "查找写入此指针指向地址的代码"
+msgstr "找出是什么写入了这个指针所指向的地址"
 
 #: mainunit.rsfirst
 msgid "First"
@@ -5825,7 +5825,7 @@ msgstr "程序错误！"
 #: mainunit2.strchangedvalue
 msgctxt "mainunit2.strchangedvalue"
 msgid "Changed value"
-msgstr "变动的值"
+msgstr "变动的数值"
 
 #: mainunit2.strcomparetofirstscan
 msgid "Compare to first scan"
@@ -5841,7 +5841,7 @@ msgstr "与保存的扫描比较"
 
 #: mainunit2.strdecreasedvalue
 msgid "Decreased value"
-msgstr "减少的值"
+msgstr "减少的数值"
 
 #: mainunit2.strdecreasedvalueby
 msgid "Decreased value by ..."
@@ -5870,7 +5870,7 @@ msgstr "忽略数值"
 
 #: mainunit2.strincreasedvalue
 msgid "Increased value"
-msgstr "增加的值"
+msgstr "增加的数值"
 
 #: mainunit2.strincreasedvalueby
 msgid "Increased value by ..."
@@ -5915,7 +5915,7 @@ msgstr "过长"
 
 #: mainunit2.strunchangedvalue
 msgid "Unchanged value"
-msgstr "未改变的值"
+msgstr "未变动的数值"
 
 #: mainunit2.strunknowninitialvalue
 msgid "Unknown initial value"
@@ -8224,7 +8224,7 @@ msgstr "更改组"
 #: structuresfrm.rsdissectdata
 msgctxt "structuresfrm.rsdissectdata"
 msgid "Dissect Data"
-msgstr "解析数据"
+msgstr "分析数据"
 
 #: structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype
 msgctxt "structuresfrm.rsdoyouwantcheatenginetotryandfillinthemostbasictype"
@@ -8443,7 +8443,7 @@ msgstr "删除地址"
 #: structuresfrm2.rsdissectdata
 msgctxt "structuresfrm2.rsdissectdata"
 msgid "Dissect Data"
-msgstr "解析数据"
+msgstr "分析数据"
 
 #: structuresfrm2.rsdissectstructuredefaultbinarytypevarname
 #, object-pascal-format
@@ -9054,7 +9054,7 @@ msgstr "代码列表/暂停"
 #: tadvancedoptions.findoutwhatthiscodechanges1.caption
 msgctxt "tadvancedoptions.findoutwhatthiscodechanges1.caption"
 msgid "Find out what addresses this code writes to"
-msgstr "查找此代码写入的地址"
+msgstr "找出此代码写入了哪些地址"
 
 #: tadvancedoptions.label1.caption
 msgid "Code list:"
@@ -9443,22 +9443,22 @@ msgstr "剪切"
 #: tformaddresschange.mifindwhataccesses.caption
 msgctxt "tformaddresschange.mifindwhataccesses.caption"
 msgid "Find what accesses this address"
-msgstr "查找访问此地址的指令"
+msgstr "找出是什么访问了这个地址"
 
 #: tformaddresschange.mifindwhataccessesaddress.caption
 msgctxt "tformaddresschange.mifindwhataccessesaddress.caption"
 msgid "Find what accesses this address"
-msgstr "查找访问此地址的指令"
+msgstr "找出是什么访问了这个地址"
 
 #: tformaddresschange.mifindwhatwrites.caption
 msgctxt "tformaddresschange.mifindwhatwrites.caption"
 msgid "Find what writes this address"
-msgstr "查找写入此地址的指令"
+msgstr "找出是什么写入了这个地址"
 
 #: tformaddresschange.mifindwhatwritesaddress.caption
 msgctxt "tformaddresschange.mifindwhatwritesaddress.caption"
 msgid "Find what writes this address"
-msgstr "查找写入此地址的指令"
+msgstr "找出是什么写入了这个地址"
 
 #: tformaddresschange.mipaste.caption
 msgctxt "tformaddresschange.mipaste.caption"
@@ -10133,11 +10133,11 @@ msgstr "打开此窗口时按住 Ctrl 键，还可查看内核模式区域"
 
 #: tformpointerorpointee.btnfindwhatwritespointee.caption
 msgid "Find what writes to the address pointed at by this pointer"
-msgstr "查找写入此指针所指地址的指令"
+msgstr "找出是什么写入了这个指针所指向的地址"
 
 #: tformpointerorpointee.btnfindwhatwritespointer.caption
 msgid "Find what writes to this pointer"
-msgstr "查找写入此指针的指令"
+msgstr "找出是什么写入了这个指针"
 
 #: tformpointerorpointee.caption
 msgid "Cheat Engine Pointer"
@@ -10227,12 +10227,12 @@ msgstr "所有自定义类型"
 #: tformsettings.cballdouble.caption
 msgctxt "tformsettings.cballdouble.caption"
 msgid "Double"
-msgstr "双精度"
+msgstr "双浮点数"
 
 #: tformsettings.cballdword.caption
 msgctxt "tformsettings.cballdword.caption"
 msgid "4 Bytes"
-msgstr "4字节"
+msgstr "4 字节"
 
 #: tformsettings.cballocsaddtowatchedregions.caption
 msgctxt "tformsettings.cballocsaddtowatchedregions.caption"
@@ -10247,7 +10247,7 @@ msgstr "8 字节"
 #: tformsettings.cballsingle.caption
 msgctxt "tformsettings.cballsingle.caption"
 msgid "Float"
-msgstr "浮点数"
+msgstr "单浮点数"
 
 #: tformsettings.cballword.caption
 msgctxt "tformsettings.cballword.caption"
@@ -10490,14 +10490,14 @@ msgstr "进程创建时打开句柄"
 
 #: tformsettings.cbrecordiptforfindwhatroutines.caption
 msgid "Record trace in elements of \"Find what ... \" routines"
-msgstr "在“查找什么……”例程的各个元素中记录跟踪信息"
+msgstr "在“找出是什么……”功能的各个结果中记录跟踪信息"
 
 #: tformsettings.cbrecordiptforfindwhatroutines.hint
 msgid ""
 "When selected every single element in \"find what ...\" routines will get a copy of the trace for that threat at that time. (Can eat a lot of memory if this is high)\n"
 "When deselected you can only get the trace information when stopped on a breakpoint. "
 msgstr ""
-"选中后，“查找什么……”例程中的每个元素都会获得该线程当时的跟踪副本（数量较多时会消耗大量内存）\n"
+"选中后，“找出是什么……”功能的每个结果都会获得该线程当时的跟踪副本（数量较多时会消耗大量内存）\n"
 "取消选中后，只能在断点处停止时获取跟踪信息"
 
 #: tformsettings.cbsavememoryregionscansettings.caption
@@ -10639,7 +10639,7 @@ msgid ""
 "With this option enabled the debugger will give the gui some time to handle the messages before it sends it a new update.\n"
 "Downside: The game may become slightly slower when using these functions. (Of course, if it has been hammering the gui, it would already have been frozen)"
 msgstr ""
-"有时使用“查找什么……”功能时，触发频率过高会使 GUI 无暇更新，从而出现窗口无法关闭或按钮无响应等问题。\n"
+"有时使用“找出是什么……”功能时，触发频率过高会使 GUI 无暇更新，从而出现窗口无法关闭或按钮无响应等问题。\n"
 "启用此选项后，调试器会在发送新更新前留出一些时间，让 GUI 处理消息。\n"
 "缺点：使用这些功能时游戏可能会稍微变慢。（当然，如果触发频率已经高到淹没 GUI，游戏原本就会处于冻结状态）"
 
@@ -10922,7 +10922,7 @@ msgstr "默认返回值"
 
 #: tformsettings.label6.caption
 msgid "Size of stack to record on \"Find what... routines\""
-msgstr "在\"查找什么...例程\"中记录的堆栈大小"
+msgstr "“找出是什么……”功能记录的堆栈大小"
 
 #: tformsettings.label7.caption
 msgctxt "tformsettings.label7.caption"
@@ -11248,7 +11248,7 @@ msgstr "检查找到的操作码是否访问其他地址(最多8个)"
 #: tfoundcodedialog.mifindwhatcodeaccesses.caption
 msgctxt "tfoundcodedialog.mifindwhatcodeaccesses.caption"
 msgid "Find out what addresses this code accesses"
-msgstr "查找此代码访问哪些地址"
+msgstr "找出此代码访问了哪些地址"
 
 #: tfoundcodedialog.misavetofile.caption
 msgid "Save selection to file"
@@ -12009,7 +12009,7 @@ msgstr "删除选中条目"
 
 #: tfrmchangedaddresses.midissect.caption
 msgid "Open dissect data with selected addresses"
-msgstr "使用选中地址打开解析数据"
+msgstr "使用所选地址打开分析数据"
 
 #: tfrmchangedaddresses.migroupclear.caption
 msgid "Clear Selection"
@@ -13288,7 +13288,7 @@ msgstr "XMM寄存器"
 #: tfrmfloatingpointpanel.cbdisplaytype.text
 msgctxt "tfrmfloatingpointpanel.cbdisplaytype.text"
 msgid "Float"
-msgstr "浮点数"
+msgstr "单浮点数"
 
 #: tfrmfloatingpointpanel.tabsheet2.caption
 msgid "Extended"
@@ -16331,7 +16331,7 @@ msgstr "堆栈跟踪"
 #: tfrmstringpointerscan.btnnewscan.caption
 msgctxt "tfrmstringpointerscan.btnnewscan.caption"
 msgid "New Scan"
-msgstr "新的扫描"
+msgstr "新建扫描"
 
 #: tfrmstringpointerscan.btnscan.caption
 msgctxt "tfrmstringpointerscan.btnscan.caption"
@@ -16883,12 +16883,12 @@ msgstr "字节（十六进制）"
 #: tfrmstructures2.michangetypedouble.caption
 msgctxt "tfrmstructures2.michangetypedouble.caption"
 msgid "Double"
-msgstr "双精度浮点数"
+msgstr "双浮点数"
 
 #: tfrmstructures2.michangetypefloat.caption
 msgctxt "tfrmstructures2.michangetypefloat.caption"
 msgid "Float"
-msgstr "单精度浮点数"
+msgstr "单浮点数"
 
 #: tfrmstructures2.michangetypepointer.caption
 msgctxt "tfrmstructures2.michangetypepointer.caption"
@@ -17216,7 +17216,7 @@ msgstr "字体"
 
 #: tfrmstructuresconfig.caption
 msgid "Dissect Data Config"
-msgstr "数据解析配置"
+msgstr "分析数据设置"
 
 #: tfrmstructuresconfig.cbautocreate.caption
 msgctxt "tfrmstructuresconfig.cbautocreate.caption"
@@ -19201,7 +19201,7 @@ msgstr "文件(&F)"
 #: tmainform.findoutwhataccessesthisaddress1.caption
 msgctxt "tmainform.findoutwhataccessesthisaddress1.caption"
 msgid "Find out what accesses this address"
-msgstr "查找访问此地址的内容"
+msgstr "找出是什么访问了这个地址"
 
 #: tmainform.forcerechecksymbols1.caption
 msgctxt "tmainform.forcerechecksymbols1.caption"
@@ -19300,7 +19300,7 @@ msgstr ""
 
 #: tmainform.lblvaluetype.caption
 msgid "Value Type"
-msgstr "值类型"
+msgstr "数值类型"
 
 #: tmainform.load1.caption
 msgctxt "tmainform.load1.caption"
@@ -19429,7 +19429,7 @@ msgstr "自定义错误消息"
 
 #: tmainform.midbvmfindwhatwritesoraccesses.caption
 msgid "DBVM Find out what writes or accesses this address"
-msgstr "使用 DBVM 查找写入或访问此地址的内容"
+msgstr "使用 DBVM 找出是什么写入或访问了这个地址"
 
 #: tmainform.midefaultstatecollapsed.caption
 msgid "Default state collapsed"
@@ -19500,12 +19500,12 @@ msgstr "默认"
 #: tmainform.midisplaydouble.caption
 msgctxt "tmainform.midisplaydouble.caption"
 msgid "Double"
-msgstr "双精度浮点数"
+msgstr "双浮点数"
 
 #: tmainform.midisplayfloat.caption
 msgctxt "tmainform.midisplayfloat.caption"
 msgid "Float"
-msgstr "单精度浮点数"
+msgstr "单浮点数"
 
 #: tmainform.midisplayhex.caption
 msgctxt "tmainform.midisplayhex.caption"
@@ -19527,12 +19527,12 @@ msgstr "生成错误日志"
 #: tmainform.miflfindwhataccesses.caption
 msgctxt "tmainform.miflfindwhataccesses.caption"
 msgid "Find out what accesses this address"
-msgstr "查找访问此地址的内容"
+msgstr "找出是什么访问了这个地址"
 
 #: tmainform.miflfindwhatwrites.caption
 msgctxt "tmainform.miflfindwhatwrites.caption"
 msgid "Find out what writes to this address"
-msgstr "查找写入此地址的内容"
+msgstr "找出是什么写入了这个地址"
 
 #: tmainform.miforgotscan.caption
 msgid "Reload the previous value list (Forgot value scan)"
@@ -19977,7 +19977,7 @@ msgstr "扫描值"
 
 #: tmainform.scantype.text
 msgid "Exact value"
-msgstr "精确值"
+msgstr "精确数值"
 
 #: tmainform.selectallitems1.caption
 msgid "Select all items"
@@ -19986,7 +19986,7 @@ msgstr "选择所有项目"
 #: tmainform.setbreakpoint1.caption
 msgctxt "tmainform.setbreakpoint1.caption"
 msgid "Find out what writes to this address"
-msgstr "查找写入此地址的内容"
+msgstr "找出是什么写入了这个地址"
 
 #: tmainform.sethotkey1.caption
 msgid "Assign hotkey"
@@ -20173,7 +20173,7 @@ msgstr "字节十进制"
 #: tmemorybrowser.dispdouble.caption
 msgctxt "tmemorybrowser.dispdouble.caption"
 msgid "Double"
-msgstr "双精度浮点数"
+msgstr "双浮点数"
 
 #: tmemorybrowser.dispdwords.caption
 msgid "4 Byte hex"
@@ -20182,7 +20182,7 @@ msgstr "4 字节十六进制"
 #: tmemorybrowser.dispfloat.caption
 msgctxt "tmemorybrowser.dispfloat.caption"
 msgid "Float"
-msgstr "单精度浮点数"
+msgstr "单浮点数"
 
 #: tmemorybrowser.dispints.caption
 msgid "4 Byte decimal"
@@ -20305,7 +20305,7 @@ msgstr "查找内存"
 
 #: tmemorybrowser.findoutwhataddressesthisinstructionaccesses1.caption
 msgid "Find out what addresses this instruction accesses"
-msgstr "查找此指令访问的地址"
+msgstr "找出此指令访问了哪些地址"
 
 #: tmemorybrowser.findstaticpointers1.caption
 msgctxt "tmemorybrowser.findstaticpointers1.caption"
@@ -20573,7 +20573,7 @@ msgstr "DBVM 禁用隐藏"
 
 #: tmemorybrowser.midbvmfindoutwhataddressesthisinstructionaccesses.caption
 msgid "DBVM Find out what addresses this instruction accesses"
-msgstr "使用 DBVM 查找此指令访问的地址"
+msgstr "使用 DBVM 找出此指令访问了哪些地址"
 
 #: tmemorybrowser.midebugbreak.caption
 msgctxt "tmemorybrowser.midebugbreak.caption"
@@ -20665,11 +20665,11 @@ msgstr "管理异常区域列表"
 #: tmemorybrowser.mifindwhataccesses.caption
 msgctxt "tmemorybrowser.mifindwhataccesses.caption"
 msgid "Find out what accesses this address"
-msgstr "查找访问此地址的内容"
+msgstr "找出是什么访问了这个地址"
 
 #: tmemorybrowser.mifindwhatwrites.caption
 msgid "Find out what writes this address"
-msgstr "查找写入此地址的内容"
+msgstr "找出是什么写入了这个地址"
 
 #: tmemorybrowser.mifollowinhexview.caption
 msgid "Follow in hexview when stepping"
@@ -21917,7 +21917,7 @@ msgstr "自定义"
 #: vartypestrings.rs_vtdouble
 msgctxt "vartypestrings.rs_vtdouble"
 msgid "Double"
-msgstr "双精度浮点数"
+msgstr "双浮点数"
 
 #: vartypestrings.rs_vtdword
 msgctxt "vartypestrings.rs_vtdword"
@@ -21945,7 +21945,7 @@ msgstr "8 字节"
 #: vartypestrings.rs_vtsingle
 msgctxt "vartypestrings.rs_vtsingle"
 msgid "Float"
-msgstr "单精度浮点数"
+msgstr "单浮点数"
 
 #: vartypestrings.rs_vtstring
 msgctxt "vartypestrings.rs_vtstring"
